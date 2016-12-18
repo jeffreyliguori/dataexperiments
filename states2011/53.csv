@@ -1,0 +1,2107 @@
+SUMLEV,STATE,COUNTY,STNAME,CTYNAME,SEX,ORIGIN,RACE,CENSUS2010POP,ESTIMATESBASE2010,POPESTIMATE2010,POPESTIMATE2011
+050,53,001,Washington,Adams County,0,0,1,17371,17371,17461,17593
+050,53,001,Washington,Adams County,0,0,2,207,207,207,218
+050,53,001,Washington,Adams County,0,0,3,746,746,746,770
+050,53,001,Washington,Adams County,0,0,4,189,189,189,207
+050,53,001,Washington,Adams County,0,0,5,7,7,7,8
+050,53,001,Washington,Adams County,0,0,6,208,208,208,231
+050,53,001,Washington,Adams County,0,1,1,7285,7285,7307,7242
+050,53,001,Washington,Adams County,0,1,2,47,47,47,54
+050,53,001,Washington,Adams County,0,1,3,79,79,79,98
+050,53,001,Washington,Adams County,0,1,4,99,99,99,108
+050,53,001,Washington,Adams County,0,1,5,4,4,4,4
+050,53,001,Washington,Adams County,0,1,6,115,115,115,128
+050,53,001,Washington,Adams County,0,2,1,10086,10086,10154,10351
+050,53,001,Washington,Adams County,0,2,2,160,160,160,164
+050,53,001,Washington,Adams County,0,2,3,667,667,667,672
+050,53,001,Washington,Adams County,0,2,4,90,90,90,99
+050,53,001,Washington,Adams County,0,2,5,3,3,3,4
+050,53,001,Washington,Adams County,0,2,6,93,93,93,103
+050,53,001,Washington,Adams County,1,0,1,8847,8847,8897,8966
+050,53,001,Washington,Adams County,1,0,2,122,122,122,127
+050,53,001,Washington,Adams County,1,0,3,369,369,369,387
+050,53,001,Washington,Adams County,1,0,4,86,86,86,93
+050,53,001,Washington,Adams County,1,0,5,5,5,5,6
+050,53,001,Washington,Adams County,1,0,6,115,115,115,122
+050,53,001,Washington,Adams County,1,1,1,3624,3624,3636,3602
+050,53,001,Washington,Adams County,1,1,2,25,25,25,27
+050,53,001,Washington,Adams County,1,1,3,39,39,39,46
+050,53,001,Washington,Adams County,1,1,4,45,45,45,48
+050,53,001,Washington,Adams County,1,1,5,3,3,3,3
+050,53,001,Washington,Adams County,1,1,6,68,68,68,71
+050,53,001,Washington,Adams County,1,2,1,5223,5223,5261,5364
+050,53,001,Washington,Adams County,1,2,2,97,97,97,100
+050,53,001,Washington,Adams County,1,2,3,330,330,330,341
+050,53,001,Washington,Adams County,1,2,4,41,41,41,45
+050,53,001,Washington,Adams County,1,2,5,2,2,2,3
+050,53,001,Washington,Adams County,1,2,6,47,47,47,51
+050,53,001,Washington,Adams County,2,0,1,8524,8524,8564,8627
+050,53,001,Washington,Adams County,2,0,2,85,85,85,91
+050,53,001,Washington,Adams County,2,0,3,377,377,377,383
+050,53,001,Washington,Adams County,2,0,4,103,103,103,114
+050,53,001,Washington,Adams County,2,0,5,2,2,2,2
+050,53,001,Washington,Adams County,2,0,6,93,93,93,109
+050,53,001,Washington,Adams County,2,1,1,3661,3661,3671,3640
+050,53,001,Washington,Adams County,2,1,2,22,22,22,27
+050,53,001,Washington,Adams County,2,1,3,40,40,40,52
+050,53,001,Washington,Adams County,2,1,4,54,54,54,60
+050,53,001,Washington,Adams County,2,1,5,1,1,1,1
+050,53,001,Washington,Adams County,2,1,6,47,47,47,57
+050,53,001,Washington,Adams County,2,2,1,4863,4863,4893,4987
+050,53,001,Washington,Adams County,2,2,2,63,63,63,64
+050,53,001,Washington,Adams County,2,2,3,337,337,337,331
+050,53,001,Washington,Adams County,2,2,4,49,49,49,54
+050,53,001,Washington,Adams County,2,2,5,1,1,1,1
+050,53,001,Washington,Adams County,2,2,6,46,46,46,52
+050,53,003,Washington,Asotin County,0,0,1,20591,20591,20671,20789
+050,53,003,Washington,Asotin County,0,0,2,95,95,95,116
+050,53,003,Washington,Asotin County,0,0,3,310,310,310,332
+050,53,003,Washington,Asotin County,0,0,4,125,125,125,152
+050,53,003,Washington,Asotin County,0,0,5,39,39,39,46
+050,53,003,Washington,Asotin County,0,0,6,463,463,463,498
+050,53,003,Washington,Asotin County,0,1,1,20049,20049,20129,20222
+050,53,003,Washington,Asotin County,0,1,2,90,90,90,111
+050,53,003,Washington,Asotin County,0,1,3,273,273,273,292
+050,53,003,Washington,Asotin County,0,1,4,114,114,114,141
+050,53,003,Washington,Asotin County,0,1,5,36,36,36,43
+050,53,003,Washington,Asotin County,0,1,6,418,418,418,450
+050,53,003,Washington,Asotin County,0,2,1,542,542,542,567
+050,53,003,Washington,Asotin County,0,2,2,5,5,5,5
+050,53,003,Washington,Asotin County,0,2,3,37,37,37,40
+050,53,003,Washington,Asotin County,0,2,4,11,11,11,11
+050,53,003,Washington,Asotin County,0,2,5,3,3,3,3
+050,53,003,Washington,Asotin County,0,2,6,45,45,45,48
+050,53,003,Washington,Asotin County,1,0,1,9969,9969,10012,10008
+050,53,003,Washington,Asotin County,1,0,2,54,54,54,62
+050,53,003,Washington,Asotin County,1,0,3,146,146,146,149
+050,53,003,Washington,Asotin County,1,0,4,46,46,46,61
+050,53,003,Washington,Asotin County,1,0,5,16,16,16,17
+050,53,003,Washington,Asotin County,1,0,6,222,222,222,239
+050,53,003,Washington,Asotin County,1,1,1,9701,9701,9744,9739
+050,53,003,Washington,Asotin County,1,1,2,51,51,51,59
+050,53,003,Washington,Asotin County,1,1,3,125,125,125,128
+050,53,003,Washington,Asotin County,1,1,4,41,41,41,56
+050,53,003,Washington,Asotin County,1,1,5,14,14,14,15
+050,53,003,Washington,Asotin County,1,1,6,198,198,198,213
+050,53,003,Washington,Asotin County,1,2,1,268,268,268,269
+050,53,003,Washington,Asotin County,1,2,2,3,3,3,3
+050,53,003,Washington,Asotin County,1,2,3,21,21,21,21
+050,53,003,Washington,Asotin County,1,2,4,5,5,5,5
+050,53,003,Washington,Asotin County,1,2,5,2,2,2,2
+050,53,003,Washington,Asotin County,1,2,6,24,24,24,26
+050,53,003,Washington,Asotin County,2,0,1,10622,10622,10659,10781
+050,53,003,Washington,Asotin County,2,0,2,41,41,41,54
+050,53,003,Washington,Asotin County,2,0,3,164,164,164,183
+050,53,003,Washington,Asotin County,2,0,4,79,79,79,91
+050,53,003,Washington,Asotin County,2,0,5,23,23,23,29
+050,53,003,Washington,Asotin County,2,0,6,241,241,241,259
+050,53,003,Washington,Asotin County,2,1,1,10348,10348,10385,10483
+050,53,003,Washington,Asotin County,2,1,2,39,39,39,52
+050,53,003,Washington,Asotin County,2,1,3,148,148,148,164
+050,53,003,Washington,Asotin County,2,1,4,73,73,73,85
+050,53,003,Washington,Asotin County,2,1,5,22,22,22,28
+050,53,003,Washington,Asotin County,2,1,6,220,220,220,237
+050,53,003,Washington,Asotin County,2,2,1,274,274,274,298
+050,53,003,Washington,Asotin County,2,2,2,2,2,2,2
+050,53,003,Washington,Asotin County,2,2,3,16,16,16,19
+050,53,003,Washington,Asotin County,2,2,4,6,6,6,6
+050,53,003,Washington,Asotin County,2,2,5,1,1,1,1
+050,53,003,Washington,Asotin County,2,2,6,21,21,21,22
+050,53,005,Washington,Benton County,0,0,1,160981,160981,162156,165337
+050,53,005,Washington,Benton County,0,0,2,2518,2518,2528,2765
+050,53,005,Washington,Benton County,0,0,3,1999,1999,2001,2155
+050,53,005,Washington,Benton County,0,0,4,4920,4920,4973,5230
+050,53,005,Washington,Benton County,0,0,5,320,320,320,345
+050,53,005,Washington,Benton County,0,0,6,4439,4439,4494,4846
+050,53,005,Washington,Benton County,0,1,1,130749,130749,131576,134022
+050,53,005,Washington,Benton County,0,1,2,2045,2045,2055,2260
+050,53,005,Washington,Benton County,0,1,3,1291,1291,1293,1347
+050,53,005,Washington,Benton County,0,1,4,4650,4650,4703,4944
+050,53,005,Washington,Benton County,0,1,5,221,221,221,239
+050,53,005,Washington,Benton County,0,1,6,3525,3525,3575,3890
+050,53,005,Washington,Benton County,0,2,1,30232,30232,30580,31315
+050,53,005,Washington,Benton County,0,2,2,473,473,473,505
+050,53,005,Washington,Benton County,0,2,3,708,708,708,808
+050,53,005,Washington,Benton County,0,2,4,270,270,270,286
+050,53,005,Washington,Benton County,0,2,5,99,99,99,106
+050,53,005,Washington,Benton County,0,2,6,914,914,919,956
+050,53,005,Washington,Benton County,1,0,1,80445,80445,81070,82806
+050,53,005,Washington,Benton County,1,0,2,1378,1378,1386,1534
+050,53,005,Washington,Benton County,1,0,3,1040,1040,1042,1125
+050,53,005,Washington,Benton County,1,0,4,2266,2266,2291,2433
+050,53,005,Washington,Benton County,1,0,5,166,166,166,179
+050,53,005,Washington,Benton County,1,0,6,2191,2191,2218,2384
+050,53,005,Washington,Benton County,1,1,1,64931,64931,65372,66762
+050,53,005,Washington,Benton County,1,1,2,1147,1147,1155,1292
+050,53,005,Washington,Benton County,1,1,3,670,670,672,701
+050,53,005,Washington,Benton County,1,1,4,2142,2142,2167,2293
+050,53,005,Washington,Benton County,1,1,5,109,109,109,117
+050,53,005,Washington,Benton County,1,1,6,1737,1737,1762,1912
+050,53,005,Washington,Benton County,1,2,1,15514,15514,15698,16044
+050,53,005,Washington,Benton County,1,2,2,231,231,231,242
+050,53,005,Washington,Benton County,1,2,3,370,370,370,424
+050,53,005,Washington,Benton County,1,2,4,124,124,124,140
+050,53,005,Washington,Benton County,1,2,5,57,57,57,62
+050,53,005,Washington,Benton County,1,2,6,454,454,456,472
+050,53,005,Washington,Benton County,2,0,1,80536,80536,81086,82531
+050,53,005,Washington,Benton County,2,0,2,1140,1140,1142,1231
+050,53,005,Washington,Benton County,2,0,3,959,959,959,1030
+050,53,005,Washington,Benton County,2,0,4,2654,2654,2682,2797
+050,53,005,Washington,Benton County,2,0,5,154,154,154,166
+050,53,005,Washington,Benton County,2,0,6,2248,2248,2276,2462
+050,53,005,Washington,Benton County,2,1,1,65818,65818,66204,67260
+050,53,005,Washington,Benton County,2,1,2,898,898,900,968
+050,53,005,Washington,Benton County,2,1,3,621,621,621,646
+050,53,005,Washington,Benton County,2,1,4,2508,2508,2536,2651
+050,53,005,Washington,Benton County,2,1,5,112,112,112,122
+050,53,005,Washington,Benton County,2,1,6,1788,1788,1813,1978
+050,53,005,Washington,Benton County,2,2,1,14718,14718,14882,15271
+050,53,005,Washington,Benton County,2,2,2,242,242,242,263
+050,53,005,Washington,Benton County,2,2,3,338,338,338,384
+050,53,005,Washington,Benton County,2,2,4,146,146,146,146
+050,53,005,Washington,Benton County,2,2,5,42,42,42,44
+050,53,005,Washington,Benton County,2,2,6,460,460,463,484
+050,53,007,Washington,Chelan County,0,0,1,68726,68726,69027,69475
+050,53,007,Washington,Chelan County,0,0,2,341,341,341,387
+050,53,007,Washington,Chelan County,0,0,3,1184,1184,1184,1204
+050,53,007,Washington,Chelan County,0,0,4,667,667,667,727
+050,53,007,Washington,Chelan County,0,0,5,147,147,147,154
+050,53,007,Washington,Chelan County,0,0,6,1388,1388,1388,1530
+050,53,007,Washington,Chelan County,0,1,1,51315,51315,51491,51340
+050,53,007,Washington,Chelan County,0,1,2,178,178,178,225
+050,53,007,Washington,Chelan County,0,1,3,517,517,517,533
+050,53,007,Washington,Chelan County,0,1,4,578,578,578,628
+050,53,007,Washington,Chelan County,0,1,5,89,89,89,86
+050,53,007,Washington,Chelan County,0,1,6,1063,1063,1063,1172
+050,53,007,Washington,Chelan County,0,2,1,17411,17411,17536,18135
+050,53,007,Washington,Chelan County,0,2,2,163,163,163,162
+050,53,007,Washington,Chelan County,0,2,3,667,667,667,671
+050,53,007,Washington,Chelan County,0,2,4,89,89,89,99
+050,53,007,Washington,Chelan County,0,2,5,58,58,58,68
+050,53,007,Washington,Chelan County,0,2,6,325,325,325,358
+050,53,007,Washington,Chelan County,1,0,1,34265,34265,34438,34664
+050,53,007,Washington,Chelan County,1,0,2,199,199,199,216
+050,53,007,Washington,Chelan County,1,0,3,603,603,603,611
+050,53,007,Washington,Chelan County,1,0,4,289,289,289,312
+050,53,007,Washington,Chelan County,1,0,5,81,81,81,88
+050,53,007,Washington,Chelan County,1,0,6,693,693,693,766
+050,53,007,Washington,Chelan County,1,1,1,25121,25121,25221,25166
+050,53,007,Washington,Chelan County,1,1,2,111,111,111,132
+050,53,007,Washington,Chelan County,1,1,3,253,253,253,256
+050,53,007,Washington,Chelan County,1,1,4,242,242,242,261
+050,53,007,Washington,Chelan County,1,1,5,49,49,49,49
+050,53,007,Washington,Chelan County,1,1,6,521,521,521,575
+050,53,007,Washington,Chelan County,1,2,1,9144,9144,9217,9498
+050,53,007,Washington,Chelan County,1,2,2,88,88,88,84
+050,53,007,Washington,Chelan County,1,2,3,350,350,350,355
+050,53,007,Washington,Chelan County,1,2,4,47,47,47,51
+050,53,007,Washington,Chelan County,1,2,5,32,32,32,39
+050,53,007,Washington,Chelan County,1,2,6,172,172,172,191
+050,53,007,Washington,Chelan County,2,0,1,34461,34461,34589,34811
+050,53,007,Washington,Chelan County,2,0,2,142,142,142,171
+050,53,007,Washington,Chelan County,2,0,3,581,581,581,593
+050,53,007,Washington,Chelan County,2,0,4,378,378,378,415
+050,53,007,Washington,Chelan County,2,0,5,66,66,66,66
+050,53,007,Washington,Chelan County,2,0,6,695,695,695,764
+050,53,007,Washington,Chelan County,2,1,1,26194,26194,26270,26174
+050,53,007,Washington,Chelan County,2,1,2,67,67,67,93
+050,53,007,Washington,Chelan County,2,1,3,264,264,264,277
+050,53,007,Washington,Chelan County,2,1,4,336,336,336,367
+050,53,007,Washington,Chelan County,2,1,5,40,40,40,37
+050,53,007,Washington,Chelan County,2,1,6,542,542,542,597
+050,53,007,Washington,Chelan County,2,2,1,8267,8267,8319,8637
+050,53,007,Washington,Chelan County,2,2,2,75,75,75,78
+050,53,007,Washington,Chelan County,2,2,3,317,317,317,316
+050,53,007,Washington,Chelan County,2,2,4,42,42,42,48
+050,53,007,Washington,Chelan County,2,2,5,26,26,26,29
+050,53,007,Washington,Chelan County,2,2,6,153,153,153,167
+050,53,009,Washington,Clallam County,0,0,1,63239,63239,63327,63428
+050,53,009,Washington,Clallam County,0,0,2,652,652,652,739
+050,53,009,Washington,Clallam County,0,0,3,3862,3862,3876,3843
+050,53,009,Washington,Clallam County,0,0,4,1023,1023,1026,1088
+050,53,009,Washington,Clallam County,0,0,5,106,106,106,128
+050,53,009,Washington,Clallam County,0,0,6,2522,2522,2526,2612
+050,53,009,Washington,Clallam County,0,1,1,60531,60531,60615,60563
+050,53,009,Washington,Clallam County,0,1,2,559,559,559,637
+050,53,009,Washington,Clallam County,0,1,3,3335,3335,3349,3299
+050,53,009,Washington,Clallam County,0,1,4,1001,1001,1004,1065
+050,53,009,Washington,Clallam County,0,1,5,91,91,91,111
+050,53,009,Washington,Clallam County,0,1,6,2260,2260,2264,2326
+050,53,009,Washington,Clallam County,0,2,1,2708,2708,2712,2865
+050,53,009,Washington,Clallam County,0,2,2,93,93,93,102
+050,53,009,Washington,Clallam County,0,2,3,527,527,527,544
+050,53,009,Washington,Clallam County,0,2,4,22,22,22,23
+050,53,009,Washington,Clallam County,0,2,5,15,15,15,17
+050,53,009,Washington,Clallam County,0,2,6,262,262,262,286
+050,53,009,Washington,Clallam County,1,0,1,31247,31247,31304,31381
+050,53,009,Washington,Clallam County,1,0,2,484,484,484,536
+050,53,009,Washington,Clallam County,1,0,3,1993,1993,2000,1988
+050,53,009,Washington,Clallam County,1,0,4,402,402,402,444
+050,53,009,Washington,Clallam County,1,0,5,56,56,56,67
+050,53,009,Washington,Clallam County,1,0,6,1247,1247,1249,1294
+050,53,009,Washington,Clallam County,1,1,1,29789,29789,29842,29861
+050,53,009,Washington,Clallam County,1,1,2,433,433,433,477
+050,53,009,Washington,Clallam County,1,1,3,1706,1706,1713,1695
+050,53,009,Washington,Clallam County,1,1,4,392,392,392,433
+050,53,009,Washington,Clallam County,1,1,5,49,49,49,60
+050,53,009,Washington,Clallam County,1,1,6,1110,1110,1112,1147
+050,53,009,Washington,Clallam County,1,2,1,1458,1458,1462,1520
+050,53,009,Washington,Clallam County,1,2,2,51,51,51,59
+050,53,009,Washington,Clallam County,1,2,3,287,287,287,293
+050,53,009,Washington,Clallam County,1,2,4,10,10,10,11
+050,53,009,Washington,Clallam County,1,2,5,7,7,7,7
+050,53,009,Washington,Clallam County,1,2,6,137,137,137,147
+050,53,009,Washington,Clallam County,2,0,1,31992,31992,32023,32047
+050,53,009,Washington,Clallam County,2,0,2,168,168,168,203
+050,53,009,Washington,Clallam County,2,0,3,1869,1869,1876,1855
+050,53,009,Washington,Clallam County,2,0,4,621,621,624,644
+050,53,009,Washington,Clallam County,2,0,5,50,50,50,61
+050,53,009,Washington,Clallam County,2,0,6,1275,1275,1277,1318
+050,53,009,Washington,Clallam County,2,1,1,30742,30742,30773,30702
+050,53,009,Washington,Clallam County,2,1,2,126,126,126,160
+050,53,009,Washington,Clallam County,2,1,3,1629,1629,1636,1604
+050,53,009,Washington,Clallam County,2,1,4,609,609,612,632
+050,53,009,Washington,Clallam County,2,1,5,42,42,42,51
+050,53,009,Washington,Clallam County,2,1,6,1150,1150,1152,1179
+050,53,009,Washington,Clallam County,2,2,1,1250,1250,1250,1345
+050,53,009,Washington,Clallam County,2,2,2,42,42,42,43
+050,53,009,Washington,Clallam County,2,2,3,240,240,240,251
+050,53,009,Washington,Clallam County,2,2,4,12,12,12,12
+050,53,009,Washington,Clallam County,2,2,5,8,8,8,10
+050,53,009,Washington,Clallam County,2,2,6,125,125,125,139
+050,53,011,Washington,Clark County,0,0,1,375975,375975,377263,381837
+050,53,011,Washington,Clark County,0,0,2,8911,8911,8959,9208
+050,53,011,Washington,Clark County,0,0,3,4284,4284,4295,4416
+050,53,011,Washington,Clark County,0,0,4,17915,17915,18061,18668
+050,53,011,Washington,Clark County,0,0,5,2831,2831,2847,2955
+050,53,011,Washington,Clark County,0,0,6,15447,15447,15589,16334
+050,53,011,Washington,Clark County,0,1,1,348591,348591,349679,352909
+050,53,011,Washington,Clark County,0,1,2,8087,8087,8135,8375
+050,53,011,Washington,Clark County,0,1,3,2990,2990,2999,3099
+050,53,011,Washington,Clark County,0,1,4,17405,17405,17551,18135
+050,53,011,Washington,Clark County,0,1,5,2663,2663,2680,2771
+050,53,011,Washington,Clark County,0,1,6,13461,13461,13595,14238
+050,53,011,Washington,Clark County,0,2,1,27384,27384,27584,28928
+050,53,011,Washington,Clark County,0,2,2,824,824,824,833
+050,53,011,Washington,Clark County,0,2,3,1294,1294,1296,1317
+050,53,011,Washington,Clark County,0,2,4,510,510,510,533
+050,53,011,Washington,Clark County,0,2,5,168,168,167,184
+050,53,011,Washington,Clark County,0,2,6,1986,1986,1994,2096
+050,53,011,Washington,Clark County,1,0,1,185710,185710,186410,188989
+050,53,011,Washington,Clark County,1,0,2,4806,4806,4836,4964
+050,53,011,Washington,Clark County,1,0,3,2182,2182,2189,2250
+050,53,011,Washington,Clark County,1,0,4,8222,8222,8289,8542
+050,53,011,Washington,Clark County,1,0,5,1416,1416,1424,1499
+050,53,011,Washington,Clark County,1,0,6,7618,7618,7691,8070
+050,53,011,Washington,Clark County,1,1,1,171685,171685,172278,174146
+050,53,011,Washington,Clark County,1,1,2,4392,4392,4422,4556
+050,53,011,Washington,Clark County,1,1,3,1497,1497,1502,1534
+050,53,011,Washington,Clark County,1,1,4,7949,7949,8016,8272
+050,53,011,Washington,Clark County,1,1,5,1334,1334,1342,1408
+050,53,011,Washington,Clark County,1,1,6,6684,6684,6753,7062
+050,53,011,Washington,Clark County,1,2,1,14025,14025,14132,14843
+050,53,011,Washington,Clark County,1,2,2,414,414,414,408
+050,53,011,Washington,Clark County,1,2,3,685,685,687,716
+050,53,011,Washington,Clark County,1,2,4,273,273,273,270
+050,53,011,Washington,Clark County,1,2,5,82,82,82,91
+050,53,011,Washington,Clark County,1,2,6,934,934,938,1008
+050,53,011,Washington,Clark County,2,0,1,190265,190265,190853,192848
+050,53,011,Washington,Clark County,2,0,2,4105,4105,4123,4244
+050,53,011,Washington,Clark County,2,0,3,2102,2102,2106,2166
+050,53,011,Washington,Clark County,2,0,4,9693,9693,9772,10126
+050,53,011,Washington,Clark County,2,0,5,1415,1415,1423,1456
+050,53,011,Washington,Clark County,2,0,6,7829,7829,7898,8264
+050,53,011,Washington,Clark County,2,1,1,176906,176906,177401,178763
+050,53,011,Washington,Clark County,2,1,2,3695,3695,3713,3819
+050,53,011,Washington,Clark County,2,1,3,1493,1493,1497,1565
+050,53,011,Washington,Clark County,2,1,4,9456,9456,9535,9863
+050,53,011,Washington,Clark County,2,1,5,1329,1329,1338,1363
+050,53,011,Washington,Clark County,2,1,6,6777,6777,6842,7176
+050,53,011,Washington,Clark County,2,2,1,13359,13359,13452,14085
+050,53,011,Washington,Clark County,2,2,2,410,410,410,425
+050,53,011,Washington,Clark County,2,2,3,609,609,609,601
+050,53,011,Washington,Clark County,2,2,4,237,237,237,263
+050,53,011,Washington,Clark County,2,2,5,86,86,85,93
+050,53,011,Washington,Clark County,2,2,6,1052,1052,1056,1088
+050,53,013,Washington,Columbia County,0,0,1,3886,3886,3922,3851
+050,53,013,Washington,Columbia County,0,0,2,13,13,13,18
+050,53,013,Washington,Columbia County,0,0,3,63,63,63,61
+050,53,013,Washington,Columbia County,0,0,4,23,23,23,23
+050,53,013,Washington,Columbia County,0,0,5,14,14,14,14
+050,53,013,Washington,Columbia County,0,0,6,79,79,79,83
+050,53,013,Washington,Columbia County,0,1,1,3663,3663,3699,3633
+050,53,013,Washington,Columbia County,0,1,2,12,12,12,15
+050,53,013,Washington,Columbia County,0,1,3,48,48,48,46
+050,53,013,Washington,Columbia County,0,1,4,23,23,23,23
+050,53,013,Washington,Columbia County,0,1,5,14,14,14,14
+050,53,013,Washington,Columbia County,0,1,6,64,64,64,67
+050,53,013,Washington,Columbia County,0,2,1,223,223,223,218
+050,53,013,Washington,Columbia County,0,2,2,1,1,1,3
+050,53,013,Washington,Columbia County,0,2,3,15,15,15,15
+050,53,013,Washington,Columbia County,0,2,4,0,0,0,0
+050,53,013,Washington,Columbia County,0,2,5,0,0,0,0
+050,53,013,Washington,Columbia County,0,2,6,15,15,15,16
+050,53,013,Washington,Columbia County,1,0,1,1925,1925,1944,1906
+050,53,013,Washington,Columbia County,1,0,2,11,11,11,15
+050,53,013,Washington,Columbia County,1,0,3,28,28,28,28
+050,53,013,Washington,Columbia County,1,0,4,10,10,10,9
+050,53,013,Washington,Columbia County,1,0,5,7,7,7,7
+050,53,013,Washington,Columbia County,1,0,6,41,41,41,48
+050,53,013,Washington,Columbia County,1,1,1,1812,1812,1831,1794
+050,53,013,Washington,Columbia County,1,1,2,10,10,10,12
+050,53,013,Washington,Columbia County,1,1,3,21,21,21,21
+050,53,013,Washington,Columbia County,1,1,4,10,10,10,9
+050,53,013,Washington,Columbia County,1,1,5,7,7,7,7
+050,53,013,Washington,Columbia County,1,1,6,33,33,33,39
+050,53,013,Washington,Columbia County,1,2,1,113,113,113,112
+050,53,013,Washington,Columbia County,1,2,2,1,1,1,3
+050,53,013,Washington,Columbia County,1,2,3,7,7,7,7
+050,53,013,Washington,Columbia County,1,2,4,0,0,0,0
+050,53,013,Washington,Columbia County,1,2,5,0,0,0,0
+050,53,013,Washington,Columbia County,1,2,6,8,8,8,9
+050,53,013,Washington,Columbia County,2,0,1,1961,1961,1978,1945
+050,53,013,Washington,Columbia County,2,0,2,2,2,2,3
+050,53,013,Washington,Columbia County,2,0,3,35,35,35,33
+050,53,013,Washington,Columbia County,2,0,4,13,13,13,14
+050,53,013,Washington,Columbia County,2,0,5,7,7,7,7
+050,53,013,Washington,Columbia County,2,0,6,38,38,38,35
+050,53,013,Washington,Columbia County,2,1,1,1851,1851,1868,1839
+050,53,013,Washington,Columbia County,2,1,2,2,2,2,3
+050,53,013,Washington,Columbia County,2,1,3,27,27,27,25
+050,53,013,Washington,Columbia County,2,1,4,13,13,13,14
+050,53,013,Washington,Columbia County,2,1,5,7,7,7,7
+050,53,013,Washington,Columbia County,2,1,6,31,31,31,28
+050,53,013,Washington,Columbia County,2,2,1,110,110,110,106
+050,53,013,Washington,Columbia County,2,2,2,0,0,0,0
+050,53,013,Washington,Columbia County,2,2,3,8,8,8,8
+050,53,013,Washington,Columbia County,2,2,4,0,0,0,0
+050,53,013,Washington,Columbia County,2,2,5,0,0,0,0
+050,53,013,Washington,Columbia County,2,2,6,7,7,7,7
+050,53,015,Washington,Cowlitz County,0,0,1,94755,94755,94806,94491
+050,53,015,Washington,Cowlitz County,0,0,2,724,724,724,811
+050,53,015,Washington,Cowlitz County,0,0,3,1865,1865,1865,1893
+050,53,015,Washington,Cowlitz County,0,0,4,1557,1557,1558,1623
+050,53,015,Washington,Cowlitz County,0,0,5,274,274,274,297
+050,53,015,Washington,Cowlitz County,0,0,6,3235,3235,3242,3363
+050,53,015,Washington,Cowlitz County,0,1,1,87922,87922,87946,87387
+050,53,015,Washington,Cowlitz County,0,1,2,587,587,587,658
+050,53,015,Washington,Cowlitz County,0,1,3,1369,1369,1369,1371
+050,53,015,Washington,Cowlitz County,0,1,4,1493,1493,1494,1554
+050,53,015,Washington,Cowlitz County,0,1,5,215,215,215,230
+050,53,015,Washington,Cowlitz County,0,1,6,2849,2849,2856,2951
+050,53,015,Washington,Cowlitz County,0,2,1,6833,6833,6860,7104
+050,53,015,Washington,Cowlitz County,0,2,2,137,137,137,153
+050,53,015,Washington,Cowlitz County,0,2,3,496,496,496,522
+050,53,015,Washington,Cowlitz County,0,2,4,64,64,64,69
+050,53,015,Washington,Cowlitz County,0,2,5,59,59,59,67
+050,53,015,Washington,Cowlitz County,0,2,6,386,386,386,412
+050,53,015,Washington,Cowlitz County,1,0,1,46762,46762,46809,46757
+050,53,015,Washington,Cowlitz County,1,0,2,426,426,426,472
+050,53,015,Washington,Cowlitz County,1,0,3,955,955,955,969
+050,53,015,Washington,Cowlitz County,1,0,4,658,658,658,701
+050,53,015,Washington,Cowlitz County,1,0,5,140,140,140,154
+050,53,015,Washington,Cowlitz County,1,0,6,1601,1601,1606,1691
+050,53,015,Washington,Cowlitz County,1,1,1,43160,43160,43190,42995
+050,53,015,Washington,Cowlitz County,1,1,2,352,352,352,391
+050,53,015,Washington,Cowlitz County,1,1,3,673,673,673,661
+050,53,015,Washington,Cowlitz County,1,1,4,627,627,627,667
+050,53,015,Washington,Cowlitz County,1,1,5,113,113,113,123
+050,53,015,Washington,Cowlitz County,1,1,6,1406,1406,1411,1476
+050,53,015,Washington,Cowlitz County,1,2,1,3602,3602,3619,3762
+050,53,015,Washington,Cowlitz County,1,2,2,74,74,74,81
+050,53,015,Washington,Cowlitz County,1,2,3,282,282,282,308
+050,53,015,Washington,Cowlitz County,1,2,4,31,31,31,34
+050,53,015,Washington,Cowlitz County,1,2,5,27,27,27,31
+050,53,015,Washington,Cowlitz County,1,2,6,195,195,195,215
+050,53,015,Washington,Cowlitz County,2,0,1,47993,47993,47997,47734
+050,53,015,Washington,Cowlitz County,2,0,2,298,298,298,339
+050,53,015,Washington,Cowlitz County,2,0,3,910,910,910,924
+050,53,015,Washington,Cowlitz County,2,0,4,899,899,900,922
+050,53,015,Washington,Cowlitz County,2,0,5,134,134,134,143
+050,53,015,Washington,Cowlitz County,2,0,6,1634,1634,1636,1672
+050,53,015,Washington,Cowlitz County,2,1,1,44762,44762,44756,44392
+050,53,015,Washington,Cowlitz County,2,1,2,235,235,235,267
+050,53,015,Washington,Cowlitz County,2,1,3,696,696,696,710
+050,53,015,Washington,Cowlitz County,2,1,4,866,866,867,887
+050,53,015,Washington,Cowlitz County,2,1,5,102,102,102,107
+050,53,015,Washington,Cowlitz County,2,1,6,1443,1443,1445,1475
+050,53,015,Washington,Cowlitz County,2,2,1,3231,3231,3241,3342
+050,53,015,Washington,Cowlitz County,2,2,2,63,63,63,72
+050,53,015,Washington,Cowlitz County,2,2,3,214,214,214,214
+050,53,015,Washington,Cowlitz County,2,2,4,33,33,33,35
+050,53,015,Washington,Cowlitz County,2,2,5,32,32,32,36
+050,53,015,Washington,Cowlitz County,2,2,6,191,191,191,197
+050,53,017,Washington,Douglas County,0,0,1,36386,36386,36542,36688
+050,53,017,Washington,Douglas County,0,0,2,192,192,192,257
+050,53,017,Washington,Douglas County,0,0,3,658,658,658,695
+050,53,017,Washington,Douglas County,0,0,4,344,344,344,402
+050,53,017,Washington,Douglas County,0,0,5,80,80,80,87
+050,53,017,Washington,Douglas County,0,0,6,771,771,771,842
+050,53,017,Washington,Douglas County,0,1,1,26133,26133,26220,26260
+050,53,017,Washington,Douglas County,0,1,2,87,87,87,123
+050,53,017,Washington,Douglas County,0,1,3,297,297,297,301
+050,53,017,Washington,Douglas County,0,1,4,270,270,270,323
+050,53,017,Washington,Douglas County,0,1,5,55,55,55,63
+050,53,017,Washington,Douglas County,0,1,6,576,576,576,621
+050,53,017,Washington,Douglas County,0,2,1,10253,10253,10322,10428
+050,53,017,Washington,Douglas County,0,2,2,105,105,105,134
+050,53,017,Washington,Douglas County,0,2,3,361,361,361,394
+050,53,017,Washington,Douglas County,0,2,4,74,74,74,79
+050,53,017,Washington,Douglas County,0,2,5,25,25,25,24
+050,53,017,Washington,Douglas County,0,2,6,195,195,195,221
+050,53,017,Washington,Douglas County,1,0,1,18181,18181,18269,18432
+050,53,017,Washington,Douglas County,1,0,2,109,109,109,150
+050,53,017,Washington,Douglas County,1,0,3,324,324,324,346
+050,53,017,Washington,Douglas County,1,0,4,143,143,143,163
+050,53,017,Washington,Douglas County,1,0,5,45,45,45,50
+050,53,017,Washington,Douglas County,1,0,6,396,396,396,427
+050,53,017,Washington,Douglas County,1,1,1,12831,12831,12881,12912
+050,53,017,Washington,Douglas County,1,1,2,51,51,51,77
+050,53,017,Washington,Douglas County,1,1,3,143,143,143,153
+050,53,017,Washington,Douglas County,1,1,4,97,97,97,115
+050,53,017,Washington,Douglas County,1,1,5,29,29,29,35
+050,53,017,Washington,Douglas County,1,1,6,300,300,300,320
+050,53,017,Washington,Douglas County,1,2,1,5350,5350,5388,5520
+050,53,017,Washington,Douglas County,1,2,2,58,58,58,73
+050,53,017,Washington,Douglas County,1,2,3,181,181,181,193
+050,53,017,Washington,Douglas County,1,2,4,46,46,46,48
+050,53,017,Washington,Douglas County,1,2,5,16,16,16,15
+050,53,017,Washington,Douglas County,1,2,6,96,96,96,107
+050,53,017,Washington,Douglas County,2,0,1,18205,18205,18273,18256
+050,53,017,Washington,Douglas County,2,0,2,83,83,83,107
+050,53,017,Washington,Douglas County,2,0,3,334,334,334,349
+050,53,017,Washington,Douglas County,2,0,4,201,201,201,239
+050,53,017,Washington,Douglas County,2,0,5,35,35,35,37
+050,53,017,Washington,Douglas County,2,0,6,375,375,375,415
+050,53,017,Washington,Douglas County,2,1,1,13302,13302,13339,13348
+050,53,017,Washington,Douglas County,2,1,2,36,36,36,46
+050,53,017,Washington,Douglas County,2,1,3,154,154,154,148
+050,53,017,Washington,Douglas County,2,1,4,173,173,173,208
+050,53,017,Washington,Douglas County,2,1,5,26,26,26,28
+050,53,017,Washington,Douglas County,2,1,6,276,276,276,301
+050,53,017,Washington,Douglas County,2,2,1,4903,4903,4934,4908
+050,53,017,Washington,Douglas County,2,2,2,47,47,47,61
+050,53,017,Washington,Douglas County,2,2,3,180,180,180,201
+050,53,017,Washington,Douglas County,2,2,4,28,28,28,31
+050,53,017,Washington,Douglas County,2,2,5,9,9,9,9
+050,53,017,Washington,Douglas County,2,2,6,99,99,99,114
+050,53,019,Washington,Ferry County,0,0,1,5843,5843,5848,5938
+050,53,019,Washington,Ferry County,0,0,2,26,26,26,36
+050,53,019,Washington,Ferry County,0,0,3,1272,1272,1272,1265
+050,53,019,Washington,Ferry County,0,0,4,60,60,60,81
+050,53,019,Washington,Ferry County,0,0,5,8,8,8,8
+050,53,019,Washington,Ferry County,0,0,6,342,342,342,361
+050,53,019,Washington,Ferry County,0,1,1,5670,5670,5675,5746
+050,53,019,Washington,Ferry County,0,1,2,18,18,18,28
+050,53,019,Washington,Ferry County,0,1,3,1215,1215,1215,1206
+050,53,019,Washington,Ferry County,0,1,4,58,58,58,78
+050,53,019,Washington,Ferry County,0,1,5,8,8,8,8
+050,53,019,Washington,Ferry County,0,1,6,328,328,328,340
+050,53,019,Washington,Ferry County,0,2,1,173,173,173,192
+050,53,019,Washington,Ferry County,0,2,2,8,8,8,8
+050,53,019,Washington,Ferry County,0,2,3,57,57,57,59
+050,53,019,Washington,Ferry County,0,2,4,2,2,2,3
+050,53,019,Washington,Ferry County,0,2,5,0,0,0,0
+050,53,019,Washington,Ferry County,0,2,6,14,14,14,21
+050,53,019,Washington,Ferry County,1,0,1,3031,3031,3035,3084
+050,53,019,Washington,Ferry County,1,0,2,16,16,16,25
+050,53,019,Washington,Ferry County,1,0,3,651,651,651,652
+050,53,019,Washington,Ferry County,1,0,4,23,23,23,34
+050,53,019,Washington,Ferry County,1,0,5,4,4,4,4
+050,53,019,Washington,Ferry County,1,0,6,180,180,180,184
+050,53,019,Washington,Ferry County,1,1,1,2934,2934,2938,2979
+050,53,019,Washington,Ferry County,1,1,2,12,12,12,21
+050,53,019,Washington,Ferry County,1,1,3,621,621,621,620
+050,53,019,Washington,Ferry County,1,1,4,22,22,22,32
+050,53,019,Washington,Ferry County,1,1,5,4,4,4,4
+050,53,019,Washington,Ferry County,1,1,6,170,170,170,170
+050,53,019,Washington,Ferry County,1,2,1,97,97,97,105
+050,53,019,Washington,Ferry County,1,2,2,4,4,4,4
+050,53,019,Washington,Ferry County,1,2,3,30,30,30,32
+050,53,019,Washington,Ferry County,1,2,4,1,1,1,2
+050,53,019,Washington,Ferry County,1,2,5,0,0,0,0
+050,53,019,Washington,Ferry County,1,2,6,10,10,10,14
+050,53,019,Washington,Ferry County,2,0,1,2812,2812,2813,2854
+050,53,019,Washington,Ferry County,2,0,2,10,10,10,11
+050,53,019,Washington,Ferry County,2,0,3,621,621,621,613
+050,53,019,Washington,Ferry County,2,0,4,37,37,37,47
+050,53,019,Washington,Ferry County,2,0,5,4,4,4,4
+050,53,019,Washington,Ferry County,2,0,6,162,162,162,177
+050,53,019,Washington,Ferry County,2,1,1,2736,2736,2737,2767
+050,53,019,Washington,Ferry County,2,1,2,6,6,6,7
+050,53,019,Washington,Ferry County,2,1,3,594,594,594,586
+050,53,019,Washington,Ferry County,2,1,4,36,36,36,46
+050,53,019,Washington,Ferry County,2,1,5,4,4,4,4
+050,53,019,Washington,Ferry County,2,1,6,158,158,158,170
+050,53,019,Washington,Ferry County,2,2,1,76,76,76,87
+050,53,019,Washington,Ferry County,2,2,2,4,4,4,4
+050,53,019,Washington,Ferry County,2,2,3,27,27,27,27
+050,53,019,Washington,Ferry County,2,2,4,1,1,1,1
+050,53,019,Washington,Ferry County,2,2,5,0,0,0,0
+050,53,019,Washington,Ferry County,2,2,6,4,4,4,7
+050,53,021,Washington,Franklin County,0,0,1,71871,71871,72885,76179
+050,53,021,Washington,Franklin County,0,0,2,1797,1797,1806,2122
+050,53,021,Washington,Franklin County,0,0,3,981,981,982,1146
+050,53,021,Washington,Franklin County,0,0,4,1594,1594,1607,1755
+050,53,021,Washington,Franklin County,0,0,5,294,294,293,305
+050,53,021,Washington,Franklin County,0,0,6,1626,1626,1642,1948
+050,53,021,Washington,Franklin County,0,1,1,33932,33932,34328,36329
+050,53,021,Washington,Franklin County,0,1,2,1352,1352,1359,1599
+050,53,021,Washington,Franklin County,0,1,3,362,362,362,458
+050,53,021,Washington,Franklin County,0,1,4,1388,1388,1401,1536
+050,53,021,Washington,Franklin County,0,1,5,97,97,97,110
+050,53,021,Washington,Franklin County,0,1,6,1028,1028,1040,1253
+050,53,021,Washington,Franklin County,0,2,1,37939,37939,38557,39850
+050,53,021,Washington,Franklin County,0,2,2,445,445,447,523
+050,53,021,Washington,Franklin County,0,2,3,619,619,620,688
+050,53,021,Washington,Franklin County,0,2,4,206,206,206,219
+050,53,021,Washington,Franklin County,0,2,5,197,197,196,195
+050,53,021,Washington,Franklin County,0,2,6,598,598,602,695
+050,53,021,Washington,Franklin County,1,0,1,37099,37099,37636,39712
+050,53,021,Washington,Franklin County,1,0,2,1091,1091,1099,1333
+050,53,021,Washington,Franklin County,1,0,3,539,539,540,641
+050,53,021,Washington,Franklin County,1,0,4,773,773,779,833
+050,53,021,Washington,Franklin County,1,0,5,154,154,154,168
+050,53,021,Washington,Franklin County,1,0,6,791,791,797,931
+050,53,021,Washington,Franklin County,1,1,1,17437,17437,17645,18901
+050,53,021,Washington,Franklin County,1,1,2,858,858,864,1051
+050,53,021,Washington,Franklin County,1,1,3,199,199,199,252
+050,53,021,Washington,Franklin County,1,1,4,673,673,679,731
+050,53,021,Washington,Franklin County,1,1,5,55,55,55,63
+050,53,021,Washington,Franklin County,1,1,6,497,497,501,589
+050,53,021,Washington,Franklin County,1,2,1,19662,19662,19991,20811
+050,53,021,Washington,Franklin County,1,2,2,233,233,235,282
+050,53,021,Washington,Franklin County,1,2,3,340,340,341,389
+050,53,021,Washington,Franklin County,1,2,4,100,100,100,102
+050,53,021,Washington,Franklin County,1,2,5,99,99,99,105
+050,53,021,Washington,Franklin County,1,2,6,294,294,296,342
+050,53,021,Washington,Franklin County,2,0,1,34772,34772,35249,36467
+050,53,021,Washington,Franklin County,2,0,2,706,706,707,789
+050,53,021,Washington,Franklin County,2,0,3,442,442,442,505
+050,53,021,Washington,Franklin County,2,0,4,821,821,828,922
+050,53,021,Washington,Franklin County,2,0,5,140,140,139,137
+050,53,021,Washington,Franklin County,2,0,6,835,835,845,1017
+050,53,021,Washington,Franklin County,2,1,1,16495,16495,16683,17428
+050,53,021,Washington,Franklin County,2,1,2,494,494,495,548
+050,53,021,Washington,Franklin County,2,1,3,163,163,163,206
+050,53,021,Washington,Franklin County,2,1,4,715,715,722,805
+050,53,021,Washington,Franklin County,2,1,5,42,42,42,47
+050,53,021,Washington,Franklin County,2,1,6,531,531,539,664
+050,53,021,Washington,Franklin County,2,2,1,18277,18277,18566,19039
+050,53,021,Washington,Franklin County,2,2,2,212,212,212,241
+050,53,021,Washington,Franklin County,2,2,3,279,279,279,299
+050,53,021,Washington,Franklin County,2,2,4,106,106,106,117
+050,53,021,Washington,Franklin County,2,2,5,98,98,97,90
+050,53,021,Washington,Franklin County,2,2,6,304,304,306,353
+050,53,023,Washington,Garfield County,0,0,1,2178,2178,2186,2167
+050,53,023,Washington,Garfield County,0,0,2,0,0,0,1
+050,53,023,Washington,Garfield County,0,0,3,6,6,6,10
+050,53,023,Washington,Garfield County,0,0,4,39,39,39,39
+050,53,023,Washington,Garfield County,0,0,5,0,0,0,0
+050,53,023,Washington,Garfield County,0,0,6,43,43,43,45
+050,53,023,Washington,Garfield County,0,1,1,2106,2106,2114,2086
+050,53,023,Washington,Garfield County,0,1,2,0,0,0,1
+050,53,023,Washington,Garfield County,0,1,3,5,5,5,9
+050,53,023,Washington,Garfield County,0,1,4,38,38,38,38
+050,53,023,Washington,Garfield County,0,1,5,0,0,0,0
+050,53,023,Washington,Garfield County,0,1,6,26,26,26,28
+050,53,023,Washington,Garfield County,0,2,1,72,72,72,81
+050,53,023,Washington,Garfield County,0,2,2,0,0,0,0
+050,53,023,Washington,Garfield County,0,2,3,1,1,1,1
+050,53,023,Washington,Garfield County,0,2,4,1,1,1,1
+050,53,023,Washington,Garfield County,0,2,5,0,0,0,0
+050,53,023,Washington,Garfield County,0,2,6,17,17,17,17
+050,53,023,Washington,Garfield County,1,0,1,1082,1082,1087,1065
+050,53,023,Washington,Garfield County,1,0,2,0,0,0,0
+050,53,023,Washington,Garfield County,1,0,3,3,3,3,3
+050,53,023,Washington,Garfield County,1,0,4,14,14,14,14
+050,53,023,Washington,Garfield County,1,0,5,0,0,0,0
+050,53,023,Washington,Garfield County,1,0,6,19,19,19,22
+050,53,023,Washington,Garfield County,1,1,1,1040,1040,1045,1020
+050,53,023,Washington,Garfield County,1,1,2,0,0,0,0
+050,53,023,Washington,Garfield County,1,1,3,2,2,2,2
+050,53,023,Washington,Garfield County,1,1,4,13,13,13,13
+050,53,023,Washington,Garfield County,1,1,5,0,0,0,0
+050,53,023,Washington,Garfield County,1,1,6,14,14,14,17
+050,53,023,Washington,Garfield County,1,2,1,42,42,42,45
+050,53,023,Washington,Garfield County,1,2,2,0,0,0,0
+050,53,023,Washington,Garfield County,1,2,3,1,1,1,1
+050,53,023,Washington,Garfield County,1,2,4,1,1,1,1
+050,53,023,Washington,Garfield County,1,2,5,0,0,0,0
+050,53,023,Washington,Garfield County,1,2,6,5,5,5,5
+050,53,023,Washington,Garfield County,2,0,1,1096,1096,1099,1102
+050,53,023,Washington,Garfield County,2,0,2,0,0,0,1
+050,53,023,Washington,Garfield County,2,0,3,3,3,3,7
+050,53,023,Washington,Garfield County,2,0,4,25,25,25,25
+050,53,023,Washington,Garfield County,2,0,5,0,0,0,0
+050,53,023,Washington,Garfield County,2,0,6,24,24,24,23
+050,53,023,Washington,Garfield County,2,1,1,1066,1066,1069,1066
+050,53,023,Washington,Garfield County,2,1,2,0,0,0,1
+050,53,023,Washington,Garfield County,2,1,3,3,3,3,7
+050,53,023,Washington,Garfield County,2,1,4,25,25,25,25
+050,53,023,Washington,Garfield County,2,1,5,0,0,0,0
+050,53,023,Washington,Garfield County,2,1,6,12,12,12,11
+050,53,023,Washington,Garfield County,2,2,1,30,30,30,36
+050,53,023,Washington,Garfield County,2,2,2,0,0,0,0
+050,53,023,Washington,Garfield County,2,2,3,0,0,0,0
+050,53,023,Washington,Garfield County,2,2,4,0,0,0,0
+050,53,023,Washington,Garfield County,2,2,5,0,0,0,0
+050,53,023,Washington,Garfield County,2,2,6,12,12,12,12
+050,53,025,Washington,Grant County,0,0,1,83042,83042,83610,84768
+050,53,025,Washington,Grant County,0,0,2,1519,1519,1521,1602
+050,53,025,Washington,Grant County,0,0,3,1659,1659,1662,1720
+050,53,025,Washington,Grant County,0,0,4,911,911,912,1014
+050,53,025,Washington,Grant County,0,0,5,100,100,100,114
+050,53,025,Washington,Grant County,0,0,6,1889,1889,1896,2047
+050,53,025,Washington,Grant County,0,1,1,51209,51209,51470,51882
+050,53,025,Washington,Grant County,0,1,2,718,718,718,772
+050,53,025,Washington,Grant County,0,1,3,784,784,785,808
+050,53,025,Washington,Grant County,0,1,4,789,789,790,874
+050,53,025,Washington,Grant County,0,1,5,54,54,54,64
+050,53,025,Washington,Grant County,0,1,6,1403,1403,1408,1520
+050,53,025,Washington,Grant County,0,2,1,31833,31833,32140,32886
+050,53,025,Washington,Grant County,0,2,2,801,801,803,830
+050,53,025,Washington,Grant County,0,2,3,875,875,877,912
+050,53,025,Washington,Grant County,0,2,4,122,122,122,140
+050,53,025,Washington,Grant County,0,2,5,46,46,46,50
+050,53,025,Washington,Grant County,0,2,6,486,486,488,527
+050,53,025,Washington,Grant County,1,0,1,42282,42282,42597,43116
+050,53,025,Washington,Grant County,1,0,2,859,859,861,908
+050,53,025,Washington,Grant County,1,0,3,845,845,847,869
+050,53,025,Washington,Grant County,1,0,4,439,439,439,500
+050,53,025,Washington,Grant County,1,0,5,57,57,57,64
+050,53,025,Washington,Grant County,1,0,6,938,938,943,1017
+050,53,025,Washington,Grant County,1,1,1,25520,25520,25663,25819
+050,53,025,Washington,Grant County,1,1,2,404,404,404,438
+050,53,025,Washington,Grant County,1,1,3,370,370,370,385
+050,53,025,Washington,Grant County,1,1,4,374,374,374,423
+050,53,025,Washington,Grant County,1,1,5,30,30,30,36
+050,53,025,Washington,Grant County,1,1,6,685,685,689,741
+050,53,025,Washington,Grant County,1,2,1,16762,16762,16934,17297
+050,53,025,Washington,Grant County,1,2,2,455,455,457,470
+050,53,025,Washington,Grant County,1,2,3,475,475,477,484
+050,53,025,Washington,Grant County,1,2,4,65,65,65,77
+050,53,025,Washington,Grant County,1,2,5,27,27,27,28
+050,53,025,Washington,Grant County,1,2,6,253,253,254,276
+050,53,025,Washington,Grant County,2,0,1,40760,40760,41013,41652
+050,53,025,Washington,Grant County,2,0,2,660,660,660,694
+050,53,025,Washington,Grant County,2,0,3,814,814,815,851
+050,53,025,Washington,Grant County,2,0,4,472,472,473,514
+050,53,025,Washington,Grant County,2,0,5,43,43,43,50
+050,53,025,Washington,Grant County,2,0,6,951,951,953,1030
+050,53,025,Washington,Grant County,2,1,1,25689,25689,25807,26063
+050,53,025,Washington,Grant County,2,1,2,314,314,314,334
+050,53,025,Washington,Grant County,2,1,3,414,414,415,423
+050,53,025,Washington,Grant County,2,1,4,415,415,416,451
+050,53,025,Washington,Grant County,2,1,5,24,24,24,28
+050,53,025,Washington,Grant County,2,1,6,718,718,719,779
+050,53,025,Washington,Grant County,2,2,1,15071,15071,15206,15589
+050,53,025,Washington,Grant County,2,2,2,346,346,346,360
+050,53,025,Washington,Grant County,2,2,3,400,400,400,428
+050,53,025,Washington,Grant County,2,2,4,57,57,57,63
+050,53,025,Washington,Grant County,2,2,5,19,19,19,22
+050,53,025,Washington,Grant County,2,2,6,233,233,234,251
+050,53,027,Washington,Grays Harbor County,0,0,1,64525,64525,64589,64081
+050,53,027,Washington,Grays Harbor County,0,0,2,846,846,846,920
+050,53,027,Washington,Grays Harbor County,0,0,3,3681,3681,3689,3683
+050,53,027,Washington,Grays Harbor County,0,0,4,1078,1078,1078,1094
+050,53,027,Washington,Grays Harbor County,0,0,5,199,199,199,205
+050,53,027,Washington,Grays Harbor County,0,0,6,2468,2468,2469,2563
+050,53,027,Washington,Grays Harbor County,0,1,1,59378,59378,59425,58822
+050,53,027,Washington,Grays Harbor County,0,1,2,771,771,771,833
+050,53,027,Washington,Grays Harbor County,0,1,3,3015,3015,3023,2991
+050,53,027,Washington,Grays Harbor County,0,1,4,1003,1003,1003,1011
+050,53,027,Washington,Grays Harbor County,0,1,5,177,177,177,180
+050,53,027,Washington,Grays Harbor County,0,1,6,2181,2181,2182,2256
+050,53,027,Washington,Grays Harbor County,0,2,1,5147,5147,5164,5259
+050,53,027,Washington,Grays Harbor County,0,2,2,75,75,75,87
+050,53,027,Washington,Grays Harbor County,0,2,3,666,666,666,692
+050,53,027,Washington,Grays Harbor County,0,2,4,75,75,75,83
+050,53,027,Washington,Grays Harbor County,0,2,5,22,22,22,25
+050,53,027,Washington,Grays Harbor County,0,2,6,287,287,287,307
+050,53,027,Washington,Grays Harbor County,1,0,1,32895,32895,32948,32709
+050,53,027,Washington,Grays Harbor County,1,0,2,663,663,663,709
+050,53,027,Washington,Grays Harbor County,1,0,3,1988,1988,1992,2017
+050,53,027,Washington,Grays Harbor County,1,0,4,477,477,477,498
+050,53,027,Washington,Grays Harbor County,1,0,5,126,126,126,126
+050,53,027,Washington,Grays Harbor County,1,0,6,1208,1208,1209,1267
+050,53,027,Washington,Grays Harbor County,1,1,1,30026,30026,30066,29813
+050,53,027,Washington,Grays Harbor County,1,1,2,615,615,615,654
+050,53,027,Washington,Grays Harbor County,1,1,3,1603,1603,1607,1609
+050,53,027,Washington,Grays Harbor County,1,1,4,434,434,434,449
+050,53,027,Washington,Grays Harbor County,1,1,5,107,107,107,107
+050,53,027,Washington,Grays Harbor County,1,1,6,1073,1073,1074,1117
+050,53,027,Washington,Grays Harbor County,1,2,1,2869,2869,2882,2896
+050,53,027,Washington,Grays Harbor County,1,2,2,48,48,48,55
+050,53,027,Washington,Grays Harbor County,1,2,3,385,385,385,408
+050,53,027,Washington,Grays Harbor County,1,2,4,43,43,43,49
+050,53,027,Washington,Grays Harbor County,1,2,5,19,19,19,19
+050,53,027,Washington,Grays Harbor County,1,2,6,135,135,135,150
+050,53,027,Washington,Grays Harbor County,2,0,1,31630,31630,31641,31372
+050,53,027,Washington,Grays Harbor County,2,0,2,183,183,183,211
+050,53,027,Washington,Grays Harbor County,2,0,3,1693,1693,1697,1666
+050,53,027,Washington,Grays Harbor County,2,0,4,601,601,601,596
+050,53,027,Washington,Grays Harbor County,2,0,5,73,73,73,79
+050,53,027,Washington,Grays Harbor County,2,0,6,1260,1260,1260,1296
+050,53,027,Washington,Grays Harbor County,2,1,1,29352,29352,29359,29009
+050,53,027,Washington,Grays Harbor County,2,1,2,156,156,156,179
+050,53,027,Washington,Grays Harbor County,2,1,3,1412,1412,1416,1382
+050,53,027,Washington,Grays Harbor County,2,1,4,569,569,569,562
+050,53,027,Washington,Grays Harbor County,2,1,5,70,70,70,73
+050,53,027,Washington,Grays Harbor County,2,1,6,1108,1108,1108,1139
+050,53,027,Washington,Grays Harbor County,2,2,1,2278,2278,2282,2363
+050,53,027,Washington,Grays Harbor County,2,2,2,27,27,27,32
+050,53,027,Washington,Grays Harbor County,2,2,3,281,281,281,284
+050,53,027,Washington,Grays Harbor County,2,2,4,32,32,32,34
+050,53,027,Washington,Grays Harbor County,2,2,5,3,3,3,6
+050,53,027,Washington,Grays Harbor County,2,2,6,152,152,152,157
+050,53,029,Washington,Island County,0,0,1,68795,68795,68924,68811
+050,53,029,Washington,Island County,0,0,2,1790,1790,1799,1995
+050,53,029,Washington,Island County,0,0,3,705,705,705,736
+050,53,029,Washington,Island County,0,0,4,3523,3523,3545,3635
+050,53,029,Washington,Island County,0,0,5,409,409,409,428
+050,53,029,Washington,Island County,0,0,6,3284,3284,3294,3366
+050,53,029,Washington,Island County,0,1,1,65320,65320,65443,65049
+050,53,029,Washington,Island County,0,1,2,1652,1652,1661,1839
+050,53,029,Washington,Island County,0,1,3,566,566,566,587
+050,53,029,Washington,Island County,0,1,4,3404,3404,3426,3503
+050,53,029,Washington,Island County,0,1,5,373,373,373,385
+050,53,029,Washington,Island County,0,1,6,2896,2896,2906,2941
+050,53,029,Washington,Island County,0,2,1,3475,3475,3481,3762
+050,53,029,Washington,Island County,0,2,2,138,138,138,156
+050,53,029,Washington,Island County,0,2,3,139,139,139,149
+050,53,029,Washington,Island County,0,2,4,119,119,119,132
+050,53,029,Washington,Island County,0,2,5,36,36,36,43
+050,53,029,Washington,Island County,0,2,6,388,388,388,425
+050,53,029,Washington,Island County,1,0,1,34301,34301,34377,34286
+050,53,029,Washington,Island County,1,0,2,1057,1057,1065,1164
+050,53,029,Washington,Island County,1,0,3,342,342,342,354
+050,53,029,Washington,Island County,1,0,4,1325,1325,1328,1366
+050,53,029,Washington,Island County,1,0,5,209,209,209,226
+050,53,029,Washington,Island County,1,0,6,1623,1623,1628,1663
+050,53,029,Washington,Island County,1,1,1,32579,32579,32650,32416
+050,53,029,Washington,Island County,1,1,2,979,979,987,1082
+050,53,029,Washington,Island County,1,1,3,271,271,271,278
+050,53,029,Washington,Island County,1,1,4,1267,1267,1270,1305
+050,53,029,Washington,Island County,1,1,5,187,187,187,199
+050,53,029,Washington,Island County,1,1,6,1430,1430,1435,1452
+050,53,029,Washington,Island County,1,2,1,1722,1722,1727,1870
+050,53,029,Washington,Island County,1,2,2,78,78,78,82
+050,53,029,Washington,Island County,1,2,3,71,71,71,76
+050,53,029,Washington,Island County,1,2,4,58,58,58,61
+050,53,029,Washington,Island County,1,2,5,22,22,22,27
+050,53,029,Washington,Island County,1,2,6,193,193,193,211
+050,53,029,Washington,Island County,2,0,1,34494,34494,34547,34525
+050,53,029,Washington,Island County,2,0,2,733,733,734,831
+050,53,029,Washington,Island County,2,0,3,363,363,363,382
+050,53,029,Washington,Island County,2,0,4,2198,2198,2217,2269
+050,53,029,Washington,Island County,2,0,5,200,200,200,202
+050,53,029,Washington,Island County,2,0,6,1661,1661,1666,1703
+050,53,029,Washington,Island County,2,1,1,32741,32741,32793,32633
+050,53,029,Washington,Island County,2,1,2,673,673,674,757
+050,53,029,Washington,Island County,2,1,3,295,295,295,309
+050,53,029,Washington,Island County,2,1,4,2137,2137,2156,2198
+050,53,029,Washington,Island County,2,1,5,186,186,186,186
+050,53,029,Washington,Island County,2,1,6,1466,1466,1471,1489
+050,53,029,Washington,Island County,2,2,1,1753,1753,1754,1892
+050,53,029,Washington,Island County,2,2,2,60,60,60,74
+050,53,029,Washington,Island County,2,2,3,68,68,68,73
+050,53,029,Washington,Island County,2,2,4,61,61,61,71
+050,53,029,Washington,Island County,2,2,5,14,14,14,16
+050,53,029,Washington,Island County,2,2,6,195,195,195,214
+050,53,031,Washington,Jefferson County,0,0,1,27402,27402,27442,27402
+050,53,031,Washington,Jefferson County,0,0,2,253,253,253,289
+050,53,031,Washington,Jefferson County,0,0,3,733,733,733,709
+050,53,031,Washington,Jefferson County,0,0,4,470,470,470,494
+050,53,031,Washington,Jefferson County,0,0,5,65,65,65,71
+050,53,031,Washington,Jefferson County,0,0,6,949,949,949,959
+050,53,031,Washington,Jefferson County,0,1,1,26751,26751,26791,26717
+050,53,031,Washington,Jefferson County,0,1,2,238,238,238,272
+050,53,031,Washington,Jefferson County,0,1,3,642,642,642,615
+050,53,031,Washington,Jefferson County,0,1,4,462,462,462,486
+050,53,031,Washington,Jefferson County,0,1,5,63,63,63,69
+050,53,031,Washington,Jefferson County,0,1,6,868,868,868,871
+050,53,031,Washington,Jefferson County,0,2,1,651,651,651,685
+050,53,031,Washington,Jefferson County,0,2,2,15,15,15,17
+050,53,031,Washington,Jefferson County,0,2,3,91,91,91,94
+050,53,031,Washington,Jefferson County,0,2,4,8,8,8,8
+050,53,031,Washington,Jefferson County,0,2,5,2,2,2,2
+050,53,031,Washington,Jefferson County,0,2,6,81,81,81,88
+050,53,031,Washington,Jefferson County,1,0,1,13559,13559,13583,13592
+050,53,031,Washington,Jefferson County,1,0,2,183,183,183,207
+050,53,031,Washington,Jefferson County,1,0,3,367,367,367,351
+050,53,031,Washington,Jefferson County,1,0,4,177,177,177,181
+050,53,031,Washington,Jefferson County,1,0,5,42,42,42,47
+050,53,031,Washington,Jefferson County,1,0,6,470,470,470,467
+050,53,031,Washington,Jefferson County,1,1,1,13234,13234,13258,13250
+050,53,031,Washington,Jefferson County,1,1,2,175,175,175,197
+050,53,031,Washington,Jefferson County,1,1,3,319,319,319,302
+050,53,031,Washington,Jefferson County,1,1,4,173,173,173,177
+050,53,031,Washington,Jefferson County,1,1,5,42,42,42,47
+050,53,031,Washington,Jefferson County,1,1,6,434,434,434,426
+050,53,031,Washington,Jefferson County,1,2,1,325,325,325,342
+050,53,031,Washington,Jefferson County,1,2,2,8,8,8,10
+050,53,031,Washington,Jefferson County,1,2,3,48,48,48,49
+050,53,031,Washington,Jefferson County,1,2,4,4,4,4,4
+050,53,031,Washington,Jefferson County,1,2,5,0,0,0,0
+050,53,031,Washington,Jefferson County,1,2,6,36,36,36,41
+050,53,031,Washington,Jefferson County,2,0,1,13843,13843,13859,13810
+050,53,031,Washington,Jefferson County,2,0,2,70,70,70,82
+050,53,031,Washington,Jefferson County,2,0,3,366,366,366,358
+050,53,031,Washington,Jefferson County,2,0,4,293,293,293,313
+050,53,031,Washington,Jefferson County,2,0,5,23,23,23,24
+050,53,031,Washington,Jefferson County,2,0,6,479,479,479,492
+050,53,031,Washington,Jefferson County,2,1,1,13517,13517,13533,13467
+050,53,031,Washington,Jefferson County,2,1,2,63,63,63,75
+050,53,031,Washington,Jefferson County,2,1,3,323,323,323,313
+050,53,031,Washington,Jefferson County,2,1,4,289,289,289,309
+050,53,031,Washington,Jefferson County,2,1,5,21,21,21,22
+050,53,031,Washington,Jefferson County,2,1,6,434,434,434,445
+050,53,031,Washington,Jefferson County,2,2,1,326,326,326,343
+050,53,031,Washington,Jefferson County,2,2,2,7,7,7,7
+050,53,031,Washington,Jefferson County,2,2,3,43,43,43,45
+050,53,031,Washington,Jefferson County,2,2,4,4,4,4,4
+050,53,031,Washington,Jefferson County,2,2,5,2,2,2,2
+050,53,031,Washington,Jefferson County,2,2,6,45,45,45,47
+050,53,033,Washington,King County,0,0,1,1396927,1396927,1399350,1417124
+050,53,033,Washington,King County,0,0,2,124232,124232,124931,127281
+050,53,033,Washington,King County,0,0,3,20237,20237,20443,20950
+050,53,033,Washington,King County,0,0,4,286648,286648,288238,296417
+050,53,033,Washington,King County,0,0,5,15317,15317,15404,15769
+050,53,033,Washington,King County,0,0,6,87888,87888,88791,92181
+050,53,033,Washington,King County,0,1,1,1255332,1255332,1257016,1269071
+050,53,033,Washington,King County,0,1,2,117239,117239,117820,119929
+050,53,033,Washington,King County,0,1,3,13013,13013,13091,13325
+050,53,033,Washington,King County,0,1,4,282476,282476,283993,292042
+050,53,033,Washington,King County,0,1,5,14273,14273,14339,14679
+050,53,033,Washington,King County,0,1,6,76538,76538,77225,80101
+050,53,033,Washington,King County,0,2,1,141595,141595,142334,148053
+050,53,033,Washington,King County,0,2,2,6993,6993,7111,7352
+050,53,033,Washington,King County,0,2,3,7224,7224,7352,7625
+050,53,033,Washington,King County,0,2,4,4172,4172,4245,4375
+050,53,033,Washington,King County,0,2,5,1044,1044,1065,1090
+050,53,033,Washington,King County,0,2,6,11350,11350,11566,12080
+050,53,033,Washington,King County,1,0,1,701178,701178,702697,712347
+050,53,033,Washington,King County,1,0,2,63818,63818,64293,65817
+050,53,033,Washington,King County,1,0,3,10392,10392,10508,10664
+050,53,033,Washington,King County,1,0,4,135976,135976,136737,140601
+050,53,033,Washington,King County,1,0,5,7621,7621,7675,7851
+050,53,033,Washington,King County,1,0,6,43105,43105,43598,45372
+050,53,033,Washington,King County,1,1,1,625889,625889,626962,633476
+050,53,033,Washington,King County,1,1,2,60212,60212,60612,62037
+050,53,033,Washington,King County,1,1,3,6459,6459,6506,6582
+050,53,033,Washington,King County,1,1,4,133868,133868,134595,138373
+050,53,033,Washington,King County,1,1,5,7081,7081,7121,7293
+050,53,033,Washington,King County,1,1,6,37329,37329,37703,39204
+050,53,033,Washington,King County,1,2,1,75289,75289,75735,78871
+050,53,033,Washington,King County,1,2,2,3606,3606,3681,3780
+050,53,033,Washington,King County,1,2,3,3933,3933,4002,4082
+050,53,033,Washington,King County,1,2,4,2108,2108,2142,2228
+050,53,033,Washington,King County,1,2,5,540,540,554,558
+050,53,033,Washington,King County,1,2,6,5776,5776,5895,6168
+050,53,033,Washington,King County,2,0,1,695749,695749,696653,704777
+050,53,033,Washington,King County,2,0,2,60414,60414,60638,61464
+050,53,033,Washington,King County,2,0,3,9845,9845,9935,10286
+050,53,033,Washington,King County,2,0,4,150672,150672,151501,155816
+050,53,033,Washington,King County,2,0,5,7696,7696,7729,7918
+050,53,033,Washington,King County,2,0,6,44783,44783,45193,46809
+050,53,033,Washington,King County,2,1,1,629443,629443,630054,635595
+050,53,033,Washington,King County,2,1,2,57027,57027,57208,57892
+050,53,033,Washington,King County,2,1,3,6554,6554,6585,6743
+050,53,033,Washington,King County,2,1,4,148608,148608,149398,153669
+050,53,033,Washington,King County,2,1,5,7192,7192,7218,7386
+050,53,033,Washington,King County,2,1,6,39209,39209,39522,40897
+050,53,033,Washington,King County,2,2,1,66306,66306,66599,69182
+050,53,033,Washington,King County,2,2,2,3387,3387,3430,3572
+050,53,033,Washington,King County,2,2,3,3291,3291,3350,3543
+050,53,033,Washington,King County,2,2,4,2064,2064,2103,2147
+050,53,033,Washington,King County,2,2,5,504,504,511,532
+050,53,033,Washington,King County,2,2,6,5574,5574,5671,5912
+050,53,035,Washington,Kitsap County,0,0,1,211302,211302,211686,213342
+050,53,035,Washington,Kitsap County,0,0,2,6896,6896,6922,7654
+050,53,035,Washington,Kitsap County,0,0,3,4369,4369,4377,4446
+050,53,035,Washington,Kitsap County,0,0,4,12651,12651,12736,12998
+050,53,035,Washington,Kitsap County,0,0,5,2433,2433,2441,2478
+050,53,035,Washington,Kitsap County,0,0,6,13482,13482,13576,13715
+050,53,035,Washington,Kitsap County,0,1,1,199216,199216,199538,200242
+050,53,035,Washington,Kitsap County,0,1,2,6382,6382,6408,7073
+050,53,035,Washington,Kitsap County,0,1,3,3534,3534,3542,3608
+050,53,035,Washington,Kitsap County,0,1,4,12169,12169,12254,12475
+050,53,035,Washington,Kitsap County,0,1,5,2206,2206,2216,2254
+050,53,035,Washington,Kitsap County,0,1,6,11940,11940,12029,12118
+050,53,035,Washington,Kitsap County,0,2,1,12086,12086,12148,13100
+050,53,035,Washington,Kitsap County,0,2,2,514,514,514,581
+050,53,035,Washington,Kitsap County,0,2,3,835,835,835,838
+050,53,035,Washington,Kitsap County,0,2,4,482,482,482,523
+050,53,035,Washington,Kitsap County,0,2,5,227,227,225,224
+050,53,035,Washington,Kitsap County,0,2,6,1542,1542,1547,1597
+050,53,035,Washington,Kitsap County,1,0,1,107594,107594,107832,109156
+050,53,035,Washington,Kitsap County,1,0,2,4193,4193,4215,4635
+050,53,035,Washington,Kitsap County,1,0,3,2198,2198,2202,2225
+050,53,035,Washington,Kitsap County,1,0,4,5229,5229,5265,5392
+050,53,035,Washington,Kitsap County,1,0,5,1220,1220,1227,1260
+050,53,035,Washington,Kitsap County,1,0,6,6721,6721,6772,6861
+050,53,035,Washington,Kitsap County,1,1,1,101273,101273,101476,102233
+050,53,035,Washington,Kitsap County,1,1,2,3889,3889,3911,4299
+050,53,035,Washington,Kitsap County,1,1,3,1730,1730,1734,1761
+050,53,035,Washington,Kitsap County,1,1,4,4982,4982,5018,5120
+050,53,035,Washington,Kitsap County,1,1,5,1102,1102,1109,1140
+050,53,035,Washington,Kitsap County,1,1,6,5949,5949,5997,6057
+050,53,035,Washington,Kitsap County,1,2,1,6321,6321,6356,6923
+050,53,035,Washington,Kitsap County,1,2,2,304,304,304,336
+050,53,035,Washington,Kitsap County,1,2,3,468,468,468,464
+050,53,035,Washington,Kitsap County,1,2,4,247,247,247,272
+050,53,035,Washington,Kitsap County,1,2,5,118,118,118,120
+050,53,035,Washington,Kitsap County,1,2,6,772,772,775,804
+050,53,035,Washington,Kitsap County,2,0,1,103708,103708,103854,104186
+050,53,035,Washington,Kitsap County,2,0,2,2703,2703,2707,3019
+050,53,035,Washington,Kitsap County,2,0,3,2171,2171,2175,2221
+050,53,035,Washington,Kitsap County,2,0,4,7422,7422,7471,7606
+050,53,035,Washington,Kitsap County,2,0,5,1213,1213,1214,1218
+050,53,035,Washington,Kitsap County,2,0,6,6761,6761,6804,6854
+050,53,035,Washington,Kitsap County,2,1,1,97943,97943,98062,98009
+050,53,035,Washington,Kitsap County,2,1,2,2493,2493,2497,2774
+050,53,035,Washington,Kitsap County,2,1,3,1804,1804,1808,1847
+050,53,035,Washington,Kitsap County,2,1,4,7187,7187,7236,7355
+050,53,035,Washington,Kitsap County,2,1,5,1104,1104,1107,1114
+050,53,035,Washington,Kitsap County,2,1,6,5991,5991,6032,6061
+050,53,035,Washington,Kitsap County,2,2,1,5765,5765,5792,6177
+050,53,035,Washington,Kitsap County,2,2,2,210,210,210,245
+050,53,035,Washington,Kitsap County,2,2,3,367,367,367,374
+050,53,035,Washington,Kitsap County,2,2,4,235,235,235,251
+050,53,035,Washington,Kitsap County,2,2,5,109,109,107,104
+050,53,035,Washington,Kitsap County,2,2,6,770,770,772,793
+050,53,037,Washington,Kittitas County,0,0,1,38054,38054,37949,38382
+050,53,037,Washington,Kittitas County,0,0,2,394,394,424,462
+050,53,037,Washington,Kittitas County,0,0,3,440,440,456,500
+050,53,037,Washington,Kittitas County,0,0,4,840,840,919,961
+050,53,037,Washington,Kittitas County,0,0,5,59,59,81,92
+050,53,037,Washington,Kittitas County,0,0,6,1128,1128,1210,1232
+050,53,037,Washington,Kittitas County,0,1,1,35278,35278,35150,35482
+050,53,037,Washington,Kittitas County,0,1,2,342,342,372,402
+050,53,037,Washington,Kittitas County,0,1,3,356,356,372,393
+050,53,037,Washington,Kittitas County,0,1,4,795,795,859,902
+050,53,037,Washington,Kittitas County,0,1,5,56,56,78,86
+050,53,037,Washington,Kittitas County,0,1,6,967,967,1015,1019
+050,53,037,Washington,Kittitas County,0,2,1,2776,2776,2799,2900
+050,53,037,Washington,Kittitas County,0,2,2,52,52,52,60
+050,53,037,Washington,Kittitas County,0,2,3,84,84,84,107
+050,53,037,Washington,Kittitas County,0,2,4,45,45,60,59
+050,53,037,Washington,Kittitas County,0,2,5,3,3,3,6
+050,53,037,Washington,Kittitas County,0,2,6,161,161,195,213
+050,53,037,Washington,Kittitas County,1,0,1,19303,19303,19253,19427
+050,53,037,Washington,Kittitas County,1,0,2,245,245,250,268
+050,53,037,Washington,Kittitas County,1,0,3,213,213,216,238
+050,53,037,Washington,Kittitas County,1,0,4,427,427,438,431
+050,53,037,Washington,Kittitas County,1,0,5,26,26,38,42
+050,53,037,Washington,Kittitas County,1,0,6,579,579,613,627
+050,53,037,Washington,Kittitas County,1,1,1,17867,17867,17808,17947
+050,53,037,Washington,Kittitas County,1,1,2,215,215,220,235
+050,53,037,Washington,Kittitas County,1,1,3,177,177,180,190
+050,53,037,Washington,Kittitas County,1,1,4,400,400,411,405
+050,53,037,Washington,Kittitas County,1,1,5,24,24,36,38
+050,53,037,Washington,Kittitas County,1,1,6,500,500,534,541
+050,53,037,Washington,Kittitas County,1,2,1,1436,1436,1445,1480
+050,53,037,Washington,Kittitas County,1,2,2,30,30,30,33
+050,53,037,Washington,Kittitas County,1,2,3,36,36,36,48
+050,53,037,Washington,Kittitas County,1,2,4,27,27,27,26
+050,53,037,Washington,Kittitas County,1,2,5,2,2,2,4
+050,53,037,Washington,Kittitas County,1,2,6,79,79,79,86
+050,53,037,Washington,Kittitas County,2,0,1,18751,18751,18696,18955
+050,53,037,Washington,Kittitas County,2,0,2,149,149,174,194
+050,53,037,Washington,Kittitas County,2,0,3,227,227,240,262
+050,53,037,Washington,Kittitas County,2,0,4,413,413,481,530
+050,53,037,Washington,Kittitas County,2,0,5,33,33,43,50
+050,53,037,Washington,Kittitas County,2,0,6,549,549,597,605
+050,53,037,Washington,Kittitas County,2,1,1,17411,17411,17342,17535
+050,53,037,Washington,Kittitas County,2,1,2,127,127,152,167
+050,53,037,Washington,Kittitas County,2,1,3,179,179,192,203
+050,53,037,Washington,Kittitas County,2,1,4,395,395,448,497
+050,53,037,Washington,Kittitas County,2,1,5,32,32,42,48
+050,53,037,Washington,Kittitas County,2,1,6,467,467,481,478
+050,53,037,Washington,Kittitas County,2,2,1,1340,1340,1354,1420
+050,53,037,Washington,Kittitas County,2,2,2,22,22,22,27
+050,53,037,Washington,Kittitas County,2,2,3,48,48,48,59
+050,53,037,Washington,Kittitas County,2,2,4,18,18,33,33
+050,53,037,Washington,Kittitas County,2,2,5,1,1,1,2
+050,53,037,Washington,Kittitas County,2,2,6,82,82,116,127
+050,53,039,Washington,Klickitat County,0,0,1,18994,18994,19076,19261
+050,53,039,Washington,Klickitat County,0,0,2,77,77,77,103
+050,53,039,Washington,Klickitat County,0,0,3,539,539,539,557
+050,53,039,Washington,Klickitat County,0,0,4,133,133,133,156
+050,53,039,Washington,Klickitat County,0,0,5,27,27,27,30
+050,53,039,Washington,Klickitat County,0,0,6,548,548,548,590
+050,53,039,Washington,Klickitat County,0,1,1,17041,17041,17121,17207
+050,53,039,Washington,Klickitat County,0,1,2,44,44,44,70
+050,53,039,Washington,Klickitat County,0,1,3,437,437,437,432
+050,53,039,Washington,Klickitat County,0,1,4,124,124,124,147
+050,53,039,Washington,Klickitat County,0,1,5,18,18,18,21
+050,53,039,Washington,Klickitat County,0,1,6,483,483,483,518
+050,53,039,Washington,Klickitat County,0,2,1,1953,1953,1955,2054
+050,53,039,Washington,Klickitat County,0,2,2,33,33,33,33
+050,53,039,Washington,Klickitat County,0,2,3,102,102,102,125
+050,53,039,Washington,Klickitat County,0,2,4,9,9,9,9
+050,53,039,Washington,Klickitat County,0,2,5,9,9,9,9
+050,53,039,Washington,Klickitat County,0,2,6,65,65,65,72
+050,53,039,Washington,Klickitat County,1,0,1,9628,9628,9676,9738
+050,53,039,Washington,Klickitat County,1,0,2,49,49,49,62
+050,53,039,Washington,Klickitat County,1,0,3,270,270,270,281
+050,53,039,Washington,Klickitat County,1,0,4,38,38,38,49
+050,53,039,Washington,Klickitat County,1,0,5,18,18,18,21
+050,53,039,Washington,Klickitat County,1,0,6,265,265,265,287
+050,53,039,Washington,Klickitat County,1,1,1,8606,8606,8652,8681
+050,53,039,Washington,Klickitat County,1,1,2,29,29,29,42
+050,53,039,Washington,Klickitat County,1,1,3,218,218,218,218
+050,53,039,Washington,Klickitat County,1,1,4,34,34,34,45
+050,53,039,Washington,Klickitat County,1,1,5,13,13,13,16
+050,53,039,Washington,Klickitat County,1,1,6,233,233,233,250
+050,53,039,Washington,Klickitat County,1,2,1,1022,1022,1024,1057
+050,53,039,Washington,Klickitat County,1,2,2,20,20,20,20
+050,53,039,Washington,Klickitat County,1,2,3,52,52,52,63
+050,53,039,Washington,Klickitat County,1,2,4,4,4,4,4
+050,53,039,Washington,Klickitat County,1,2,5,5,5,5,5
+050,53,039,Washington,Klickitat County,1,2,6,32,32,32,37
+050,53,039,Washington,Klickitat County,2,0,1,9366,9366,9400,9523
+050,53,039,Washington,Klickitat County,2,0,2,28,28,28,41
+050,53,039,Washington,Klickitat County,2,0,3,269,269,269,276
+050,53,039,Washington,Klickitat County,2,0,4,95,95,95,107
+050,53,039,Washington,Klickitat County,2,0,5,9,9,9,9
+050,53,039,Washington,Klickitat County,2,0,6,283,283,283,303
+050,53,039,Washington,Klickitat County,2,1,1,8435,8435,8469,8526
+050,53,039,Washington,Klickitat County,2,1,2,15,15,15,28
+050,53,039,Washington,Klickitat County,2,1,3,219,219,219,214
+050,53,039,Washington,Klickitat County,2,1,4,90,90,90,102
+050,53,039,Washington,Klickitat County,2,1,5,5,5,5,5
+050,53,039,Washington,Klickitat County,2,1,6,250,250,250,268
+050,53,039,Washington,Klickitat County,2,2,1,931,931,931,997
+050,53,039,Washington,Klickitat County,2,2,2,13,13,13,13
+050,53,039,Washington,Klickitat County,2,2,3,50,50,50,62
+050,53,039,Washington,Klickitat County,2,2,4,5,5,5,5
+050,53,039,Washington,Klickitat County,2,2,5,4,4,4,4
+050,53,039,Washington,Klickitat County,2,2,6,33,33,33,35
+050,53,041,Washington,Lewis County,0,0,1,70730,70730,70765,70905
+050,53,041,Washington,Lewis County,0,0,2,434,434,434,504
+050,53,041,Washington,Lewis County,0,0,3,1293,1293,1293,1328
+050,53,041,Washington,Lewis County,0,0,4,688,688,688,721
+050,53,041,Washington,Lewis County,0,0,5,145,145,145,163
+050,53,041,Washington,Lewis County,0,0,6,2165,2165,2167,2280
+050,53,041,Washington,Lewis County,0,1,1,64979,64979,64993,64960
+050,53,041,Washington,Lewis County,0,1,2,371,371,371,434
+050,53,041,Washington,Lewis County,0,1,3,961,961,961,975
+050,53,041,Washington,Lewis County,0,1,4,644,644,644,667
+050,53,041,Washington,Lewis County,0,1,5,104,104,104,118
+050,53,041,Washington,Lewis County,0,1,6,1869,1869,1871,1970
+050,53,041,Washington,Lewis County,0,2,1,5751,5751,5772,5945
+050,53,041,Washington,Lewis County,0,2,2,63,63,63,70
+050,53,041,Washington,Lewis County,0,2,3,332,332,332,353
+050,53,041,Washington,Lewis County,0,2,4,44,44,44,54
+050,53,041,Washington,Lewis County,0,2,5,41,41,41,45
+050,53,041,Washington,Lewis County,0,2,6,296,296,296,310
+050,53,041,Washington,Lewis County,1,0,1,35328,35328,35360,35418
+050,53,041,Washington,Lewis County,1,0,2,282,282,282,313
+050,53,041,Washington,Lewis County,1,0,3,669,669,669,675
+050,53,041,Washington,Lewis County,1,0,4,276,276,276,293
+050,53,041,Washington,Lewis County,1,0,5,86,86,86,92
+050,53,041,Washington,Lewis County,1,0,6,1109,1109,1111,1172
+050,53,041,Washington,Lewis County,1,1,1,32220,32220,32238,32227
+050,53,041,Washington,Lewis County,1,1,2,247,247,247,274
+050,53,041,Washington,Lewis County,1,1,3,494,494,494,494
+050,53,041,Washington,Lewis County,1,1,4,255,255,255,267
+050,53,041,Washington,Lewis County,1,1,5,60,60,60,66
+050,53,041,Washington,Lewis County,1,1,6,954,954,956,1015
+050,53,041,Washington,Lewis County,1,2,1,3108,3108,3122,3191
+050,53,041,Washington,Lewis County,1,2,2,35,35,35,39
+050,53,041,Washington,Lewis County,1,2,3,175,175,175,181
+050,53,041,Washington,Lewis County,1,2,4,21,21,21,26
+050,53,041,Washington,Lewis County,1,2,5,26,26,26,26
+050,53,041,Washington,Lewis County,1,2,6,155,155,155,157
+050,53,041,Washington,Lewis County,2,0,1,35402,35402,35405,35487
+050,53,041,Washington,Lewis County,2,0,2,152,152,152,191
+050,53,041,Washington,Lewis County,2,0,3,624,624,624,653
+050,53,041,Washington,Lewis County,2,0,4,412,412,412,428
+050,53,041,Washington,Lewis County,2,0,5,59,59,59,71
+050,53,041,Washington,Lewis County,2,0,6,1056,1056,1056,1108
+050,53,041,Washington,Lewis County,2,1,1,32759,32759,32755,32733
+050,53,041,Washington,Lewis County,2,1,2,124,124,124,160
+050,53,041,Washington,Lewis County,2,1,3,467,467,467,481
+050,53,041,Washington,Lewis County,2,1,4,389,389,389,400
+050,53,041,Washington,Lewis County,2,1,5,44,44,44,52
+050,53,041,Washington,Lewis County,2,1,6,915,915,915,955
+050,53,041,Washington,Lewis County,2,2,1,2643,2643,2650,2754
+050,53,041,Washington,Lewis County,2,2,2,28,28,28,31
+050,53,041,Washington,Lewis County,2,2,3,157,157,157,172
+050,53,041,Washington,Lewis County,2,2,4,23,23,23,28
+050,53,041,Washington,Lewis County,2,2,5,15,15,15,19
+050,53,041,Washington,Lewis County,2,2,6,141,141,141,153
+050,53,043,Washington,Lincoln County,0,0,1,10102,10102,10097,9968
+050,53,043,Washington,Lincoln County,0,0,2,29,29,29,39
+050,53,043,Washington,Lincoln County,0,0,3,181,181,181,196
+050,53,043,Washington,Lincoln County,0,0,4,42,42,42,43
+050,53,043,Washington,Lincoln County,0,0,5,5,5,5,5
+050,53,043,Washington,Lincoln County,0,0,6,211,211,211,225
+050,53,043,Washington,Lincoln County,0,1,1,9896,9896,9891,9742
+050,53,043,Washington,Lincoln County,0,1,2,25,25,25,33
+050,53,043,Washington,Lincoln County,0,1,3,162,162,162,175
+050,53,043,Washington,Lincoln County,0,1,4,42,42,42,43
+050,53,043,Washington,Lincoln County,0,1,5,5,5,5,5
+050,53,043,Washington,Lincoln County,0,1,6,201,201,201,215
+050,53,043,Washington,Lincoln County,0,2,1,206,206,206,226
+050,53,043,Washington,Lincoln County,0,2,2,4,4,4,6
+050,53,043,Washington,Lincoln County,0,2,3,19,19,19,21
+050,53,043,Washington,Lincoln County,0,2,4,0,0,0,0
+050,53,043,Washington,Lincoln County,0,2,5,0,0,0,0
+050,53,043,Washington,Lincoln County,0,2,6,10,10,10,10
+050,53,043,Washington,Lincoln County,1,0,1,5052,5052,5051,5001
+050,53,043,Washington,Lincoln County,1,0,2,13,13,13,17
+050,53,043,Washington,Lincoln County,1,0,3,97,97,97,103
+050,53,043,Washington,Lincoln County,1,0,4,14,14,14,18
+050,53,043,Washington,Lincoln County,1,0,5,1,1,1,1
+050,53,043,Washington,Lincoln County,1,0,6,100,100,100,101
+050,53,043,Washington,Lincoln County,1,1,1,4943,4943,4942,4895
+050,53,043,Washington,Lincoln County,1,1,2,11,11,11,13
+050,53,043,Washington,Lincoln County,1,1,3,90,90,90,97
+050,53,043,Washington,Lincoln County,1,1,4,14,14,14,18
+050,53,043,Washington,Lincoln County,1,1,5,1,1,1,1
+050,53,043,Washington,Lincoln County,1,1,6,94,94,94,95
+050,53,043,Washington,Lincoln County,1,2,1,109,109,109,106
+050,53,043,Washington,Lincoln County,1,2,2,2,2,2,4
+050,53,043,Washington,Lincoln County,1,2,3,7,7,7,6
+050,53,043,Washington,Lincoln County,1,2,4,0,0,0,0
+050,53,043,Washington,Lincoln County,1,2,5,0,0,0,0
+050,53,043,Washington,Lincoln County,1,2,6,6,6,6,6
+050,53,043,Washington,Lincoln County,2,0,1,5050,5050,5046,4967
+050,53,043,Washington,Lincoln County,2,0,2,16,16,16,22
+050,53,043,Washington,Lincoln County,2,0,3,84,84,84,93
+050,53,043,Washington,Lincoln County,2,0,4,28,28,28,25
+050,53,043,Washington,Lincoln County,2,0,5,4,4,4,4
+050,53,043,Washington,Lincoln County,2,0,6,111,111,111,124
+050,53,043,Washington,Lincoln County,2,1,1,4953,4953,4949,4847
+050,53,043,Washington,Lincoln County,2,1,2,14,14,14,20
+050,53,043,Washington,Lincoln County,2,1,3,72,72,72,78
+050,53,043,Washington,Lincoln County,2,1,4,28,28,28,25
+050,53,043,Washington,Lincoln County,2,1,5,4,4,4,4
+050,53,043,Washington,Lincoln County,2,1,6,107,107,107,120
+050,53,043,Washington,Lincoln County,2,2,1,97,97,97,120
+050,53,043,Washington,Lincoln County,2,2,2,2,2,2,2
+050,53,043,Washington,Lincoln County,2,2,3,12,12,12,15
+050,53,043,Washington,Lincoln County,2,2,4,0,0,0,0
+050,53,043,Washington,Lincoln County,2,2,5,0,0,0,0
+050,53,043,Washington,Lincoln County,2,2,6,4,4,4,4
+050,53,045,Washington,Mason County,0,0,1,54186,54186,54245,54248
+050,53,045,Washington,Mason County,0,0,2,697,697,697,817
+050,53,045,Washington,Mason County,0,0,3,2588,2588,2588,2612
+050,53,045,Washington,Mason County,0,0,4,760,760,762,799
+050,53,045,Washington,Mason County,0,0,5,246,246,246,259
+050,53,045,Washington,Mason County,0,0,6,2222,2222,2224,2284
+050,53,045,Washington,Mason County,0,1,1,50450,50450,50499,50418
+050,53,045,Washington,Mason County,0,1,2,611,611,611,714
+050,53,045,Washington,Mason County,0,1,3,1874,1874,1874,1878
+050,53,045,Washington,Mason County,0,1,4,697,697,699,727
+050,53,045,Washington,Mason County,0,1,5,217,217,217,223
+050,53,045,Washington,Mason County,0,1,6,2006,2006,2008,2050
+050,53,045,Washington,Mason County,0,2,1,3736,3736,3746,3830
+050,53,045,Washington,Mason County,0,2,2,86,86,86,103
+050,53,045,Washington,Mason County,0,2,3,714,714,714,734
+050,53,045,Washington,Mason County,0,2,4,63,63,63,72
+050,53,045,Washington,Mason County,0,2,5,29,29,29,36
+050,53,045,Washington,Mason County,0,2,6,216,216,216,234
+050,53,045,Washington,Mason County,1,0,1,27983,27983,28026,27992
+050,53,045,Washington,Mason County,1,0,2,510,510,510,579
+050,53,045,Washington,Mason County,1,0,3,1410,1410,1410,1409
+050,53,045,Washington,Mason County,1,0,4,278,278,278,300
+050,53,045,Washington,Mason County,1,0,5,121,121,121,132
+050,53,045,Washington,Mason County,1,0,6,1098,1098,1100,1121
+050,53,045,Washington,Mason County,1,1,1,25831,25831,25866,25785
+050,53,045,Washington,Mason County,1,1,2,466,466,466,526
+050,53,045,Washington,Mason County,1,1,3,984,984,984,986
+050,53,045,Washington,Mason County,1,1,4,245,245,245,261
+050,53,045,Washington,Mason County,1,1,5,107,107,107,112
+050,53,045,Washington,Mason County,1,1,6,981,981,983,1000
+050,53,045,Washington,Mason County,1,2,1,2152,2152,2160,2207
+050,53,045,Washington,Mason County,1,2,2,44,44,44,53
+050,53,045,Washington,Mason County,1,2,3,426,426,426,423
+050,53,045,Washington,Mason County,1,2,4,33,33,33,39
+050,53,045,Washington,Mason County,1,2,5,14,14,14,20
+050,53,045,Washington,Mason County,1,2,6,117,117,117,121
+050,53,045,Washington,Mason County,2,0,1,26203,26203,26219,26256
+050,53,045,Washington,Mason County,2,0,2,187,187,187,238
+050,53,045,Washington,Mason County,2,0,3,1178,1178,1178,1203
+050,53,045,Washington,Mason County,2,0,4,482,482,484,499
+050,53,045,Washington,Mason County,2,0,5,125,125,125,127
+050,53,045,Washington,Mason County,2,0,6,1124,1124,1124,1163
+050,53,045,Washington,Mason County,2,1,1,24619,24619,24633,24633
+050,53,045,Washington,Mason County,2,1,2,145,145,145,188
+050,53,045,Washington,Mason County,2,1,3,890,890,890,892
+050,53,045,Washington,Mason County,2,1,4,452,452,454,466
+050,53,045,Washington,Mason County,2,1,5,110,110,110,111
+050,53,045,Washington,Mason County,2,1,6,1025,1025,1025,1050
+050,53,045,Washington,Mason County,2,2,1,1584,1584,1586,1623
+050,53,045,Washington,Mason County,2,2,2,42,42,42,50
+050,53,045,Washington,Mason County,2,2,3,288,288,288,311
+050,53,045,Washington,Mason County,2,2,4,30,30,30,33
+050,53,045,Washington,Mason County,2,2,5,15,15,15,16
+050,53,045,Washington,Mason County,2,2,6,99,99,99,113
+050,53,047,Washington,Okanogan County,0,0,1,34359,34359,34475,34569
+050,53,047,Washington,Okanogan County,0,0,2,195,195,195,211
+050,53,047,Washington,Okanogan County,0,0,3,5025,5025,5045,4983
+050,53,047,Washington,Okanogan County,0,0,4,297,297,297,337
+050,53,047,Washington,Okanogan County,0,0,5,78,78,78,87
+050,53,047,Washington,Okanogan County,0,0,6,1166,1166,1166,1224
+050,53,047,Washington,Okanogan County,0,1,1,28150,28150,28234,28116
+050,53,047,Washington,Okanogan County,0,1,2,133,133,133,146
+050,53,047,Washington,Okanogan County,0,1,3,4396,4396,4416,4341
+050,53,047,Washington,Okanogan County,0,1,4,224,224,224,260
+050,53,047,Washington,Okanogan County,0,1,5,27,27,27,32
+050,53,047,Washington,Okanogan County,0,1,6,963,963,963,1007
+050,53,047,Washington,Okanogan County,0,2,1,6209,6209,6241,6453
+050,53,047,Washington,Okanogan County,0,2,2,62,62,62,65
+050,53,047,Washington,Okanogan County,0,2,3,629,629,629,642
+050,53,047,Washington,Okanogan County,0,2,4,73,73,73,77
+050,53,047,Washington,Okanogan County,0,2,5,51,51,51,55
+050,53,047,Washington,Okanogan County,0,2,6,203,203,203,217
+050,53,047,Washington,Okanogan County,1,0,1,17368,17368,17440,17503
+050,53,047,Washington,Okanogan County,1,0,2,109,109,109,115
+050,53,047,Washington,Okanogan County,1,0,3,2532,2532,2545,2517
+050,53,047,Washington,Okanogan County,1,0,4,119,119,119,135
+050,53,047,Washington,Okanogan County,1,0,5,43,43,43,51
+050,53,047,Washington,Okanogan County,1,0,6,579,579,579,610
+050,53,047,Washington,Okanogan County,1,1,1,13961,13961,14012,13968
+050,53,047,Washington,Okanogan County,1,1,2,77,77,77,83
+050,53,047,Washington,Okanogan County,1,1,3,2204,2204,2217,2193
+050,53,047,Washington,Okanogan County,1,1,4,75,75,75,90
+050,53,047,Washington,Okanogan County,1,1,5,17,17,17,22
+050,53,047,Washington,Okanogan County,1,1,6,474,474,474,500
+050,53,047,Washington,Okanogan County,1,2,1,3407,3407,3428,3535
+050,53,047,Washington,Okanogan County,1,2,2,32,32,32,32
+050,53,047,Washington,Okanogan County,1,2,3,328,328,328,324
+050,53,047,Washington,Okanogan County,1,2,4,44,44,44,45
+050,53,047,Washington,Okanogan County,1,2,5,26,26,26,29
+050,53,047,Washington,Okanogan County,1,2,6,105,105,105,110
+050,53,047,Washington,Okanogan County,2,0,1,16991,16991,17035,17066
+050,53,047,Washington,Okanogan County,2,0,2,86,86,86,96
+050,53,047,Washington,Okanogan County,2,0,3,2493,2493,2500,2466
+050,53,047,Washington,Okanogan County,2,0,4,178,178,178,202
+050,53,047,Washington,Okanogan County,2,0,5,35,35,35,36
+050,53,047,Washington,Okanogan County,2,0,6,587,587,587,614
+050,53,047,Washington,Okanogan County,2,1,1,14189,14189,14222,14148
+050,53,047,Washington,Okanogan County,2,1,2,56,56,56,63
+050,53,047,Washington,Okanogan County,2,1,3,2192,2192,2199,2148
+050,53,047,Washington,Okanogan County,2,1,4,149,149,149,170
+050,53,047,Washington,Okanogan County,2,1,5,10,10,10,10
+050,53,047,Washington,Okanogan County,2,1,6,489,489,489,507
+050,53,047,Washington,Okanogan County,2,2,1,2802,2802,2813,2918
+050,53,047,Washington,Okanogan County,2,2,2,30,30,30,33
+050,53,047,Washington,Okanogan County,2,2,3,301,301,301,318
+050,53,047,Washington,Okanogan County,2,2,4,29,29,29,32
+050,53,047,Washington,Okanogan County,2,2,5,25,25,25,26
+050,53,047,Washington,Okanogan County,2,2,6,98,98,98,107
+050,53,049,Washington,Pacific County,0,0,1,19111,19111,19093,19024
+050,53,049,Washington,Pacific County,0,0,2,133,133,133,156
+050,53,049,Washington,Pacific County,0,0,3,550,550,550,570
+050,53,049,Washington,Pacific County,0,0,4,438,438,438,452
+050,53,049,Washington,Pacific County,0,0,5,20,20,20,19
+050,53,049,Washington,Pacific County,0,0,6,668,668,668,709
+050,53,049,Washington,Pacific County,0,1,1,17716,17716,17698,17580
+050,53,049,Washington,Pacific County,0,1,2,67,67,67,88
+050,53,049,Washington,Pacific County,0,1,3,427,427,427,442
+050,53,049,Washington,Pacific County,0,1,4,431,431,431,445
+050,53,049,Washington,Pacific County,0,1,5,14,14,14,13
+050,53,049,Washington,Pacific County,0,1,6,588,588,588,622
+050,53,049,Washington,Pacific County,0,2,1,1395,1395,1395,1444
+050,53,049,Washington,Pacific County,0,2,2,66,66,66,68
+050,53,049,Washington,Pacific County,0,2,3,123,123,123,128
+050,53,049,Washington,Pacific County,0,2,4,7,7,7,7
+050,53,049,Washington,Pacific County,0,2,5,6,6,6,6
+050,53,049,Washington,Pacific County,0,2,6,80,80,80,87
+050,53,049,Washington,Pacific County,1,0,1,9553,9553,9546,9530
+050,53,049,Washington,Pacific County,1,0,2,77,77,77,89
+050,53,049,Washington,Pacific County,1,0,3,279,279,279,291
+050,53,049,Washington,Pacific County,1,0,4,214,214,214,214
+050,53,049,Washington,Pacific County,1,0,5,7,7,7,6
+050,53,049,Washington,Pacific County,1,0,6,358,358,358,378
+050,53,049,Washington,Pacific County,1,1,1,8760,8760,8753,8713
+050,53,049,Washington,Pacific County,1,1,2,44,44,44,55
+050,53,049,Washington,Pacific County,1,1,3,213,213,213,220
+050,53,049,Washington,Pacific County,1,1,4,209,209,209,209
+050,53,049,Washington,Pacific County,1,1,5,5,5,5,4
+050,53,049,Washington,Pacific County,1,1,6,316,316,316,334
+050,53,049,Washington,Pacific County,1,2,1,793,793,793,817
+050,53,049,Washington,Pacific County,1,2,2,33,33,33,34
+050,53,049,Washington,Pacific County,1,2,3,66,66,66,71
+050,53,049,Washington,Pacific County,1,2,4,5,5,5,5
+050,53,049,Washington,Pacific County,1,2,5,2,2,2,2
+050,53,049,Washington,Pacific County,1,2,6,42,42,42,44
+050,53,049,Washington,Pacific County,2,0,1,9558,9558,9547,9494
+050,53,049,Washington,Pacific County,2,0,2,56,56,56,67
+050,53,049,Washington,Pacific County,2,0,3,271,271,271,279
+050,53,049,Washington,Pacific County,2,0,4,224,224,224,238
+050,53,049,Washington,Pacific County,2,0,5,13,13,13,13
+050,53,049,Washington,Pacific County,2,0,6,310,310,310,331
+050,53,049,Washington,Pacific County,2,1,1,8956,8956,8945,8867
+050,53,049,Washington,Pacific County,2,1,2,23,23,23,33
+050,53,049,Washington,Pacific County,2,1,3,214,214,214,222
+050,53,049,Washington,Pacific County,2,1,4,222,222,222,236
+050,53,049,Washington,Pacific County,2,1,5,9,9,9,9
+050,53,049,Washington,Pacific County,2,1,6,272,272,272,288
+050,53,049,Washington,Pacific County,2,2,1,602,602,602,627
+050,53,049,Washington,Pacific County,2,2,2,33,33,33,34
+050,53,049,Washington,Pacific County,2,2,3,57,57,57,57
+050,53,049,Washington,Pacific County,2,2,4,2,2,2,2
+050,53,049,Washington,Pacific County,2,2,5,4,4,4,4
+050,53,049,Washington,Pacific County,2,2,6,38,38,38,43
+050,53,051,Washington,Pend Oreille County,0,0,1,12001,12001,11970,11883
+050,53,051,Washington,Pend Oreille County,0,0,2,60,60,60,80
+050,53,051,Washington,Pend Oreille County,0,0,3,501,501,501,501
+050,53,051,Washington,Pend Oreille County,0,0,4,73,73,73,82
+050,53,051,Washington,Pend Oreille County,0,0,5,16,16,16,18
+050,53,051,Washington,Pend Oreille County,0,0,6,350,350,350,372
+050,53,051,Washington,Pend Oreille County,0,1,1,11704,11704,11673,11569
+050,53,051,Washington,Pend Oreille County,0,1,2,57,57,57,75
+050,53,051,Washington,Pend Oreille County,0,1,3,466,466,466,464
+050,53,051,Washington,Pend Oreille County,0,1,4,73,73,73,82
+050,53,051,Washington,Pend Oreille County,0,1,5,16,16,16,18
+050,53,051,Washington,Pend Oreille County,0,1,6,294,294,294,312
+050,53,051,Washington,Pend Oreille County,0,2,1,297,297,297,314
+050,53,051,Washington,Pend Oreille County,0,2,2,3,3,3,5
+050,53,051,Washington,Pend Oreille County,0,2,3,35,35,35,37
+050,53,051,Washington,Pend Oreille County,0,2,4,0,0,0,0
+050,53,051,Washington,Pend Oreille County,0,2,5,0,0,0,0
+050,53,051,Washington,Pend Oreille County,0,2,6,56,56,56,60
+050,53,051,Washington,Pend Oreille County,1,0,1,6088,6088,6075,6022
+050,53,051,Washington,Pend Oreille County,1,0,2,37,37,37,48
+050,53,051,Washington,Pend Oreille County,1,0,3,266,266,266,269
+050,53,051,Washington,Pend Oreille County,1,0,4,25,25,25,27
+050,53,051,Washington,Pend Oreille County,1,0,5,7,7,7,9
+050,53,051,Washington,Pend Oreille County,1,0,6,170,170,170,183
+050,53,051,Washington,Pend Oreille County,1,1,1,5941,5941,5928,5876
+050,53,051,Washington,Pend Oreille County,1,1,2,36,36,36,46
+050,53,051,Washington,Pend Oreille County,1,1,3,248,248,248,250
+050,53,051,Washington,Pend Oreille County,1,1,4,25,25,25,27
+050,53,051,Washington,Pend Oreille County,1,1,5,7,7,7,9
+050,53,051,Washington,Pend Oreille County,1,1,6,140,140,140,152
+050,53,051,Washington,Pend Oreille County,1,2,1,147,147,147,146
+050,53,051,Washington,Pend Oreille County,1,2,2,1,1,1,2
+050,53,051,Washington,Pend Oreille County,1,2,3,18,18,18,19
+050,53,051,Washington,Pend Oreille County,1,2,4,0,0,0,0
+050,53,051,Washington,Pend Oreille County,1,2,5,0,0,0,0
+050,53,051,Washington,Pend Oreille County,1,2,6,30,30,30,31
+050,53,051,Washington,Pend Oreille County,2,0,1,5913,5913,5895,5861
+050,53,051,Washington,Pend Oreille County,2,0,2,23,23,23,32
+050,53,051,Washington,Pend Oreille County,2,0,3,235,235,235,232
+050,53,051,Washington,Pend Oreille County,2,0,4,48,48,48,55
+050,53,051,Washington,Pend Oreille County,2,0,5,9,9,9,9
+050,53,051,Washington,Pend Oreille County,2,0,6,180,180,180,189
+050,53,051,Washington,Pend Oreille County,2,1,1,5763,5763,5745,5693
+050,53,051,Washington,Pend Oreille County,2,1,2,21,21,21,29
+050,53,051,Washington,Pend Oreille County,2,1,3,218,218,218,214
+050,53,051,Washington,Pend Oreille County,2,1,4,48,48,48,55
+050,53,051,Washington,Pend Oreille County,2,1,5,9,9,9,9
+050,53,051,Washington,Pend Oreille County,2,1,6,154,154,154,160
+050,53,051,Washington,Pend Oreille County,2,2,1,150,150,150,168
+050,53,051,Washington,Pend Oreille County,2,2,2,2,2,2,3
+050,53,051,Washington,Pend Oreille County,2,2,3,17,17,17,18
+050,53,051,Washington,Pend Oreille County,2,2,4,0,0,0,0
+050,53,051,Washington,Pend Oreille County,2,2,5,0,0,0,0
+050,53,051,Washington,Pend Oreille County,2,2,6,26,26,26,29
+050,53,053,Washington,Pierce County,0,0,1,615571,615571,615067,624292
+050,53,053,Washington,Pierce County,0,0,2,56238,56238,56371,57606
+050,53,053,Washington,Pierce County,0,0,3,12876,12876,12915,13097
+050,53,053,Washington,Pierce County,0,0,4,48865,48865,49049,50117
+050,53,053,Washington,Pierce County,0,0,5,11085,11085,11082,10943
+050,53,053,Washington,Pierce County,0,0,6,50590,50590,50887,51849
+050,53,053,Washington,Pierce County,0,1,1,560475,560475,559799,566091
+050,53,053,Washington,Pierce County,0,1,2,51799,51799,51910,53067
+050,53,053,Washington,Pierce County,0,1,3,9187,9187,9207,9391
+050,53,053,Washington,Pierce County,0,1,4,46953,46953,47136,48191
+050,53,053,Washington,Pierce County,0,1,5,10268,10268,10277,10155
+050,53,053,Washington,Pierce County,0,1,6,43694,43694,43936,44737
+050,53,053,Washington,Pierce County,0,2,1,55096,55096,55268,58201
+050,53,053,Washington,Pierce County,0,2,2,4439,4439,4461,4539
+050,53,053,Washington,Pierce County,0,2,3,3689,3689,3708,3706
+050,53,053,Washington,Pierce County,0,2,4,1912,1912,1913,1926
+050,53,053,Washington,Pierce County,0,2,5,817,817,805,788
+050,53,053,Washington,Pierce County,0,2,6,6896,6896,6951,7112
+050,53,053,Washington,Pierce County,1,0,1,305481,305481,305351,311568
+050,53,053,Washington,Pierce County,1,0,2,29834,29834,29957,30933
+050,53,053,Washington,Pierce County,1,0,3,6434,6434,6465,6570
+050,53,053,Washington,Pierce County,1,0,4,20795,20795,20863,21456
+050,53,053,Washington,Pierce County,1,0,5,5489,5489,5490,5441
+050,53,053,Washington,Pierce County,1,0,6,24901,24901,25070,25647
+050,53,053,Washington,Pierce County,1,1,1,276908,276908,276671,281162
+050,53,053,Washington,Pierce County,1,1,2,27625,27625,27729,28610
+050,53,053,Washington,Pierce County,1,1,3,4484,4484,4498,4615
+050,53,053,Washington,Pierce County,1,1,4,19859,19859,19926,20505
+050,53,053,Washington,Pierce County,1,1,5,5063,5063,5068,5017
+050,53,053,Washington,Pierce County,1,1,6,21501,21501,21639,22084
+050,53,053,Washington,Pierce County,1,2,1,28573,28573,28680,30406
+050,53,053,Washington,Pierce County,1,2,2,2209,2209,2228,2323
+050,53,053,Washington,Pierce County,1,2,3,1950,1950,1967,1955
+050,53,053,Washington,Pierce County,1,2,4,936,936,937,951
+050,53,053,Washington,Pierce County,1,2,5,426,426,422,424
+050,53,053,Washington,Pierce County,1,2,6,3400,3400,3431,3563
+050,53,053,Washington,Pierce County,2,0,1,310090,310090,309716,312724
+050,53,053,Washington,Pierce County,2,0,2,26404,26404,26414,26673
+050,53,053,Washington,Pierce County,2,0,3,6442,6442,6450,6527
+050,53,053,Washington,Pierce County,2,0,4,28070,28070,28186,28661
+050,53,053,Washington,Pierce County,2,0,5,5596,5596,5592,5502
+050,53,053,Washington,Pierce County,2,0,6,25689,25689,25817,26202
+050,53,053,Washington,Pierce County,2,1,1,283567,283567,283128,284929
+050,53,053,Washington,Pierce County,2,1,2,24174,24174,24181,24457
+050,53,053,Washington,Pierce County,2,1,3,4703,4703,4709,4776
+050,53,053,Washington,Pierce County,2,1,4,27094,27094,27210,27686
+050,53,053,Washington,Pierce County,2,1,5,5205,5205,5209,5138
+050,53,053,Washington,Pierce County,2,1,6,22193,22193,22297,22653
+050,53,053,Washington,Pierce County,2,2,1,26523,26523,26588,27795
+050,53,053,Washington,Pierce County,2,2,2,2230,2230,2233,2216
+050,53,053,Washington,Pierce County,2,2,3,1739,1739,1741,1751
+050,53,053,Washington,Pierce County,2,2,4,976,976,976,975
+050,53,053,Washington,Pierce County,2,2,5,391,391,383,364
+050,53,053,Washington,Pierce County,2,2,6,3496,3496,3520,3549
+050,53,055,Washington,San Juan County,0,0,1,15016,15016,15006,15036
+050,53,055,Washington,San Juan County,0,0,2,63,63,63,83
+050,53,055,Washington,San Juan County,0,0,3,129,129,129,138
+050,53,055,Washington,San Juan County,0,0,4,193,193,193,211
+050,53,055,Washington,San Juan County,0,0,5,15,15,15,16
+050,53,055,Washington,San Juan County,0,0,6,353,353,353,360
+050,53,055,Washington,San Juan County,0,1,1,14260,14260,14250,14238
+050,53,055,Washington,San Juan County,0,1,2,51,51,51,69
+050,53,055,Washington,San Juan County,0,1,3,84,84,84,92
+050,53,055,Washington,San Juan County,0,1,4,187,187,187,205
+050,53,055,Washington,San Juan County,0,1,5,14,14,14,15
+050,53,055,Washington,San Juan County,0,1,6,316,316,316,318
+050,53,055,Washington,San Juan County,0,2,1,756,756,756,798
+050,53,055,Washington,San Juan County,0,2,2,12,12,12,14
+050,53,055,Washington,San Juan County,0,2,3,45,45,45,46
+050,53,055,Washington,San Juan County,0,2,4,6,6,6,6
+050,53,055,Washington,San Juan County,0,2,5,1,1,1,1
+050,53,055,Washington,San Juan County,0,2,6,37,37,37,42
+050,53,055,Washington,San Juan County,1,0,1,7323,7323,7321,7317
+050,53,055,Washington,San Juan County,1,0,2,35,35,35,49
+050,53,055,Washington,San Juan County,1,0,3,62,62,62,66
+050,53,055,Washington,San Juan County,1,0,4,57,57,57,64
+050,53,055,Washington,San Juan County,1,0,5,4,4,4,5
+050,53,055,Washington,San Juan County,1,0,6,184,184,184,184
+050,53,055,Washington,San Juan County,1,1,1,6931,6931,6929,6901
+050,53,055,Washington,San Juan County,1,1,2,29,29,29,41
+050,53,055,Washington,San Juan County,1,1,3,36,36,36,40
+050,53,055,Washington,San Juan County,1,1,4,54,54,54,61
+050,53,055,Washington,San Juan County,1,1,5,4,4,4,5
+050,53,055,Washington,San Juan County,1,1,6,165,165,165,161
+050,53,055,Washington,San Juan County,1,2,1,392,392,392,416
+050,53,055,Washington,San Juan County,1,2,2,6,6,6,8
+050,53,055,Washington,San Juan County,1,2,3,26,26,26,26
+050,53,055,Washington,San Juan County,1,2,4,3,3,3,3
+050,53,055,Washington,San Juan County,1,2,5,0,0,0,0
+050,53,055,Washington,San Juan County,1,2,6,19,19,19,23
+050,53,055,Washington,San Juan County,2,0,1,7693,7693,7685,7719
+050,53,055,Washington,San Juan County,2,0,2,28,28,28,34
+050,53,055,Washington,San Juan County,2,0,3,67,67,67,72
+050,53,055,Washington,San Juan County,2,0,4,136,136,136,147
+050,53,055,Washington,San Juan County,2,0,5,11,11,11,11
+050,53,055,Washington,San Juan County,2,0,6,169,169,169,176
+050,53,055,Washington,San Juan County,2,1,1,7329,7329,7321,7337
+050,53,055,Washington,San Juan County,2,1,2,22,22,22,28
+050,53,055,Washington,San Juan County,2,1,3,48,48,48,52
+050,53,055,Washington,San Juan County,2,1,4,133,133,133,144
+050,53,055,Washington,San Juan County,2,1,5,10,10,10,10
+050,53,055,Washington,San Juan County,2,1,6,151,151,151,157
+050,53,055,Washington,San Juan County,2,2,1,364,364,364,382
+050,53,055,Washington,San Juan County,2,2,2,6,6,6,6
+050,53,055,Washington,San Juan County,2,2,3,19,19,19,20
+050,53,055,Washington,San Juan County,2,2,4,3,3,3,3
+050,53,055,Washington,San Juan County,2,2,5,1,1,1,1
+050,53,055,Washington,San Juan County,2,2,6,18,18,18,19
+050,53,057,Washington,Skagit County,0,0,1,107180,107180,107362,107980
+050,53,057,Washington,Skagit County,0,0,2,961,961,961,1083
+050,53,057,Washington,Skagit County,0,0,3,3157,3157,3158,3125
+050,53,057,Washington,Skagit County,0,0,4,2216,2216,2223,2315
+050,53,057,Washington,Skagit County,0,0,5,281,281,281,303
+050,53,057,Washington,Skagit County,0,0,6,3106,3106,3111,3303
+050,53,057,Washington,Skagit County,0,1,1,89893,89893,89997,90040
+050,53,057,Washington,Skagit County,0,1,2,643,643,643,744
+050,53,057,Washington,Skagit County,0,1,3,2044,2044,2045,2025
+050,53,057,Washington,Skagit County,0,1,4,2041,2041,2048,2129
+050,53,057,Washington,Skagit County,0,1,5,180,180,180,198
+050,53,057,Washington,Skagit County,0,1,6,2391,2391,2396,2527
+050,53,057,Washington,Skagit County,0,2,1,17287,17287,17365,17940
+050,53,057,Washington,Skagit County,0,2,2,318,318,318,339
+050,53,057,Washington,Skagit County,0,2,3,1113,1113,1113,1100
+050,53,057,Washington,Skagit County,0,2,4,175,175,175,186
+050,53,057,Washington,Skagit County,0,2,5,101,101,101,105
+050,53,057,Washington,Skagit County,0,2,6,715,715,715,776
+050,53,057,Washington,Skagit County,1,0,1,53183,53183,53293,53618
+050,53,057,Washington,Skagit County,1,0,2,573,573,573,631
+050,53,057,Washington,Skagit County,1,0,3,1545,1545,1546,1540
+050,53,057,Washington,Skagit County,1,0,4,979,979,980,1030
+050,53,057,Washington,Skagit County,1,0,5,155,155,155,158
+050,53,057,Washington,Skagit County,1,0,6,1545,1545,1548,1638
+050,53,057,Washington,Skagit County,1,1,1,44336,44336,44401,44405
+050,53,057,Washington,Skagit County,1,1,2,401,401,401,444
+050,53,057,Washington,Skagit County,1,1,3,980,980,981,968
+050,53,057,Washington,Skagit County,1,1,4,887,887,888,936
+050,53,057,Washington,Skagit County,1,1,5,104,104,104,104
+050,53,057,Washington,Skagit County,1,1,6,1176,1176,1179,1229
+050,53,057,Washington,Skagit County,1,2,1,8847,8847,8892,9213
+050,53,057,Washington,Skagit County,1,2,2,172,172,172,187
+050,53,057,Washington,Skagit County,1,2,3,565,565,565,572
+050,53,057,Washington,Skagit County,1,2,4,92,92,92,94
+050,53,057,Washington,Skagit County,1,2,5,51,51,51,54
+050,53,057,Washington,Skagit County,1,2,6,369,369,369,409
+050,53,057,Washington,Skagit County,2,0,1,53997,53997,54069,54362
+050,53,057,Washington,Skagit County,2,0,2,388,388,388,452
+050,53,057,Washington,Skagit County,2,0,3,1612,1612,1612,1585
+050,53,057,Washington,Skagit County,2,0,4,1237,1237,1243,1285
+050,53,057,Washington,Skagit County,2,0,5,126,126,126,145
+050,53,057,Washington,Skagit County,2,0,6,1561,1561,1563,1665
+050,53,057,Washington,Skagit County,2,1,1,45557,45557,45596,45635
+050,53,057,Washington,Skagit County,2,1,2,242,242,242,300
+050,53,057,Washington,Skagit County,2,1,3,1064,1064,1064,1057
+050,53,057,Washington,Skagit County,2,1,4,1154,1154,1160,1193
+050,53,057,Washington,Skagit County,2,1,5,76,76,76,94
+050,53,057,Washington,Skagit County,2,1,6,1215,1215,1217,1298
+050,53,057,Washington,Skagit County,2,2,1,8440,8440,8473,8727
+050,53,057,Washington,Skagit County,2,2,2,146,146,146,152
+050,53,057,Washington,Skagit County,2,2,3,548,548,548,528
+050,53,057,Washington,Skagit County,2,2,4,83,83,83,92
+050,53,057,Washington,Skagit County,2,2,5,50,50,50,51
+050,53,057,Washington,Skagit County,2,2,6,346,346,346,367
+050,53,059,Washington,Skamania County,0,0,1,10415,10415,10446,10439
+050,53,059,Washington,Skamania County,0,0,2,46,46,46,60
+050,53,059,Washington,Skamania County,0,0,3,189,189,189,188
+050,53,059,Washington,Skamania County,0,0,4,96,96,96,100
+050,53,059,Washington,Skamania County,0,0,5,11,11,11,11
+050,53,059,Washington,Skamania County,0,0,6,309,309,309,339
+050,53,059,Washington,Skamania County,0,1,1,9932,9932,9963,9899
+050,53,059,Washington,Skamania County,0,1,2,44,44,44,56
+050,53,059,Washington,Skamania County,0,1,3,150,150,150,151
+050,53,059,Washington,Skamania County,0,1,4,96,96,96,100
+050,53,059,Washington,Skamania County,0,1,5,11,11,11,11
+050,53,059,Washington,Skamania County,0,1,6,280,280,280,300
+050,53,059,Washington,Skamania County,0,2,1,483,483,483,540
+050,53,059,Washington,Skamania County,0,2,2,2,2,2,4
+050,53,059,Washington,Skamania County,0,2,3,39,39,39,37
+050,53,059,Washington,Skamania County,0,2,4,0,0,0,0
+050,53,059,Washington,Skamania County,0,2,5,0,0,0,0
+050,53,059,Washington,Skamania County,0,2,6,29,29,29,39
+050,53,059,Washington,Skamania County,1,0,1,5270,5270,5285,5283
+050,53,059,Washington,Skamania County,1,0,2,26,26,26,36
+050,53,059,Washington,Skamania County,1,0,3,86,86,86,87
+050,53,059,Washington,Skamania County,1,0,4,34,34,34,35
+050,53,059,Washington,Skamania County,1,0,5,2,2,2,2
+050,53,059,Washington,Skamania County,1,0,6,147,147,147,158
+050,53,059,Washington,Skamania County,1,1,1,5003,5003,5018,4986
+050,53,059,Washington,Skamania County,1,1,2,25,25,25,33
+050,53,059,Washington,Skamania County,1,1,3,72,72,72,73
+050,53,059,Washington,Skamania County,1,1,4,34,34,34,35
+050,53,059,Washington,Skamania County,1,1,5,2,2,2,2
+050,53,059,Washington,Skamania County,1,1,6,133,133,133,139
+050,53,059,Washington,Skamania County,1,2,1,267,267,267,297
+050,53,059,Washington,Skamania County,1,2,2,1,1,1,3
+050,53,059,Washington,Skamania County,1,2,3,14,14,14,14
+050,53,059,Washington,Skamania County,1,2,4,0,0,0,0
+050,53,059,Washington,Skamania County,1,2,5,0,0,0,0
+050,53,059,Washington,Skamania County,1,2,6,14,14,14,19
+050,53,059,Washington,Skamania County,2,0,1,5145,5145,5161,5156
+050,53,059,Washington,Skamania County,2,0,2,20,20,20,24
+050,53,059,Washington,Skamania County,2,0,3,103,103,103,101
+050,53,059,Washington,Skamania County,2,0,4,62,62,62,65
+050,53,059,Washington,Skamania County,2,0,5,9,9,9,9
+050,53,059,Washington,Skamania County,2,0,6,162,162,162,181
+050,53,059,Washington,Skamania County,2,1,1,4929,4929,4945,4913
+050,53,059,Washington,Skamania County,2,1,2,19,19,19,23
+050,53,059,Washington,Skamania County,2,1,3,78,78,78,78
+050,53,059,Washington,Skamania County,2,1,4,62,62,62,65
+050,53,059,Washington,Skamania County,2,1,5,9,9,9,9
+050,53,059,Washington,Skamania County,2,1,6,147,147,147,161
+050,53,059,Washington,Skamania County,2,2,1,216,216,216,243
+050,53,059,Washington,Skamania County,2,2,2,1,1,1,1
+050,53,059,Washington,Skamania County,2,2,3,25,25,25,23
+050,53,059,Washington,Skamania County,2,2,4,0,0,0,0
+050,53,059,Washington,Skamania County,2,2,5,0,0,0,0
+050,53,059,Washington,Skamania County,2,2,6,15,15,15,20
+050,53,061,Washington,Snohomish County,0,0,1,585558,585558,586783,590491
+050,53,061,Washington,Snohomish County,0,0,2,19130,19130,19215,19873
+050,53,061,Washington,Snohomish County,0,0,3,11121,11121,11169,11263
+050,53,061,Washington,Snohomish County,0,0,4,64568,64568,64950,66690
+050,53,061,Washington,Snohomish County,0,0,5,3420,3420,3439,3540
+050,53,061,Washington,Snohomish County,0,0,6,29538,29538,29802,30543
+050,53,061,Washington,Snohomish County,0,1,1,531091,531091,531997,534199
+050,53,061,Washington,Snohomish County,0,1,2,17463,17463,17545,18190
+050,53,061,Washington,Snohomish County,0,1,3,8482,8482,8519,8566
+050,53,061,Washington,Snohomish County,0,1,4,63242,63242,63621,65347
+050,53,061,Washington,Snohomish County,0,1,5,3075,3075,3092,3169
+050,53,061,Washington,Snohomish County,0,1,6,25733,25733,25957,26599
+050,53,061,Washington,Snohomish County,0,2,1,54467,54467,54786,56292
+050,53,061,Washington,Snohomish County,0,2,2,1667,1667,1670,1683
+050,53,061,Washington,Snohomish County,0,2,3,2639,2639,2650,2697
+050,53,061,Washington,Snohomish County,0,2,4,1326,1326,1329,1343
+050,53,061,Washington,Snohomish County,0,2,5,345,345,347,371
+050,53,061,Washington,Snohomish County,0,2,6,3805,3805,3845,3944
+050,53,061,Washington,Snohomish County,1,0,1,293830,293830,294551,296547
+050,53,061,Washington,Snohomish County,1,0,2,10936,10936,11001,11423
+050,53,061,Washington,Snohomish County,1,0,3,5511,5511,5537,5641
+050,53,061,Washington,Snohomish County,1,0,4,30080,30080,30258,31155
+050,53,061,Washington,Snohomish County,1,0,5,1811,1811,1822,1876
+050,53,061,Washington,Snohomish County,1,0,6,14790,14790,14934,15337
+050,53,061,Washington,Snohomish County,1,1,1,264946,264946,265479,266787
+050,53,061,Washington,Snohomish County,1,1,2,10070,10070,10131,10548
+050,53,061,Washington,Snohomish County,1,1,3,4152,4152,4172,4200
+050,53,061,Washington,Snohomish County,1,1,4,29409,29409,29585,30480
+050,53,061,Washington,Snohomish County,1,1,5,1622,1622,1633,1677
+050,53,061,Washington,Snohomish County,1,1,6,12871,12871,12994,13378
+050,53,061,Washington,Snohomish County,1,2,1,28884,28884,29072,29760
+050,53,061,Washington,Snohomish County,1,2,2,866,866,870,875
+050,53,061,Washington,Snohomish County,1,2,3,1359,1359,1365,1441
+050,53,061,Washington,Snohomish County,1,2,4,671,671,673,675
+050,53,061,Washington,Snohomish County,1,2,5,189,189,189,199
+050,53,061,Washington,Snohomish County,1,2,6,1919,1919,1940,1959
+050,53,061,Washington,Snohomish County,2,0,1,291728,291728,292232,293944
+050,53,061,Washington,Snohomish County,2,0,2,8194,8194,8214,8450
+050,53,061,Washington,Snohomish County,2,0,3,5610,5610,5632,5622
+050,53,061,Washington,Snohomish County,2,0,4,34488,34488,34692,35535
+050,53,061,Washington,Snohomish County,2,0,5,1609,1609,1617,1664
+050,53,061,Washington,Snohomish County,2,0,6,14748,14748,14868,15206
+050,53,061,Washington,Snohomish County,2,1,1,266145,266145,266518,267412
+050,53,061,Washington,Snohomish County,2,1,2,7393,7393,7414,7642
+050,53,061,Washington,Snohomish County,2,1,3,4330,4330,4347,4366
+050,53,061,Washington,Snohomish County,2,1,4,33833,33833,34036,34867
+050,53,061,Washington,Snohomish County,2,1,5,1453,1453,1459,1492
+050,53,061,Washington,Snohomish County,2,1,6,12862,12862,12963,13221
+050,53,061,Washington,Snohomish County,2,2,1,25583,25583,25714,26532
+050,53,061,Washington,Snohomish County,2,2,2,801,801,800,808
+050,53,061,Washington,Snohomish County,2,2,3,1280,1280,1285,1256
+050,53,061,Washington,Snohomish County,2,2,4,655,655,656,668
+050,53,061,Washington,Snohomish County,2,2,5,156,156,158,172
+050,53,061,Washington,Snohomish County,2,2,6,1886,1886,1905,1985
+050,53,063,Washington,Spokane County,0,0,1,426388,426388,427000,427702
+050,53,063,Washington,Spokane County,0,0,2,8332,8332,8366,8671
+050,53,063,Washington,Spokane County,0,0,3,7817,7817,7841,7911
+050,53,063,Washington,Spokane County,0,0,4,10248,10248,10308,10524
+050,53,063,Washington,Spokane County,0,0,5,2001,2001,2005,1940
+050,53,063,Washington,Spokane County,0,0,6,16435,16435,16558,17013
+050,53,063,Washington,Spokane County,0,1,1,409317,409317,409833,409798
+050,53,063,Washington,Spokane County,0,1,2,7805,7805,7839,8112
+050,53,063,Washington,Spokane County,0,1,3,6501,6501,6525,6625
+050,53,063,Washington,Spokane County,0,1,4,9899,9899,9960,10164
+050,53,063,Washington,Spokane County,0,1,5,1844,1844,1848,1768
+050,53,063,Washington,Spokane County,0,1,6,14595,14595,14712,15184
+050,53,063,Washington,Spokane County,0,2,1,17071,17071,17167,17904
+050,53,063,Washington,Spokane County,0,2,2,527,527,527,559
+050,53,063,Washington,Spokane County,0,2,3,1316,1316,1316,1286
+050,53,063,Washington,Spokane County,0,2,4,349,349,348,360
+050,53,063,Washington,Spokane County,0,2,5,157,157,157,172
+050,53,063,Washington,Spokane County,0,2,6,1840,1840,1846,1829
+050,53,063,Washington,Spokane County,1,0,1,210151,210151,210534,211280
+050,53,063,Washington,Spokane County,1,0,2,5087,5087,5115,5313
+050,53,063,Washington,Spokane County,1,0,3,3817,3817,3834,3843
+050,53,063,Washington,Spokane County,1,0,4,4496,4496,4522,4594
+050,53,063,Washington,Spokane County,1,0,5,985,985,986,958
+050,53,063,Washington,Spokane County,1,0,6,8160,8160,8229,8404
+050,53,063,Washington,Spokane County,1,1,1,201343,201343,201676,202020
+050,53,063,Washington,Spokane County,1,1,2,4798,4798,4826,4997
+050,53,063,Washington,Spokane County,1,1,3,3149,3149,3166,3190
+050,53,063,Washington,Spokane County,1,1,4,4321,4321,4347,4422
+050,53,063,Washington,Spokane County,1,1,5,920,920,921,887
+050,53,063,Washington,Spokane County,1,1,6,7246,7246,7312,7496
+050,53,063,Washington,Spokane County,1,2,1,8808,8808,8858,9260
+050,53,063,Washington,Spokane County,1,2,2,289,289,289,316
+050,53,063,Washington,Spokane County,1,2,3,668,668,668,653
+050,53,063,Washington,Spokane County,1,2,4,175,175,175,172
+050,53,063,Washington,Spokane County,1,2,5,65,65,65,71
+050,53,063,Washington,Spokane County,1,2,6,914,914,917,908
+050,53,063,Washington,Spokane County,2,0,1,216237,216237,216466,216422
+050,53,063,Washington,Spokane County,2,0,2,3245,3245,3251,3358
+050,53,063,Washington,Spokane County,2,0,3,4000,4000,4007,4068
+050,53,063,Washington,Spokane County,2,0,4,5752,5752,5786,5930
+050,53,063,Washington,Spokane County,2,0,5,1016,1016,1019,982
+050,53,063,Washington,Spokane County,2,0,6,8275,8275,8329,8609
+050,53,063,Washington,Spokane County,2,1,1,207974,207974,208157,207778
+050,53,063,Washington,Spokane County,2,1,2,3007,3007,3013,3115
+050,53,063,Washington,Spokane County,2,1,3,3352,3352,3359,3435
+050,53,063,Washington,Spokane County,2,1,4,5578,5578,5613,5742
+050,53,063,Washington,Spokane County,2,1,5,924,924,927,881
+050,53,063,Washington,Spokane County,2,1,6,7349,7349,7400,7688
+050,53,063,Washington,Spokane County,2,2,1,8263,8263,8309,8644
+050,53,063,Washington,Spokane County,2,2,2,238,238,238,243
+050,53,063,Washington,Spokane County,2,2,3,648,648,648,633
+050,53,063,Washington,Spokane County,2,2,4,174,174,173,188
+050,53,063,Washington,Spokane County,2,2,5,92,92,92,101
+050,53,063,Washington,Spokane County,2,2,6,926,926,929,921
+050,53,065,Washington,Stevens County,0,0,1,39238,39238,39210,39190
+050,53,065,Washington,Stevens County,0,0,2,151,151,151,186
+050,53,065,Washington,Stevens County,0,0,3,2458,2458,2459,2387
+050,53,065,Washington,Stevens County,0,0,4,252,252,252,273
+050,53,065,Washington,Stevens County,0,0,5,77,77,77,82
+050,53,065,Washington,Stevens County,0,0,6,1355,1355,1355,1378
+050,53,065,Washington,Stevens County,0,1,1,38342,38342,38314,38181
+050,53,065,Washington,Stevens County,0,1,2,150,150,150,185
+050,53,065,Washington,Stevens County,0,1,3,2286,2286,2287,2217
+050,53,065,Washington,Stevens County,0,1,4,245,245,245,263
+050,53,065,Washington,Stevens County,0,1,5,62,62,62,66
+050,53,065,Washington,Stevens County,0,1,6,1261,1261,1261,1268
+050,53,065,Washington,Stevens County,0,2,1,896,896,896,1009
+050,53,065,Washington,Stevens County,0,2,2,1,1,1,1
+050,53,065,Washington,Stevens County,0,2,3,172,172,172,170
+050,53,065,Washington,Stevens County,0,2,4,7,7,7,10
+050,53,065,Washington,Stevens County,0,2,5,15,15,15,16
+050,53,065,Washington,Stevens County,0,2,6,94,94,94,110
+050,53,065,Washington,Stevens County,1,0,1,19642,19642,19632,19658
+050,53,065,Washington,Stevens County,1,0,2,80,80,80,95
+050,53,065,Washington,Stevens County,1,0,3,1270,1270,1270,1243
+050,53,065,Washington,Stevens County,1,0,4,75,75,75,89
+050,53,065,Washington,Stevens County,1,0,5,36,36,36,38
+050,53,065,Washington,Stevens County,1,0,6,679,679,679,703
+050,53,065,Washington,Stevens County,1,1,1,19213,19213,19203,19174
+050,53,065,Washington,Stevens County,1,1,2,79,79,79,94
+050,53,065,Washington,Stevens County,1,1,3,1190,1190,1190,1169
+050,53,065,Washington,Stevens County,1,1,4,73,73,73,86
+050,53,065,Washington,Stevens County,1,1,5,28,28,28,30
+050,53,065,Washington,Stevens County,1,1,6,635,635,635,650
+050,53,065,Washington,Stevens County,1,2,1,429,429,429,484
+050,53,065,Washington,Stevens County,1,2,2,1,1,1,1
+050,53,065,Washington,Stevens County,1,2,3,80,80,80,74
+050,53,065,Washington,Stevens County,1,2,4,2,2,2,3
+050,53,065,Washington,Stevens County,1,2,5,8,8,8,8
+050,53,065,Washington,Stevens County,1,2,6,44,44,44,53
+050,53,065,Washington,Stevens County,2,0,1,19596,19596,19578,19532
+050,53,065,Washington,Stevens County,2,0,2,71,71,71,91
+050,53,065,Washington,Stevens County,2,0,3,1188,1188,1189,1144
+050,53,065,Washington,Stevens County,2,0,4,177,177,177,184
+050,53,065,Washington,Stevens County,2,0,5,41,41,41,44
+050,53,065,Washington,Stevens County,2,0,6,676,676,676,675
+050,53,065,Washington,Stevens County,2,1,1,19129,19129,19111,19007
+050,53,065,Washington,Stevens County,2,1,2,71,71,71,91
+050,53,065,Washington,Stevens County,2,1,3,1096,1096,1097,1048
+050,53,065,Washington,Stevens County,2,1,4,172,172,172,177
+050,53,065,Washington,Stevens County,2,1,5,34,34,34,36
+050,53,065,Washington,Stevens County,2,1,6,626,626,626,618
+050,53,065,Washington,Stevens County,2,2,1,467,467,467,525
+050,53,065,Washington,Stevens County,2,2,2,0,0,0,0
+050,53,065,Washington,Stevens County,2,2,3,92,92,92,96
+050,53,065,Washington,Stevens County,2,2,4,5,5,5,7
+050,53,065,Washington,Stevens County,2,2,5,7,7,7,8
+050,53,065,Washington,Stevens County,2,2,6,50,50,50,57
+050,53,067,Washington,Thurston County,0,0,1,213593,213593,214106,216234
+050,53,067,Washington,Thurston County,0,0,2,7041,7041,7068,7779
+050,53,067,Washington,Thurston County,0,0,3,3907,3907,3916,4020
+050,53,067,Washington,Thurston County,0,0,4,13386,13386,13478,13773
+050,53,067,Washington,Thurston County,0,0,5,2069,2069,2073,2067
+050,53,067,Washington,Thurston County,0,0,6,12268,12268,12364,12718
+050,53,067,Washington,Thurston County,0,1,1,199481,199481,199903,201108
+050,53,067,Washington,Thurston County,0,1,2,6483,6483,6510,7171
+050,53,067,Washington,Thurston County,0,1,3,3021,3021,3030,3098
+050,53,067,Washington,Thurston County,0,1,4,12945,12945,13037,13330
+050,53,067,Washington,Thurston County,0,1,5,1890,1890,1895,1881
+050,53,067,Washington,Thurston County,0,1,6,10657,10657,10746,11007
+050,53,067,Washington,Thurston County,0,2,1,14112,14112,14203,15126
+050,53,067,Washington,Thurston County,0,2,2,558,558,558,608
+050,53,067,Washington,Thurston County,0,2,3,886,886,886,922
+050,53,067,Washington,Thurston County,0,2,4,441,441,441,443
+050,53,067,Washington,Thurston County,0,2,5,179,179,178,186
+050,53,067,Washington,Thurston County,0,2,6,1611,1611,1618,1711
+050,53,067,Washington,Thurston County,1,0,1,104337,104337,104626,105843
+050,53,067,Washington,Thurston County,1,0,2,3965,3965,3987,4360
+050,53,067,Washington,Thurston County,1,0,3,1958,1958,1963,2029
+050,53,067,Washington,Thurston County,1,0,4,5684,5684,5722,5877
+050,53,067,Washington,Thurston County,1,0,5,1070,1070,1072,1073
+050,53,067,Washington,Thurston County,1,0,6,5938,5938,5990,6185
+050,53,067,Washington,Thurston County,1,1,1,97073,97073,97314,98023
+050,53,067,Washington,Thurston County,1,1,2,3700,3700,3722,4066
+050,53,067,Washington,Thurston County,1,1,3,1517,1517,1522,1559
+050,53,067,Washington,Thurston County,1,1,4,5444,5444,5482,5631
+050,53,067,Washington,Thurston County,1,1,5,976,976,978,978
+050,53,067,Washington,Thurston County,1,1,6,5152,5152,5201,5349
+050,53,067,Washington,Thurston County,1,2,1,7264,7264,7312,7820
+050,53,067,Washington,Thurston County,1,2,2,265,265,265,294
+050,53,067,Washington,Thurston County,1,2,3,441,441,441,470
+050,53,067,Washington,Thurston County,1,2,4,240,240,240,246
+050,53,067,Washington,Thurston County,1,2,5,94,94,94,95
+050,53,067,Washington,Thurston County,1,2,6,786,786,789,836
+050,53,067,Washington,Thurston County,2,0,1,109256,109256,109480,110391
+050,53,067,Washington,Thurston County,2,0,2,3076,3076,3081,3419
+050,53,067,Washington,Thurston County,2,0,3,1949,1949,1953,1991
+050,53,067,Washington,Thurston County,2,0,4,7702,7702,7756,7896
+050,53,067,Washington,Thurston County,2,0,5,999,999,1001,994
+050,53,067,Washington,Thurston County,2,0,6,6330,6330,6374,6533
+050,53,067,Washington,Thurston County,2,1,1,102408,102408,102589,103085
+050,53,067,Washington,Thurston County,2,1,2,2783,2783,2788,3105
+050,53,067,Washington,Thurston County,2,1,3,1504,1504,1508,1539
+050,53,067,Washington,Thurston County,2,1,4,7501,7501,7555,7699
+050,53,067,Washington,Thurston County,2,1,5,914,914,917,903
+050,53,067,Washington,Thurston County,2,1,6,5505,5505,5545,5658
+050,53,067,Washington,Thurston County,2,2,1,6848,6848,6891,7306
+050,53,067,Washington,Thurston County,2,2,2,293,293,293,314
+050,53,067,Washington,Thurston County,2,2,3,445,445,445,452
+050,53,067,Washington,Thurston County,2,2,4,201,201,201,197
+050,53,067,Washington,Thurston County,2,2,5,85,85,84,91
+050,53,067,Washington,Thurston County,2,2,6,825,825,829,875
+050,53,069,Washington,Wahkiakum County,0,0,1,3768,3768,3768,3756
+050,53,069,Washington,Wahkiakum County,0,0,2,12,12,12,13
+050,53,069,Washington,Wahkiakum County,0,0,3,57,57,57,62
+050,53,069,Washington,Wahkiakum County,0,0,4,23,23,23,26
+050,53,069,Washington,Wahkiakum County,0,0,5,6,6,6,6
+050,53,069,Washington,Wahkiakum County,0,0,6,112,112,112,128
+050,53,069,Washington,Wahkiakum County,0,1,1,3684,3684,3684,3659
+050,53,069,Washington,Wahkiakum County,0,1,2,8,8,8,9
+050,53,069,Washington,Wahkiakum County,0,1,3,48,48,48,50
+050,53,069,Washington,Wahkiakum County,0,1,4,22,22,22,25
+050,53,069,Washington,Wahkiakum County,0,1,5,6,6,6,6
+050,53,069,Washington,Wahkiakum County,0,1,6,102,102,102,118
+050,53,069,Washington,Wahkiakum County,0,2,1,84,84,84,97
+050,53,069,Washington,Wahkiakum County,0,2,2,4,4,4,4
+050,53,069,Washington,Wahkiakum County,0,2,3,9,9,9,12
+050,53,069,Washington,Wahkiakum County,0,2,4,1,1,1,1
+050,53,069,Washington,Wahkiakum County,0,2,5,0,0,0,0
+050,53,069,Washington,Wahkiakum County,0,2,6,10,10,10,10
+050,53,069,Washington,Wahkiakum County,1,0,1,1903,1903,1904,1898
+050,53,069,Washington,Wahkiakum County,1,0,2,8,8,8,9
+050,53,069,Washington,Wahkiakum County,1,0,3,32,32,32,34
+050,53,069,Washington,Wahkiakum County,1,0,4,5,5,5,7
+050,53,069,Washington,Wahkiakum County,1,0,5,4,4,4,4
+050,53,069,Washington,Wahkiakum County,1,0,6,47,47,47,58
+050,53,069,Washington,Wahkiakum County,1,1,1,1866,1866,1867,1853
+050,53,069,Washington,Wahkiakum County,1,1,2,6,6,6,7
+050,53,069,Washington,Wahkiakum County,1,1,3,29,29,29,31
+050,53,069,Washington,Wahkiakum County,1,1,4,5,5,5,7
+050,53,069,Washington,Wahkiakum County,1,1,5,4,4,4,4
+050,53,069,Washington,Wahkiakum County,1,1,6,42,42,42,53
+050,53,069,Washington,Wahkiakum County,1,2,1,37,37,37,45
+050,53,069,Washington,Wahkiakum County,1,2,2,2,2,2,2
+050,53,069,Washington,Wahkiakum County,1,2,3,3,3,3,3
+050,53,069,Washington,Wahkiakum County,1,2,4,0,0,0,0
+050,53,069,Washington,Wahkiakum County,1,2,5,0,0,0,0
+050,53,069,Washington,Wahkiakum County,1,2,6,5,5,5,5
+050,53,069,Washington,Wahkiakum County,2,0,1,1865,1865,1864,1858
+050,53,069,Washington,Wahkiakum County,2,0,2,4,4,4,4
+050,53,069,Washington,Wahkiakum County,2,0,3,25,25,25,28
+050,53,069,Washington,Wahkiakum County,2,0,4,18,18,18,19
+050,53,069,Washington,Wahkiakum County,2,0,5,2,2,2,2
+050,53,069,Washington,Wahkiakum County,2,0,6,65,65,65,70
+050,53,069,Washington,Wahkiakum County,2,1,1,1818,1818,1817,1806
+050,53,069,Washington,Wahkiakum County,2,1,2,2,2,2,2
+050,53,069,Washington,Wahkiakum County,2,1,3,19,19,19,19
+050,53,069,Washington,Wahkiakum County,2,1,4,17,17,17,18
+050,53,069,Washington,Wahkiakum County,2,1,5,2,2,2,2
+050,53,069,Washington,Wahkiakum County,2,1,6,60,60,60,65
+050,53,069,Washington,Wahkiakum County,2,2,1,47,47,47,52
+050,53,069,Washington,Wahkiakum County,2,2,2,2,2,2,2
+050,53,069,Washington,Wahkiakum County,2,2,3,6,6,6,9
+050,53,069,Washington,Wahkiakum County,2,2,4,1,1,1,1
+050,53,069,Washington,Wahkiakum County,2,2,5,0,0,0,0
+050,53,069,Washington,Wahkiakum County,2,2,6,5,5,5,5
+050,53,071,Washington,Walla Walla County,0,0,1,54532,54532,54674,55084
+050,53,071,Washington,Walla Walla County,0,0,2,1162,1162,1162,1214
+050,53,071,Washington,Walla Walla County,0,0,3,755,755,755,802
+050,53,071,Washington,Walla Walla County,0,0,4,805,805,805,865
+050,53,071,Washington,Walla Walla County,0,0,5,182,182,182,183
+050,53,071,Washington,Walla Walla County,0,0,6,1345,1345,1345,1440
+050,53,071,Washington,Walla Walla County,0,1,1,43678,43678,43762,43791
+050,53,071,Washington,Walla Walla County,0,1,2,1016,1016,1016,1068
+050,53,071,Washington,Walla Walla County,0,1,3,457,457,457,478
+050,53,071,Washington,Walla Walla County,0,1,4,741,741,741,786
+050,53,071,Washington,Walla Walla County,0,1,5,161,161,161,160
+050,53,071,Washington,Walla Walla County,0,1,6,1135,1135,1135,1198
+050,53,071,Washington,Walla Walla County,0,2,1,10854,10854,10912,11293
+050,53,071,Washington,Walla Walla County,0,2,2,146,146,146,146
+050,53,071,Washington,Walla Walla County,0,2,3,298,298,298,324
+050,53,071,Washington,Walla Walla County,0,2,4,64,64,64,79
+050,53,071,Washington,Walla Walla County,0,2,5,21,21,21,23
+050,53,071,Washington,Walla Walla County,0,2,6,210,210,210,242
+050,53,071,Washington,Walla Walla County,1,0,1,27415,27415,27501,27714
+050,53,071,Washington,Walla Walla County,1,0,2,916,916,916,933
+050,53,071,Washington,Walla Walla County,1,0,3,419,419,419,444
+050,53,071,Washington,Walla Walla County,1,0,4,335,335,335,367
+050,53,071,Washington,Walla Walla County,1,0,5,100,100,100,101
+050,53,071,Washington,Walla Walla County,1,0,6,650,650,650,700
+050,53,071,Washington,Walla Walla County,1,1,1,21791,21791,21843,21866
+050,53,071,Washington,Walla Walla County,1,1,2,832,832,832,853
+050,53,071,Washington,Walla Walla County,1,1,3,274,274,274,293
+050,53,071,Washington,Walla Walla County,1,1,4,295,295,295,316
+050,53,071,Washington,Walla Walla County,1,1,5,89,89,89,90
+050,53,071,Washington,Walla Walla County,1,1,6,540,540,540,576
+050,53,071,Washington,Walla Walla County,1,2,1,5624,5624,5658,5848
+050,53,071,Washington,Walla Walla County,1,2,2,84,84,84,80
+050,53,071,Washington,Walla Walla County,1,2,3,145,145,145,151
+050,53,071,Washington,Walla Walla County,1,2,4,40,40,40,51
+050,53,071,Washington,Walla Walla County,1,2,5,11,11,11,11
+050,53,071,Washington,Walla Walla County,1,2,6,110,110,110,124
+050,53,071,Washington,Walla Walla County,2,0,1,27117,27117,27173,27370
+050,53,071,Washington,Walla Walla County,2,0,2,246,246,246,281
+050,53,071,Washington,Walla Walla County,2,0,3,336,336,336,358
+050,53,071,Washington,Walla Walla County,2,0,4,470,470,470,498
+050,53,071,Washington,Walla Walla County,2,0,5,82,82,82,82
+050,53,071,Washington,Walla Walla County,2,0,6,695,695,695,740
+050,53,071,Washington,Walla Walla County,2,1,1,21887,21887,21919,21925
+050,53,071,Washington,Walla Walla County,2,1,2,184,184,184,215
+050,53,071,Washington,Walla Walla County,2,1,3,183,183,183,185
+050,53,071,Washington,Walla Walla County,2,1,4,446,446,446,470
+050,53,071,Washington,Walla Walla County,2,1,5,72,72,72,70
+050,53,071,Washington,Walla Walla County,2,1,6,595,595,595,622
+050,53,071,Washington,Walla Walla County,2,2,1,5230,5230,5254,5445
+050,53,071,Washington,Walla Walla County,2,2,2,62,62,62,66
+050,53,071,Washington,Walla Walla County,2,2,3,153,153,153,173
+050,53,071,Washington,Walla Walla County,2,2,4,24,24,24,28
+050,53,071,Washington,Walla Walla County,2,2,5,10,10,10,12
+050,53,071,Washington,Walla Walla County,2,2,6,100,100,100,118
+050,53,073,Washington,Whatcom County,0,0,1,178060,178060,177948,179152
+050,53,073,Washington,Whatcom County,0,0,2,2162,2162,2216,2415
+050,53,073,Washington,Whatcom County,0,0,3,6254,6254,6293,6311
+050,53,073,Washington,Whatcom County,0,0,4,7311,7311,7574,7913
+050,53,073,Washington,Whatcom County,0,0,5,560,560,594,621
+050,53,073,Washington,Whatcom County,0,0,6,6793,6793,6989,7251
+050,53,073,Washington,Whatcom County,0,1,1,165038,165038,164877,165443
+050,53,073,Washington,Whatcom County,0,1,2,1818,1818,1832,1992
+050,53,073,Washington,Whatcom County,0,1,3,5081,5081,5078,5092
+050,53,073,Washington,Whatcom County,0,1,4,7085,7085,7348,7670
+050,53,073,Washington,Whatcom County,0,1,5,468,468,482,501
+050,53,073,Washington,Whatcom County,0,1,6,5894,5894,6076,6299
+050,53,073,Washington,Whatcom County,0,2,1,13022,13022,13071,13709
+050,53,073,Washington,Whatcom County,0,2,2,344,344,384,423
+050,53,073,Washington,Whatcom County,0,2,3,1173,1173,1215,1219
+050,53,073,Washington,Whatcom County,0,2,4,226,226,226,243
+050,53,073,Washington,Whatcom County,0,2,5,92,92,112,120
+050,53,073,Washington,Whatcom County,0,2,6,899,899,913,952
+050,53,073,Washington,Whatcom County,1,0,1,88176,88176,88154,88716
+050,53,073,Washington,Whatcom County,1,0,2,1317,1317,1329,1465
+050,53,073,Washington,Whatcom County,1,0,3,3197,3197,3230,3271
+050,53,073,Washington,Whatcom County,1,0,4,3330,3330,3450,3596
+050,53,073,Washington,Whatcom County,1,0,5,284,284,298,310
+050,53,073,Washington,Whatcom County,1,0,6,3331,3331,3418,3569
+050,53,073,Washington,Whatcom County,1,1,1,81390,81390,81341,81540
+050,53,073,Washington,Whatcom County,1,1,2,1135,1135,1147,1258
+050,53,073,Washington,Whatcom County,1,1,3,2596,2596,2590,2611
+050,53,073,Washington,Whatcom County,1,1,4,3225,3225,3345,3481
+050,53,073,Washington,Whatcom County,1,1,5,235,235,249,256
+050,53,073,Washington,Whatcom County,1,1,6,2886,2886,2973,3109
+050,53,073,Washington,Whatcom County,1,2,1,6786,6786,6813,7176
+050,53,073,Washington,Whatcom County,1,2,2,182,182,182,207
+050,53,073,Washington,Whatcom County,1,2,3,601,601,640,660
+050,53,073,Washington,Whatcom County,1,2,4,105,105,105,115
+050,53,073,Washington,Whatcom County,1,2,5,49,49,49,54
+050,53,073,Washington,Whatcom County,1,2,6,445,445,445,460
+050,53,073,Washington,Whatcom County,2,0,1,89884,89884,89794,90436
+050,53,073,Washington,Whatcom County,2,0,2,845,845,887,950
+050,53,073,Washington,Whatcom County,2,0,3,3057,3057,3063,3040
+050,53,073,Washington,Whatcom County,2,0,4,3981,3981,4124,4317
+050,53,073,Washington,Whatcom County,2,0,5,276,276,296,311
+050,53,073,Washington,Whatcom County,2,0,6,3462,3462,3571,3682
+050,53,073,Washington,Whatcom County,2,1,1,83648,83648,83536,83903
+050,53,073,Washington,Whatcom County,2,1,2,683,683,685,734
+050,53,073,Washington,Whatcom County,2,1,3,2485,2485,2488,2481
+050,53,073,Washington,Whatcom County,2,1,4,3860,3860,4003,4189
+050,53,073,Washington,Whatcom County,2,1,5,233,233,233,245
+050,53,073,Washington,Whatcom County,2,1,6,3008,3008,3103,3190
+050,53,073,Washington,Whatcom County,2,2,1,6236,6236,6258,6533
+050,53,073,Washington,Whatcom County,2,2,2,162,162,202,216
+050,53,073,Washington,Whatcom County,2,2,3,572,572,575,559
+050,53,073,Washington,Whatcom County,2,2,4,121,121,121,128
+050,53,073,Washington,Whatcom County,2,2,5,43,43,63,66
+050,53,073,Washington,Whatcom County,2,2,6,454,454,468,492
+050,53,075,Washington,Whitman County,0,0,1,38537,38537,38248,38477
+050,53,075,Washington,Whitman County,0,0,2,771,771,819,863
+050,53,075,Washington,Whitman County,0,0,3,333,333,333,339
+050,53,075,Washington,Whitman County,0,0,4,3497,3497,3572,3560
+050,53,075,Washington,Whitman County,0,0,5,114,114,150,153
+050,53,075,Washington,Whitman County,0,0,6,1524,1524,1688,1685
+050,53,075,Washington,Whitman County,0,1,1,36812,36812,36480,36632
+050,53,075,Washington,Whitman County,0,1,2,724,724,772,813
+050,53,075,Washington,Whitman County,0,1,3,274,274,274,271
+050,53,075,Washington,Whitman County,0,1,4,3460,3460,3535,3516
+050,53,075,Washington,Whitman County,0,1,5,102,102,138,140
+050,53,075,Washington,Whitman County,0,1,6,1364,1364,1501,1494
+050,53,075,Washington,Whitman County,0,2,1,1725,1725,1768,1845
+050,53,075,Washington,Whitman County,0,2,2,47,47,47,50
+050,53,075,Washington,Whitman County,0,2,3,59,59,59,68
+050,53,075,Washington,Whitman County,0,2,4,37,37,37,44
+050,53,075,Washington,Whitman County,0,2,5,12,12,12,13
+050,53,075,Washington,Whitman County,0,2,6,160,160,187,191
+050,53,075,Washington,Whitman County,1,0,1,19664,19664,19543,19672
+050,53,075,Washington,Whitman County,1,0,2,431,431,458,499
+050,53,075,Washington,Whitman County,1,0,3,167,167,167,167
+050,53,075,Washington,Whitman County,1,0,4,1758,1758,1786,1818
+050,53,075,Washington,Whitman County,1,0,5,63,63,81,85
+050,53,075,Washington,Whitman County,1,0,6,723,723,777,759
+050,53,075,Washington,Whitman County,1,1,1,18812,18812,18666,18760
+050,53,075,Washington,Whitman County,1,1,2,401,401,428,467
+050,53,075,Washington,Whitman County,1,1,3,142,142,142,139
+050,53,075,Washington,Whitman County,1,1,4,1743,1743,1771,1796
+050,53,075,Washington,Whitman County,1,1,5,56,56,74,77
+050,53,075,Washington,Whitman County,1,1,6,637,637,691,671
+050,53,075,Washington,Whitman County,1,2,1,852,852,877,912
+050,53,075,Washington,Whitman County,1,2,2,30,30,30,32
+050,53,075,Washington,Whitman County,1,2,3,25,25,25,28
+050,53,075,Washington,Whitman County,1,2,4,15,15,15,22
+050,53,075,Washington,Whitman County,1,2,5,7,7,7,8
+050,53,075,Washington,Whitman County,1,2,6,86,86,86,88
+050,53,075,Washington,Whitman County,2,0,1,18873,18873,18705,18805
+050,53,075,Washington,Whitman County,2,0,2,340,340,361,364
+050,53,075,Washington,Whitman County,2,0,3,166,166,166,172
+050,53,075,Washington,Whitman County,2,0,4,1739,1739,1786,1742
+050,53,075,Washington,Whitman County,2,0,5,51,51,69,68
+050,53,075,Washington,Whitman County,2,0,6,801,801,911,926
+050,53,075,Washington,Whitman County,2,1,1,18000,18000,17814,17872
+050,53,075,Washington,Whitman County,2,1,2,323,323,344,346
+050,53,075,Washington,Whitman County,2,1,3,132,132,132,132
+050,53,075,Washington,Whitman County,2,1,4,1717,1717,1764,1720
+050,53,075,Washington,Whitman County,2,1,5,46,46,64,63
+050,53,075,Washington,Whitman County,2,1,6,727,727,810,823
+050,53,075,Washington,Whitman County,2,2,1,873,873,891,933
+050,53,075,Washington,Whitman County,2,2,2,17,17,17,18
+050,53,075,Washington,Whitman County,2,2,3,34,34,34,40
+050,53,075,Washington,Whitman County,2,2,4,22,22,22,22
+050,53,075,Washington,Whitman County,2,2,5,5,5,5,5
+050,53,075,Washington,Whitman County,2,2,6,74,74,101,103
+050,53,077,Washington,Yakima County,0,0,1,216074,216074,217079,218953
+050,53,077,Washington,Yakima County,0,0,2,3233,3233,3261,3455
+050,53,077,Washington,Yakima County,0,0,3,13865,13865,13916,13956
+050,53,077,Washington,Yakima County,0,0,4,3217,3217,3240,3417
+050,53,077,Washington,Yakima County,0,0,5,445,445,450,474
+050,53,077,Washington,Yakima County,0,0,6,6397,6397,6482,6886
+050,53,077,Washington,Yakima County,0,1,1,116419,116419,116748,116025
+050,53,077,Washington,Yakima County,0,1,2,1756,1756,1767,1910
+050,53,077,Washington,Yakima County,0,1,3,9120,9120,9147,9083
+050,53,077,Washington,Yakima County,0,1,4,2386,2386,2402,2561
+050,53,077,Washington,Yakima County,0,1,5,144,144,149,168
+050,53,077,Washington,Yakima County,0,1,6,3936,3936,3982,4273
+050,53,077,Washington,Yakima County,0,2,1,99655,99655,100331,102928
+050,53,077,Washington,Yakima County,0,2,2,1477,1477,1494,1545
+050,53,077,Washington,Yakima County,0,2,3,4745,4745,4769,4873
+050,53,077,Washington,Yakima County,0,2,4,831,831,838,856
+050,53,077,Washington,Yakima County,0,2,5,301,301,301,306
+050,53,077,Washington,Yakima County,0,2,6,2461,2461,2500,2613
+050,53,077,Washington,Yakima County,1,0,1,108012,108012,108578,109750
+050,53,077,Washington,Yakima County,1,0,2,1799,1799,1818,1936
+050,53,077,Washington,Yakima County,1,0,3,6989,6989,7013,7015
+050,53,077,Washington,Yakima County,1,0,4,1492,1492,1501,1588
+050,53,077,Washington,Yakima County,1,0,5,234,234,236,246
+050,53,077,Washington,Yakima County,1,0,6,3150,3150,3196,3372
+050,53,077,Washington,Yakima County,1,1,1,56701,56701,56887,56607
+050,53,077,Washington,Yakima County,1,1,2,1028,1028,1037,1116
+050,53,077,Washington,Yakima County,1,1,3,4545,4545,4556,4523
+050,53,077,Washington,Yakima County,1,1,4,1066,1066,1071,1145
+050,53,077,Washington,Yakima County,1,1,5,83,83,85,95
+050,53,077,Washington,Yakima County,1,1,6,1898,1898,1924,2058
+050,53,077,Washington,Yakima County,1,2,1,51311,51311,51691,53143
+050,53,077,Washington,Yakima County,1,2,2,771,771,781,820
+050,53,077,Washington,Yakima County,1,2,3,2444,2444,2457,2492
+050,53,077,Washington,Yakima County,1,2,4,426,426,430,443
+050,53,077,Washington,Yakima County,1,2,5,151,151,151,151
+050,53,077,Washington,Yakima County,1,2,6,1252,1252,1272,1314
+050,53,077,Washington,Yakima County,2,0,1,108062,108062,108501,109203
+050,53,077,Washington,Yakima County,2,0,2,1434,1434,1443,1519
+050,53,077,Washington,Yakima County,2,0,3,6876,6876,6903,6941
+050,53,077,Washington,Yakima County,2,0,4,1725,1725,1739,1829
+050,53,077,Washington,Yakima County,2,0,5,211,211,214,228
+050,53,077,Washington,Yakima County,2,0,6,3247,3247,3286,3514
+050,53,077,Washington,Yakima County,2,1,1,59718,59718,59861,59418
+050,53,077,Washington,Yakima County,2,1,2,728,728,730,794
+050,53,077,Washington,Yakima County,2,1,3,4575,4575,4591,4560
+050,53,077,Washington,Yakima County,2,1,4,1320,1320,1331,1416
+050,53,077,Washington,Yakima County,2,1,5,61,61,64,73
+050,53,077,Washington,Yakima County,2,1,6,2038,2038,2058,2215
+050,53,077,Washington,Yakima County,2,2,1,48344,48344,48640,49785
+050,53,077,Washington,Yakima County,2,2,2,706,706,713,725
+050,53,077,Washington,Yakima County,2,2,3,2301,2301,2312,2381
+050,53,077,Washington,Yakima County,2,2,4,405,405,408,413
+050,53,077,Washington,Yakima County,2,2,5,150,150,150,155
+050,53,077,Washington,Yakima County,2,2,6,1209,1209,1228,1299

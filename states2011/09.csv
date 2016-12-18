@@ -1,0 +1,433 @@
+SUMLEV,STATE,COUNTY,STNAME,CTYNAME,SEX,ORIGIN,RACE,CENSUS2010POP,ESTIMATESBASE2010,POPESTIMATE2010,POPESTIMATE2011
+050,09,001,Connecticut,Fairfield County,0,0,1,745332,745332,746138,749448
+050,09,001,Connecticut,Fairfield County,0,0,2,106784,106784,107113,108872
+050,09,001,Connecticut,Fairfield County,0,0,3,4182,4182,4202,4316
+050,09,001,Connecticut,Fairfield County,0,0,4,43878,43878,44074,45752
+050,09,001,Connecticut,Fairfield County,0,0,5,1010,1010,1015,1005
+050,09,001,Connecticut,Fairfield County,0,0,6,15643,15643,15797,16506
+050,09,001,Connecticut,Fairfield County,0,1,1,611963,611963,611973,611291
+050,09,001,Connecticut,Fairfield County,0,1,2,94536,94536,94750,96090
+050,09,001,Connecticut,Fairfield County,0,1,3,1048,1048,1060,1113
+050,09,001,Connecticut,Fairfield County,0,1,4,42742,42742,42931,44561
+050,09,001,Connecticut,Fairfield County,0,1,5,335,335,338,361
+050,09,001,Connecticut,Fairfield County,0,1,6,11180,11180,11294,11791
+050,09,001,Connecticut,Fairfield County,0,2,1,133369,133369,134165,138157
+050,09,001,Connecticut,Fairfield County,0,2,2,12248,12248,12363,12782
+050,09,001,Connecticut,Fairfield County,0,2,3,3134,3134,3142,3203
+050,09,001,Connecticut,Fairfield County,0,2,4,1136,1136,1143,1191
+050,09,001,Connecticut,Fairfield County,0,2,5,675,675,677,644
+050,09,001,Connecticut,Fairfield County,0,2,6,4463,4463,4503,4715
+050,09,001,Connecticut,Fairfield County,1,0,1,364850,364850,365320,367469
+050,09,001,Connecticut,Fairfield County,1,0,2,49139,49139,49305,50382
+050,09,001,Connecticut,Fairfield County,1,0,3,2214,2214,2222,2263
+050,09,001,Connecticut,Fairfield County,1,0,4,21145,21145,21233,22164
+050,09,001,Connecticut,Fairfield County,1,0,5,548,548,548,527
+050,09,001,Connecticut,Fairfield County,1,0,6,7705,7705,7783,8195
+050,09,001,Connecticut,Fairfield County,1,1,1,296807,296807,296857,296784
+050,09,001,Connecticut,Fairfield County,1,1,2,43299,43299,43409,44264
+050,09,001,Connecticut,Fairfield County,1,1,3,508,508,515,544
+050,09,001,Connecticut,Fairfield County,1,1,4,20539,20539,20624,21527
+050,09,001,Connecticut,Fairfield County,1,1,5,157,157,156,164
+050,09,001,Connecticut,Fairfield County,1,1,6,5375,5375,5432,5728
+050,09,001,Connecticut,Fairfield County,1,2,1,68043,68043,68463,70685
+050,09,001,Connecticut,Fairfield County,1,2,2,5840,5840,5896,6118
+050,09,001,Connecticut,Fairfield County,1,2,3,1706,1706,1707,1719
+050,09,001,Connecticut,Fairfield County,1,2,4,606,606,609,637
+050,09,001,Connecticut,Fairfield County,1,2,5,391,391,392,363
+050,09,001,Connecticut,Fairfield County,1,2,6,2330,2330,2351,2467
+050,09,001,Connecticut,Fairfield County,2,0,1,380482,380482,380818,381979
+050,09,001,Connecticut,Fairfield County,2,0,2,57645,57645,57808,58490
+050,09,001,Connecticut,Fairfield County,2,0,3,1968,1968,1980,2053
+050,09,001,Connecticut,Fairfield County,2,0,4,22733,22733,22841,23588
+050,09,001,Connecticut,Fairfield County,2,0,5,462,462,467,478
+050,09,001,Connecticut,Fairfield County,2,0,6,7938,7938,8014,8311
+050,09,001,Connecticut,Fairfield County,2,1,1,315156,315156,315116,314507
+050,09,001,Connecticut,Fairfield County,2,1,2,51237,51237,51341,51826
+050,09,001,Connecticut,Fairfield County,2,1,3,540,540,545,569
+050,09,001,Connecticut,Fairfield County,2,1,4,22203,22203,22307,23034
+050,09,001,Connecticut,Fairfield County,2,1,5,178,178,182,197
+050,09,001,Connecticut,Fairfield County,2,1,6,5805,5805,5862,6063
+050,09,001,Connecticut,Fairfield County,2,2,1,65326,65326,65702,67472
+050,09,001,Connecticut,Fairfield County,2,2,2,6408,6408,6467,6664
+050,09,001,Connecticut,Fairfield County,2,2,3,1428,1428,1435,1484
+050,09,001,Connecticut,Fairfield County,2,2,4,530,530,534,554
+050,09,001,Connecticut,Fairfield County,2,2,5,284,284,285,281
+050,09,001,Connecticut,Fairfield County,2,2,6,2133,2133,2152,2248
+050,09,003,Connecticut,Hartford County,0,0,1,701004,701004,700728,699519
+050,09,003,Connecticut,Hartford County,0,0,2,130343,130343,130456,130798
+050,09,003,Connecticut,Hartford County,0,0,3,4012,4012,4038,4138
+050,09,003,Connecticut,Hartford County,0,0,4,39479,39479,39603,40292
+050,09,003,Connecticut,Hartford County,0,0,5,967,967,972,985
+050,09,003,Connecticut,Hartford County,0,0,6,18209,18209,18330,18973
+050,09,003,Connecticut,Hartford County,0,1,1,593063,593063,592280,588309
+050,09,003,Connecticut,Hartford County,0,1,2,111141,111141,111158,111283
+050,09,003,Connecticut,Hartford County,0,1,3,1331,1331,1339,1382
+050,09,003,Connecticut,Hartford County,0,1,4,38419,38419,38538,39203
+050,09,003,Connecticut,Hartford County,0,1,5,235,235,236,248
+050,09,003,Connecticut,Hartford County,0,1,6,13042,13042,13120,13531
+050,09,003,Connecticut,Hartford County,0,2,1,107941,107941,108448,111210
+050,09,003,Connecticut,Hartford County,0,2,2,19202,19202,19298,19515
+050,09,003,Connecticut,Hartford County,0,2,3,2681,2681,2699,2756
+050,09,003,Connecticut,Hartford County,0,2,4,1060,1060,1065,1089
+050,09,003,Connecticut,Hartford County,0,2,5,732,732,736,737
+050,09,003,Connecticut,Hartford County,0,2,6,5167,5167,5210,5442
+050,09,003,Connecticut,Hartford County,1,0,1,339041,339041,338977,338682
+050,09,003,Connecticut,Hartford County,1,0,2,62243,62243,62326,62560
+050,09,003,Connecticut,Hartford County,1,0,3,1954,1954,1970,2038
+050,09,003,Connecticut,Hartford County,1,0,4,19504,19504,19569,19865
+050,09,003,Connecticut,Hartford County,1,0,5,532,532,537,546
+050,09,003,Connecticut,Hartford County,1,0,6,8739,8739,8812,9152
+050,09,003,Connecticut,Hartford County,1,1,1,286255,286255,285932,284132
+050,09,003,Connecticut,Hartford County,1,1,2,53194,53194,53219,53363
+050,09,003,Connecticut,Hartford County,1,1,3,635,635,641,649
+050,09,003,Connecticut,Hartford County,1,1,4,18990,18990,19052,19329
+050,09,003,Connecticut,Hartford County,1,1,5,109,109,110,114
+050,09,003,Connecticut,Hartford County,1,1,6,6267,6267,6311,6546
+050,09,003,Connecticut,Hartford County,1,2,1,52786,52786,53045,54550
+050,09,003,Connecticut,Hartford County,1,2,2,9049,9049,9107,9197
+050,09,003,Connecticut,Hartford County,1,2,3,1319,1319,1329,1389
+050,09,003,Connecticut,Hartford County,1,2,4,514,514,517,536
+050,09,003,Connecticut,Hartford County,1,2,5,423,423,427,432
+050,09,003,Connecticut,Hartford County,1,2,6,2472,2472,2501,2606
+050,09,003,Connecticut,Hartford County,2,0,1,361963,361963,361751,360837
+050,09,003,Connecticut,Hartford County,2,0,2,68100,68100,68130,68238
+050,09,003,Connecticut,Hartford County,2,0,3,2058,2058,2068,2100
+050,09,003,Connecticut,Hartford County,2,0,4,19975,19975,20034,20427
+050,09,003,Connecticut,Hartford County,2,0,5,435,435,435,439
+050,09,003,Connecticut,Hartford County,2,0,6,9470,9470,9518,9821
+050,09,003,Connecticut,Hartford County,2,1,1,306808,306808,306348,304177
+050,09,003,Connecticut,Hartford County,2,1,2,57947,57947,57939,57920
+050,09,003,Connecticut,Hartford County,2,1,3,696,696,698,733
+050,09,003,Connecticut,Hartford County,2,1,4,19429,19429,19486,19874
+050,09,003,Connecticut,Hartford County,2,1,5,126,126,126,134
+050,09,003,Connecticut,Hartford County,2,1,6,6775,6775,6809,6985
+050,09,003,Connecticut,Hartford County,2,2,1,55155,55155,55403,56660
+050,09,003,Connecticut,Hartford County,2,2,2,10153,10153,10191,10318
+050,09,003,Connecticut,Hartford County,2,2,3,1362,1362,1370,1367
+050,09,003,Connecticut,Hartford County,2,2,4,546,546,548,553
+050,09,003,Connecticut,Hartford County,2,2,5,309,309,309,305
+050,09,003,Connecticut,Hartford County,2,2,6,2695,2695,2709,2836
+050,09,005,Connecticut,Litchfield County,0,0,1,180797,180797,180605,179122
+050,09,005,Connecticut,Litchfield County,0,0,2,2912,2912,2914,3130
+050,09,005,Connecticut,Litchfield County,0,0,3,489,489,489,528
+050,09,005,Connecticut,Litchfield County,0,0,4,2976,2976,2986,3156
+050,09,005,Connecticut,Litchfield County,0,0,5,92,92,92,103
+050,09,005,Connecticut,Litchfield County,0,0,6,2661,2661,2665,2750
+050,09,005,Connecticut,Litchfield County,0,1,1,173689,173689,173467,171667
+050,09,005,Connecticut,Litchfield County,0,1,2,2238,2238,2240,2399
+050,09,005,Connecticut,Litchfield County,0,1,3,284,284,284,301
+050,09,005,Connecticut,Litchfield County,0,1,4,2918,2918,2928,3097
+050,09,005,Connecticut,Litchfield County,0,1,5,45,45,45,48
+050,09,005,Connecticut,Litchfield County,0,1,6,2218,2218,2222,2281
+050,09,005,Connecticut,Litchfield County,0,2,1,7108,7108,7138,7455
+050,09,005,Connecticut,Litchfield County,0,2,2,674,674,674,731
+050,09,005,Connecticut,Litchfield County,0,2,3,205,205,205,227
+050,09,005,Connecticut,Litchfield County,0,2,4,58,58,58,59
+050,09,005,Connecticut,Litchfield County,0,2,5,47,47,47,55
+050,09,005,Connecticut,Litchfield County,0,2,6,443,443,443,469
+050,09,005,Connecticut,Litchfield County,1,0,1,88807,88807,88727,88046
+050,09,005,Connecticut,Litchfield County,1,0,2,1526,1526,1527,1613
+050,09,005,Connecticut,Litchfield County,1,0,3,255,255,255,275
+050,09,005,Connecticut,Litchfield County,1,0,4,1356,1356,1358,1454
+050,09,005,Connecticut,Litchfield County,1,0,5,48,48,48,55
+050,09,005,Connecticut,Litchfield County,1,0,6,1346,1346,1350,1394
+050,09,005,Connecticut,Litchfield County,1,1,1,85191,85191,85095,84249
+050,09,005,Connecticut,Litchfield County,1,1,2,1218,1218,1219,1279
+050,09,005,Connecticut,Litchfield County,1,1,3,148,148,148,155
+050,09,005,Connecticut,Litchfield County,1,1,4,1330,1330,1332,1426
+050,09,005,Connecticut,Litchfield County,1,1,5,20,20,20,21
+050,09,005,Connecticut,Litchfield County,1,1,6,1122,1122,1126,1150
+050,09,005,Connecticut,Litchfield County,1,2,1,3616,3616,3632,3797
+050,09,005,Connecticut,Litchfield County,1,2,2,308,308,308,334
+050,09,005,Connecticut,Litchfield County,1,2,3,107,107,107,120
+050,09,005,Connecticut,Litchfield County,1,2,4,26,26,26,28
+050,09,005,Connecticut,Litchfield County,1,2,5,28,28,28,34
+050,09,005,Connecticut,Litchfield County,1,2,6,224,224,224,244
+050,09,005,Connecticut,Litchfield County,2,0,1,91990,91990,91878,91076
+050,09,005,Connecticut,Litchfield County,2,0,2,1386,1386,1387,1517
+050,09,005,Connecticut,Litchfield County,2,0,3,234,234,234,253
+050,09,005,Connecticut,Litchfield County,2,0,4,1620,1620,1628,1702
+050,09,005,Connecticut,Litchfield County,2,0,5,44,44,44,48
+050,09,005,Connecticut,Litchfield County,2,0,6,1315,1315,1315,1356
+050,09,005,Connecticut,Litchfield County,2,1,1,88498,88498,88372,87418
+050,09,005,Connecticut,Litchfield County,2,1,2,1020,1020,1021,1120
+050,09,005,Connecticut,Litchfield County,2,1,3,136,136,136,146
+050,09,005,Connecticut,Litchfield County,2,1,4,1588,1588,1596,1671
+050,09,005,Connecticut,Litchfield County,2,1,5,25,25,25,27
+050,09,005,Connecticut,Litchfield County,2,1,6,1096,1096,1096,1131
+050,09,005,Connecticut,Litchfield County,2,2,1,3492,3492,3506,3658
+050,09,005,Connecticut,Litchfield County,2,2,2,366,366,366,397
+050,09,005,Connecticut,Litchfield County,2,2,3,98,98,98,107
+050,09,005,Connecticut,Litchfield County,2,2,4,32,32,32,31
+050,09,005,Connecticut,Litchfield County,2,2,5,19,19,19,21
+050,09,005,Connecticut,Litchfield County,2,2,6,219,219,219,225
+050,09,007,Connecticut,Middlesex County,0,0,1,149965,149965,149891,149950
+050,09,007,Connecticut,Middlesex County,0,0,2,8125,8125,8138,8301
+050,09,007,Connecticut,Middlesex County,0,0,3,295,295,295,314
+050,09,007,Connecticut,Middlesex County,0,0,4,4354,4354,4367,4398
+050,09,007,Connecticut,Middlesex County,0,0,5,84,84,84,96
+050,09,007,Connecticut,Middlesex County,0,0,6,2853,2853,2855,2984
+050,09,007,Connecticut,Middlesex County,0,1,1,143451,143451,143351,142998
+050,09,007,Connecticut,Middlesex County,0,1,2,7322,7322,7335,7491
+050,09,007,Connecticut,Middlesex County,0,1,3,213,213,213,217
+050,09,007,Connecticut,Middlesex County,0,1,4,4280,4280,4293,4316
+050,09,007,Connecticut,Middlesex County,0,1,5,55,55,55,61
+050,09,007,Connecticut,Middlesex County,0,1,6,2521,2521,2523,2623
+050,09,007,Connecticut,Middlesex County,0,2,1,6514,6514,6540,6952
+050,09,007,Connecticut,Middlesex County,0,2,2,803,803,803,810
+050,09,007,Connecticut,Middlesex County,0,2,3,82,82,82,97
+050,09,007,Connecticut,Middlesex County,0,2,4,74,74,74,82
+050,09,007,Connecticut,Middlesex County,0,2,5,29,29,29,35
+050,09,007,Connecticut,Middlesex County,0,2,6,332,332,332,361
+050,09,007,Connecticut,Middlesex County,1,0,1,73344,73344,73318,73356
+050,09,007,Connecticut,Middlesex County,1,0,2,3918,3918,3924,3994
+050,09,007,Connecticut,Middlesex County,1,0,3,138,138,138,156
+050,09,007,Connecticut,Middlesex County,1,0,4,2064,2064,2071,2089
+050,09,007,Connecticut,Middlesex County,1,0,5,37,37,37,43
+050,09,007,Connecticut,Middlesex County,1,0,6,1407,1407,1409,1487
+050,09,007,Connecticut,Middlesex County,1,1,1,70072,70072,70031,69825
+050,09,007,Connecticut,Middlesex County,1,1,2,3528,3528,3534,3587
+050,09,007,Connecticut,Middlesex County,1,1,3,99,99,99,103
+050,09,007,Connecticut,Middlesex County,1,1,4,2026,2026,2033,2050
+050,09,007,Connecticut,Middlesex County,1,1,5,21,21,21,24
+050,09,007,Connecticut,Middlesex County,1,1,6,1260,1260,1262,1314
+050,09,007,Connecticut,Middlesex County,1,2,1,3272,3272,3287,3531
+050,09,007,Connecticut,Middlesex County,1,2,2,390,390,390,407
+050,09,007,Connecticut,Middlesex County,1,2,3,39,39,39,53
+050,09,007,Connecticut,Middlesex County,1,2,4,38,38,38,39
+050,09,007,Connecticut,Middlesex County,1,2,5,16,16,16,19
+050,09,007,Connecticut,Middlesex County,1,2,6,147,147,147,173
+050,09,007,Connecticut,Middlesex County,2,0,1,76621,76621,76573,76594
+050,09,007,Connecticut,Middlesex County,2,0,2,4207,4207,4214,4307
+050,09,007,Connecticut,Middlesex County,2,0,3,157,157,157,158
+050,09,007,Connecticut,Middlesex County,2,0,4,2290,2290,2296,2309
+050,09,007,Connecticut,Middlesex County,2,0,5,47,47,47,53
+050,09,007,Connecticut,Middlesex County,2,0,6,1446,1446,1446,1497
+050,09,007,Connecticut,Middlesex County,2,1,1,73379,73379,73320,73173
+050,09,007,Connecticut,Middlesex County,2,1,2,3794,3794,3801,3904
+050,09,007,Connecticut,Middlesex County,2,1,3,114,114,114,114
+050,09,007,Connecticut,Middlesex County,2,1,4,2254,2254,2260,2266
+050,09,007,Connecticut,Middlesex County,2,1,5,34,34,34,37
+050,09,007,Connecticut,Middlesex County,2,1,6,1261,1261,1261,1309
+050,09,007,Connecticut,Middlesex County,2,2,1,3242,3242,3253,3421
+050,09,007,Connecticut,Middlesex County,2,2,2,413,413,413,403
+050,09,007,Connecticut,Middlesex County,2,2,3,43,43,43,44
+050,09,007,Connecticut,Middlesex County,2,2,4,36,36,36,43
+050,09,007,Connecticut,Middlesex County,2,2,5,13,13,13,16
+050,09,007,Connecticut,Middlesex County,2,2,6,185,185,185,188
+050,09,009,Connecticut,New Haven County,0,0,1,691242,691242,690893,688412
+050,09,009,Connecticut,New Haven County,0,0,2,117948,117948,118051,118245
+050,09,009,Connecticut,New Haven County,0,0,3,3826,3826,3833,3861
+050,09,009,Connecticut,New Haven County,0,0,4,31295,31295,31393,31994
+050,09,009,Connecticut,New Haven County,0,0,5,791,791,789,791
+050,09,009,Connecticut,New Haven County,0,0,6,17375,17375,17479,17810
+050,09,009,Connecticut,New Haven County,0,1,1,584592,584592,583793,579030
+050,09,009,Connecticut,New Haven County,0,1,2,102927,102927,102945,103055
+050,09,009,Connecticut,New Haven County,0,1,3,1474,1474,1472,1466
+050,09,009,Connecticut,New Haven County,0,1,4,30515,30515,30610,31193
+050,09,009,Connecticut,New Haven County,0,1,5,257,257,257,273
+050,09,009,Connecticut,New Haven County,0,1,6,12969,12969,13032,13331
+050,09,009,Connecticut,New Haven County,0,2,1,106650,106650,107100,109382
+050,09,009,Connecticut,New Haven County,0,2,2,15021,15021,15106,15190
+050,09,009,Connecticut,New Haven County,0,2,3,2352,2352,2361,2395
+050,09,009,Connecticut,New Haven County,0,2,4,780,780,783,801
+050,09,009,Connecticut,New Haven County,0,2,5,534,534,532,518
+050,09,009,Connecticut,New Haven County,0,2,6,4406,4406,4447,4479
+050,09,009,Connecticut,New Haven County,1,0,1,334003,334003,333908,333066
+050,09,009,Connecticut,New Haven County,1,0,2,55521,55521,55587,55657
+050,09,009,Connecticut,New Haven County,1,0,3,1886,1886,1890,1929
+050,09,009,Connecticut,New Haven County,1,0,4,15001,15001,15052,15279
+050,09,009,Connecticut,New Haven County,1,0,5,408,408,405,393
+050,09,009,Connecticut,New Haven County,1,0,6,8271,8271,8326,8514
+050,09,009,Connecticut,New Haven County,1,1,1,280873,280873,280542,278494
+050,09,009,Connecticut,New Haven County,1,1,2,48383,48383,48406,48412
+050,09,009,Connecticut,New Haven County,1,1,3,729,729,727,733
+050,09,009,Connecticut,New Haven County,1,1,4,14631,14631,14681,14896
+050,09,009,Connecticut,New Haven County,1,1,5,140,140,139,143
+050,09,009,Connecticut,New Haven County,1,1,6,6104,6104,6137,6287
+050,09,009,Connecticut,New Haven County,1,2,1,53130,53130,53366,54572
+050,09,009,Connecticut,New Haven County,1,2,2,7138,7138,7181,7245
+050,09,009,Connecticut,New Haven County,1,2,3,1157,1157,1163,1196
+050,09,009,Connecticut,New Haven County,1,2,4,370,370,371,383
+050,09,009,Connecticut,New Haven County,1,2,5,268,268,266,250
+050,09,009,Connecticut,New Haven County,1,2,6,2167,2167,2189,2227
+050,09,009,Connecticut,New Haven County,2,0,1,357239,357239,356985,355346
+050,09,009,Connecticut,New Haven County,2,0,2,62427,62427,62464,62588
+050,09,009,Connecticut,New Haven County,2,0,3,1940,1940,1943,1932
+050,09,009,Connecticut,New Haven County,2,0,4,16294,16294,16341,16715
+050,09,009,Connecticut,New Haven County,2,0,5,383,383,384,398
+050,09,009,Connecticut,New Haven County,2,0,6,9104,9104,9153,9296
+050,09,009,Connecticut,New Haven County,2,1,1,303719,303719,303251,300536
+050,09,009,Connecticut,New Haven County,2,1,2,54544,54544,54539,54643
+050,09,009,Connecticut,New Haven County,2,1,3,745,745,745,733
+050,09,009,Connecticut,New Haven County,2,1,4,15884,15884,15929,16297
+050,09,009,Connecticut,New Haven County,2,1,5,117,117,118,130
+050,09,009,Connecticut,New Haven County,2,1,6,6865,6865,6895,7044
+050,09,009,Connecticut,New Haven County,2,2,1,53520,53520,53734,54810
+050,09,009,Connecticut,New Haven County,2,2,2,7883,7883,7925,7945
+050,09,009,Connecticut,New Haven County,2,2,3,1195,1195,1198,1199
+050,09,009,Connecticut,New Haven County,2,2,4,410,410,412,418
+050,09,009,Connecticut,New Haven County,2,2,5,266,266,266,268
+050,09,009,Connecticut,New Haven County,2,2,6,2239,2239,2258,2252
+050,09,011,Connecticut,New London County,0,0,1,232756,232756,232629,231907
+050,09,011,Connecticut,New London County,0,0,2,17471,17471,17487,17754
+050,09,011,Connecticut,New London County,0,0,3,2894,2894,2880,2859
+050,09,011,Connecticut,New London County,0,0,4,11787,11787,11835,11818
+050,09,011,Connecticut,New London County,0,0,5,340,340,340,360
+050,09,011,Connecticut,New London County,0,0,6,8807,8807,8847,8804
+050,09,011,Connecticut,New London County,0,1,1,215127,215127,214925,213590
+050,09,011,Connecticut,New London County,0,1,2,14738,14738,14748,14931
+050,09,011,Connecticut,New London County,0,1,3,2105,2105,2087,2042
+050,09,011,Connecticut,New London County,0,1,4,11429,11429,11477,11447
+050,09,011,Connecticut,New London County,0,1,5,191,191,191,207
+050,09,011,Connecticut,New London County,0,1,6,7251,7251,7287,7189
+050,09,011,Connecticut,New London County,0,2,1,17629,17629,17704,18317
+050,09,011,Connecticut,New London County,0,2,2,2733,2733,2739,2823
+050,09,011,Connecticut,New London County,0,2,3,789,789,793,817
+050,09,011,Connecticut,New London County,0,2,4,358,358,358,371
+050,09,011,Connecticut,New London County,0,2,5,149,149,149,153
+050,09,011,Connecticut,New London County,0,2,6,1556,1556,1560,1615
+050,09,011,Connecticut,New London County,1,0,1,115667,115667,115628,115327
+050,09,011,Connecticut,New London County,1,0,2,9317,9317,9329,9480
+050,09,011,Connecticut,New London County,1,0,3,1477,1477,1471,1449
+050,09,011,Connecticut,New London County,1,0,4,5702,5702,5726,5699
+050,09,011,Connecticut,New London County,1,0,5,182,182,182,199
+050,09,011,Connecticut,New London County,1,0,6,4458,4458,4477,4424
+050,09,011,Connecticut,New London County,1,1,1,106522,106522,106445,105834
+050,09,011,Connecticut,New London County,1,1,2,8011,8011,8020,8116
+050,09,011,Connecticut,New London County,1,1,3,1058,1058,1052,1031
+050,09,011,Connecticut,New London County,1,1,4,5510,5510,5533,5497
+050,09,011,Connecticut,New London County,1,1,5,88,88,88,103
+050,09,011,Connecticut,New London County,1,1,6,3663,3663,3680,3604
+050,09,011,Connecticut,New London County,1,2,1,9145,9145,9183,9493
+050,09,011,Connecticut,New London County,1,2,2,1306,1306,1309,1364
+050,09,011,Connecticut,New London County,1,2,3,419,419,419,418
+050,09,011,Connecticut,New London County,1,2,4,192,192,193,202
+050,09,011,Connecticut,New London County,1,2,5,94,94,94,96
+050,09,011,Connecticut,New London County,1,2,6,795,795,797,820
+050,09,011,Connecticut,New London County,2,0,1,117089,117089,117001,116580
+050,09,011,Connecticut,New London County,2,0,2,8154,8154,8158,8274
+050,09,011,Connecticut,New London County,2,0,3,1417,1417,1409,1410
+050,09,011,Connecticut,New London County,2,0,4,6085,6085,6109,6119
+050,09,011,Connecticut,New London County,2,0,5,158,158,158,161
+050,09,011,Connecticut,New London County,2,0,6,4349,4349,4370,4380
+050,09,011,Connecticut,New London County,2,1,1,108605,108605,108480,107756
+050,09,011,Connecticut,New London County,2,1,2,6727,6727,6728,6815
+050,09,011,Connecticut,New London County,2,1,3,1047,1047,1035,1011
+050,09,011,Connecticut,New London County,2,1,4,5919,5919,5944,5950
+050,09,011,Connecticut,New London County,2,1,5,103,103,103,104
+050,09,011,Connecticut,New London County,2,1,6,3588,3588,3607,3585
+050,09,011,Connecticut,New London County,2,2,1,8484,8484,8521,8824
+050,09,011,Connecticut,New London County,2,2,2,1427,1427,1430,1459
+050,09,011,Connecticut,New London County,2,2,3,370,370,374,399
+050,09,011,Connecticut,New London County,2,2,4,166,166,165,169
+050,09,011,Connecticut,New London County,2,2,5,55,55,55,57
+050,09,011,Connecticut,New London County,2,2,6,761,761,763,795
+050,09,013,Connecticut,Tolland County,0,0,1,139175,139175,139073,138318
+050,09,013,Connecticut,Tolland County,0,0,2,5270,5270,5299,5619
+050,09,013,Connecticut,Tolland County,0,0,3,308,308,316,334
+050,09,013,Connecticut,Tolland County,0,0,4,5292,5292,5354,5500
+050,09,013,Connecticut,Tolland County,0,0,5,118,118,118,123
+050,09,013,Connecticut,Tolland County,0,0,6,2528,2528,2574,2613
+050,09,013,Connecticut,Tolland County,0,1,1,133808,133808,133663,132645
+050,09,013,Connecticut,Tolland County,0,1,2,4728,4728,4748,5055
+050,09,013,Connecticut,Tolland County,0,1,3,220,220,228,237
+050,09,013,Connecticut,Tolland County,0,1,4,5155,5155,5217,5357
+050,09,013,Connecticut,Tolland County,0,1,5,32,32,32,33
+050,09,013,Connecticut,Tolland County,0,1,6,2146,2146,2152,2181
+050,09,013,Connecticut,Tolland County,0,2,1,5367,5367,5410,5673
+050,09,013,Connecticut,Tolland County,0,2,2,542,542,551,564
+050,09,013,Connecticut,Tolland County,0,2,3,88,88,88,97
+050,09,013,Connecticut,Tolland County,0,2,4,137,137,137,143
+050,09,013,Connecticut,Tolland County,0,2,5,86,86,86,90
+050,09,013,Connecticut,Tolland County,0,2,6,382,382,422,432
+050,09,013,Connecticut,Tolland County,1,0,1,69675,69675,69630,69220
+050,09,013,Connecticut,Tolland County,1,0,2,3286,3286,3294,3434
+050,09,013,Connecticut,Tolland County,1,0,3,159,159,159,165
+050,09,013,Connecticut,Tolland County,1,0,4,2668,2668,2709,2780
+050,09,013,Connecticut,Tolland County,1,0,5,95,95,95,99
+050,09,013,Connecticut,Tolland County,1,0,6,1280,1280,1280,1308
+050,09,013,Connecticut,Tolland County,1,1,1,66721,66721,66660,66128
+050,09,013,Connecticut,Tolland County,1,1,2,2994,2994,3002,3133
+050,09,013,Connecticut,Tolland County,1,1,3,120,120,120,125
+050,09,013,Connecticut,Tolland County,1,1,4,2575,2575,2616,2683
+050,09,013,Connecticut,Tolland County,1,1,5,18,18,18,18
+050,09,013,Connecticut,Tolland County,1,1,6,1049,1049,1049,1069
+050,09,013,Connecticut,Tolland County,1,2,1,2954,2954,2970,3092
+050,09,013,Connecticut,Tolland County,1,2,2,292,292,292,301
+050,09,013,Connecticut,Tolland County,1,2,3,39,39,39,40
+050,09,013,Connecticut,Tolland County,1,2,4,93,93,93,97
+050,09,013,Connecticut,Tolland County,1,2,5,77,77,77,81
+050,09,013,Connecticut,Tolland County,1,2,6,231,231,231,239
+050,09,013,Connecticut,Tolland County,2,0,1,69500,69500,69443,69098
+050,09,013,Connecticut,Tolland County,2,0,2,1984,1984,2005,2185
+050,09,013,Connecticut,Tolland County,2,0,3,149,149,157,169
+050,09,013,Connecticut,Tolland County,2,0,4,2624,2624,2645,2720
+050,09,013,Connecticut,Tolland County,2,0,5,23,23,23,24
+050,09,013,Connecticut,Tolland County,2,0,6,1248,1248,1294,1305
+050,09,013,Connecticut,Tolland County,2,1,1,67087,67087,67003,66517
+050,09,013,Connecticut,Tolland County,2,1,2,1734,1734,1746,1922
+050,09,013,Connecticut,Tolland County,2,1,3,100,100,108,112
+050,09,013,Connecticut,Tolland County,2,1,4,2580,2580,2601,2674
+050,09,013,Connecticut,Tolland County,2,1,5,14,14,14,15
+050,09,013,Connecticut,Tolland County,2,1,6,1097,1097,1103,1112
+050,09,013,Connecticut,Tolland County,2,2,1,2413,2413,2440,2581
+050,09,013,Connecticut,Tolland County,2,2,2,250,250,259,263
+050,09,013,Connecticut,Tolland County,2,2,3,49,49,49,57
+050,09,013,Connecticut,Tolland County,2,2,4,44,44,44,46
+050,09,013,Connecticut,Tolland County,2,2,5,9,9,9,9
+050,09,013,Connecticut,Tolland County,2,2,6,151,151,191,193
+050,09,015,Connecticut,Windham County,0,0,1,110549,110549,110577,110064
+050,09,015,Connecticut,Windham County,0,0,2,3278,3278,3278,3341
+050,09,015,Connecticut,Windham County,0,0,3,728,728,728,743
+050,09,015,Connecticut,Windham County,0,0,4,1455,1455,1457,1536
+050,09,015,Connecticut,Windham County,0,0,5,89,89,89,86
+050,09,015,Connecticut,Windham County,0,0,6,2329,2329,2332,2381
+050,09,015,Connecticut,Windham County,0,1,1,101300,101300,101272,100501
+050,09,015,Connecticut,Windham County,0,1,2,2024,2024,2024,2119
+050,09,015,Connecticut,Windham County,0,1,3,439,439,439,434
+050,09,015,Connecticut,Windham County,0,1,4,1371,1371,1373,1448
+050,09,015,Connecticut,Windham County,0,1,5,40,40,40,40
+050,09,015,Connecticut,Windham County,0,1,6,1903,1903,1906,1953
+050,09,015,Connecticut,Windham County,0,2,1,9249,9249,9305,9563
+050,09,015,Connecticut,Windham County,0,2,2,1254,1254,1254,1222
+050,09,015,Connecticut,Windham County,0,2,3,289,289,289,309
+050,09,015,Connecticut,Windham County,0,2,4,84,84,84,88
+050,09,015,Connecticut,Windham County,0,2,5,49,49,49,46
+050,09,015,Connecticut,Windham County,0,2,6,426,426,426,428
+050,09,015,Connecticut,Windham County,1,0,1,54574,54574,54595,54353
+050,09,015,Connecticut,Windham County,1,0,2,1824,1824,1824,1848
+050,09,015,Connecticut,Windham County,1,0,3,401,401,401,413
+050,09,015,Connecticut,Windham County,1,0,4,675,675,676,724
+050,09,015,Connecticut,Windham County,1,0,5,49,49,49,48
+050,09,015,Connecticut,Windham County,1,0,6,1175,1175,1177,1203
+050,09,015,Connecticut,Windham County,1,1,1,49847,49847,49838,49473
+050,09,015,Connecticut,Windham County,1,1,2,1193,1193,1193,1245
+050,09,015,Connecticut,Windham County,1,1,3,228,228,228,219
+050,09,015,Connecticut,Windham County,1,1,4,631,631,632,677
+050,09,015,Connecticut,Windham County,1,1,5,19,19,19,20
+050,09,015,Connecticut,Windham County,1,1,6,941,941,943,966
+050,09,015,Connecticut,Windham County,1,2,1,4727,4727,4757,4880
+050,09,015,Connecticut,Windham County,1,2,2,631,631,631,603
+050,09,015,Connecticut,Windham County,1,2,3,173,173,173,194
+050,09,015,Connecticut,Windham County,1,2,4,44,44,44,47
+050,09,015,Connecticut,Windham County,1,2,5,30,30,30,28
+050,09,015,Connecticut,Windham County,1,2,6,234,234,234,237
+050,09,015,Connecticut,Windham County,2,0,1,55975,55975,55982,55711
+050,09,015,Connecticut,Windham County,2,0,2,1454,1454,1454,1493
+050,09,015,Connecticut,Windham County,2,0,3,327,327,327,330
+050,09,015,Connecticut,Windham County,2,0,4,780,780,781,812
+050,09,015,Connecticut,Windham County,2,0,5,40,40,40,38
+050,09,015,Connecticut,Windham County,2,0,6,1154,1154,1155,1178
+050,09,015,Connecticut,Windham County,2,1,1,51453,51453,51434,51028
+050,09,015,Connecticut,Windham County,2,1,2,831,831,831,874
+050,09,015,Connecticut,Windham County,2,1,3,211,211,211,215
+050,09,015,Connecticut,Windham County,2,1,4,740,740,741,771
+050,09,015,Connecticut,Windham County,2,1,5,21,21,21,20
+050,09,015,Connecticut,Windham County,2,1,6,962,962,963,987
+050,09,015,Connecticut,Windham County,2,2,1,4522,4522,4548,4683
+050,09,015,Connecticut,Windham County,2,2,2,623,623,623,619
+050,09,015,Connecticut,Windham County,2,2,3,116,116,116,115
+050,09,015,Connecticut,Windham County,2,2,4,40,40,40,41
+050,09,015,Connecticut,Windham County,2,2,5,19,19,19,18
+050,09,015,Connecticut,Windham County,2,2,6,192,192,192,191

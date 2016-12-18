@@ -1,0 +1,1783 @@
+SUMLEV,STATE,COUNTY,STNAME,CTYNAME,SEX,ORIGIN,RACE,CENSUS2010POP,ESTIMATESBASE2010,POPESTIMATE2010,POPESTIMATE2011
+050,35,001,New Mexico,Bernalillo County,0,0,1,567277,567277,568620,573015
+050,35,001,New Mexico,Bernalillo County,0,0,2,22507,22507,22561,22832
+050,35,001,New Mexico,Bernalillo County,0,0,3,36720,36720,36824,37970
+050,35,001,New Mexico,Bernalillo County,0,0,4,16900,16900,17000,17266
+050,35,001,New Mexico,Bernalillo County,0,0,5,1172,1172,1180,1211
+050,35,001,New Mexico,Bernalillo County,0,0,6,17988,17988,18240,18674
+050,35,001,New Mexico,Bernalillo County,0,1,1,276426,276426,276061,276942
+050,35,001,New Mexico,Bernalillo County,0,1,2,16519,16519,16531,16902
+050,35,001,New Mexico,Bernalillo County,0,1,3,26497,26497,26496,27183
+050,35,001,New Mexico,Bernalillo County,0,1,4,14802,14802,14883,15194
+050,35,001,New Mexico,Bernalillo County,0,1,5,477,477,478,497
+050,35,001,New Mexico,Bernalillo County,0,1,6,10754,10754,10867,11218
+050,35,001,New Mexico,Bernalillo County,0,2,1,290851,290851,292559,296073
+050,35,001,New Mexico,Bernalillo County,0,2,2,5988,5988,6030,5930
+050,35,001,New Mexico,Bernalillo County,0,2,3,10223,10223,10328,10787
+050,35,001,New Mexico,Bernalillo County,0,2,4,2098,2098,2117,2072
+050,35,001,New Mexico,Bernalillo County,0,2,5,695,695,702,714
+050,35,001,New Mexico,Bernalillo County,0,2,6,7234,7234,7373,7456
+050,35,001,New Mexico,Bernalillo County,1,0,1,277681,277681,278421,280945
+050,35,001,New Mexico,Bernalillo County,1,0,2,11928,11928,11955,12106
+050,35,001,New Mexico,Bernalillo County,1,0,3,17540,17540,17593,18206
+050,35,001,New Mexico,Bernalillo County,1,0,4,7841,7841,7883,8032
+050,35,001,New Mexico,Bernalillo County,1,0,5,603,603,612,634
+050,35,001,New Mexico,Bernalillo County,1,0,6,8867,8867,8997,9187
+050,35,001,New Mexico,Bernalillo County,1,1,1,135228,135228,135068,135842
+050,35,001,New Mexico,Bernalillo County,1,1,2,9030,9030,9036,9258
+050,35,001,New Mexico,Bernalillo County,1,1,3,12422,12422,12424,12789
+050,35,001,New Mexico,Bernalillo County,1,1,4,6817,6817,6854,7006
+050,35,001,New Mexico,Bernalillo County,1,1,5,246,246,247,259
+050,35,001,New Mexico,Bernalillo County,1,1,6,5352,5352,5409,5556
+050,35,001,New Mexico,Bernalillo County,1,2,1,142453,142453,143353,145103
+050,35,001,New Mexico,Bernalillo County,1,2,2,2898,2898,2919,2848
+050,35,001,New Mexico,Bernalillo County,1,2,3,5118,5118,5169,5417
+050,35,001,New Mexico,Bernalillo County,1,2,4,1024,1024,1029,1026
+050,35,001,New Mexico,Bernalillo County,1,2,5,357,357,365,375
+050,35,001,New Mexico,Bernalillo County,1,2,6,3515,3515,3588,3631
+050,35,001,New Mexico,Bernalillo County,2,0,1,289596,289596,290199,292070
+050,35,001,New Mexico,Bernalillo County,2,0,2,10579,10579,10606,10726
+050,35,001,New Mexico,Bernalillo County,2,0,3,19180,19180,19231,19764
+050,35,001,New Mexico,Bernalillo County,2,0,4,9059,9059,9117,9234
+050,35,001,New Mexico,Bernalillo County,2,0,5,569,569,568,577
+050,35,001,New Mexico,Bernalillo County,2,0,6,9121,9121,9243,9487
+050,35,001,New Mexico,Bernalillo County,2,1,1,141198,141198,140993,141100
+050,35,001,New Mexico,Bernalillo County,2,1,2,7489,7489,7495,7644
+050,35,001,New Mexico,Bernalillo County,2,1,3,14075,14075,14072,14394
+050,35,001,New Mexico,Bernalillo County,2,1,4,7985,7985,8029,8188
+050,35,001,New Mexico,Bernalillo County,2,1,5,231,231,231,238
+050,35,001,New Mexico,Bernalillo County,2,1,6,5402,5402,5458,5662
+050,35,001,New Mexico,Bernalillo County,2,2,1,148398,148398,149206,150970
+050,35,001,New Mexico,Bernalillo County,2,2,2,3090,3090,3111,3082
+050,35,001,New Mexico,Bernalillo County,2,2,3,5105,5105,5159,5370
+050,35,001,New Mexico,Bernalillo County,2,2,4,1074,1074,1088,1046
+050,35,001,New Mexico,Bernalillo County,2,2,5,338,338,337,339
+050,35,001,New Mexico,Bernalillo County,2,2,6,3719,3719,3785,3825
+050,35,003,New Mexico,Catron County,0,0,1,3501,3501,3519,3490
+050,35,003,New Mexico,Catron County,0,0,2,16,16,16,20
+050,35,003,New Mexico,Catron County,0,0,3,105,105,105,114
+050,35,003,New Mexico,Catron County,0,0,4,8,8,8,8
+050,35,003,New Mexico,Catron County,0,0,5,0,0,0,0
+050,35,003,New Mexico,Catron County,0,0,6,95,95,95,101
+050,35,003,New Mexico,Catron County,0,1,1,2843,2843,2860,2846
+050,35,003,New Mexico,Catron County,0,1,2,15,15,15,19
+050,35,003,New Mexico,Catron County,0,1,3,87,87,87,94
+050,35,003,New Mexico,Catron County,0,1,4,6,6,6,6
+050,35,003,New Mexico,Catron County,0,1,5,0,0,0,0
+050,35,003,New Mexico,Catron County,0,1,6,65,65,65,67
+050,35,003,New Mexico,Catron County,0,2,1,658,658,659,644
+050,35,003,New Mexico,Catron County,0,2,2,1,1,1,1
+050,35,003,New Mexico,Catron County,0,2,3,18,18,18,20
+050,35,003,New Mexico,Catron County,0,2,4,2,2,2,2
+050,35,003,New Mexico,Catron County,0,2,5,0,0,0,0
+050,35,003,New Mexico,Catron County,0,2,6,30,30,30,34
+050,35,003,New Mexico,Catron County,1,0,1,1835,1835,1844,1813
+050,35,003,New Mexico,Catron County,1,0,2,8,8,8,10
+050,35,003,New Mexico,Catron County,1,0,3,51,51,51,55
+050,35,003,New Mexico,Catron County,1,0,4,2,2,2,2
+050,35,003,New Mexico,Catron County,1,0,5,0,0,0,0
+050,35,003,New Mexico,Catron County,1,0,6,51,51,51,50
+050,35,003,New Mexico,Catron County,1,1,1,1464,1464,1473,1452
+050,35,003,New Mexico,Catron County,1,1,2,8,8,8,10
+050,35,003,New Mexico,Catron County,1,1,3,41,41,41,45
+050,35,003,New Mexico,Catron County,1,1,4,1,1,1,1
+050,35,003,New Mexico,Catron County,1,1,5,0,0,0,0
+050,35,003,New Mexico,Catron County,1,1,6,37,37,37,36
+050,35,003,New Mexico,Catron County,1,2,1,371,371,371,361
+050,35,003,New Mexico,Catron County,1,2,2,0,0,0,0
+050,35,003,New Mexico,Catron County,1,2,3,10,10,10,10
+050,35,003,New Mexico,Catron County,1,2,4,1,1,1,1
+050,35,003,New Mexico,Catron County,1,2,5,0,0,0,0
+050,35,003,New Mexico,Catron County,1,2,6,14,14,14,14
+050,35,003,New Mexico,Catron County,2,0,1,1666,1666,1675,1677
+050,35,003,New Mexico,Catron County,2,0,2,8,8,8,10
+050,35,003,New Mexico,Catron County,2,0,3,54,54,54,59
+050,35,003,New Mexico,Catron County,2,0,4,6,6,6,6
+050,35,003,New Mexico,Catron County,2,0,5,0,0,0,0
+050,35,003,New Mexico,Catron County,2,0,6,44,44,44,51
+050,35,003,New Mexico,Catron County,2,1,1,1379,1379,1387,1394
+050,35,003,New Mexico,Catron County,2,1,2,7,7,7,9
+050,35,003,New Mexico,Catron County,2,1,3,46,46,46,49
+050,35,003,New Mexico,Catron County,2,1,4,5,5,5,5
+050,35,003,New Mexico,Catron County,2,1,5,0,0,0,0
+050,35,003,New Mexico,Catron County,2,1,6,28,28,28,31
+050,35,003,New Mexico,Catron County,2,2,1,287,287,288,283
+050,35,003,New Mexico,Catron County,2,2,2,1,1,1,1
+050,35,003,New Mexico,Catron County,2,2,3,8,8,8,10
+050,35,003,New Mexico,Catron County,2,2,4,1,1,1,1
+050,35,003,New Mexico,Catron County,2,2,5,0,0,0,0
+050,35,003,New Mexico,Catron County,2,2,6,16,16,16,20
+050,35,005,New Mexico,Chaves County,0,0,1,61025,61025,61157,61011
+050,35,005,New Mexico,Chaves County,0,0,2,1660,1660,1660,1690
+050,35,005,New Mexico,Chaves County,0,0,3,1247,1247,1247,1370
+050,35,005,New Mexico,Chaves County,0,0,4,534,534,534,540
+050,35,005,New Mexico,Chaves County,0,0,5,130,130,131,136
+050,35,005,New Mexico,Chaves County,0,0,6,1049,1049,1049,1143
+050,35,005,New Mexico,Chaves County,0,1,1,28944,28944,28901,28426
+050,35,005,New Mexico,Chaves County,0,1,2,1099,1099,1099,1114
+050,35,005,New Mexico,Chaves County,0,1,3,478,478,478,521
+050,35,005,New Mexico,Chaves County,0,1,4,391,391,391,386
+050,35,005,New Mexico,Chaves County,0,1,5,29,29,29,31
+050,35,005,New Mexico,Chaves County,0,1,6,565,565,565,619
+050,35,005,New Mexico,Chaves County,0,2,1,32081,32081,32256,32585
+050,35,005,New Mexico,Chaves County,0,2,2,561,561,561,576
+050,35,005,New Mexico,Chaves County,0,2,3,769,769,769,849
+050,35,005,New Mexico,Chaves County,0,2,4,143,143,143,154
+050,35,005,New Mexico,Chaves County,0,2,5,101,101,102,105
+050,35,005,New Mexico,Chaves County,0,2,6,484,484,484,524
+050,35,005,New Mexico,Chaves County,1,0,1,30133,30133,30214,30158
+050,35,005,New Mexico,Chaves County,1,0,2,854,854,854,880
+050,35,005,New Mexico,Chaves County,1,0,3,666,666,666,730
+050,35,005,New Mexico,Chaves County,1,0,4,259,259,259,261
+050,35,005,New Mexico,Chaves County,1,0,5,73,73,73,76
+050,35,005,New Mexico,Chaves County,1,0,6,497,497,497,547
+050,35,005,New Mexico,Chaves County,1,1,1,14103,14103,14086,13872
+050,35,005,New Mexico,Chaves County,1,1,2,593,593,593,609
+050,35,005,New Mexico,Chaves County,1,1,3,274,274,274,293
+050,35,005,New Mexico,Chaves County,1,1,4,190,190,190,186
+050,35,005,New Mexico,Chaves County,1,1,5,21,21,21,23
+050,35,005,New Mexico,Chaves County,1,1,6,267,267,267,295
+050,35,005,New Mexico,Chaves County,1,2,1,16030,16030,16128,16286
+050,35,005,New Mexico,Chaves County,1,2,2,261,261,261,271
+050,35,005,New Mexico,Chaves County,1,2,3,392,392,392,437
+050,35,005,New Mexico,Chaves County,1,2,4,69,69,69,75
+050,35,005,New Mexico,Chaves County,1,2,5,52,52,52,53
+050,35,005,New Mexico,Chaves County,1,2,6,230,230,230,252
+050,35,005,New Mexico,Chaves County,2,0,1,30892,30892,30943,30853
+050,35,005,New Mexico,Chaves County,2,0,2,806,806,806,810
+050,35,005,New Mexico,Chaves County,2,0,3,581,581,581,640
+050,35,005,New Mexico,Chaves County,2,0,4,275,275,275,279
+050,35,005,New Mexico,Chaves County,2,0,5,57,57,58,60
+050,35,005,New Mexico,Chaves County,2,0,6,552,552,552,596
+050,35,005,New Mexico,Chaves County,2,1,1,14841,14841,14815,14554
+050,35,005,New Mexico,Chaves County,2,1,2,506,506,506,505
+050,35,005,New Mexico,Chaves County,2,1,3,204,204,204,228
+050,35,005,New Mexico,Chaves County,2,1,4,201,201,201,200
+050,35,005,New Mexico,Chaves County,2,1,5,8,8,8,8
+050,35,005,New Mexico,Chaves County,2,1,6,298,298,298,324
+050,35,005,New Mexico,Chaves County,2,2,1,16051,16051,16128,16299
+050,35,005,New Mexico,Chaves County,2,2,2,300,300,300,305
+050,35,005,New Mexico,Chaves County,2,2,3,377,377,377,412
+050,35,005,New Mexico,Chaves County,2,2,4,74,74,74,79
+050,35,005,New Mexico,Chaves County,2,2,5,49,49,50,52
+050,35,005,New Mexico,Chaves County,2,2,6,254,254,254,272
+050,35,006,New Mexico,Cibola County,0,0,1,14724,14724,14799,15166
+050,35,006,New Mexico,Cibola County,0,0,2,314,314,314,367
+050,35,006,New Mexico,Cibola County,0,0,3,11457,11457,11478,11332
+050,35,006,New Mexico,Cibola County,0,0,4,161,161,161,174
+050,35,006,New Mexico,Cibola County,0,0,5,31,31,31,32
+050,35,006,New Mexico,Cibola County,0,0,6,526,526,526,587
+050,35,006,New Mexico,Cibola County,0,1,1,5879,5879,5896,5947
+050,35,006,New Mexico,Cibola County,0,1,2,222,222,222,270
+050,35,006,New Mexico,Cibola County,0,1,3,10695,10695,10716,10515
+050,35,006,New Mexico,Cibola County,0,1,4,137,137,137,146
+050,35,006,New Mexico,Cibola County,0,1,5,19,19,19,20
+050,35,006,New Mexico,Cibola County,0,1,6,327,327,327,366
+050,35,006,New Mexico,Cibola County,0,2,1,8845,8845,8903,9219
+050,35,006,New Mexico,Cibola County,0,2,2,92,92,92,97
+050,35,006,New Mexico,Cibola County,0,2,3,762,762,762,817
+050,35,006,New Mexico,Cibola County,0,2,4,24,24,24,28
+050,35,006,New Mexico,Cibola County,0,2,5,12,12,12,12
+050,35,006,New Mexico,Cibola County,0,2,6,199,199,199,221
+050,35,006,New Mexico,Cibola County,1,0,1,7833,7833,7871,8097
+050,35,006,New Mexico,Cibola County,1,0,2,155,155,155,177
+050,35,006,New Mexico,Cibola County,1,0,3,5416,5416,5428,5362
+050,35,006,New Mexico,Cibola County,1,0,4,74,74,74,80
+050,35,006,New Mexico,Cibola County,1,0,5,15,15,15,15
+050,35,006,New Mexico,Cibola County,1,0,6,276,276,276,314
+050,35,006,New Mexico,Cibola County,1,1,1,2928,2928,2937,2971
+050,35,006,New Mexico,Cibola County,1,1,2,116,116,116,137
+050,35,006,New Mexico,Cibola County,1,1,3,5017,5017,5029,4926
+050,35,006,New Mexico,Cibola County,1,1,4,63,63,63,65
+050,35,006,New Mexico,Cibola County,1,1,5,10,10,10,10
+050,35,006,New Mexico,Cibola County,1,1,6,166,166,166,191
+050,35,006,New Mexico,Cibola County,1,2,1,4905,4905,4934,5126
+050,35,006,New Mexico,Cibola County,1,2,2,39,39,39,40
+050,35,006,New Mexico,Cibola County,1,2,3,399,399,399,436
+050,35,006,New Mexico,Cibola County,1,2,4,11,11,11,15
+050,35,006,New Mexico,Cibola County,1,2,5,5,5,5,5
+050,35,006,New Mexico,Cibola County,1,2,6,110,110,110,123
+050,35,006,New Mexico,Cibola County,2,0,1,6891,6891,6928,7069
+050,35,006,New Mexico,Cibola County,2,0,2,159,159,159,190
+050,35,006,New Mexico,Cibola County,2,0,3,6041,6041,6050,5970
+050,35,006,New Mexico,Cibola County,2,0,4,87,87,87,94
+050,35,006,New Mexico,Cibola County,2,0,5,16,16,16,17
+050,35,006,New Mexico,Cibola County,2,0,6,250,250,250,273
+050,35,006,New Mexico,Cibola County,2,1,1,2951,2951,2959,2976
+050,35,006,New Mexico,Cibola County,2,1,2,106,106,106,133
+050,35,006,New Mexico,Cibola County,2,1,3,5678,5678,5687,5589
+050,35,006,New Mexico,Cibola County,2,1,4,74,74,74,81
+050,35,006,New Mexico,Cibola County,2,1,5,9,9,9,10
+050,35,006,New Mexico,Cibola County,2,1,6,161,161,161,175
+050,35,006,New Mexico,Cibola County,2,2,1,3940,3940,3969,4093
+050,35,006,New Mexico,Cibola County,2,2,2,53,53,53,57
+050,35,006,New Mexico,Cibola County,2,2,3,363,363,363,381
+050,35,006,New Mexico,Cibola County,2,2,4,13,13,13,13
+050,35,006,New Mexico,Cibola County,2,2,5,7,7,7,7
+050,35,006,New Mexico,Cibola County,2,2,6,89,89,89,98
+050,35,007,New Mexico,Colfax County,0,0,1,13081,13081,13074,12885
+050,35,007,New Mexico,Colfax County,0,0,2,84,84,84,97
+050,35,007,New Mexico,Colfax County,0,0,3,261,261,261,302
+050,35,007,New Mexico,Colfax County,0,0,4,51,51,51,60
+050,35,007,New Mexico,Colfax County,0,0,5,20,20,20,20
+050,35,007,New Mexico,Colfax County,0,0,6,253,253,253,276
+050,35,007,New Mexico,Colfax County,0,1,1,6890,6890,6872,6730
+050,35,007,New Mexico,Colfax County,0,1,2,39,39,39,47
+050,35,007,New Mexico,Colfax County,0,1,3,132,132,132,148
+050,35,007,New Mexico,Colfax County,0,1,4,49,49,49,57
+050,35,007,New Mexico,Colfax County,0,1,5,6,6,6,6
+050,35,007,New Mexico,Colfax County,0,1,6,146,146,146,157
+050,35,007,New Mexico,Colfax County,0,2,1,6191,6191,6202,6155
+050,35,007,New Mexico,Colfax County,0,2,2,45,45,45,50
+050,35,007,New Mexico,Colfax County,0,2,3,129,129,129,154
+050,35,007,New Mexico,Colfax County,0,2,4,2,2,2,3
+050,35,007,New Mexico,Colfax County,0,2,5,14,14,14,14
+050,35,007,New Mexico,Colfax County,0,2,6,107,107,107,119
+050,35,007,New Mexico,Colfax County,1,0,1,6621,6621,6620,6523
+050,35,007,New Mexico,Colfax County,1,0,2,59,59,59,70
+050,35,007,New Mexico,Colfax County,1,0,3,162,162,162,186
+050,35,007,New Mexico,Colfax County,1,0,4,20,20,20,21
+050,35,007,New Mexico,Colfax County,1,0,5,9,9,9,9
+050,35,007,New Mexico,Colfax County,1,0,6,132,132,132,136
+050,35,007,New Mexico,Colfax County,1,1,1,3449,3449,3440,3384
+050,35,007,New Mexico,Colfax County,1,1,2,31,31,31,38
+050,35,007,New Mexico,Colfax County,1,1,3,92,92,92,104
+050,35,007,New Mexico,Colfax County,1,1,4,20,20,20,20
+050,35,007,New Mexico,Colfax County,1,1,5,3,3,3,3
+050,35,007,New Mexico,Colfax County,1,1,6,76,76,76,74
+050,35,007,New Mexico,Colfax County,1,2,1,3172,3172,3180,3139
+050,35,007,New Mexico,Colfax County,1,2,2,28,28,28,32
+050,35,007,New Mexico,Colfax County,1,2,3,70,70,70,82
+050,35,007,New Mexico,Colfax County,1,2,4,0,0,0,1
+050,35,007,New Mexico,Colfax County,1,2,5,6,6,6,6
+050,35,007,New Mexico,Colfax County,1,2,6,56,56,56,62
+050,35,007,New Mexico,Colfax County,2,0,1,6460,6460,6454,6362
+050,35,007,New Mexico,Colfax County,2,0,2,25,25,25,27
+050,35,007,New Mexico,Colfax County,2,0,3,99,99,99,116
+050,35,007,New Mexico,Colfax County,2,0,4,31,31,31,39
+050,35,007,New Mexico,Colfax County,2,0,5,11,11,11,11
+050,35,007,New Mexico,Colfax County,2,0,6,121,121,121,140
+050,35,007,New Mexico,Colfax County,2,1,1,3441,3441,3432,3346
+050,35,007,New Mexico,Colfax County,2,1,2,8,8,8,9
+050,35,007,New Mexico,Colfax County,2,1,3,40,40,40,44
+050,35,007,New Mexico,Colfax County,2,1,4,29,29,29,37
+050,35,007,New Mexico,Colfax County,2,1,5,3,3,3,3
+050,35,007,New Mexico,Colfax County,2,1,6,70,70,70,83
+050,35,007,New Mexico,Colfax County,2,2,1,3019,3019,3022,3016
+050,35,007,New Mexico,Colfax County,2,2,2,17,17,17,18
+050,35,007,New Mexico,Colfax County,2,2,3,59,59,59,72
+050,35,007,New Mexico,Colfax County,2,2,4,2,2,2,2
+050,35,007,New Mexico,Colfax County,2,2,5,8,8,8,8
+050,35,007,New Mexico,Colfax County,2,2,6,51,51,51,57
+050,35,009,New Mexico,Curry County,0,0,1,41963,41963,42502,42934
+050,35,009,New Mexico,Curry County,0,0,2,3411,3411,3451,3461
+050,35,009,New Mexico,Curry County,0,0,3,944,944,944,1068
+050,35,009,New Mexico,Curry County,0,0,4,705,705,705,743
+050,35,009,New Mexico,Curry County,0,0,5,80,80,80,90
+050,35,009,New Mexico,Curry County,0,0,6,1273,1273,1278,1353
+050,35,009,New Mexico,Curry County,0,1,1,24640,24640,24869,25057
+050,35,009,New Mexico,Curry County,0,1,2,2794,2794,2830,2837
+050,35,009,New Mexico,Curry County,0,1,3,304,304,304,363
+050,35,009,New Mexico,Curry County,0,1,4,582,582,582,612
+050,35,009,New Mexico,Curry County,0,1,5,29,29,29,38
+050,35,009,New Mexico,Curry County,0,1,6,910,910,913,967
+050,35,009,New Mexico,Curry County,0,2,1,17323,17323,17633,17877
+050,35,009,New Mexico,Curry County,0,2,2,617,617,621,624
+050,35,009,New Mexico,Curry County,0,2,3,640,640,640,705
+050,35,009,New Mexico,Curry County,0,2,4,123,123,123,131
+050,35,009,New Mexico,Curry County,0,2,5,51,51,51,52
+050,35,009,New Mexico,Curry County,0,2,6,363,363,365,386
+050,35,009,New Mexico,Curry County,1,0,1,21068,21068,21350,21745
+050,35,009,New Mexico,Curry County,1,0,2,1792,1792,1820,1817
+050,35,009,New Mexico,Curry County,1,0,3,464,464,464,542
+050,35,009,New Mexico,Curry County,1,0,4,310,310,310,323
+050,35,009,New Mexico,Curry County,1,0,5,38,38,38,42
+050,35,009,New Mexico,Curry County,1,0,6,616,616,618,641
+050,35,009,New Mexico,Curry County,1,1,1,12343,12343,12463,12649
+050,35,009,New Mexico,Curry County,1,1,2,1494,1494,1519,1516
+050,35,009,New Mexico,Curry County,1,1,3,136,136,136,167
+050,35,009,New Mexico,Curry County,1,1,4,247,247,247,258
+050,35,009,New Mexico,Curry County,1,1,5,13,13,13,17
+050,35,009,New Mexico,Curry County,1,1,6,446,446,448,478
+050,35,009,New Mexico,Curry County,1,2,1,8725,8725,8887,9096
+050,35,009,New Mexico,Curry County,1,2,2,298,298,301,301
+050,35,009,New Mexico,Curry County,1,2,3,328,328,328,375
+050,35,009,New Mexico,Curry County,1,2,4,63,63,63,65
+050,35,009,New Mexico,Curry County,1,2,5,25,25,25,25
+050,35,009,New Mexico,Curry County,1,2,6,170,170,170,163
+050,35,009,New Mexico,Curry County,2,0,1,20895,20895,21152,21189
+050,35,009,New Mexico,Curry County,2,0,2,1619,1619,1631,1644
+050,35,009,New Mexico,Curry County,2,0,3,480,480,480,526
+050,35,009,New Mexico,Curry County,2,0,4,395,395,395,420
+050,35,009,New Mexico,Curry County,2,0,5,42,42,42,48
+050,35,009,New Mexico,Curry County,2,0,6,657,657,660,712
+050,35,009,New Mexico,Curry County,2,1,1,12297,12297,12406,12408
+050,35,009,New Mexico,Curry County,2,1,2,1300,1300,1311,1321
+050,35,009,New Mexico,Curry County,2,1,3,168,168,168,196
+050,35,009,New Mexico,Curry County,2,1,4,335,335,335,354
+050,35,009,New Mexico,Curry County,2,1,5,16,16,16,21
+050,35,009,New Mexico,Curry County,2,1,6,464,464,465,489
+050,35,009,New Mexico,Curry County,2,2,1,8598,8598,8746,8781
+050,35,009,New Mexico,Curry County,2,2,2,319,319,320,323
+050,35,009,New Mexico,Curry County,2,2,3,312,312,312,330
+050,35,009,New Mexico,Curry County,2,2,4,60,60,60,66
+050,35,009,New Mexico,Curry County,2,2,5,26,26,26,27
+050,35,009,New Mexico,Curry County,2,2,6,193,193,195,223
+050,35,011,New Mexico,De Baca County,0,0,1,1936,1936,1929,1850
+050,35,011,New Mexico,De Baca County,0,0,2,3,3,3,5
+050,35,011,New Mexico,De Baca County,0,0,3,17,17,17,19
+050,35,011,New Mexico,De Baca County,0,0,4,3,3,3,5
+050,35,011,New Mexico,De Baca County,0,0,5,0,0,0,0
+050,35,011,New Mexico,De Baca County,0,0,6,63,63,63,66
+050,35,011,New Mexico,De Baca County,0,1,1,1202,1202,1195,1139
+050,35,011,New Mexico,De Baca County,0,1,2,2,2,2,4
+050,35,011,New Mexico,De Baca County,0,1,3,9,9,9,11
+050,35,011,New Mexico,De Baca County,0,1,4,1,1,1,1
+050,35,011,New Mexico,De Baca County,0,1,5,0,0,0,0
+050,35,011,New Mexico,De Baca County,0,1,6,29,29,29,32
+050,35,011,New Mexico,De Baca County,0,2,1,734,734,734,711
+050,35,011,New Mexico,De Baca County,0,2,2,1,1,1,1
+050,35,011,New Mexico,De Baca County,0,2,3,8,8,8,8
+050,35,011,New Mexico,De Baca County,0,2,4,2,2,2,4
+050,35,011,New Mexico,De Baca County,0,2,5,0,0,0,0
+050,35,011,New Mexico,De Baca County,0,2,6,34,34,34,34
+050,35,011,New Mexico,De Baca County,1,0,1,944,944,941,913
+050,35,011,New Mexico,De Baca County,1,0,2,2,2,2,4
+050,35,011,New Mexico,De Baca County,1,0,3,10,10,10,11
+050,35,011,New Mexico,De Baca County,1,0,4,1,1,1,3
+050,35,011,New Mexico,De Baca County,1,0,5,0,0,0,0
+050,35,011,New Mexico,De Baca County,1,0,6,35,35,35,37
+050,35,011,New Mexico,De Baca County,1,1,1,578,578,575,553
+050,35,011,New Mexico,De Baca County,1,1,2,2,2,2,4
+050,35,011,New Mexico,De Baca County,1,1,3,5,5,5,6
+050,35,011,New Mexico,De Baca County,1,1,4,0,0,0,0
+050,35,011,New Mexico,De Baca County,1,1,5,0,0,0,0
+050,35,011,New Mexico,De Baca County,1,1,6,15,15,15,17
+050,35,011,New Mexico,De Baca County,1,2,1,366,366,366,360
+050,35,011,New Mexico,De Baca County,1,2,2,0,0,0,0
+050,35,011,New Mexico,De Baca County,1,2,3,5,5,5,5
+050,35,011,New Mexico,De Baca County,1,2,4,1,1,1,3
+050,35,011,New Mexico,De Baca County,1,2,5,0,0,0,0
+050,35,011,New Mexico,De Baca County,1,2,6,20,20,20,20
+050,35,011,New Mexico,De Baca County,2,0,1,992,992,988,937
+050,35,011,New Mexico,De Baca County,2,0,2,1,1,1,1
+050,35,011,New Mexico,De Baca County,2,0,3,7,7,7,8
+050,35,011,New Mexico,De Baca County,2,0,4,2,2,2,2
+050,35,011,New Mexico,De Baca County,2,0,5,0,0,0,0
+050,35,011,New Mexico,De Baca County,2,0,6,28,28,28,29
+050,35,011,New Mexico,De Baca County,2,1,1,624,624,620,586
+050,35,011,New Mexico,De Baca County,2,1,2,0,0,0,0
+050,35,011,New Mexico,De Baca County,2,1,3,4,4,4,5
+050,35,011,New Mexico,De Baca County,2,1,4,1,1,1,1
+050,35,011,New Mexico,De Baca County,2,1,5,0,0,0,0
+050,35,011,New Mexico,De Baca County,2,1,6,14,14,14,15
+050,35,011,New Mexico,De Baca County,2,2,1,368,368,368,351
+050,35,011,New Mexico,De Baca County,2,2,2,1,1,1,1
+050,35,011,New Mexico,De Baca County,2,2,3,3,3,3,3
+050,35,011,New Mexico,De Baca County,2,2,4,1,1,1,1
+050,35,011,New Mexico,De Baca County,2,2,5,0,0,0,0
+050,35,011,New Mexico,De Baca County,2,2,6,14,14,14,14
+050,35,013,New Mexico,Doña Ana County,0,0,1,194247,194248,195445,197675
+050,35,013,New Mexico,Doña Ana County,0,0,2,4320,4320,4331,4592
+050,35,013,New Mexico,Doña Ana County,0,0,3,4381,4381,4404,4738
+050,35,013,New Mexico,Doña Ana County,0,0,4,2563,2563,2564,2676
+050,35,013,New Mexico,Doña Ana County,0,0,5,308,308,309,307
+050,35,013,New Mexico,Doña Ana County,0,0,6,3414,3414,3424,3610
+050,35,013,New Mexico,Doña Ana County,0,1,1,63385,63385,63515,63972
+050,35,013,New Mexico,Doña Ana County,0,1,2,2850,2850,2859,3071
+050,35,013,New Mexico,Doña Ana County,0,1,3,1552,1552,1554,1650
+050,35,013,New Mexico,Doña Ana County,0,1,4,2053,2053,2055,2159
+050,35,013,New Mexico,Doña Ana County,0,1,5,133,133,134,135
+050,35,013,New Mexico,Doña Ana County,0,1,6,1746,1746,1746,1879
+050,35,013,New Mexico,Doña Ana County,0,2,1,130862,130863,131930,133703
+050,35,013,New Mexico,Doña Ana County,0,2,2,1470,1470,1472,1521
+050,35,013,New Mexico,Doña Ana County,0,2,3,2829,2829,2850,3088
+050,35,013,New Mexico,Doña Ana County,0,2,4,510,510,509,517
+050,35,013,New Mexico,Doña Ana County,0,2,5,175,175,175,172
+050,35,013,New Mexico,Doña Ana County,0,2,6,1668,1668,1678,1731
+050,35,013,New Mexico,Doña Ana County,1,0,1,95017,95017,95642,96890
+050,35,013,New Mexico,Doña Ana County,1,0,2,2404,2404,2415,2512
+050,35,013,New Mexico,Doña Ana County,1,0,3,2195,2195,2210,2378
+050,35,013,New Mexico,Doña Ana County,1,0,4,1164,1164,1164,1218
+050,35,013,New Mexico,Doña Ana County,1,0,5,155,155,155,158
+050,35,013,New Mexico,Doña Ana County,1,0,6,1634,1634,1638,1728
+050,35,013,New Mexico,Doña Ana County,1,1,1,31729,31729,31803,32068
+050,35,013,New Mexico,Doña Ana County,1,1,2,1669,1669,1677,1773
+050,35,013,New Mexico,Doña Ana County,1,1,3,785,785,787,834
+050,35,013,New Mexico,Doña Ana County,1,1,4,917,917,918,970
+050,35,013,New Mexico,Doña Ana County,1,1,5,68,68,68,64
+050,35,013,New Mexico,Doña Ana County,1,1,6,872,872,871,934
+050,35,013,New Mexico,Doña Ana County,1,2,1,63288,63288,63839,64822
+050,35,013,New Mexico,Doña Ana County,1,2,2,735,735,738,739
+050,35,013,New Mexico,Doña Ana County,1,2,3,1410,1410,1423,1544
+050,35,013,New Mexico,Doña Ana County,1,2,4,247,247,246,248
+050,35,013,New Mexico,Doña Ana County,1,2,5,87,87,87,94
+050,35,013,New Mexico,Doña Ana County,1,2,6,762,762,767,794
+050,35,013,New Mexico,Doña Ana County,2,0,1,99230,99231,99803,100785
+050,35,013,New Mexico,Doña Ana County,2,0,2,1916,1916,1916,2080
+050,35,013,New Mexico,Doña Ana County,2,0,3,2186,2186,2194,2360
+050,35,013,New Mexico,Doña Ana County,2,0,4,1399,1399,1400,1458
+050,35,013,New Mexico,Doña Ana County,2,0,5,153,153,154,149
+050,35,013,New Mexico,Doña Ana County,2,0,6,1780,1780,1786,1882
+050,35,013,New Mexico,Doña Ana County,2,1,1,31656,31656,31712,31904
+050,35,013,New Mexico,Doña Ana County,2,1,2,1181,1181,1182,1298
+050,35,013,New Mexico,Doña Ana County,2,1,3,767,767,767,816
+050,35,013,New Mexico,Doña Ana County,2,1,4,1136,1136,1137,1189
+050,35,013,New Mexico,Doña Ana County,2,1,5,65,65,66,71
+050,35,013,New Mexico,Doña Ana County,2,1,6,874,874,875,945
+050,35,013,New Mexico,Doña Ana County,2,2,1,67574,67575,68091,68881
+050,35,013,New Mexico,Doña Ana County,2,2,2,735,735,734,782
+050,35,013,New Mexico,Doña Ana County,2,2,3,1419,1419,1427,1544
+050,35,013,New Mexico,Doña Ana County,2,2,4,263,263,263,269
+050,35,013,New Mexico,Doña Ana County,2,2,5,88,88,88,78
+050,35,013,New Mexico,Doña Ana County,2,2,6,906,906,911,937
+050,35,015,New Mexico,Eddy County,0,0,1,50505,50505,50595,50590
+050,35,015,New Mexico,Eddy County,0,0,2,901,901,901,964
+050,35,015,New Mexico,Eddy County,0,0,3,1181,1181,1181,1262
+050,35,015,New Mexico,Eddy County,0,0,4,413,413,413,430
+050,35,015,New Mexico,Eddy County,0,0,5,49,49,49,54
+050,35,015,New Mexico,Eddy County,0,0,6,780,780,780,852
+050,35,015,New Mexico,Eddy County,0,1,1,28217,28217,28176,27883
+050,35,015,New Mexico,Eddy County,0,1,2,602,602,602,657
+050,35,015,New Mexico,Eddy County,0,1,3,439,439,439,472
+050,35,015,New Mexico,Eddy County,0,1,4,332,332,332,345
+050,35,015,New Mexico,Eddy County,0,1,5,16,16,16,20
+050,35,015,New Mexico,Eddy County,0,1,6,492,492,492,551
+050,35,015,New Mexico,Eddy County,0,2,1,22288,22288,22419,22707
+050,35,015,New Mexico,Eddy County,0,2,2,299,299,299,307
+050,35,015,New Mexico,Eddy County,0,2,3,742,742,742,790
+050,35,015,New Mexico,Eddy County,0,2,4,81,81,81,85
+050,35,015,New Mexico,Eddy County,0,2,5,33,33,33,34
+050,35,015,New Mexico,Eddy County,0,2,6,288,288,288,301
+050,35,015,New Mexico,Eddy County,1,0,1,25157,25157,25213,25277
+050,35,015,New Mexico,Eddy County,1,0,2,516,516,516,546
+050,35,015,New Mexico,Eddy County,1,0,3,602,602,602,647
+050,35,015,New Mexico,Eddy County,1,0,4,180,180,180,180
+050,35,015,New Mexico,Eddy County,1,0,5,23,23,23,29
+050,35,015,New Mexico,Eddy County,1,0,6,401,401,401,437
+050,35,015,New Mexico,Eddy County,1,1,1,14012,14012,13997,13884
+050,35,015,New Mexico,Eddy County,1,1,2,350,350,350,383
+050,35,015,New Mexico,Eddy County,1,1,3,238,238,238,260
+050,35,015,New Mexico,Eddy County,1,1,4,144,144,144,141
+050,35,015,New Mexico,Eddy County,1,1,5,7,7,7,12
+050,35,015,New Mexico,Eddy County,1,1,6,264,264,264,297
+050,35,015,New Mexico,Eddy County,1,2,1,11145,11145,11216,11393
+050,35,015,New Mexico,Eddy County,1,2,2,166,166,166,163
+050,35,015,New Mexico,Eddy County,1,2,3,364,364,364,387
+050,35,015,New Mexico,Eddy County,1,2,4,36,36,36,39
+050,35,015,New Mexico,Eddy County,1,2,5,16,16,16,17
+050,35,015,New Mexico,Eddy County,1,2,6,137,137,137,140
+050,35,015,New Mexico,Eddy County,2,0,1,25348,25348,25382,25313
+050,35,015,New Mexico,Eddy County,2,0,2,385,385,385,418
+050,35,015,New Mexico,Eddy County,2,0,3,579,579,579,615
+050,35,015,New Mexico,Eddy County,2,0,4,233,233,233,250
+050,35,015,New Mexico,Eddy County,2,0,5,26,26,26,25
+050,35,015,New Mexico,Eddy County,2,0,6,379,379,379,415
+050,35,015,New Mexico,Eddy County,2,1,1,14205,14205,14179,13999
+050,35,015,New Mexico,Eddy County,2,1,2,252,252,252,274
+050,35,015,New Mexico,Eddy County,2,1,3,201,201,201,212
+050,35,015,New Mexico,Eddy County,2,1,4,188,188,188,204
+050,35,015,New Mexico,Eddy County,2,1,5,9,9,9,8
+050,35,015,New Mexico,Eddy County,2,1,6,228,228,228,254
+050,35,015,New Mexico,Eddy County,2,2,1,11143,11143,11203,11314
+050,35,015,New Mexico,Eddy County,2,2,2,133,133,133,144
+050,35,015,New Mexico,Eddy County,2,2,3,378,378,378,403
+050,35,015,New Mexico,Eddy County,2,2,4,45,45,45,46
+050,35,015,New Mexico,Eddy County,2,2,5,17,17,17,17
+050,35,015,New Mexico,Eddy County,2,2,6,151,151,151,161
+050,35,017,New Mexico,Grant County,0,0,1,27986,27986,27883,27747
+050,35,017,New Mexico,Grant County,0,0,2,291,291,291,320
+050,35,017,New Mexico,Grant County,0,0,3,496,496,496,543
+050,35,017,New Mexico,Grant County,0,0,4,143,143,143,156
+050,35,017,New Mexico,Grant County,0,0,5,29,29,29,30
+050,35,017,New Mexico,Grant County,0,0,6,569,569,571,584
+050,35,017,New Mexico,Grant County,0,1,1,14431,14431,14337,14302
+050,35,017,New Mexico,Grant County,0,1,2,190,190,190,211
+050,35,017,New Mexico,Grant County,0,1,3,215,215,215,243
+050,35,017,New Mexico,Grant County,0,1,4,109,109,109,122
+050,35,017,New Mexico,Grant County,0,1,5,22,22,22,23
+050,35,017,New Mexico,Grant County,0,1,6,295,295,295,298
+050,35,017,New Mexico,Grant County,0,2,1,13555,13555,13546,13445
+050,35,017,New Mexico,Grant County,0,2,2,101,101,101,109
+050,35,017,New Mexico,Grant County,0,2,3,281,281,281,300
+050,35,017,New Mexico,Grant County,0,2,4,34,34,34,34
+050,35,017,New Mexico,Grant County,0,2,5,7,7,7,7
+050,35,017,New Mexico,Grant County,0,2,6,274,274,276,286
+050,35,017,New Mexico,Grant County,1,0,1,13713,13713,13671,13648
+050,35,017,New Mexico,Grant County,1,0,2,189,189,189,196
+050,35,017,New Mexico,Grant County,1,0,3,229,229,229,263
+050,35,017,New Mexico,Grant County,1,0,4,68,68,68,77
+050,35,017,New Mexico,Grant County,1,0,5,16,16,16,17
+050,35,017,New Mexico,Grant County,1,0,6,272,272,274,292
+050,35,017,New Mexico,Grant County,1,1,1,7091,7091,7050,7063
+050,35,017,New Mexico,Grant County,1,1,2,131,131,131,135
+050,35,017,New Mexico,Grant County,1,1,3,96,96,96,116
+050,35,017,New Mexico,Grant County,1,1,4,46,46,46,55
+050,35,017,New Mexico,Grant County,1,1,5,14,14,14,15
+050,35,017,New Mexico,Grant County,1,1,6,135,135,135,145
+050,35,017,New Mexico,Grant County,1,2,1,6622,6622,6621,6585
+050,35,017,New Mexico,Grant County,1,2,2,58,58,58,61
+050,35,017,New Mexico,Grant County,1,2,3,133,133,133,147
+050,35,017,New Mexico,Grant County,1,2,4,22,22,22,22
+050,35,017,New Mexico,Grant County,1,2,5,2,2,2,2
+050,35,017,New Mexico,Grant County,1,2,6,137,137,139,147
+050,35,017,New Mexico,Grant County,2,0,1,14273,14273,14212,14099
+050,35,017,New Mexico,Grant County,2,0,2,102,102,102,124
+050,35,017,New Mexico,Grant County,2,0,3,267,267,267,280
+050,35,017,New Mexico,Grant County,2,0,4,75,75,75,79
+050,35,017,New Mexico,Grant County,2,0,5,13,13,13,13
+050,35,017,New Mexico,Grant County,2,0,6,297,297,297,292
+050,35,017,New Mexico,Grant County,2,1,1,7340,7340,7287,7239
+050,35,017,New Mexico,Grant County,2,1,2,59,59,59,76
+050,35,017,New Mexico,Grant County,2,1,3,119,119,119,127
+050,35,017,New Mexico,Grant County,2,1,4,63,63,63,67
+050,35,017,New Mexico,Grant County,2,1,5,8,8,8,8
+050,35,017,New Mexico,Grant County,2,1,6,160,160,160,153
+050,35,017,New Mexico,Grant County,2,2,1,6933,6933,6925,6860
+050,35,017,New Mexico,Grant County,2,2,2,43,43,43,48
+050,35,017,New Mexico,Grant County,2,2,3,148,148,148,153
+050,35,017,New Mexico,Grant County,2,2,4,12,12,12,12
+050,35,017,New Mexico,Grant County,2,2,5,5,5,5,5
+050,35,017,New Mexico,Grant County,2,2,6,137,137,137,139
+050,35,019,New Mexico,Guadalupe County,0,0,1,4347,4347,4361,4255
+050,35,019,New Mexico,Guadalupe County,0,0,2,90,90,90,97
+050,35,019,New Mexico,Guadalupe County,0,0,3,113,113,113,117
+050,35,019,New Mexico,Guadalupe County,0,0,4,65,65,65,71
+050,35,019,New Mexico,Guadalupe County,0,0,5,0,0,0,0
+050,35,019,New Mexico,Guadalupe County,0,0,6,72,72,72,79
+050,35,019,New Mexico,Guadalupe County,0,1,1,760,760,761,736
+050,35,019,New Mexico,Guadalupe County,0,1,2,66,66,66,72
+050,35,019,New Mexico,Guadalupe County,0,1,3,46,46,46,48
+050,35,019,New Mexico,Guadalupe County,0,1,4,58,58,58,64
+050,35,019,New Mexico,Guadalupe County,0,1,5,0,0,0,0
+050,35,019,New Mexico,Guadalupe County,0,1,6,27,27,27,28
+050,35,019,New Mexico,Guadalupe County,0,2,1,3587,3587,3600,3519
+050,35,019,New Mexico,Guadalupe County,0,2,2,24,24,24,25
+050,35,019,New Mexico,Guadalupe County,0,2,3,67,67,67,69
+050,35,019,New Mexico,Guadalupe County,0,2,4,7,7,7,7
+050,35,019,New Mexico,Guadalupe County,0,2,5,0,0,0,0
+050,35,019,New Mexico,Guadalupe County,0,2,6,45,45,45,51
+050,35,019,New Mexico,Guadalupe County,1,0,1,2415,2415,2422,2371
+050,35,019,New Mexico,Guadalupe County,1,0,2,81,81,81,85
+050,35,019,New Mexico,Guadalupe County,1,0,3,72,72,72,72
+050,35,019,New Mexico,Guadalupe County,1,0,4,30,30,30,33
+050,35,019,New Mexico,Guadalupe County,1,0,5,0,0,0,0
+050,35,019,New Mexico,Guadalupe County,1,0,6,50,50,50,54
+050,35,019,New Mexico,Guadalupe County,1,1,1,463,463,464,454
+050,35,019,New Mexico,Guadalupe County,1,1,2,62,62,62,65
+050,35,019,New Mexico,Guadalupe County,1,1,3,36,36,36,38
+050,35,019,New Mexico,Guadalupe County,1,1,4,28,28,28,31
+050,35,019,New Mexico,Guadalupe County,1,1,5,0,0,0,0
+050,35,019,New Mexico,Guadalupe County,1,1,6,19,19,19,20
+050,35,019,New Mexico,Guadalupe County,1,2,1,1952,1952,1958,1917
+050,35,019,New Mexico,Guadalupe County,1,2,2,19,19,19,20
+050,35,019,New Mexico,Guadalupe County,1,2,3,36,36,36,34
+050,35,019,New Mexico,Guadalupe County,1,2,4,2,2,2,2
+050,35,019,New Mexico,Guadalupe County,1,2,5,0,0,0,0
+050,35,019,New Mexico,Guadalupe County,1,2,6,31,31,31,34
+050,35,019,New Mexico,Guadalupe County,2,0,1,1932,1932,1939,1884
+050,35,019,New Mexico,Guadalupe County,2,0,2,9,9,9,12
+050,35,019,New Mexico,Guadalupe County,2,0,3,41,41,41,45
+050,35,019,New Mexico,Guadalupe County,2,0,4,35,35,35,38
+050,35,019,New Mexico,Guadalupe County,2,0,5,0,0,0,0
+050,35,019,New Mexico,Guadalupe County,2,0,6,22,22,22,25
+050,35,019,New Mexico,Guadalupe County,2,1,1,297,297,297,282
+050,35,019,New Mexico,Guadalupe County,2,1,2,4,4,4,7
+050,35,019,New Mexico,Guadalupe County,2,1,3,10,10,10,10
+050,35,019,New Mexico,Guadalupe County,2,1,4,30,30,30,33
+050,35,019,New Mexico,Guadalupe County,2,1,5,0,0,0,0
+050,35,019,New Mexico,Guadalupe County,2,1,6,8,8,8,8
+050,35,019,New Mexico,Guadalupe County,2,2,1,1635,1635,1642,1602
+050,35,019,New Mexico,Guadalupe County,2,2,2,5,5,5,5
+050,35,019,New Mexico,Guadalupe County,2,2,3,31,31,31,35
+050,35,019,New Mexico,Guadalupe County,2,2,4,5,5,5,5
+050,35,019,New Mexico,Guadalupe County,2,2,5,0,0,0,0
+050,35,019,New Mexico,Guadalupe County,2,2,6,14,14,14,17
+050,35,021,New Mexico,Harding County,0,0,1,679,679,674,680
+050,35,021,New Mexico,Harding County,0,0,2,2,2,2,6
+050,35,021,New Mexico,Harding County,0,0,3,10,10,10,12
+050,35,021,New Mexico,Harding County,0,0,4,0,0,0,0
+050,35,021,New Mexico,Harding County,0,0,5,0,0,0,0
+050,35,021,New Mexico,Harding County,0,0,6,4,4,4,6
+050,35,021,New Mexico,Harding County,0,1,1,391,391,386,381
+050,35,021,New Mexico,Harding County,0,1,2,2,2,2,6
+050,35,021,New Mexico,Harding County,0,1,3,2,2,2,4
+050,35,021,New Mexico,Harding County,0,1,4,0,0,0,0
+050,35,021,New Mexico,Harding County,0,1,5,0,0,0,0
+050,35,021,New Mexico,Harding County,0,1,6,1,1,1,1
+050,35,021,New Mexico,Harding County,0,2,1,288,288,288,299
+050,35,021,New Mexico,Harding County,0,2,2,0,0,0,0
+050,35,021,New Mexico,Harding County,0,2,3,8,8,8,8
+050,35,021,New Mexico,Harding County,0,2,4,0,0,0,0
+050,35,021,New Mexico,Harding County,0,2,5,0,0,0,0
+050,35,021,New Mexico,Harding County,0,2,6,3,3,3,5
+050,35,021,New Mexico,Harding County,1,0,1,358,358,355,357
+050,35,021,New Mexico,Harding County,1,0,2,1,1,1,3
+050,35,021,New Mexico,Harding County,1,0,3,6,6,6,7
+050,35,021,New Mexico,Harding County,1,0,4,0,0,0,0
+050,35,021,New Mexico,Harding County,1,0,5,0,0,0,0
+050,35,021,New Mexico,Harding County,1,0,6,2,2,2,4
+050,35,021,New Mexico,Harding County,1,1,1,200,200,197,192
+050,35,021,New Mexico,Harding County,1,1,2,1,1,1,3
+050,35,021,New Mexico,Harding County,1,1,3,1,1,1,2
+050,35,021,New Mexico,Harding County,1,1,4,0,0,0,0
+050,35,021,New Mexico,Harding County,1,1,5,0,0,0,0
+050,35,021,New Mexico,Harding County,1,1,6,0,0,0,0
+050,35,021,New Mexico,Harding County,1,2,1,158,158,158,165
+050,35,021,New Mexico,Harding County,1,2,2,0,0,0,0
+050,35,021,New Mexico,Harding County,1,2,3,5,5,5,5
+050,35,021,New Mexico,Harding County,1,2,4,0,0,0,0
+050,35,021,New Mexico,Harding County,1,2,5,0,0,0,0
+050,35,021,New Mexico,Harding County,1,2,6,2,2,2,4
+050,35,021,New Mexico,Harding County,2,0,1,321,321,319,323
+050,35,021,New Mexico,Harding County,2,0,2,1,1,1,3
+050,35,021,New Mexico,Harding County,2,0,3,4,4,4,5
+050,35,021,New Mexico,Harding County,2,0,4,0,0,0,0
+050,35,021,New Mexico,Harding County,2,0,5,0,0,0,0
+050,35,021,New Mexico,Harding County,2,0,6,2,2,2,2
+050,35,021,New Mexico,Harding County,2,1,1,191,191,189,189
+050,35,021,New Mexico,Harding County,2,1,2,1,1,1,3
+050,35,021,New Mexico,Harding County,2,1,3,1,1,1,2
+050,35,021,New Mexico,Harding County,2,1,4,0,0,0,0
+050,35,021,New Mexico,Harding County,2,1,5,0,0,0,0
+050,35,021,New Mexico,Harding County,2,1,6,1,1,1,1
+050,35,021,New Mexico,Harding County,2,2,1,130,130,130,134
+050,35,021,New Mexico,Harding County,2,2,2,0,0,0,0
+050,35,021,New Mexico,Harding County,2,2,3,3,3,3,3
+050,35,021,New Mexico,Harding County,2,2,4,0,0,0,0
+050,35,021,New Mexico,Harding County,2,2,5,0,0,0,0
+050,35,021,New Mexico,Harding County,2,2,6,1,1,1,1
+050,35,023,New Mexico,Hidalgo County,0,0,1,4727,4727,4690,4660
+050,35,023,New Mexico,Hidalgo County,0,0,2,41,41,41,48
+050,35,023,New Mexico,Hidalgo County,0,0,3,48,48,48,60
+050,35,023,New Mexico,Hidalgo County,0,0,4,24,24,24,30
+050,35,023,New Mexico,Hidalgo County,0,0,5,4,4,4,5
+050,35,023,New Mexico,Hidalgo County,0,0,6,50,50,50,58
+050,35,023,New Mexico,Hidalgo County,0,1,1,2031,2031,2009,2031
+050,35,023,New Mexico,Hidalgo County,0,1,2,17,17,17,21
+050,35,023,New Mexico,Hidalgo County,0,1,3,16,16,16,18
+050,35,023,New Mexico,Hidalgo County,0,1,4,23,23,23,28
+050,35,023,New Mexico,Hidalgo County,0,1,5,2,2,2,3
+050,35,023,New Mexico,Hidalgo County,0,1,6,36,36,36,37
+050,35,023,New Mexico,Hidalgo County,0,2,1,2696,2696,2681,2629
+050,35,023,New Mexico,Hidalgo County,0,2,2,24,24,24,27
+050,35,023,New Mexico,Hidalgo County,0,2,3,32,32,32,42
+050,35,023,New Mexico,Hidalgo County,0,2,4,1,1,1,2
+050,35,023,New Mexico,Hidalgo County,0,2,5,2,2,2,2
+050,35,023,New Mexico,Hidalgo County,0,2,6,14,14,14,21
+050,35,023,New Mexico,Hidalgo County,1,0,1,2376,2376,2360,2352
+050,35,023,New Mexico,Hidalgo County,1,0,2,13,13,13,16
+050,35,023,New Mexico,Hidalgo County,1,0,3,26,26,26,29
+050,35,023,New Mexico,Hidalgo County,1,0,4,12,12,12,15
+050,35,023,New Mexico,Hidalgo County,1,0,5,2,2,2,3
+050,35,023,New Mexico,Hidalgo County,1,0,6,26,26,26,26
+050,35,023,New Mexico,Hidalgo County,1,1,1,1005,1005,997,1007
+050,35,023,New Mexico,Hidalgo County,1,1,2,5,5,5,7
+050,35,023,New Mexico,Hidalgo County,1,1,3,9,9,9,7
+050,35,023,New Mexico,Hidalgo County,1,1,4,11,11,11,14
+050,35,023,New Mexico,Hidalgo County,1,1,5,1,1,1,2
+050,35,023,New Mexico,Hidalgo County,1,1,6,18,18,18,18
+050,35,023,New Mexico,Hidalgo County,1,2,1,1371,1371,1363,1345
+050,35,023,New Mexico,Hidalgo County,1,2,2,8,8,8,9
+050,35,023,New Mexico,Hidalgo County,1,2,3,17,17,17,22
+050,35,023,New Mexico,Hidalgo County,1,2,4,1,1,1,1
+050,35,023,New Mexico,Hidalgo County,1,2,5,1,1,1,1
+050,35,023,New Mexico,Hidalgo County,1,2,6,8,8,8,8
+050,35,023,New Mexico,Hidalgo County,2,0,1,2351,2351,2330,2308
+050,35,023,New Mexico,Hidalgo County,2,0,2,28,28,28,32
+050,35,023,New Mexico,Hidalgo County,2,0,3,22,22,22,31
+050,35,023,New Mexico,Hidalgo County,2,0,4,12,12,12,15
+050,35,023,New Mexico,Hidalgo County,2,0,5,2,2,2,2
+050,35,023,New Mexico,Hidalgo County,2,0,6,24,24,24,32
+050,35,023,New Mexico,Hidalgo County,2,1,1,1026,1026,1012,1024
+050,35,023,New Mexico,Hidalgo County,2,1,2,12,12,12,14
+050,35,023,New Mexico,Hidalgo County,2,1,3,7,7,7,11
+050,35,023,New Mexico,Hidalgo County,2,1,4,12,12,12,14
+050,35,023,New Mexico,Hidalgo County,2,1,5,1,1,1,1
+050,35,023,New Mexico,Hidalgo County,2,1,6,18,18,18,19
+050,35,023,New Mexico,Hidalgo County,2,2,1,1325,1325,1318,1284
+050,35,023,New Mexico,Hidalgo County,2,2,2,16,16,16,18
+050,35,023,New Mexico,Hidalgo County,2,2,3,15,15,15,20
+050,35,023,New Mexico,Hidalgo County,2,2,4,0,0,0,1
+050,35,023,New Mexico,Hidalgo County,2,2,5,1,1,1,1
+050,35,023,New Mexico,Hidalgo County,2,2,6,6,6,6,13
+050,35,025,New Mexico,Lea County,0,0,1,59541,59541,59560,60012
+050,35,025,New Mexico,Lea County,0,0,2,2875,2875,2877,2943
+050,35,025,New Mexico,Lea County,0,0,3,1038,1038,1038,1162
+050,35,025,New Mexico,Lea County,0,0,4,372,372,372,376
+050,35,025,New Mexico,Lea County,0,0,5,62,62,62,67
+050,35,025,New Mexico,Lea County,0,0,6,839,839,839,863
+050,35,025,New Mexico,Lea County,0,1,1,27917,27917,27827,27468
+050,35,025,New Mexico,Lea County,0,1,2,2410,2410,2412,2455
+050,35,025,New Mexico,Lea County,0,1,3,477,477,477,519
+050,35,025,New Mexico,Lea County,0,1,4,308,308,308,306
+050,35,025,New Mexico,Lea County,0,1,5,18,18,18,20
+050,35,025,New Mexico,Lea County,0,1,6,534,534,534,553
+050,35,025,New Mexico,Lea County,0,2,1,31624,31624,31733,32544
+050,35,025,New Mexico,Lea County,0,2,2,465,465,465,488
+050,35,025,New Mexico,Lea County,0,2,3,561,561,561,643
+050,35,025,New Mexico,Lea County,0,2,4,64,64,64,70
+050,35,025,New Mexico,Lea County,0,2,5,44,44,44,47
+050,35,025,New Mexico,Lea County,0,2,6,305,305,305,310
+050,35,025,New Mexico,Lea County,1,0,1,30243,30243,30270,30545
+050,35,025,New Mexico,Lea County,1,0,2,1555,1555,1556,1605
+050,35,025,New Mexico,Lea County,1,0,3,574,574,574,646
+050,35,025,New Mexico,Lea County,1,0,4,190,190,190,197
+050,35,025,New Mexico,Lea County,1,0,5,35,35,35,37
+050,35,025,New Mexico,Lea County,1,0,6,448,448,448,465
+050,35,025,New Mexico,Lea County,1,1,1,13846,13846,13806,13683
+050,35,025,New Mexico,Lea County,1,1,2,1288,1288,1289,1325
+050,35,025,New Mexico,Lea County,1,1,3,265,265,265,283
+050,35,025,New Mexico,Lea County,1,1,4,153,153,153,156
+050,35,025,New Mexico,Lea County,1,1,5,9,9,9,10
+050,35,025,New Mexico,Lea County,1,1,6,278,278,278,298
+050,35,025,New Mexico,Lea County,1,2,1,16397,16397,16464,16862
+050,35,025,New Mexico,Lea County,1,2,2,267,267,267,280
+050,35,025,New Mexico,Lea County,1,2,3,309,309,309,363
+050,35,025,New Mexico,Lea County,1,2,4,37,37,37,41
+050,35,025,New Mexico,Lea County,1,2,5,26,26,26,27
+050,35,025,New Mexico,Lea County,1,2,6,170,170,170,167
+050,35,025,New Mexico,Lea County,2,0,1,29298,29298,29290,29467
+050,35,025,New Mexico,Lea County,2,0,2,1320,1320,1321,1338
+050,35,025,New Mexico,Lea County,2,0,3,464,464,464,516
+050,35,025,New Mexico,Lea County,2,0,4,182,182,182,179
+050,35,025,New Mexico,Lea County,2,0,5,27,27,27,30
+050,35,025,New Mexico,Lea County,2,0,6,391,391,391,398
+050,35,025,New Mexico,Lea County,2,1,1,14071,14071,14021,13785
+050,35,025,New Mexico,Lea County,2,1,2,1122,1122,1123,1130
+050,35,025,New Mexico,Lea County,2,1,3,212,212,212,236
+050,35,025,New Mexico,Lea County,2,1,4,155,155,155,150
+050,35,025,New Mexico,Lea County,2,1,5,9,9,9,10
+050,35,025,New Mexico,Lea County,2,1,6,256,256,256,255
+050,35,025,New Mexico,Lea County,2,2,1,15227,15227,15269,15682
+050,35,025,New Mexico,Lea County,2,2,2,198,198,198,208
+050,35,025,New Mexico,Lea County,2,2,3,252,252,252,280
+050,35,025,New Mexico,Lea County,2,2,4,27,27,27,29
+050,35,025,New Mexico,Lea County,2,2,5,18,18,18,20
+050,35,025,New Mexico,Lea County,2,2,6,135,135,135,143
+050,35,027,New Mexico,Lincoln County,0,0,1,19424,19424,19430,19228
+050,35,027,New Mexico,Lincoln County,0,0,2,151,151,151,181
+050,35,027,New Mexico,Lincoln County,0,0,3,540,540,540,603
+050,35,027,New Mexico,Lincoln County,0,0,4,83,83,83,96
+050,35,027,New Mexico,Lincoln County,0,0,5,40,40,40,42
+050,35,027,New Mexico,Lincoln County,0,0,6,259,259,259,304
+050,35,027,New Mexico,Lincoln County,0,1,1,13635,13635,13623,13340
+050,35,027,New Mexico,Lincoln County,0,1,2,78,78,78,102
+050,35,027,New Mexico,Lincoln County,0,1,3,410,410,410,453
+050,35,027,New Mexico,Lincoln County,0,1,4,67,67,67,75
+050,35,027,New Mexico,Lincoln County,0,1,5,5,5,5,5
+050,35,027,New Mexico,Lincoln County,0,1,6,192,192,192,206
+050,35,027,New Mexico,Lincoln County,0,2,1,5789,5789,5807,5888
+050,35,027,New Mexico,Lincoln County,0,2,2,73,73,73,79
+050,35,027,New Mexico,Lincoln County,0,2,3,130,130,130,150
+050,35,027,New Mexico,Lincoln County,0,2,4,16,16,16,21
+050,35,027,New Mexico,Lincoln County,0,2,5,35,35,35,37
+050,35,027,New Mexico,Lincoln County,0,2,6,67,67,67,98
+050,35,027,New Mexico,Lincoln County,1,0,1,9556,9556,9563,9407
+050,35,027,New Mexico,Lincoln County,1,0,2,76,76,76,93
+050,35,027,New Mexico,Lincoln County,1,0,3,257,257,257,291
+050,35,027,New Mexico,Lincoln County,1,0,4,35,35,35,39
+050,35,027,New Mexico,Lincoln County,1,0,5,24,24,24,25
+050,35,027,New Mexico,Lincoln County,1,0,6,120,120,120,142
+050,35,027,New Mexico,Lincoln County,1,1,1,6702,6702,6698,6519
+050,35,027,New Mexico,Lincoln County,1,1,2,44,44,44,57
+050,35,027,New Mexico,Lincoln County,1,1,3,183,183,183,211
+050,35,027,New Mexico,Lincoln County,1,1,4,30,30,30,32
+050,35,027,New Mexico,Lincoln County,1,1,5,3,3,3,3
+050,35,027,New Mexico,Lincoln County,1,1,6,88,88,88,95
+050,35,027,New Mexico,Lincoln County,1,2,1,2854,2854,2865,2888
+050,35,027,New Mexico,Lincoln County,1,2,2,32,32,32,36
+050,35,027,New Mexico,Lincoln County,1,2,3,74,74,74,80
+050,35,027,New Mexico,Lincoln County,1,2,4,5,5,5,7
+050,35,027,New Mexico,Lincoln County,1,2,5,21,21,21,22
+050,35,027,New Mexico,Lincoln County,1,2,6,32,32,32,47
+050,35,027,New Mexico,Lincoln County,2,0,1,9868,9868,9867,9821
+050,35,027,New Mexico,Lincoln County,2,0,2,75,75,75,88
+050,35,027,New Mexico,Lincoln County,2,0,3,283,283,283,312
+050,35,027,New Mexico,Lincoln County,2,0,4,48,48,48,57
+050,35,027,New Mexico,Lincoln County,2,0,5,16,16,16,17
+050,35,027,New Mexico,Lincoln County,2,0,6,139,139,139,162
+050,35,027,New Mexico,Lincoln County,2,1,1,6933,6933,6925,6821
+050,35,027,New Mexico,Lincoln County,2,1,2,34,34,34,45
+050,35,027,New Mexico,Lincoln County,2,1,3,227,227,227,242
+050,35,027,New Mexico,Lincoln County,2,1,4,37,37,37,43
+050,35,027,New Mexico,Lincoln County,2,1,5,2,2,2,2
+050,35,027,New Mexico,Lincoln County,2,1,6,104,104,104,111
+050,35,027,New Mexico,Lincoln County,2,2,1,2935,2935,2942,3000
+050,35,027,New Mexico,Lincoln County,2,2,2,41,41,41,43
+050,35,027,New Mexico,Lincoln County,2,2,3,56,56,56,70
+050,35,027,New Mexico,Lincoln County,2,2,4,11,11,11,14
+050,35,027,New Mexico,Lincoln County,2,2,5,14,14,14,15
+050,35,027,New Mexico,Lincoln County,2,2,6,35,35,35,51
+050,35,028,New Mexico,Los Alamos County,0,0,1,16214,16214,16291,16341
+050,35,028,New Mexico,Los Alamos County,0,0,2,105,105,105,144
+050,35,028,New Mexico,Los Alamos County,0,0,3,161,161,161,205
+050,35,028,New Mexico,Los Alamos County,0,0,4,1080,1080,1083,1113
+050,35,028,New Mexico,Los Alamos County,0,0,5,14,14,15,16
+050,35,028,New Mexico,Los Alamos County,0,0,6,376,376,376,403
+050,35,028,New Mexico,Los Alamos County,0,1,1,13720,13720,13782,13737
+050,35,028,New Mexico,Los Alamos County,0,1,2,97,97,97,134
+050,35,028,New Mexico,Los Alamos County,0,1,3,111,111,111,133
+050,35,028,New Mexico,Los Alamos County,0,1,4,1068,1068,1071,1099
+050,35,028,New Mexico,Los Alamos County,0,1,5,8,8,9,10
+050,35,028,New Mexico,Los Alamos County,0,1,6,300,300,300,322
+050,35,028,New Mexico,Los Alamos County,0,2,1,2494,2494,2509,2604
+050,35,028,New Mexico,Los Alamos County,0,2,2,8,8,8,10
+050,35,028,New Mexico,Los Alamos County,0,2,3,50,50,50,72
+050,35,028,New Mexico,Los Alamos County,0,2,4,12,12,12,14
+050,35,028,New Mexico,Los Alamos County,0,2,5,6,6,6,6
+050,35,028,New Mexico,Los Alamos County,0,2,6,76,76,76,81
+050,35,028,New Mexico,Los Alamos County,1,0,1,8156,8156,8199,8213
+050,35,028,New Mexico,Los Alamos County,1,0,2,65,65,65,78
+050,35,028,New Mexico,Los Alamos County,1,0,3,83,83,83,104
+050,35,028,New Mexico,Los Alamos County,1,0,4,530,530,531,549
+050,35,028,New Mexico,Los Alamos County,1,0,5,7,7,7,7
+050,35,028,New Mexico,Los Alamos County,1,0,6,188,188,188,209
+050,35,028,New Mexico,Los Alamos County,1,1,1,6978,6978,7013,6978
+050,35,028,New Mexico,Los Alamos County,1,1,2,60,60,60,72
+050,35,028,New Mexico,Los Alamos County,1,1,3,58,58,58,72
+050,35,028,New Mexico,Los Alamos County,1,1,4,522,522,523,539
+050,35,028,New Mexico,Los Alamos County,1,1,5,5,5,5,5
+050,35,028,New Mexico,Los Alamos County,1,1,6,153,153,153,172
+050,35,028,New Mexico,Los Alamos County,1,2,1,1178,1178,1186,1235
+050,35,028,New Mexico,Los Alamos County,1,2,2,5,5,5,6
+050,35,028,New Mexico,Los Alamos County,1,2,3,25,25,25,32
+050,35,028,New Mexico,Los Alamos County,1,2,4,8,8,8,10
+050,35,028,New Mexico,Los Alamos County,1,2,5,2,2,2,2
+050,35,028,New Mexico,Los Alamos County,1,2,6,35,35,35,37
+050,35,028,New Mexico,Los Alamos County,2,0,1,8058,8058,8092,8128
+050,35,028,New Mexico,Los Alamos County,2,0,2,40,40,40,66
+050,35,028,New Mexico,Los Alamos County,2,0,3,78,78,78,101
+050,35,028,New Mexico,Los Alamos County,2,0,4,550,550,552,564
+050,35,028,New Mexico,Los Alamos County,2,0,5,7,7,8,9
+050,35,028,New Mexico,Los Alamos County,2,0,6,188,188,188,194
+050,35,028,New Mexico,Los Alamos County,2,1,1,6742,6742,6769,6759
+050,35,028,New Mexico,Los Alamos County,2,1,2,37,37,37,62
+050,35,028,New Mexico,Los Alamos County,2,1,3,53,53,53,61
+050,35,028,New Mexico,Los Alamos County,2,1,4,546,546,548,560
+050,35,028,New Mexico,Los Alamos County,2,1,5,3,3,4,5
+050,35,028,New Mexico,Los Alamos County,2,1,6,147,147,147,150
+050,35,028,New Mexico,Los Alamos County,2,2,1,1316,1316,1323,1369
+050,35,028,New Mexico,Los Alamos County,2,2,2,3,3,3,4
+050,35,028,New Mexico,Los Alamos County,2,2,3,25,25,25,40
+050,35,028,New Mexico,Los Alamos County,2,2,4,4,4,4,4
+050,35,028,New Mexico,Los Alamos County,2,2,5,4,4,4,4
+050,35,028,New Mexico,Los Alamos County,2,2,6,41,41,41,44
+050,35,029,New Mexico,Luna County,0,0,1,23760,23760,23810,23812
+050,35,029,New Mexico,Luna County,0,0,2,339,339,339,360
+050,35,029,New Mexico,Luna County,0,0,3,502,502,502,559
+050,35,029,New Mexico,Luna County,0,0,4,147,147,147,152
+050,35,029,New Mexico,Luna County,0,0,5,37,37,38,42
+050,35,029,New Mexico,Luna County,0,0,6,310,310,310,356
+050,35,029,New Mexico,Luna County,0,1,1,9037,9037,9037,8804
+050,35,029,New Mexico,Luna County,0,1,2,189,189,189,199
+050,35,029,New Mexico,Luna County,0,1,3,144,144,144,161
+050,35,029,New Mexico,Luna County,0,1,4,121,121,121,121
+050,35,029,New Mexico,Luna County,0,1,5,2,2,2,2
+050,35,029,New Mexico,Luna County,0,1,6,179,179,179,198
+050,35,029,New Mexico,Luna County,0,2,1,14723,14723,14773,15008
+050,35,029,New Mexico,Luna County,0,2,2,150,150,150,161
+050,35,029,New Mexico,Luna County,0,2,3,358,358,358,398
+050,35,029,New Mexico,Luna County,0,2,4,26,26,26,31
+050,35,029,New Mexico,Luna County,0,2,5,35,35,36,40
+050,35,029,New Mexico,Luna County,0,2,6,131,131,131,158
+050,35,029,New Mexico,Luna County,1,0,1,11830,11830,11859,11910
+050,35,029,New Mexico,Luna County,1,0,2,168,168,168,180
+050,35,029,New Mexico,Luna County,1,0,3,245,245,245,281
+050,35,029,New Mexico,Luna County,1,0,4,74,74,74,78
+050,35,029,New Mexico,Luna County,1,0,5,16,16,17,18
+050,35,029,New Mexico,Luna County,1,0,6,141,141,141,158
+050,35,029,New Mexico,Luna County,1,1,1,4555,4555,4557,4461
+050,35,029,New Mexico,Luna County,1,1,2,98,98,98,102
+050,35,029,New Mexico,Luna County,1,1,3,72,72,72,82
+050,35,029,New Mexico,Luna County,1,1,4,58,58,58,60
+050,35,029,New Mexico,Luna County,1,1,5,0,0,0,0
+050,35,029,New Mexico,Luna County,1,1,6,77,77,77,83
+050,35,029,New Mexico,Luna County,1,2,1,7275,7275,7302,7449
+050,35,029,New Mexico,Luna County,1,2,2,70,70,70,78
+050,35,029,New Mexico,Luna County,1,2,3,173,173,173,199
+050,35,029,New Mexico,Luna County,1,2,4,16,16,16,18
+050,35,029,New Mexico,Luna County,1,2,5,16,16,17,18
+050,35,029,New Mexico,Luna County,1,2,6,64,64,64,75
+050,35,029,New Mexico,Luna County,2,0,1,11930,11930,11951,11902
+050,35,029,New Mexico,Luna County,2,0,2,171,171,171,180
+050,35,029,New Mexico,Luna County,2,0,3,257,257,257,278
+050,35,029,New Mexico,Luna County,2,0,4,73,73,73,74
+050,35,029,New Mexico,Luna County,2,0,5,21,21,21,24
+050,35,029,New Mexico,Luna County,2,0,6,169,169,169,198
+050,35,029,New Mexico,Luna County,2,1,1,4482,4482,4480,4343
+050,35,029,New Mexico,Luna County,2,1,2,91,91,91,97
+050,35,029,New Mexico,Luna County,2,1,3,72,72,72,79
+050,35,029,New Mexico,Luna County,2,1,4,63,63,63,61
+050,35,029,New Mexico,Luna County,2,1,5,2,2,2,2
+050,35,029,New Mexico,Luna County,2,1,6,102,102,102,115
+050,35,029,New Mexico,Luna County,2,2,1,7448,7448,7471,7559
+050,35,029,New Mexico,Luna County,2,2,2,80,80,80,83
+050,35,029,New Mexico,Luna County,2,2,3,185,185,185,199
+050,35,029,New Mexico,Luna County,2,2,4,10,10,10,13
+050,35,029,New Mexico,Luna County,2,2,5,19,19,19,22
+050,35,029,New Mexico,Luna County,2,2,6,67,67,67,83
+050,35,031,New Mexico,McKinley County,0,0,1,13623,13623,13746,14944
+050,35,031,New Mexico,McKinley County,0,0,2,425,425,439,957
+050,35,031,New Mexico,McKinley County,0,0,3,55155,55155,55285,54932
+050,35,031,New Mexico,McKinley County,0,0,4,620,620,632,730
+050,35,031,New Mexico,McKinley County,0,0,5,37,37,40,56
+050,35,031,New Mexico,McKinley County,0,0,6,1632,1632,1670,2045
+050,35,031,New Mexico,McKinley County,0,1,1,7435,7435,7472,7732
+050,35,031,New Mexico,McKinley County,0,1,2,321,321,323,782
+050,35,031,New Mexico,McKinley County,0,1,3,52463,52463,52553,52130
+050,35,031,New Mexico,McKinley County,0,1,4,547,547,558,639
+050,35,031,New Mexico,McKinley County,0,1,5,17,17,17,28
+050,35,031,New Mexico,McKinley County,0,1,6,1236,1236,1260,1571
+050,35,031,New Mexico,McKinley County,0,2,1,6188,6188,6274,7212
+050,35,031,New Mexico,McKinley County,0,2,2,104,104,116,175
+050,35,031,New Mexico,McKinley County,0,2,3,2692,2692,2732,2802
+050,35,031,New Mexico,McKinley County,0,2,4,73,73,74,91
+050,35,031,New Mexico,McKinley County,0,2,5,20,20,23,28
+050,35,031,New Mexico,McKinley County,0,2,6,396,396,410,474
+050,35,031,New Mexico,McKinley County,1,0,1,6753,6753,6820,7416
+050,35,031,New Mexico,McKinley County,1,0,2,236,236,244,513
+050,35,031,New Mexico,McKinley County,1,0,3,26544,26544,26600,26237
+050,35,031,New Mexico,McKinley County,1,0,4,273,273,281,332
+050,35,031,New Mexico,McKinley County,1,0,5,16,16,18,27
+050,35,031,New Mexico,McKinley County,1,0,6,798,798,816,1004
+050,35,031,New Mexico,McKinley County,1,1,1,3685,3685,3705,3845
+050,35,031,New Mexico,McKinley County,1,1,2,187,187,189,432
+050,35,031,New Mexico,McKinley County,1,1,3,25137,25137,25172,24791
+050,35,031,New Mexico,McKinley County,1,1,4,233,233,240,284
+050,35,031,New Mexico,McKinley County,1,1,5,8,8,8,12
+050,35,031,New Mexico,McKinley County,1,1,6,596,596,606,763
+050,35,031,New Mexico,McKinley County,1,2,1,3068,3068,3115,3571
+050,35,031,New Mexico,McKinley County,1,2,2,49,49,55,81
+050,35,031,New Mexico,McKinley County,1,2,3,1407,1407,1428,1446
+050,35,031,New Mexico,McKinley County,1,2,4,40,40,41,48
+050,35,031,New Mexico,McKinley County,1,2,5,8,8,10,15
+050,35,031,New Mexico,McKinley County,1,2,6,202,202,210,241
+050,35,031,New Mexico,McKinley County,2,0,1,6870,6870,6926,7528
+050,35,031,New Mexico,McKinley County,2,0,2,189,189,195,444
+050,35,031,New Mexico,McKinley County,2,0,3,28611,28611,28685,28695
+050,35,031,New Mexico,McKinley County,2,0,4,347,347,351,398
+050,35,031,New Mexico,McKinley County,2,0,5,21,21,22,29
+050,35,031,New Mexico,McKinley County,2,0,6,834,834,854,1041
+050,35,031,New Mexico,McKinley County,2,1,1,3750,3750,3767,3887
+050,35,031,New Mexico,McKinley County,2,1,2,134,134,134,350
+050,35,031,New Mexico,McKinley County,2,1,3,27326,27326,27381,27339
+050,35,031,New Mexico,McKinley County,2,1,4,314,314,318,355
+050,35,031,New Mexico,McKinley County,2,1,5,9,9,9,16
+050,35,031,New Mexico,McKinley County,2,1,6,640,640,654,808
+050,35,031,New Mexico,McKinley County,2,2,1,3120,3120,3159,3641
+050,35,031,New Mexico,McKinley County,2,2,2,55,55,61,94
+050,35,031,New Mexico,McKinley County,2,2,3,1285,1285,1304,1356
+050,35,031,New Mexico,McKinley County,2,2,4,33,33,33,43
+050,35,031,New Mexico,McKinley County,2,2,5,12,12,13,13
+050,35,031,New Mexico,McKinley County,2,2,6,194,194,200,233
+050,35,033,New Mexico,Mora County,0,0,1,4638,4638,4643,4511
+050,35,033,New Mexico,Mora County,0,0,2,44,44,44,50
+050,35,033,New Mexico,Mora County,0,0,3,122,122,122,130
+050,35,033,New Mexico,Mora County,0,0,4,19,19,19,20
+050,35,033,New Mexico,Mora County,0,0,5,1,1,1,1
+050,35,033,New Mexico,Mora County,0,0,6,57,57,57,61
+050,35,033,New Mexico,Mora County,0,1,1,874,874,873,870
+050,35,033,New Mexico,Mora County,0,1,2,10,10,10,13
+050,35,033,New Mexico,Mora County,0,1,3,18,18,18,18
+050,35,033,New Mexico,Mora County,0,1,4,11,11,11,12
+050,35,033,New Mexico,Mora County,0,1,5,1,1,1,1
+050,35,033,New Mexico,Mora County,0,1,6,14,14,14,20
+050,35,033,New Mexico,Mora County,0,2,1,3764,3764,3770,3641
+050,35,033,New Mexico,Mora County,0,2,2,34,34,34,37
+050,35,033,New Mexico,Mora County,0,2,3,104,104,104,112
+050,35,033,New Mexico,Mora County,0,2,4,8,8,8,8
+050,35,033,New Mexico,Mora County,0,2,5,0,0,0,0
+050,35,033,New Mexico,Mora County,0,2,6,43,43,43,41
+050,35,033,New Mexico,Mora County,1,0,1,2376,2376,2379,2307
+050,35,033,New Mexico,Mora County,1,0,2,21,21,21,23
+050,35,033,New Mexico,Mora County,1,0,3,61,61,61,65
+050,35,033,New Mexico,Mora County,1,0,4,10,10,10,11
+050,35,033,New Mexico,Mora County,1,0,5,0,0,0,0
+050,35,033,New Mexico,Mora County,1,0,6,30,30,30,31
+050,35,033,New Mexico,Mora County,1,1,1,427,427,427,424
+050,35,033,New Mexico,Mora County,1,1,2,6,6,6,8
+050,35,033,New Mexico,Mora County,1,1,3,7,7,7,8
+050,35,033,New Mexico,Mora County,1,1,4,6,6,6,7
+050,35,033,New Mexico,Mora County,1,1,5,0,0,0,0
+050,35,033,New Mexico,Mora County,1,1,6,4,4,4,7
+050,35,033,New Mexico,Mora County,1,2,1,1949,1949,1952,1883
+050,35,033,New Mexico,Mora County,1,2,2,15,15,15,15
+050,35,033,New Mexico,Mora County,1,2,3,54,54,54,57
+050,35,033,New Mexico,Mora County,1,2,4,4,4,4,4
+050,35,033,New Mexico,Mora County,1,2,5,0,0,0,0
+050,35,033,New Mexico,Mora County,1,2,6,26,26,26,24
+050,35,033,New Mexico,Mora County,2,0,1,2262,2262,2264,2204
+050,35,033,New Mexico,Mora County,2,0,2,23,23,23,27
+050,35,033,New Mexico,Mora County,2,0,3,61,61,61,65
+050,35,033,New Mexico,Mora County,2,0,4,9,9,9,9
+050,35,033,New Mexico,Mora County,2,0,5,1,1,1,1
+050,35,033,New Mexico,Mora County,2,0,6,27,27,27,30
+050,35,033,New Mexico,Mora County,2,1,1,447,447,446,446
+050,35,033,New Mexico,Mora County,2,1,2,4,4,4,5
+050,35,033,New Mexico,Mora County,2,1,3,11,11,11,10
+050,35,033,New Mexico,Mora County,2,1,4,5,5,5,5
+050,35,033,New Mexico,Mora County,2,1,5,1,1,1,1
+050,35,033,New Mexico,Mora County,2,1,6,10,10,10,13
+050,35,033,New Mexico,Mora County,2,2,1,1815,1815,1818,1758
+050,35,033,New Mexico,Mora County,2,2,2,19,19,19,22
+050,35,033,New Mexico,Mora County,2,2,3,50,50,50,55
+050,35,033,New Mexico,Mora County,2,2,4,4,4,4,4
+050,35,033,New Mexico,Mora County,2,2,5,0,0,0,0
+050,35,033,New Mexico,Mora County,2,2,6,17,17,17,17
+050,35,035,New Mexico,Otero County,0,0,1,53966,53966,54463,55466
+050,35,035,New Mexico,Otero County,0,0,2,2437,2437,2447,2643
+050,35,035,New Mexico,Otero County,0,0,3,4558,4558,4584,4591
+050,35,035,New Mexico,Otero County,0,0,4,812,812,813,893
+050,35,035,New Mexico,Otero County,0,0,5,214,214,214,229
+050,35,035,New Mexico,Otero County,0,0,6,1810,1810,1819,1881
+050,35,035,New Mexico,Otero County,0,1,1,33813,33813,34031,34518
+050,35,035,New Mexico,Otero County,0,1,2,2056,2056,2066,2219
+050,35,035,New Mexico,Otero County,0,1,3,3747,3747,3773,3740
+050,35,035,New Mexico,Otero County,0,1,4,720,720,721,790
+050,35,035,New Mexico,Otero County,0,1,5,132,132,132,141
+050,35,035,New Mexico,Otero County,0,1,6,1303,1303,1310,1357
+050,35,035,New Mexico,Otero County,0,2,1,20153,20153,20432,20948
+050,35,035,New Mexico,Otero County,0,2,2,381,381,381,424
+050,35,035,New Mexico,Otero County,0,2,3,811,811,811,851
+050,35,035,New Mexico,Otero County,0,2,4,92,92,92,103
+050,35,035,New Mexico,Otero County,0,2,5,82,82,82,88
+050,35,035,New Mexico,Otero County,0,2,6,507,507,509,524
+050,35,035,New Mexico,Otero County,1,0,1,27325,27325,27584,28208
+050,35,035,New Mexico,Otero County,1,0,2,1307,1307,1313,1428
+050,35,035,New Mexico,Otero County,1,0,3,2218,2218,2233,2247
+050,35,035,New Mexico,Otero County,1,0,4,286,286,286,305
+050,35,035,New Mexico,Otero County,1,0,5,106,106,106,116
+050,35,035,New Mexico,Otero County,1,0,6,952,952,958,986
+050,35,035,New Mexico,Otero County,1,1,1,17451,17451,17567,17917
+050,35,035,New Mexico,Otero County,1,1,2,1141,1141,1147,1221
+050,35,035,New Mexico,Otero County,1,1,3,1793,1793,1808,1790
+050,35,035,New Mexico,Otero County,1,1,4,237,237,237,253
+050,35,035,New Mexico,Otero County,1,1,5,68,68,68,73
+050,35,035,New Mexico,Otero County,1,1,6,694,694,699,722
+050,35,035,New Mexico,Otero County,1,2,1,9874,9874,10017,10291
+050,35,035,New Mexico,Otero County,1,2,2,166,166,166,207
+050,35,035,New Mexico,Otero County,1,2,3,425,425,425,457
+050,35,035,New Mexico,Otero County,1,2,4,49,49,49,52
+050,35,035,New Mexico,Otero County,1,2,5,38,38,38,43
+050,35,035,New Mexico,Otero County,1,2,6,258,258,259,264
+050,35,035,New Mexico,Otero County,2,0,1,26641,26641,26879,27258
+050,35,035,New Mexico,Otero County,2,0,2,1130,1130,1134,1215
+050,35,035,New Mexico,Otero County,2,0,3,2340,2340,2351,2344
+050,35,035,New Mexico,Otero County,2,0,4,526,526,527,588
+050,35,035,New Mexico,Otero County,2,0,5,108,108,108,113
+050,35,035,New Mexico,Otero County,2,0,6,858,858,861,895
+050,35,035,New Mexico,Otero County,2,1,1,16362,16362,16464,16601
+050,35,035,New Mexico,Otero County,2,1,2,915,915,919,998
+050,35,035,New Mexico,Otero County,2,1,3,1954,1954,1965,1950
+050,35,035,New Mexico,Otero County,2,1,4,483,483,484,537
+050,35,035,New Mexico,Otero County,2,1,5,64,64,64,68
+050,35,035,New Mexico,Otero County,2,1,6,609,609,611,635
+050,35,035,New Mexico,Otero County,2,2,1,10279,10279,10415,10657
+050,35,035,New Mexico,Otero County,2,2,2,215,215,215,217
+050,35,035,New Mexico,Otero County,2,2,3,386,386,386,394
+050,35,035,New Mexico,Otero County,2,2,4,43,43,43,51
+050,35,035,New Mexico,Otero County,2,2,5,44,44,44,45
+050,35,035,New Mexico,Otero County,2,2,6,249,249,250,260
+050,35,037,New Mexico,Quay County,0,0,1,8484,8484,8525,8397
+050,35,037,New Mexico,Quay County,0,0,2,120,120,120,144
+050,35,037,New Mexico,Quay County,0,0,3,168,168,168,200
+050,35,037,New Mexico,Quay County,0,0,4,98,98,98,98
+050,35,037,New Mexico,Quay County,0,0,5,5,5,5,5
+050,35,037,New Mexico,Quay County,0,0,6,166,166,166,182
+050,35,037,New Mexico,Quay County,0,1,1,4864,4864,4880,4763
+050,35,037,New Mexico,Quay County,0,1,2,82,82,82,104
+050,35,037,New Mexico,Quay County,0,1,3,72,72,72,79
+050,35,037,New Mexico,Quay County,0,1,4,82,82,82,81
+050,35,037,New Mexico,Quay County,0,1,5,5,5,5,5
+050,35,037,New Mexico,Quay County,0,1,6,102,102,102,108
+050,35,037,New Mexico,Quay County,0,2,1,3620,3620,3645,3634
+050,35,037,New Mexico,Quay County,0,2,2,38,38,38,40
+050,35,037,New Mexico,Quay County,0,2,3,96,96,96,121
+050,35,037,New Mexico,Quay County,0,2,4,16,16,16,17
+050,35,037,New Mexico,Quay County,0,2,5,0,0,0,0
+050,35,037,New Mexico,Quay County,0,2,6,64,64,64,74
+050,35,037,New Mexico,Quay County,1,0,1,4168,4168,4190,4092
+050,35,037,New Mexico,Quay County,1,0,2,66,66,66,82
+050,35,037,New Mexico,Quay County,1,0,3,89,89,89,107
+050,35,037,New Mexico,Quay County,1,0,4,50,50,50,49
+050,35,037,New Mexico,Quay County,1,0,5,2,2,2,2
+050,35,037,New Mexico,Quay County,1,0,6,81,81,81,81
+050,35,037,New Mexico,Quay County,1,1,1,2385,2385,2393,2312
+050,35,037,New Mexico,Quay County,1,1,2,45,45,45,59
+050,35,037,New Mexico,Quay County,1,1,3,38,38,38,39
+050,35,037,New Mexico,Quay County,1,1,4,43,43,43,41
+050,35,037,New Mexico,Quay County,1,1,5,2,2,2,2
+050,35,037,New Mexico,Quay County,1,1,6,53,53,53,51
+050,35,037,New Mexico,Quay County,1,2,1,1783,1783,1797,1780
+050,35,037,New Mexico,Quay County,1,2,2,21,21,21,23
+050,35,037,New Mexico,Quay County,1,2,3,51,51,51,68
+050,35,037,New Mexico,Quay County,1,2,4,7,7,7,8
+050,35,037,New Mexico,Quay County,1,2,5,0,0,0,0
+050,35,037,New Mexico,Quay County,1,2,6,28,28,28,30
+050,35,037,New Mexico,Quay County,2,0,1,4316,4316,4335,4305
+050,35,037,New Mexico,Quay County,2,0,2,54,54,54,62
+050,35,037,New Mexico,Quay County,2,0,3,79,79,79,93
+050,35,037,New Mexico,Quay County,2,0,4,48,48,48,49
+050,35,037,New Mexico,Quay County,2,0,5,3,3,3,3
+050,35,037,New Mexico,Quay County,2,0,6,85,85,85,101
+050,35,037,New Mexico,Quay County,2,1,1,2479,2479,2487,2451
+050,35,037,New Mexico,Quay County,2,1,2,37,37,37,45
+050,35,037,New Mexico,Quay County,2,1,3,34,34,34,40
+050,35,037,New Mexico,Quay County,2,1,4,39,39,39,40
+050,35,037,New Mexico,Quay County,2,1,5,3,3,3,3
+050,35,037,New Mexico,Quay County,2,1,6,49,49,49,57
+050,35,037,New Mexico,Quay County,2,2,1,1837,1837,1848,1854
+050,35,037,New Mexico,Quay County,2,2,2,17,17,17,17
+050,35,037,New Mexico,Quay County,2,2,3,45,45,45,53
+050,35,037,New Mexico,Quay County,2,2,4,9,9,9,9
+050,35,037,New Mexico,Quay County,2,2,5,0,0,0,0
+050,35,037,New Mexico,Quay County,2,2,6,36,36,36,44
+050,35,039,New Mexico,Rio Arriba County,0,0,1,31711,31713,31823,31870
+050,35,039,New Mexico,Rio Arriba County,0,0,2,289,289,289,344
+050,35,039,New Mexico,Rio Arriba County,0,0,3,7312,7312,7286,7253
+050,35,039,New Mexico,Rio Arriba County,0,0,4,210,210,210,220
+050,35,039,New Mexico,Rio Arriba County,0,0,5,76,76,77,79
+050,35,039,New Mexico,Rio Arriba County,0,0,6,648,648,648,680
+050,35,039,New Mexico,Rio Arriba County,0,1,1,5333,5335,5338,5499
+050,35,039,New Mexico,Rio Arriba County,0,1,2,105,105,105,142
+050,35,039,New Mexico,Rio Arriba County,0,1,3,5707,5707,5680,5647
+050,35,039,New Mexico,Rio Arriba County,0,1,4,140,140,140,146
+050,35,039,New Mexico,Rio Arriba County,0,1,5,7,7,7,6
+050,35,039,New Mexico,Rio Arriba County,0,1,6,251,251,251,271
+050,35,039,New Mexico,Rio Arriba County,0,2,1,26378,26378,26485,26371
+050,35,039,New Mexico,Rio Arriba County,0,2,2,184,184,184,202
+050,35,039,New Mexico,Rio Arriba County,0,2,3,1605,1605,1606,1606
+050,35,039,New Mexico,Rio Arriba County,0,2,4,70,70,70,74
+050,35,039,New Mexico,Rio Arriba County,0,2,5,69,69,70,73
+050,35,039,New Mexico,Rio Arriba County,0,2,6,397,397,397,409
+050,35,039,New Mexico,Rio Arriba County,1,0,1,15768,15769,15832,15822
+050,35,039,New Mexico,Rio Arriba County,1,0,2,157,157,157,185
+050,35,039,New Mexico,Rio Arriba County,1,0,3,3508,3508,3495,3521
+050,35,039,New Mexico,Rio Arriba County,1,0,4,103,103,103,105
+050,35,039,New Mexico,Rio Arriba County,1,0,5,44,44,45,46
+050,35,039,New Mexico,Rio Arriba County,1,0,6,310,310,310,331
+050,35,039,New Mexico,Rio Arriba County,1,1,1,2629,2630,2632,2687
+050,35,039,New Mexico,Rio Arriba County,1,1,2,68,68,68,87
+050,35,039,New Mexico,Rio Arriba County,1,1,3,2684,2684,2670,2696
+050,35,039,New Mexico,Rio Arriba County,1,1,4,64,64,64,62
+050,35,039,New Mexico,Rio Arriba County,1,1,5,3,3,3,2
+050,35,039,New Mexico,Rio Arriba County,1,1,6,118,118,118,129
+050,35,039,New Mexico,Rio Arriba County,1,2,1,13139,13139,13200,13135
+050,35,039,New Mexico,Rio Arriba County,1,2,2,89,89,89,98
+050,35,039,New Mexico,Rio Arriba County,1,2,3,824,824,825,825
+050,35,039,New Mexico,Rio Arriba County,1,2,4,39,39,39,43
+050,35,039,New Mexico,Rio Arriba County,1,2,5,41,41,42,44
+050,35,039,New Mexico,Rio Arriba County,1,2,6,192,192,192,202
+050,35,039,New Mexico,Rio Arriba County,2,0,1,15943,15944,15991,16048
+050,35,039,New Mexico,Rio Arriba County,2,0,2,132,132,132,159
+050,35,039,New Mexico,Rio Arriba County,2,0,3,3804,3804,3791,3732
+050,35,039,New Mexico,Rio Arriba County,2,0,4,107,107,107,115
+050,35,039,New Mexico,Rio Arriba County,2,0,5,32,32,32,33
+050,35,039,New Mexico,Rio Arriba County,2,0,6,338,338,338,349
+050,35,039,New Mexico,Rio Arriba County,2,1,1,2704,2705,2706,2812
+050,35,039,New Mexico,Rio Arriba County,2,1,2,37,37,37,55
+050,35,039,New Mexico,Rio Arriba County,2,1,3,3023,3023,3010,2951
+050,35,039,New Mexico,Rio Arriba County,2,1,4,76,76,76,84
+050,35,039,New Mexico,Rio Arriba County,2,1,5,4,4,4,4
+050,35,039,New Mexico,Rio Arriba County,2,1,6,133,133,133,142
+050,35,039,New Mexico,Rio Arriba County,2,2,1,13239,13239,13285,13236
+050,35,039,New Mexico,Rio Arriba County,2,2,2,95,95,95,104
+050,35,039,New Mexico,Rio Arriba County,2,2,3,781,781,781,781
+050,35,039,New Mexico,Rio Arriba County,2,2,4,31,31,31,31
+050,35,039,New Mexico,Rio Arriba County,2,2,5,28,28,28,29
+050,35,039,New Mexico,Rio Arriba County,2,2,6,205,205,205,207
+050,35,041,New Mexico,Roosevelt County,0,0,1,18533,18533,18635,18871
+050,35,041,New Mexico,Roosevelt County,0,0,2,399,399,429,502
+050,35,041,New Mexico,Roosevelt County,0,0,3,373,373,376,413
+050,35,041,New Mexico,Roosevelt County,0,0,4,187,187,226,246
+050,35,041,New Mexico,Roosevelt County,0,0,5,19,19,19,23
+050,35,041,New Mexico,Roosevelt County,0,0,6,335,335,353,391
+050,35,041,New Mexico,Roosevelt County,0,1,1,11056,11056,11076,11166
+050,35,041,New Mexico,Roosevelt County,0,1,2,297,297,300,365
+050,35,041,New Mexico,Roosevelt County,0,1,3,182,182,185,198
+050,35,041,New Mexico,Roosevelt County,0,1,4,161,161,182,197
+050,35,041,New Mexico,Roosevelt County,0,1,5,4,4,4,6
+050,35,041,New Mexico,Roosevelt County,0,1,6,233,233,251,276
+050,35,041,New Mexico,Roosevelt County,0,2,1,7477,7477,7559,7705
+050,35,041,New Mexico,Roosevelt County,0,2,2,102,102,129,137
+050,35,041,New Mexico,Roosevelt County,0,2,3,191,191,191,215
+050,35,041,New Mexico,Roosevelt County,0,2,4,26,26,44,49
+050,35,041,New Mexico,Roosevelt County,0,2,5,15,15,15,17
+050,35,041,New Mexico,Roosevelt County,0,2,6,102,102,102,115
+050,35,041,New Mexico,Roosevelt County,1,0,1,9278,9278,9342,9462
+050,35,041,New Mexico,Roosevelt County,1,0,2,248,248,259,293
+050,35,041,New Mexico,Roosevelt County,1,0,3,191,191,191,205
+050,35,041,New Mexico,Roosevelt County,1,0,4,91,91,109,115
+050,35,041,New Mexico,Roosevelt County,1,0,5,12,12,12,13
+050,35,041,New Mexico,Roosevelt County,1,0,6,169,169,185,208
+050,35,041,New Mexico,Roosevelt County,1,1,1,5434,5434,5462,5530
+050,35,041,New Mexico,Roosevelt County,1,1,2,202,202,205,238
+050,35,041,New Mexico,Roosevelt County,1,1,3,80,80,80,87
+050,35,041,New Mexico,Roosevelt County,1,1,4,75,75,75,79
+050,35,041,New Mexico,Roosevelt County,1,1,5,3,3,3,4
+050,35,041,New Mexico,Roosevelt County,1,1,6,124,124,140,153
+050,35,041,New Mexico,Roosevelt County,1,2,1,3844,3844,3880,3932
+050,35,041,New Mexico,Roosevelt County,1,2,2,46,46,54,55
+050,35,041,New Mexico,Roosevelt County,1,2,3,111,111,111,118
+050,35,041,New Mexico,Roosevelt County,1,2,4,16,16,34,36
+050,35,041,New Mexico,Roosevelt County,1,2,5,9,9,9,9
+050,35,041,New Mexico,Roosevelt County,1,2,6,45,45,45,55
+050,35,041,New Mexico,Roosevelt County,2,0,1,9255,9255,9293,9409
+050,35,041,New Mexico,Roosevelt County,2,0,2,151,151,170,209
+050,35,041,New Mexico,Roosevelt County,2,0,3,182,182,185,208
+050,35,041,New Mexico,Roosevelt County,2,0,4,96,96,117,131
+050,35,041,New Mexico,Roosevelt County,2,0,5,7,7,7,10
+050,35,041,New Mexico,Roosevelt County,2,0,6,166,166,168,183
+050,35,041,New Mexico,Roosevelt County,2,1,1,5622,5622,5614,5636
+050,35,041,New Mexico,Roosevelt County,2,1,2,95,95,95,127
+050,35,041,New Mexico,Roosevelt County,2,1,3,102,102,105,111
+050,35,041,New Mexico,Roosevelt County,2,1,4,86,86,107,118
+050,35,041,New Mexico,Roosevelt County,2,1,5,1,1,1,2
+050,35,041,New Mexico,Roosevelt County,2,1,6,109,109,111,123
+050,35,041,New Mexico,Roosevelt County,2,2,1,3633,3633,3679,3773
+050,35,041,New Mexico,Roosevelt County,2,2,2,56,56,75,82
+050,35,041,New Mexico,Roosevelt County,2,2,3,80,80,80,97
+050,35,041,New Mexico,Roosevelt County,2,2,4,10,10,10,13
+050,35,041,New Mexico,Roosevelt County,2,2,5,6,6,6,8
+050,35,041,New Mexico,Roosevelt County,2,2,6,57,57,57,60
+050,35,043,New Mexico,Sandoval County,0,0,1,104785,104785,105508,107043
+050,35,043,New Mexico,Sandoval County,0,0,2,3164,3164,3171,3356
+050,35,043,New Mexico,Sandoval County,0,0,3,17824,17824,17894,17850
+050,35,043,New Mexico,Sandoval County,0,0,4,2137,2137,2145,2199
+050,35,043,New Mexico,Sandoval County,0,0,5,224,224,224,224
+050,35,043,New Mexico,Sandoval County,0,0,6,3427,3427,3445,3587
+050,35,043,New Mexico,Sandoval County,0,1,1,62835,62835,63095,63194
+050,35,043,New Mexico,Sandoval County,0,1,2,2498,2498,2505,2661
+050,35,043,New Mexico,Sandoval County,0,1,3,16027,16027,16091,15887
+050,35,043,New Mexico,Sandoval County,0,1,4,1790,1790,1798,1849
+050,35,043,New Mexico,Sandoval County,0,1,5,138,138,138,136
+050,35,043,New Mexico,Sandoval County,0,1,6,2144,2144,2153,2235
+050,35,043,New Mexico,Sandoval County,0,2,1,41950,41950,42413,43849
+050,35,043,New Mexico,Sandoval County,0,2,2,666,666,666,695
+050,35,043,New Mexico,Sandoval County,0,2,3,1797,1797,1803,1963
+050,35,043,New Mexico,Sandoval County,0,2,4,347,347,347,350
+050,35,043,New Mexico,Sandoval County,0,2,5,86,86,86,88
+050,35,043,New Mexico,Sandoval County,0,2,6,1283,1283,1292,1352
+050,35,043,New Mexico,Sandoval County,1,0,1,51376,51376,51745,52565
+050,35,043,New Mexico,Sandoval County,1,0,2,1648,1648,1654,1754
+050,35,043,New Mexico,Sandoval County,1,0,3,8623,8623,8660,8573
+050,35,043,New Mexico,Sandoval County,1,0,4,890,890,891,921
+050,35,043,New Mexico,Sandoval County,1,0,5,110,110,110,109
+050,35,043,New Mexico,Sandoval County,1,0,6,1674,1674,1683,1746
+050,35,043,New Mexico,Sandoval County,1,1,1,30872,30872,31003,31028
+050,35,043,New Mexico,Sandoval County,1,1,2,1350,1350,1356,1432
+050,35,043,New Mexico,Sandoval County,1,1,3,7755,7755,7787,7632
+050,35,043,New Mexico,Sandoval County,1,1,4,728,728,729,750
+050,35,043,New Mexico,Sandoval County,1,1,5,69,69,69,65
+050,35,043,New Mexico,Sandoval County,1,1,6,1058,1058,1063,1089
+050,35,043,New Mexico,Sandoval County,1,2,1,20504,20504,20742,21537
+050,35,043,New Mexico,Sandoval County,1,2,2,298,298,298,322
+050,35,043,New Mexico,Sandoval County,1,2,3,868,868,873,941
+050,35,043,New Mexico,Sandoval County,1,2,4,162,162,162,171
+050,35,043,New Mexico,Sandoval County,1,2,5,41,41,41,44
+050,35,043,New Mexico,Sandoval County,1,2,6,616,616,620,657
+050,35,043,New Mexico,Sandoval County,2,0,1,53409,53409,53763,54478
+050,35,043,New Mexico,Sandoval County,2,0,2,1516,1516,1517,1602
+050,35,043,New Mexico,Sandoval County,2,0,3,9201,9201,9234,9277
+050,35,043,New Mexico,Sandoval County,2,0,4,1247,1247,1254,1278
+050,35,043,New Mexico,Sandoval County,2,0,5,114,114,114,115
+050,35,043,New Mexico,Sandoval County,2,0,6,1753,1753,1762,1841
+050,35,043,New Mexico,Sandoval County,2,1,1,31963,31963,32092,32166
+050,35,043,New Mexico,Sandoval County,2,1,2,1148,1148,1149,1229
+050,35,043,New Mexico,Sandoval County,2,1,3,8272,8272,8304,8255
+050,35,043,New Mexico,Sandoval County,2,1,4,1062,1062,1069,1099
+050,35,043,New Mexico,Sandoval County,2,1,5,69,69,69,71
+050,35,043,New Mexico,Sandoval County,2,1,6,1086,1086,1090,1146
+050,35,043,New Mexico,Sandoval County,2,2,1,21446,21446,21671,22312
+050,35,043,New Mexico,Sandoval County,2,2,2,368,368,368,373
+050,35,043,New Mexico,Sandoval County,2,2,3,929,929,930,1022
+050,35,043,New Mexico,Sandoval County,2,2,4,185,185,185,179
+050,35,043,New Mexico,Sandoval County,2,2,5,45,45,45,44
+050,35,043,New Mexico,Sandoval County,2,2,6,667,667,672,695
+050,35,045,New Mexico,San Juan County,0,0,1,76597,76597,76748,75142
+050,35,045,New Mexico,San Juan County,0,0,2,884,884,887,1206
+050,35,045,New Mexico,San Juan County,0,0,3,48692,48692,48677,47726
+050,35,045,New Mexico,San Juan County,0,0,4,564,564,563,641
+050,35,045,New Mexico,San Juan County,0,0,5,93,93,93,99
+050,35,045,New Mexico,San Juan County,0,0,6,3214,3214,3217,3386
+050,35,045,New Mexico,San Juan County,0,1,1,55399,55399,55395,53685
+050,35,045,New Mexico,San Juan County,0,1,2,624,624,625,928
+050,35,045,New Mexico,San Juan County,0,1,3,46376,46376,46349,45377
+050,35,045,New Mexico,San Juan County,0,1,4,456,456,456,529
+050,35,045,New Mexico,San Juan County,0,1,5,64,64,64,64
+050,35,045,New Mexico,San Juan County,0,1,6,2349,2349,2350,2480
+050,35,045,New Mexico,San Juan County,0,2,1,21198,21198,21353,21457
+050,35,045,New Mexico,San Juan County,0,2,2,260,260,262,278
+050,35,045,New Mexico,San Juan County,0,2,3,2316,2316,2328,2349
+050,35,045,New Mexico,San Juan County,0,2,4,108,108,107,112
+050,35,045,New Mexico,San Juan County,0,2,5,29,29,29,35
+050,35,045,New Mexico,San Juan County,0,2,6,865,865,867,906
+050,35,045,New Mexico,San Juan County,1,0,1,38102,38102,38190,37358
+050,35,045,New Mexico,San Juan County,1,0,2,532,532,533,696
+050,35,045,New Mexico,San Juan County,1,0,3,23968,23968,23963,23572
+050,35,045,New Mexico,San Juan County,1,0,4,252,252,251,285
+050,35,045,New Mexico,San Juan County,1,0,5,51,51,51,52
+050,35,045,New Mexico,San Juan County,1,0,6,1639,1639,1642,1733
+050,35,045,New Mexico,San Juan County,1,1,1,27377,27377,27381,26517
+050,35,045,New Mexico,San Juan County,1,1,2,401,401,402,557
+050,35,045,New Mexico,San Juan County,1,1,3,22730,22730,22717,22322
+050,35,045,New Mexico,San Juan County,1,1,4,193,193,193,227
+050,35,045,New Mexico,San Juan County,1,1,5,38,38,38,38
+050,35,045,New Mexico,San Juan County,1,1,6,1197,1197,1198,1259
+050,35,045,New Mexico,San Juan County,1,2,1,10725,10725,10809,10841
+050,35,045,New Mexico,San Juan County,1,2,2,131,131,131,139
+050,35,045,New Mexico,San Juan County,1,2,3,1238,1238,1246,1250
+050,35,045,New Mexico,San Juan County,1,2,4,59,59,58,58
+050,35,045,New Mexico,San Juan County,1,2,5,13,13,13,14
+050,35,045,New Mexico,San Juan County,1,2,6,442,442,444,474
+050,35,045,New Mexico,San Juan County,2,0,1,38495,38495,38558,37784
+050,35,045,New Mexico,San Juan County,2,0,2,352,352,354,510
+050,35,045,New Mexico,San Juan County,2,0,3,24724,24724,24714,24154
+050,35,045,New Mexico,San Juan County,2,0,4,312,312,312,356
+050,35,045,New Mexico,San Juan County,2,0,5,42,42,42,47
+050,35,045,New Mexico,San Juan County,2,0,6,1575,1575,1575,1653
+050,35,045,New Mexico,San Juan County,2,1,1,28022,28022,28014,27168
+050,35,045,New Mexico,San Juan County,2,1,2,223,223,223,371
+050,35,045,New Mexico,San Juan County,2,1,3,23646,23646,23632,23055
+050,35,045,New Mexico,San Juan County,2,1,4,263,263,263,302
+050,35,045,New Mexico,San Juan County,2,1,5,26,26,26,26
+050,35,045,New Mexico,San Juan County,2,1,6,1152,1152,1152,1221
+050,35,045,New Mexico,San Juan County,2,2,1,10473,10473,10544,10616
+050,35,045,New Mexico,San Juan County,2,2,2,129,129,131,139
+050,35,045,New Mexico,San Juan County,2,2,3,1078,1078,1082,1099
+050,35,045,New Mexico,San Juan County,2,2,4,49,49,49,54
+050,35,045,New Mexico,San Juan County,2,2,5,16,16,16,21
+050,35,045,New Mexico,San Juan County,2,2,6,423,423,423,432
+050,35,047,New Mexico,San Miguel County,0,0,1,27246,27246,27223,27022
+050,35,047,New Mexico,San Miguel County,0,0,2,505,505,505,524
+050,35,047,New Mexico,San Miguel County,0,0,3,774,774,774,825
+050,35,047,New Mexico,San Miguel County,0,0,4,295,295,294,308
+050,35,047,New Mexico,San Miguel County,0,0,5,52,52,51,52
+050,35,047,New Mexico,San Miguel County,0,0,6,521,521,522,570
+050,35,047,New Mexico,San Miguel County,0,1,1,5828,5828,5804,5846
+050,35,047,New Mexico,San Miguel County,0,1,2,351,351,351,361
+050,35,047,New Mexico,San Miguel County,0,1,3,235,235,235,265
+050,35,047,New Mexico,San Miguel County,0,1,4,178,178,178,192
+050,35,047,New Mexico,San Miguel County,0,1,5,22,22,21,22
+050,35,047,New Mexico,San Miguel County,0,1,6,196,196,197,230
+050,35,047,New Mexico,San Miguel County,0,2,1,21418,21418,21419,21176
+050,35,047,New Mexico,San Miguel County,0,2,2,154,154,154,163
+050,35,047,New Mexico,San Miguel County,0,2,3,539,539,539,560
+050,35,047,New Mexico,San Miguel County,0,2,4,117,117,116,116
+050,35,047,New Mexico,San Miguel County,0,2,5,30,30,30,30
+050,35,047,New Mexico,San Miguel County,0,2,6,325,325,325,340
+050,35,047,New Mexico,San Miguel County,1,0,1,13590,13590,13584,13503
+050,35,047,New Mexico,San Miguel County,1,0,2,281,281,281,285
+050,35,047,New Mexico,San Miguel County,1,0,3,367,367,367,379
+050,35,047,New Mexico,San Miguel County,1,0,4,144,144,143,149
+050,35,047,New Mexico,San Miguel County,1,0,5,31,31,30,30
+050,35,047,New Mexico,San Miguel County,1,0,6,248,248,248,265
+050,35,047,New Mexico,San Miguel County,1,1,1,2840,2840,2828,2875
+050,35,047,New Mexico,San Miguel County,1,1,2,212,212,212,208
+050,35,047,New Mexico,San Miguel County,1,1,3,96,96,96,111
+050,35,047,New Mexico,San Miguel County,1,1,4,76,76,76,82
+050,35,047,New Mexico,San Miguel County,1,1,5,13,13,12,12
+050,35,047,New Mexico,San Miguel County,1,1,6,81,81,81,95
+050,35,047,New Mexico,San Miguel County,1,2,1,10750,10750,10756,10628
+050,35,047,New Mexico,San Miguel County,1,2,2,69,69,69,77
+050,35,047,New Mexico,San Miguel County,1,2,3,271,271,271,268
+050,35,047,New Mexico,San Miguel County,1,2,4,68,68,67,67
+050,35,047,New Mexico,San Miguel County,1,2,5,18,18,18,18
+050,35,047,New Mexico,San Miguel County,1,2,6,167,167,167,170
+050,35,047,New Mexico,San Miguel County,2,0,1,13656,13656,13639,13519
+050,35,047,New Mexico,San Miguel County,2,0,2,224,224,224,239
+050,35,047,New Mexico,San Miguel County,2,0,3,407,407,407,446
+050,35,047,New Mexico,San Miguel County,2,0,4,151,151,151,159
+050,35,047,New Mexico,San Miguel County,2,0,5,21,21,21,22
+050,35,047,New Mexico,San Miguel County,2,0,6,273,273,274,305
+050,35,047,New Mexico,San Miguel County,2,1,1,2988,2988,2976,2971
+050,35,047,New Mexico,San Miguel County,2,1,2,139,139,139,153
+050,35,047,New Mexico,San Miguel County,2,1,3,139,139,139,154
+050,35,047,New Mexico,San Miguel County,2,1,4,102,102,102,110
+050,35,047,New Mexico,San Miguel County,2,1,5,9,9,9,10
+050,35,047,New Mexico,San Miguel County,2,1,6,115,115,116,135
+050,35,047,New Mexico,San Miguel County,2,2,1,10668,10668,10663,10548
+050,35,047,New Mexico,San Miguel County,2,2,2,85,85,85,86
+050,35,047,New Mexico,San Miguel County,2,2,3,268,268,268,292
+050,35,047,New Mexico,San Miguel County,2,2,4,49,49,49,49
+050,35,047,New Mexico,San Miguel County,2,2,5,12,12,12,12
+050,35,047,New Mexico,San Miguel County,2,2,6,158,158,158,170
+050,35,049,New Mexico,Santa Fe County,0,0,1,132178,132176,132496,133230
+050,35,049,New Mexico,Santa Fe County,0,0,2,1473,1473,1473,1625
+050,35,049,New Mexico,Santa Fe County,0,0,3,5663,5663,5671,5794
+050,35,049,New Mexico,Santa Fe County,0,0,4,1850,1850,1849,1891
+050,35,049,New Mexico,Santa Fe County,0,0,5,255,255,256,259
+050,35,049,New Mexico,Santa Fe County,0,0,6,2751,2751,2752,2849
+050,35,049,New Mexico,Santa Fe County,0,1,1,63674,63672,63668,63772
+050,35,049,New Mexico,Santa Fe County,0,1,2,969,969,969,1095
+050,35,049,New Mexico,Santa Fe County,0,1,3,3318,3318,3319,3379
+050,35,049,New Mexico,Santa Fe County,0,1,4,1602,1602,1602,1648
+050,35,049,New Mexico,Santa Fe County,0,1,5,60,60,60,59
+050,35,049,New Mexico,Santa Fe County,0,1,6,1532,1532,1532,1593
+050,35,049,New Mexico,Santa Fe County,0,2,1,68504,68504,68828,69458
+050,35,049,New Mexico,Santa Fe County,0,2,2,504,504,504,530
+050,35,049,New Mexico,Santa Fe County,0,2,3,2345,2345,2352,2415
+050,35,049,New Mexico,Santa Fe County,0,2,4,248,248,247,243
+050,35,049,New Mexico,Santa Fe County,0,2,5,195,195,196,200
+050,35,049,New Mexico,Santa Fe County,0,2,6,1219,1219,1220,1256
+050,35,049,New Mexico,Santa Fe County,1,0,1,64292,64291,64464,64915
+050,35,049,New Mexico,Santa Fe County,1,0,2,849,849,849,920
+050,35,049,New Mexico,Santa Fe County,1,0,3,2834,2834,2838,2926
+050,35,049,New Mexico,Santa Fe County,1,0,4,817,817,816,823
+050,35,049,New Mexico,Santa Fe County,1,0,5,128,128,128,129
+050,35,049,New Mexico,Santa Fe County,1,0,6,1337,1337,1337,1363
+050,35,049,New Mexico,Santa Fe County,1,1,1,29980,29979,29980,30055
+050,35,049,New Mexico,Santa Fe County,1,1,2,590,590,590,647
+050,35,049,New Mexico,Santa Fe County,1,1,3,1620,1620,1620,1686
+050,35,049,New Mexico,Santa Fe County,1,1,4,703,703,703,720
+050,35,049,New Mexico,Santa Fe County,1,1,5,31,31,31,31
+050,35,049,New Mexico,Santa Fe County,1,1,6,716,716,716,732
+050,35,049,New Mexico,Santa Fe County,1,2,1,34312,34312,34484,34860
+050,35,049,New Mexico,Santa Fe County,1,2,2,259,259,259,273
+050,35,049,New Mexico,Santa Fe County,1,2,3,1214,1214,1218,1240
+050,35,049,New Mexico,Santa Fe County,1,2,4,114,114,113,103
+050,35,049,New Mexico,Santa Fe County,1,2,5,97,97,97,98
+050,35,049,New Mexico,Santa Fe County,1,2,6,621,621,621,631
+050,35,049,New Mexico,Santa Fe County,2,0,1,67886,67885,68032,68315
+050,35,049,New Mexico,Santa Fe County,2,0,2,624,624,624,705
+050,35,049,New Mexico,Santa Fe County,2,0,3,2829,2829,2833,2868
+050,35,049,New Mexico,Santa Fe County,2,0,4,1033,1033,1033,1068
+050,35,049,New Mexico,Santa Fe County,2,0,5,127,127,128,130
+050,35,049,New Mexico,Santa Fe County,2,0,6,1414,1414,1415,1486
+050,35,049,New Mexico,Santa Fe County,2,1,1,33694,33693,33688,33717
+050,35,049,New Mexico,Santa Fe County,2,1,2,379,379,379,448
+050,35,049,New Mexico,Santa Fe County,2,1,3,1698,1698,1699,1693
+050,35,049,New Mexico,Santa Fe County,2,1,4,899,899,899,928
+050,35,049,New Mexico,Santa Fe County,2,1,5,29,29,29,28
+050,35,049,New Mexico,Santa Fe County,2,1,6,816,816,816,861
+050,35,049,New Mexico,Santa Fe County,2,2,1,34192,34192,34344,34598
+050,35,049,New Mexico,Santa Fe County,2,2,2,245,245,245,257
+050,35,049,New Mexico,Santa Fe County,2,2,3,1131,1131,1134,1175
+050,35,049,New Mexico,Santa Fe County,2,2,4,134,134,134,140
+050,35,049,New Mexico,Santa Fe County,2,2,5,98,98,99,102
+050,35,049,New Mexico,Santa Fe County,2,2,6,598,598,599,625
+050,35,051,New Mexico,Sierra County,0,0,1,11318,11318,11346,11193
+050,35,051,New Mexico,Sierra County,0,0,2,53,53,53,84
+050,35,051,New Mexico,Sierra County,0,0,3,267,267,267,298
+050,35,051,New Mexico,Sierra County,0,0,4,50,50,50,53
+050,35,051,New Mexico,Sierra County,0,0,5,3,3,3,3
+050,35,051,New Mexico,Sierra County,0,0,6,297,297,298,312
+050,35,051,New Mexico,Sierra County,0,1,1,8220,8220,8241,8077
+050,35,051,New Mexico,Sierra County,0,1,2,47,47,47,76
+050,35,051,New Mexico,Sierra County,0,1,3,133,133,133,146
+050,35,051,New Mexico,Sierra County,0,1,4,49,49,49,52
+050,35,051,New Mexico,Sierra County,0,1,5,2,2,2,2
+050,35,051,New Mexico,Sierra County,0,1,6,185,185,185,198
+050,35,051,New Mexico,Sierra County,0,2,1,3098,3098,3105,3116
+050,35,051,New Mexico,Sierra County,0,2,2,6,6,6,8
+050,35,051,New Mexico,Sierra County,0,2,3,134,134,134,152
+050,35,051,New Mexico,Sierra County,0,2,4,1,1,1,1
+050,35,051,New Mexico,Sierra County,0,2,5,1,1,1,1
+050,35,051,New Mexico,Sierra County,0,2,6,112,112,113,114
+050,35,051,New Mexico,Sierra County,1,0,1,5693,5693,5709,5617
+050,35,051,New Mexico,Sierra County,1,0,2,29,29,29,40
+050,35,051,New Mexico,Sierra County,1,0,3,138,138,138,158
+050,35,051,New Mexico,Sierra County,1,0,4,23,23,23,24
+050,35,051,New Mexico,Sierra County,1,0,5,0,0,0,0
+050,35,051,New Mexico,Sierra County,1,0,6,144,144,145,145
+050,35,051,New Mexico,Sierra County,1,1,1,4137,4137,4149,4045
+050,35,051,New Mexico,Sierra County,1,1,2,27,27,27,38
+050,35,051,New Mexico,Sierra County,1,1,3,71,71,71,80
+050,35,051,New Mexico,Sierra County,1,1,4,22,22,22,23
+050,35,051,New Mexico,Sierra County,1,1,5,0,0,0,0
+050,35,051,New Mexico,Sierra County,1,1,6,85,85,85,82
+050,35,051,New Mexico,Sierra County,1,2,1,1556,1556,1560,1572
+050,35,051,New Mexico,Sierra County,1,2,2,2,2,2,2
+050,35,051,New Mexico,Sierra County,1,2,3,67,67,67,78
+050,35,051,New Mexico,Sierra County,1,2,4,1,1,1,1
+050,35,051,New Mexico,Sierra County,1,2,5,0,0,0,0
+050,35,051,New Mexico,Sierra County,1,2,6,59,59,60,63
+050,35,051,New Mexico,Sierra County,2,0,1,5625,5625,5637,5576
+050,35,051,New Mexico,Sierra County,2,0,2,24,24,24,44
+050,35,051,New Mexico,Sierra County,2,0,3,129,129,129,140
+050,35,051,New Mexico,Sierra County,2,0,4,27,27,27,29
+050,35,051,New Mexico,Sierra County,2,0,5,3,3,3,3
+050,35,051,New Mexico,Sierra County,2,0,6,153,153,153,167
+050,35,051,New Mexico,Sierra County,2,1,1,4083,4083,4092,4032
+050,35,051,New Mexico,Sierra County,2,1,2,20,20,20,38
+050,35,051,New Mexico,Sierra County,2,1,3,62,62,62,66
+050,35,051,New Mexico,Sierra County,2,1,4,27,27,27,29
+050,35,051,New Mexico,Sierra County,2,1,5,2,2,2,2
+050,35,051,New Mexico,Sierra County,2,1,6,100,100,100,116
+050,35,051,New Mexico,Sierra County,2,2,1,1542,1542,1545,1544
+050,35,051,New Mexico,Sierra County,2,2,2,4,4,4,6
+050,35,051,New Mexico,Sierra County,2,2,3,67,67,67,74
+050,35,051,New Mexico,Sierra County,2,2,4,0,0,0,0
+050,35,051,New Mexico,Sierra County,2,2,5,1,1,1,1
+050,35,051,New Mexico,Sierra County,2,2,6,53,53,53,51
+050,35,053,New Mexico,Socorro County,0,0,1,14936,14934,14941,14883
+050,35,053,New Mexico,Socorro County,0,0,2,200,200,200,216
+050,35,053,New Mexico,Socorro County,0,0,3,2153,2153,2151,2166
+050,35,053,New Mexico,Socorro County,0,0,4,245,245,245,256
+050,35,053,New Mexico,Socorro County,0,0,5,17,17,17,18
+050,35,053,New Mexico,Socorro County,0,0,6,315,315,315,334
+050,35,053,New Mexico,Socorro County,0,1,1,6763,6763,6750,6756
+050,35,053,New Mexico,Socorro County,0,1,2,147,147,147,158
+050,35,053,New Mexico,Socorro County,0,1,3,1895,1895,1893,1892
+050,35,053,New Mexico,Socorro County,0,1,4,210,210,210,222
+050,35,053,New Mexico,Socorro County,0,1,5,4,4,4,5
+050,35,053,New Mexico,Socorro County,0,1,6,183,183,183,199
+050,35,053,New Mexico,Socorro County,0,2,1,8173,8171,8191,8127
+050,35,053,New Mexico,Socorro County,0,2,2,53,53,53,58
+050,35,053,New Mexico,Socorro County,0,2,3,258,258,258,274
+050,35,053,New Mexico,Socorro County,0,2,4,35,35,35,34
+050,35,053,New Mexico,Socorro County,0,2,5,13,13,13,13
+050,35,053,New Mexico,Socorro County,0,2,6,132,132,132,135
+050,35,053,New Mexico,Socorro County,1,0,1,7685,7684,7688,7647
+050,35,053,New Mexico,Socorro County,1,0,2,124,124,124,133
+050,35,053,New Mexico,Socorro County,1,0,3,1040,1040,1039,1037
+050,35,053,New Mexico,Socorro County,1,0,4,145,145,145,158
+050,35,053,New Mexico,Socorro County,1,0,5,8,8,8,9
+050,35,053,New Mexico,Socorro County,1,0,6,170,170,170,177
+050,35,053,New Mexico,Socorro County,1,1,1,3608,3608,3601,3599
+050,35,053,New Mexico,Socorro County,1,1,2,97,97,97,102
+050,35,053,New Mexico,Socorro County,1,1,3,907,907,906,898
+050,35,053,New Mexico,Socorro County,1,1,4,123,123,123,138
+050,35,053,New Mexico,Socorro County,1,1,5,2,2,2,3
+050,35,053,New Mexico,Socorro County,1,1,6,100,100,100,106
+050,35,053,New Mexico,Socorro County,1,2,1,4077,4076,4087,4048
+050,35,053,New Mexico,Socorro County,1,2,2,27,27,27,31
+050,35,053,New Mexico,Socorro County,1,2,3,133,133,133,139
+050,35,053,New Mexico,Socorro County,1,2,4,22,22,22,20
+050,35,053,New Mexico,Socorro County,1,2,5,6,6,6,6
+050,35,053,New Mexico,Socorro County,1,2,6,70,70,70,71
+050,35,053,New Mexico,Socorro County,2,0,1,7251,7250,7253,7236
+050,35,053,New Mexico,Socorro County,2,0,2,76,76,76,83
+050,35,053,New Mexico,Socorro County,2,0,3,1113,1113,1112,1129
+050,35,053,New Mexico,Socorro County,2,0,4,100,100,100,98
+050,35,053,New Mexico,Socorro County,2,0,5,9,9,9,9
+050,35,053,New Mexico,Socorro County,2,0,6,145,145,145,157
+050,35,053,New Mexico,Socorro County,2,1,1,3155,3155,3149,3157
+050,35,053,New Mexico,Socorro County,2,1,2,50,50,50,56
+050,35,053,New Mexico,Socorro County,2,1,3,988,988,987,994
+050,35,053,New Mexico,Socorro County,2,1,4,87,87,87,84
+050,35,053,New Mexico,Socorro County,2,1,5,2,2,2,2
+050,35,053,New Mexico,Socorro County,2,1,6,83,83,83,93
+050,35,053,New Mexico,Socorro County,2,2,1,4096,4095,4104,4079
+050,35,053,New Mexico,Socorro County,2,2,2,26,26,26,27
+050,35,053,New Mexico,Socorro County,2,2,3,125,125,125,135
+050,35,053,New Mexico,Socorro County,2,2,4,13,13,13,14
+050,35,053,New Mexico,Socorro County,2,2,5,7,7,7,7
+050,35,053,New Mexico,Socorro County,2,2,6,62,62,62,64
+050,35,055,New Mexico,Taos County,0,0,1,29210,29210,29211,29076
+050,35,055,New Mexico,Taos County,0,0,2,213,213,213,263
+050,35,055,New Mexico,Taos County,0,0,3,2374,2374,2373,2397
+050,35,055,New Mexico,Taos County,0,0,4,277,277,277,288
+050,35,055,New Mexico,Taos County,0,0,5,29,29,30,33
+050,35,055,New Mexico,Taos County,0,0,6,834,834,834,860
+050,35,055,New Mexico,Taos County,0,1,1,12072,12072,12025,11921
+050,35,055,New Mexico,Taos County,0,1,2,111,111,111,145
+050,35,055,New Mexico,Taos County,0,1,3,1768,1768,1767,1763
+050,35,055,New Mexico,Taos County,0,1,4,208,208,208,217
+050,35,055,New Mexico,Taos County,0,1,5,5,5,5,6
+050,35,055,New Mexico,Taos County,0,1,6,392,392,392,396
+050,35,055,New Mexico,Taos County,0,2,1,17138,17138,17186,17155
+050,35,055,New Mexico,Taos County,0,2,2,102,102,102,118
+050,35,055,New Mexico,Taos County,0,2,3,606,606,606,634
+050,35,055,New Mexico,Taos County,0,2,4,69,69,69,71
+050,35,055,New Mexico,Taos County,0,2,5,24,24,25,27
+050,35,055,New Mexico,Taos County,0,2,6,442,442,442,464
+050,35,055,New Mexico,Taos County,1,0,1,14360,14360,14368,14251
+050,35,055,New Mexico,Taos County,1,0,2,114,114,114,142
+050,35,055,New Mexico,Taos County,1,0,3,1201,1201,1200,1214
+050,35,055,New Mexico,Taos County,1,0,4,113,113,113,114
+050,35,055,New Mexico,Taos County,1,0,5,14,14,14,17
+050,35,055,New Mexico,Taos County,1,0,6,409,409,409,414
+050,35,055,New Mexico,Taos County,1,1,1,5760,5760,5739,5663
+050,35,055,New Mexico,Taos County,1,1,2,64,64,64,84
+050,35,055,New Mexico,Taos County,1,1,3,877,877,876,872
+050,35,055,New Mexico,Taos County,1,1,4,79,79,79,82
+050,35,055,New Mexico,Taos County,1,1,5,2,2,2,3
+050,35,055,New Mexico,Taos County,1,1,6,199,199,199,195
+050,35,055,New Mexico,Taos County,1,2,1,8600,8600,8629,8588
+050,35,055,New Mexico,Taos County,1,2,2,50,50,50,58
+050,35,055,New Mexico,Taos County,1,2,3,324,324,324,342
+050,35,055,New Mexico,Taos County,1,2,4,34,34,34,32
+050,35,055,New Mexico,Taos County,1,2,5,12,12,12,14
+050,35,055,New Mexico,Taos County,1,2,6,210,210,210,219
+050,35,055,New Mexico,Taos County,2,0,1,14850,14850,14843,14825
+050,35,055,New Mexico,Taos County,2,0,2,99,99,99,121
+050,35,055,New Mexico,Taos County,2,0,3,1173,1173,1173,1183
+050,35,055,New Mexico,Taos County,2,0,4,164,164,164,174
+050,35,055,New Mexico,Taos County,2,0,5,15,15,16,16
+050,35,055,New Mexico,Taos County,2,0,6,425,425,425,446
+050,35,055,New Mexico,Taos County,2,1,1,6312,6312,6286,6258
+050,35,055,New Mexico,Taos County,2,1,2,47,47,47,61
+050,35,055,New Mexico,Taos County,2,1,3,891,891,891,891
+050,35,055,New Mexico,Taos County,2,1,4,129,129,129,135
+050,35,055,New Mexico,Taos County,2,1,5,3,3,3,3
+050,35,055,New Mexico,Taos County,2,1,6,193,193,193,201
+050,35,055,New Mexico,Taos County,2,2,1,8538,8538,8557,8567
+050,35,055,New Mexico,Taos County,2,2,2,52,52,52,60
+050,35,055,New Mexico,Taos County,2,2,3,282,282,282,292
+050,35,055,New Mexico,Taos County,2,2,4,35,35,35,39
+050,35,055,New Mexico,Taos County,2,2,5,12,12,13,13
+050,35,055,New Mexico,Taos County,2,2,6,232,232,232,245
+050,35,057,New Mexico,Torrance County,0,0,1,15027,15027,15023,14886
+050,35,057,New Mexico,Torrance County,0,0,2,304,304,304,335
+050,35,057,New Mexico,Torrance County,0,0,3,551,551,551,581
+050,35,057,New Mexico,Torrance County,0,0,4,77,77,78,83
+050,35,057,New Mexico,Torrance County,0,0,5,27,27,27,30
+050,35,057,New Mexico,Torrance County,0,0,6,397,397,398,430
+050,35,057,New Mexico,Torrance County,0,1,1,9213,9213,9190,9008
+050,35,057,New Mexico,Torrance County,0,1,2,172,172,172,202
+050,35,057,New Mexico,Torrance County,0,1,3,279,279,279,280
+050,35,057,New Mexico,Torrance County,0,1,4,61,61,62,65
+050,35,057,New Mexico,Torrance County,0,1,5,7,7,7,8
+050,35,057,New Mexico,Torrance County,0,1,6,252,252,252,257
+050,35,057,New Mexico,Torrance County,0,2,1,5814,5814,5833,5878
+050,35,057,New Mexico,Torrance County,0,2,2,132,132,132,133
+050,35,057,New Mexico,Torrance County,0,2,3,272,272,272,301
+050,35,057,New Mexico,Torrance County,0,2,4,16,16,16,18
+050,35,057,New Mexico,Torrance County,0,2,5,20,20,20,22
+050,35,057,New Mexico,Torrance County,0,2,6,145,145,146,173
+050,35,057,New Mexico,Torrance County,1,0,1,7722,7722,7723,7683
+050,35,057,New Mexico,Torrance County,1,0,2,181,181,181,190
+050,35,057,New Mexico,Torrance County,1,0,3,306,306,306,333
+050,35,057,New Mexico,Torrance County,1,0,4,26,26,26,29
+050,35,057,New Mexico,Torrance County,1,0,5,11,11,11,14
+050,35,057,New Mexico,Torrance County,1,0,6,204,204,205,224
+050,35,057,New Mexico,Torrance County,1,1,1,4739,4739,4728,4669
+050,35,057,New Mexico,Torrance County,1,1,2,124,124,124,132
+050,35,057,New Mexico,Torrance County,1,1,3,161,161,161,158
+050,35,057,New Mexico,Torrance County,1,1,4,16,16,16,17
+050,35,057,New Mexico,Torrance County,1,1,5,3,3,3,4
+050,35,057,New Mexico,Torrance County,1,1,6,137,137,137,145
+050,35,057,New Mexico,Torrance County,1,2,1,2983,2983,2995,3014
+050,35,057,New Mexico,Torrance County,1,2,2,57,57,57,58
+050,35,057,New Mexico,Torrance County,1,2,3,145,145,145,175
+050,35,057,New Mexico,Torrance County,1,2,4,10,10,10,12
+050,35,057,New Mexico,Torrance County,1,2,5,8,8,8,10
+050,35,057,New Mexico,Torrance County,1,2,6,67,67,68,79
+050,35,057,New Mexico,Torrance County,2,0,1,7305,7305,7300,7203
+050,35,057,New Mexico,Torrance County,2,0,2,123,123,123,145
+050,35,057,New Mexico,Torrance County,2,0,3,245,245,245,248
+050,35,057,New Mexico,Torrance County,2,0,4,51,51,52,54
+050,35,057,New Mexico,Torrance County,2,0,5,16,16,16,16
+050,35,057,New Mexico,Torrance County,2,0,6,193,193,193,206
+050,35,057,New Mexico,Torrance County,2,1,1,4474,4474,4462,4339
+050,35,057,New Mexico,Torrance County,2,1,2,48,48,48,70
+050,35,057,New Mexico,Torrance County,2,1,3,118,118,118,122
+050,35,057,New Mexico,Torrance County,2,1,4,45,45,46,48
+050,35,057,New Mexico,Torrance County,2,1,5,4,4,4,4
+050,35,057,New Mexico,Torrance County,2,1,6,115,115,115,112
+050,35,057,New Mexico,Torrance County,2,2,1,2831,2831,2838,2864
+050,35,057,New Mexico,Torrance County,2,2,2,75,75,75,75
+050,35,057,New Mexico,Torrance County,2,2,3,127,127,127,126
+050,35,057,New Mexico,Torrance County,2,2,4,6,6,6,6
+050,35,057,New Mexico,Torrance County,2,2,5,12,12,12,12
+050,35,057,New Mexico,Torrance County,2,2,6,78,78,78,94
+050,35,059,New Mexico,Union County,0,0,1,4265,4265,4258,4125
+050,35,059,New Mexico,Union County,0,0,2,81,81,81,88
+050,35,059,New Mexico,Union County,0,0,3,113,113,113,122
+050,35,059,New Mexico,Union County,0,0,4,24,24,24,27
+050,35,059,New Mexico,Union County,0,0,5,1,1,1,1
+050,35,059,New Mexico,Union County,0,0,6,65,65,65,70
+050,35,059,New Mexico,Union County,0,1,1,2555,2555,2547,2443
+050,35,059,New Mexico,Union County,0,1,2,74,74,74,77
+050,35,059,New Mexico,Union County,0,1,3,50,50,50,52
+050,35,059,New Mexico,Union County,0,1,4,22,22,22,22
+050,35,059,New Mexico,Union County,0,1,5,1,1,1,1
+050,35,059,New Mexico,Union County,0,1,6,42,42,42,45
+050,35,059,New Mexico,Union County,0,2,1,1710,1710,1711,1682
+050,35,059,New Mexico,Union County,0,2,2,7,7,7,11
+050,35,059,New Mexico,Union County,0,2,3,63,63,63,70
+050,35,059,New Mexico,Union County,0,2,4,2,2,2,5
+050,35,059,New Mexico,Union County,0,2,5,0,0,0,0
+050,35,059,New Mexico,Union County,0,2,6,23,23,23,25
+050,35,059,New Mexico,Union County,1,0,1,2398,2398,2392,2340
+050,35,059,New Mexico,Union County,1,0,2,77,77,77,79
+050,35,059,New Mexico,Union County,1,0,3,67,67,67,70
+050,35,059,New Mexico,Union County,1,0,4,15,15,15,15
+050,35,059,New Mexico,Union County,1,0,5,1,1,1,1
+050,35,059,New Mexico,Union County,1,0,6,35,35,35,36
+050,35,059,New Mexico,Union County,1,1,1,1345,1345,1339,1295
+050,35,059,New Mexico,Union County,1,1,2,71,71,71,71
+050,35,059,New Mexico,Union County,1,1,3,35,35,35,35
+050,35,059,New Mexico,Union County,1,1,4,13,13,13,13
+050,35,059,New Mexico,Union County,1,1,5,1,1,1,1
+050,35,059,New Mexico,Union County,1,1,6,26,26,26,27
+050,35,059,New Mexico,Union County,1,2,1,1053,1053,1053,1045
+050,35,059,New Mexico,Union County,1,2,2,6,6,6,8
+050,35,059,New Mexico,Union County,1,2,3,32,32,32,35
+050,35,059,New Mexico,Union County,1,2,4,2,2,2,2
+050,35,059,New Mexico,Union County,1,2,5,0,0,0,0
+050,35,059,New Mexico,Union County,1,2,6,9,9,9,9
+050,35,059,New Mexico,Union County,2,0,1,1867,1867,1866,1785
+050,35,059,New Mexico,Union County,2,0,2,4,4,4,9
+050,35,059,New Mexico,Union County,2,0,3,46,46,46,52
+050,35,059,New Mexico,Union County,2,0,4,9,9,9,12
+050,35,059,New Mexico,Union County,2,0,5,0,0,0,0
+050,35,059,New Mexico,Union County,2,0,6,30,30,30,34
+050,35,059,New Mexico,Union County,2,1,1,1210,1210,1208,1148
+050,35,059,New Mexico,Union County,2,1,2,3,3,3,6
+050,35,059,New Mexico,Union County,2,1,3,15,15,15,17
+050,35,059,New Mexico,Union County,2,1,4,9,9,9,9
+050,35,059,New Mexico,Union County,2,1,5,0,0,0,0
+050,35,059,New Mexico,Union County,2,1,6,16,16,16,18
+050,35,059,New Mexico,Union County,2,2,1,657,657,658,637
+050,35,059,New Mexico,Union County,2,2,2,1,1,1,3
+050,35,059,New Mexico,Union County,2,2,3,31,31,31,35
+050,35,059,New Mexico,Union County,2,2,4,0,0,0,3
+050,35,059,New Mexico,Union County,2,2,5,0,0,0,0
+050,35,059,New Mexico,Union County,2,2,6,14,14,14,16
+050,35,061,New Mexico,Valencia County,0,0,1,69538,69540,69745,69592
+050,35,061,New Mexico,Valencia County,0,0,2,1305,1305,1305,1380
+050,35,061,New Mexico,Valencia County,0,0,3,3570,3570,3571,3785
+050,35,061,New Mexico,Valencia County,0,0,4,536,536,536,577
+050,35,061,New Mexico,Valencia County,0,0,5,103,103,104,111
+050,35,061,New Mexico,Valencia County,0,0,6,1517,1517,1518,1625
+050,35,061,New Mexico,Valencia County,0,1,1,27891,27891,27870,27620
+050,35,061,New Mexico,Valencia County,0,1,2,851,851,851,913
+050,35,061,New Mexico,Valencia County,0,1,3,2137,2137,2137,2234
+050,35,061,New Mexico,Valencia County,0,1,4,332,332,332,357
+050,35,061,New Mexico,Valencia County,0,1,5,32,32,32,31
+050,35,061,New Mexico,Valencia County,0,1,6,721,721,721,773
+050,35,061,New Mexico,Valencia County,0,2,1,41647,41649,41875,41972
+050,35,061,New Mexico,Valencia County,0,2,2,454,454,454,467
+050,35,061,New Mexico,Valencia County,0,2,3,1433,1433,1434,1551
+050,35,061,New Mexico,Valencia County,0,2,4,204,204,204,220
+050,35,061,New Mexico,Valencia County,0,2,5,71,71,72,80
+050,35,061,New Mexico,Valencia County,0,2,6,796,796,797,852
+050,35,061,New Mexico,Valencia County,1,0,1,34932,34933,35052,34946
+050,35,061,New Mexico,Valencia County,1,0,2,774,774,774,805
+050,35,061,New Mexico,Valencia County,1,0,3,1849,1849,1850,1955
+050,35,061,New Mexico,Valencia County,1,0,4,223,223,223,236
+050,35,061,New Mexico,Valencia County,1,0,5,56,56,56,61
+050,35,061,New Mexico,Valencia County,1,0,6,742,742,743,813
+050,35,061,New Mexico,Valencia County,1,1,1,13841,13841,13838,13730
+050,35,061,New Mexico,Valencia County,1,1,2,550,550,550,572
+050,35,061,New Mexico,Valencia County,1,1,3,1104,1104,1104,1146
+050,35,061,New Mexico,Valencia County,1,1,4,122,122,122,128
+050,35,061,New Mexico,Valencia County,1,1,5,18,18,18,19
+050,35,061,New Mexico,Valencia County,1,1,6,346,346,346,376
+050,35,061,New Mexico,Valencia County,1,2,1,21091,21092,21214,21216
+050,35,061,New Mexico,Valencia County,1,2,2,224,224,224,233
+050,35,061,New Mexico,Valencia County,1,2,3,745,745,746,809
+050,35,061,New Mexico,Valencia County,1,2,4,101,101,101,108
+050,35,061,New Mexico,Valencia County,1,2,5,38,38,38,42
+050,35,061,New Mexico,Valencia County,1,2,6,396,396,397,437
+050,35,061,New Mexico,Valencia County,2,0,1,34606,34607,34693,34646
+050,35,061,New Mexico,Valencia County,2,0,2,531,531,531,575
+050,35,061,New Mexico,Valencia County,2,0,3,1721,1721,1721,1830
+050,35,061,New Mexico,Valencia County,2,0,4,313,313,313,341
+050,35,061,New Mexico,Valencia County,2,0,5,47,47,48,50
+050,35,061,New Mexico,Valencia County,2,0,6,775,775,775,812
+050,35,061,New Mexico,Valencia County,2,1,1,14050,14050,14032,13890
+050,35,061,New Mexico,Valencia County,2,1,2,301,301,301,341
+050,35,061,New Mexico,Valencia County,2,1,3,1033,1033,1033,1088
+050,35,061,New Mexico,Valencia County,2,1,4,210,210,210,229
+050,35,061,New Mexico,Valencia County,2,1,5,14,14,14,12
+050,35,061,New Mexico,Valencia County,2,1,6,375,375,375,397
+050,35,061,New Mexico,Valencia County,2,2,1,20556,20557,20661,20756
+050,35,061,New Mexico,Valencia County,2,2,2,230,230,230,234
+050,35,061,New Mexico,Valencia County,2,2,3,688,688,688,742
+050,35,061,New Mexico,Valencia County,2,2,4,103,103,103,112
+050,35,061,New Mexico,Valencia County,2,2,5,33,33,34,38
+050,35,061,New Mexico,Valencia County,2,2,6,400,400,400,415

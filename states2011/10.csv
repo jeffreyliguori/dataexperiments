@@ -1,0 +1,163 @@
+SUMLEV,STATE,COUNTY,STNAME,CTYNAME,SEX,ORIGIN,RACE,CENSUS2010POP,ESTIMATESBASE2010,POPESTIMATE2010,POPESTIMATE2011
+050,10,001,Delaware,Kent County,0,0,1,112801,112801,113121,114144
+050,10,001,Delaware,Kent County,0,0,2,39760,39760,39946,40624
+050,10,001,Delaware,Kent County,0,0,3,1135,1135,1137,1133
+050,10,001,Delaware,Kent County,0,0,4,3406,3406,3429,3620
+050,10,001,Delaware,Kent County,0,0,5,136,136,136,150
+050,10,001,Delaware,Kent County,0,0,6,5072,5072,5104,5163
+050,10,001,Delaware,Kent County,0,1,1,106171,106171,106438,107039
+050,10,001,Delaware,Kent County,0,1,2,37964,37964,38144,38776
+050,10,001,Delaware,Kent County,0,1,3,927,927,929,921
+050,10,001,Delaware,Kent County,0,1,4,3322,3322,3345,3535
+050,10,001,Delaware,Kent County,0,1,5,75,75,75,89
+050,10,001,Delaware,Kent County,0,1,6,4505,4505,4536,4594
+050,10,001,Delaware,Kent County,0,2,1,6630,6630,6683,7105
+050,10,001,Delaware,Kent County,0,2,2,1796,1796,1802,1848
+050,10,001,Delaware,Kent County,0,2,3,208,208,208,212
+050,10,001,Delaware,Kent County,0,2,4,84,84,84,85
+050,10,001,Delaware,Kent County,0,2,5,61,61,61,61
+050,10,001,Delaware,Kent County,0,2,6,567,567,568,569
+050,10,001,Delaware,Kent County,1,0,1,55030,55030,55194,55764
+050,10,001,Delaware,Kent County,1,0,2,18605,18605,18696,19101
+050,10,001,Delaware,Kent County,1,0,3,554,554,554,552
+050,10,001,Delaware,Kent County,1,0,4,1404,1404,1410,1476
+050,10,001,Delaware,Kent County,1,0,5,62,62,62,66
+050,10,001,Delaware,Kent County,1,0,6,2380,2380,2394,2456
+050,10,001,Delaware,Kent County,1,1,1,51719,51719,51856,52205
+050,10,001,Delaware,Kent County,1,1,2,17770,17770,17860,18219
+050,10,001,Delaware,Kent County,1,1,3,452,452,452,442
+050,10,001,Delaware,Kent County,1,1,4,1362,1362,1368,1432
+050,10,001,Delaware,Kent County,1,1,5,34,34,34,39
+050,10,001,Delaware,Kent County,1,1,6,2119,2119,2133,2206
+050,10,001,Delaware,Kent County,1,2,1,3311,3311,3338,3559
+050,10,001,Delaware,Kent County,1,2,2,835,835,836,882
+050,10,001,Delaware,Kent County,1,2,3,102,102,102,110
+050,10,001,Delaware,Kent County,1,2,4,42,42,42,44
+050,10,001,Delaware,Kent County,1,2,5,28,28,28,27
+050,10,001,Delaware,Kent County,1,2,6,261,261,261,250
+050,10,001,Delaware,Kent County,2,0,1,57771,57771,57927,58380
+050,10,001,Delaware,Kent County,2,0,2,21155,21155,21250,21523
+050,10,001,Delaware,Kent County,2,0,3,581,581,583,581
+050,10,001,Delaware,Kent County,2,0,4,2002,2002,2019,2144
+050,10,001,Delaware,Kent County,2,0,5,74,74,74,84
+050,10,001,Delaware,Kent County,2,0,6,2692,2692,2710,2707
+050,10,001,Delaware,Kent County,2,1,1,54452,54452,54582,54834
+050,10,001,Delaware,Kent County,2,1,2,20194,20194,20284,20557
+050,10,001,Delaware,Kent County,2,1,3,475,475,477,479
+050,10,001,Delaware,Kent County,2,1,4,1960,1960,1977,2103
+050,10,001,Delaware,Kent County,2,1,5,41,41,41,50
+050,10,001,Delaware,Kent County,2,1,6,2386,2386,2403,2388
+050,10,001,Delaware,Kent County,2,2,1,3319,3319,3345,3546
+050,10,001,Delaware,Kent County,2,2,2,961,961,966,966
+050,10,001,Delaware,Kent County,2,2,3,106,106,106,102
+050,10,001,Delaware,Kent County,2,2,4,42,42,42,41
+050,10,001,Delaware,Kent County,2,2,5,33,33,33,34
+050,10,001,Delaware,Kent County,2,2,6,306,306,307,319
+050,10,003,Delaware,New Castle County,0,0,1,370214,370214,370310,371356
+050,10,003,Delaware,New Castle County,0,0,2,130846,130846,131063,131946
+050,10,003,Delaware,New Castle County,0,0,3,2192,2192,2196,2291
+050,10,003,Delaware,New Castle County,0,0,4,23863,23863,23985,24620
+050,10,003,Delaware,New Castle County,0,0,5,277,277,278,280
+050,10,003,Delaware,New Castle County,0,0,6,11087,11087,11175,11478
+050,10,003,Delaware,New Castle County,0,1,1,332463,332463,332341,332247
+050,10,003,Delaware,New Castle County,0,1,2,124884,124884,125053,125810
+050,10,003,Delaware,New Castle County,0,1,3,1002,1002,1004,1053
+050,10,003,Delaware,New Castle County,0,1,4,23534,23534,23656,24287
+050,10,003,Delaware,New Castle County,0,1,5,111,111,112,118
+050,10,003,Delaware,New Castle County,0,1,6,9564,9564,9639,9921
+050,10,003,Delaware,New Castle County,0,2,1,37751,37751,37969,39109
+050,10,003,Delaware,New Castle County,0,2,2,5962,5962,6010,6136
+050,10,003,Delaware,New Castle County,0,2,3,1190,1190,1192,1238
+050,10,003,Delaware,New Castle County,0,2,4,329,329,329,333
+050,10,003,Delaware,New Castle County,0,2,5,166,166,166,162
+050,10,003,Delaware,New Castle County,0,2,6,1523,1523,1536,1557
+050,10,003,Delaware,New Castle County,1,0,1,180803,180803,180905,181600
+050,10,003,Delaware,New Castle County,1,0,2,61682,61682,61798,62216
+050,10,003,Delaware,New Castle County,1,0,3,1096,1096,1100,1160
+050,10,003,Delaware,New Castle County,1,0,4,11762,11762,11828,12116
+050,10,003,Delaware,New Castle County,1,0,5,127,127,128,132
+050,10,003,Delaware,New Castle County,1,0,6,5201,5201,5247,5375
+050,10,003,Delaware,New Castle County,1,1,1,160988,160988,160967,161004
+050,10,003,Delaware,New Castle County,1,1,2,58891,58891,58985,59327
+050,10,003,Delaware,New Castle County,1,1,3,482,482,484,500
+050,10,003,Delaware,New Castle County,1,1,4,11598,11598,11664,11957
+050,10,003,Delaware,New Castle County,1,1,5,47,47,48,52
+050,10,003,Delaware,New Castle County,1,1,6,4472,4472,4512,4654
+050,10,003,Delaware,New Castle County,1,2,1,19815,19815,19938,20596
+050,10,003,Delaware,New Castle County,1,2,2,2791,2791,2813,2889
+050,10,003,Delaware,New Castle County,1,2,3,614,614,616,660
+050,10,003,Delaware,New Castle County,1,2,4,164,164,164,159
+050,10,003,Delaware,New Castle County,1,2,5,80,80,80,80
+050,10,003,Delaware,New Castle County,1,2,6,729,729,735,721
+050,10,003,Delaware,New Castle County,2,0,1,189411,189411,189405,189756
+050,10,003,Delaware,New Castle County,2,0,2,69164,69164,69265,69730
+050,10,003,Delaware,New Castle County,2,0,3,1096,1096,1096,1131
+050,10,003,Delaware,New Castle County,2,0,4,12101,12101,12157,12504
+050,10,003,Delaware,New Castle County,2,0,5,150,150,150,148
+050,10,003,Delaware,New Castle County,2,0,6,5886,5886,5928,6103
+050,10,003,Delaware,New Castle County,2,1,1,171475,171475,171374,171243
+050,10,003,Delaware,New Castle County,2,1,2,65993,65993,66068,66483
+050,10,003,Delaware,New Castle County,2,1,3,520,520,520,553
+050,10,003,Delaware,New Castle County,2,1,4,11936,11936,11992,12330
+050,10,003,Delaware,New Castle County,2,1,5,64,64,64,66
+050,10,003,Delaware,New Castle County,2,1,6,5092,5092,5127,5267
+050,10,003,Delaware,New Castle County,2,2,1,17936,17936,18031,18513
+050,10,003,Delaware,New Castle County,2,2,2,3171,3171,3197,3247
+050,10,003,Delaware,New Castle County,2,2,3,576,576,576,578
+050,10,003,Delaware,New Castle County,2,2,4,165,165,165,174
+050,10,003,Delaware,New Castle County,2,2,5,86,86,86,82
+050,10,003,Delaware,New Castle County,2,2,6,794,794,801,836
+050,10,005,Delaware,Sussex County,0,0,1,162755,162755,163363,165160
+050,10,005,Delaware,Sussex County,0,0,2,25675,25675,25793,26139
+050,10,005,Delaware,Sussex County,0,0,3,2602,2602,2614,2639
+050,10,005,Delaware,Sussex County,0,0,4,2073,2073,2080,2226
+050,10,005,Delaware,Sussex County,0,0,5,277,277,279,283
+050,10,005,Delaware,Sussex County,0,0,6,3763,3763,3783,3883
+050,10,005,Delaware,Sussex County,0,1,1,149289,149289,149795,151001
+050,10,005,Delaware,Sussex County,0,1,2,24643,24643,24761,25068
+050,10,005,Delaware,Sussex County,0,1,3,934,934,939,946
+050,10,005,Delaware,Sussex County,0,1,4,1971,1971,1978,2124
+050,10,005,Delaware,Sussex County,0,1,5,74,74,75,78
+050,10,005,Delaware,Sussex County,0,1,6,3280,3280,3300,3375
+050,10,005,Delaware,Sussex County,0,2,1,13466,13466,13568,14159
+050,10,005,Delaware,Sussex County,0,2,2,1032,1032,1032,1071
+050,10,005,Delaware,Sussex County,0,2,3,1668,1668,1675,1693
+050,10,005,Delaware,Sussex County,0,2,4,102,102,102,102
+050,10,005,Delaware,Sussex County,0,2,5,203,203,204,205
+050,10,005,Delaware,Sussex County,0,2,6,483,483,483,508
+050,10,005,Delaware,Sussex County,1,0,1,79451,79451,79775,80642
+050,10,005,Delaware,Sussex County,1,0,2,12463,12463,12523,12717
+050,10,005,Delaware,Sussex County,1,0,3,1398,1398,1406,1418
+050,10,005,Delaware,Sussex County,1,0,4,970,970,973,1044
+050,10,005,Delaware,Sussex County,1,0,5,154,154,156,158
+050,10,005,Delaware,Sussex County,1,0,6,1797,1797,1806,1843
+050,10,005,Delaware,Sussex County,1,1,1,72159,72159,72422,72921
+050,10,005,Delaware,Sussex County,1,1,2,11909,11909,11969,12143
+050,10,005,Delaware,Sussex County,1,1,3,487,487,489,497
+050,10,005,Delaware,Sussex County,1,1,4,909,909,912,985
+050,10,005,Delaware,Sussex County,1,1,5,39,39,40,41
+050,10,005,Delaware,Sussex County,1,1,6,1576,1576,1585,1599
+050,10,005,Delaware,Sussex County,1,2,1,7292,7292,7353,7721
+050,10,005,Delaware,Sussex County,1,2,2,554,554,554,574
+050,10,005,Delaware,Sussex County,1,2,3,911,911,917,921
+050,10,005,Delaware,Sussex County,1,2,4,61,61,61,59
+050,10,005,Delaware,Sussex County,1,2,5,115,115,116,117
+050,10,005,Delaware,Sussex County,1,2,6,221,221,221,244
+050,10,005,Delaware,Sussex County,2,0,1,83304,83304,83588,84518
+050,10,005,Delaware,Sussex County,2,0,2,13212,13212,13270,13422
+050,10,005,Delaware,Sussex County,2,0,3,1204,1204,1208,1221
+050,10,005,Delaware,Sussex County,2,0,4,1103,1103,1107,1182
+050,10,005,Delaware,Sussex County,2,0,5,123,123,123,125
+050,10,005,Delaware,Sussex County,2,0,6,1966,1966,1977,2040
+050,10,005,Delaware,Sussex County,2,1,1,77130,77130,77373,78080
+050,10,005,Delaware,Sussex County,2,1,2,12734,12734,12792,12925
+050,10,005,Delaware,Sussex County,2,1,3,447,447,450,449
+050,10,005,Delaware,Sussex County,2,1,4,1062,1062,1066,1139
+050,10,005,Delaware,Sussex County,2,1,5,35,35,35,37
+050,10,005,Delaware,Sussex County,2,1,6,1704,1704,1715,1776
+050,10,005,Delaware,Sussex County,2,2,1,6174,6174,6215,6438
+050,10,005,Delaware,Sussex County,2,2,2,478,478,478,497
+050,10,005,Delaware,Sussex County,2,2,3,757,757,758,772
+050,10,005,Delaware,Sussex County,2,2,4,41,41,41,43
+050,10,005,Delaware,Sussex County,2,2,5,88,88,88,88
+050,10,005,Delaware,Sussex County,2,2,6,262,262,262,264

@@ -1,0 +1,3025 @@
+SUMLEV,STATE,COUNTY,STNAME,CTYNAME,SEX,ORIGIN,RACE,CENSUS2010POP,ESTIMATESBASE2010,POPESTIMATE2010,POPESTIMATE2011
+050,30,001,Montana,Beaverhead County,0,0,1,8883,8883,8874,8764
+050,30,001,Montana,Beaverhead County,0,0,2,23,23,23,32
+050,30,001,Montana,Beaverhead County,0,0,3,135,135,140,146
+050,30,001,Montana,Beaverhead County,0,0,4,36,36,36,57
+050,30,001,Montana,Beaverhead County,0,0,5,38,38,38,40
+050,30,001,Montana,Beaverhead County,0,0,6,131,131,145,159
+050,30,001,Montana,Beaverhead County,0,1,1,8577,8577,8561,8441
+050,30,001,Montana,Beaverhead County,0,1,2,19,19,19,28
+050,30,001,Montana,Beaverhead County,0,1,3,117,117,122,129
+050,30,001,Montana,Beaverhead County,0,1,4,36,36,36,57
+050,30,001,Montana,Beaverhead County,0,1,5,38,38,38,40
+050,30,001,Montana,Beaverhead County,0,1,6,121,121,135,145
+050,30,001,Montana,Beaverhead County,0,2,1,306,306,313,323
+050,30,001,Montana,Beaverhead County,0,2,2,4,4,4,4
+050,30,001,Montana,Beaverhead County,0,2,3,18,18,18,17
+050,30,001,Montana,Beaverhead County,0,2,4,0,0,0,0
+050,30,001,Montana,Beaverhead County,0,2,5,0,0,0,0
+050,30,001,Montana,Beaverhead County,0,2,6,10,10,10,14
+050,30,001,Montana,Beaverhead County,1,0,1,4540,4540,4527,4469
+050,30,001,Montana,Beaverhead County,1,0,2,17,17,17,20
+050,30,001,Montana,Beaverhead County,1,0,3,69,69,69,69
+050,30,001,Montana,Beaverhead County,1,0,4,12,12,12,23
+050,30,001,Montana,Beaverhead County,1,0,5,25,25,25,29
+050,30,001,Montana,Beaverhead County,1,0,6,68,68,82,92
+050,30,001,Montana,Beaverhead County,1,1,1,4359,4359,4346,4283
+050,30,001,Montana,Beaverhead County,1,1,2,15,15,15,19
+050,30,001,Montana,Beaverhead County,1,1,3,59,59,59,60
+050,30,001,Montana,Beaverhead County,1,1,4,12,12,12,23
+050,30,001,Montana,Beaverhead County,1,1,5,25,25,25,29
+050,30,001,Montana,Beaverhead County,1,1,6,63,63,77,85
+050,30,001,Montana,Beaverhead County,1,2,1,181,181,181,186
+050,30,001,Montana,Beaverhead County,1,2,2,2,2,2,1
+050,30,001,Montana,Beaverhead County,1,2,3,10,10,10,9
+050,30,001,Montana,Beaverhead County,1,2,4,0,0,0,0
+050,30,001,Montana,Beaverhead County,1,2,5,0,0,0,0
+050,30,001,Montana,Beaverhead County,1,2,6,5,5,5,7
+050,30,001,Montana,Beaverhead County,2,0,1,4343,4343,4347,4295
+050,30,001,Montana,Beaverhead County,2,0,2,6,6,6,12
+050,30,001,Montana,Beaverhead County,2,0,3,66,66,71,77
+050,30,001,Montana,Beaverhead County,2,0,4,24,24,24,34
+050,30,001,Montana,Beaverhead County,2,0,5,13,13,13,11
+050,30,001,Montana,Beaverhead County,2,0,6,63,63,63,67
+050,30,001,Montana,Beaverhead County,2,1,1,4218,4218,4215,4158
+050,30,001,Montana,Beaverhead County,2,1,2,4,4,4,9
+050,30,001,Montana,Beaverhead County,2,1,3,58,58,63,69
+050,30,001,Montana,Beaverhead County,2,1,4,24,24,24,34
+050,30,001,Montana,Beaverhead County,2,1,5,13,13,13,11
+050,30,001,Montana,Beaverhead County,2,1,6,58,58,58,60
+050,30,001,Montana,Beaverhead County,2,2,1,125,125,132,137
+050,30,001,Montana,Beaverhead County,2,2,2,2,2,2,3
+050,30,001,Montana,Beaverhead County,2,2,3,8,8,8,8
+050,30,001,Montana,Beaverhead County,2,2,4,0,0,0,0
+050,30,001,Montana,Beaverhead County,2,2,5,0,0,0,0
+050,30,001,Montana,Beaverhead County,2,2,6,5,5,5,7
+050,30,003,Montana,Big Horn County,0,0,1,4094,4094,4137,4376
+050,30,003,Montana,Big Horn County,0,0,2,31,31,33,55
+050,30,003,Montana,Big Horn County,0,0,3,8369,8369,8361,8229
+050,30,003,Montana,Big Horn County,0,0,4,59,59,62,73
+050,30,003,Montana,Big Horn County,0,0,5,3,3,3,3
+050,30,003,Montana,Big Horn County,0,0,6,309,309,329,357
+050,30,003,Montana,Big Horn County,0,1,1,3909,3909,3945,4123
+050,30,003,Montana,Big Horn County,0,1,2,30,30,32,51
+050,30,003,Montana,Big Horn County,0,1,3,8069,8069,8057,7915
+050,30,003,Montana,Big Horn County,0,1,4,59,59,62,73
+050,30,003,Montana,Big Horn County,0,1,5,3,3,3,3
+050,30,003,Montana,Big Horn County,0,1,6,285,285,302,326
+050,30,003,Montana,Big Horn County,0,2,1,185,185,192,253
+050,30,003,Montana,Big Horn County,0,2,2,1,1,1,4
+050,30,003,Montana,Big Horn County,0,2,3,300,300,304,314
+050,30,003,Montana,Big Horn County,0,2,4,0,0,0,0
+050,30,003,Montana,Big Horn County,0,2,5,0,0,0,0
+050,30,003,Montana,Big Horn County,0,2,6,24,24,27,31
+050,30,003,Montana,Big Horn County,1,0,1,2083,2083,2103,2224
+050,30,003,Montana,Big Horn County,1,0,2,14,14,16,23
+050,30,003,Montana,Big Horn County,1,0,3,4112,4112,4107,4052
+050,30,003,Montana,Big Horn County,1,0,4,24,24,25,31
+050,30,003,Montana,Big Horn County,1,0,5,3,3,3,3
+050,30,003,Montana,Big Horn County,1,0,6,158,158,172,189
+050,30,003,Montana,Big Horn County,1,1,1,1975,1975,1991,2089
+050,30,003,Montana,Big Horn County,1,1,2,14,14,16,23
+050,30,003,Montana,Big Horn County,1,1,3,3957,3957,3950,3883
+050,30,003,Montana,Big Horn County,1,1,4,24,24,25,31
+050,30,003,Montana,Big Horn County,1,1,5,3,3,3,3
+050,30,003,Montana,Big Horn County,1,1,6,146,146,157,170
+050,30,003,Montana,Big Horn County,1,2,1,108,108,112,135
+050,30,003,Montana,Big Horn County,1,2,2,0,0,0,0
+050,30,003,Montana,Big Horn County,1,2,3,155,155,157,169
+050,30,003,Montana,Big Horn County,1,2,4,0,0,0,0
+050,30,003,Montana,Big Horn County,1,2,5,0,0,0,0
+050,30,003,Montana,Big Horn County,1,2,6,12,12,15,19
+050,30,003,Montana,Big Horn County,2,0,1,2011,2011,2034,2152
+050,30,003,Montana,Big Horn County,2,0,2,17,17,17,32
+050,30,003,Montana,Big Horn County,2,0,3,4257,4257,4254,4177
+050,30,003,Montana,Big Horn County,2,0,4,35,35,37,42
+050,30,003,Montana,Big Horn County,2,0,5,0,0,0,0
+050,30,003,Montana,Big Horn County,2,0,6,151,151,157,168
+050,30,003,Montana,Big Horn County,2,1,1,1934,1934,1954,2034
+050,30,003,Montana,Big Horn County,2,1,2,16,16,16,28
+050,30,003,Montana,Big Horn County,2,1,3,4112,4112,4107,4032
+050,30,003,Montana,Big Horn County,2,1,4,35,35,37,42
+050,30,003,Montana,Big Horn County,2,1,5,0,0,0,0
+050,30,003,Montana,Big Horn County,2,1,6,139,139,145,156
+050,30,003,Montana,Big Horn County,2,2,1,77,77,80,118
+050,30,003,Montana,Big Horn County,2,2,2,1,1,1,4
+050,30,003,Montana,Big Horn County,2,2,3,145,145,147,145
+050,30,003,Montana,Big Horn County,2,2,4,0,0,0,0
+050,30,003,Montana,Big Horn County,2,2,5,0,0,0,0
+050,30,003,Montana,Big Horn County,2,2,6,12,12,12,12
+050,30,005,Montana,Blaine County,0,0,1,3143,3143,3145,3199
+050,30,005,Montana,Blaine County,0,0,2,7,7,7,19
+050,30,005,Montana,Blaine County,0,0,3,3217,3217,3219,3210
+050,30,005,Montana,Blaine County,0,0,4,6,6,6,9
+050,30,005,Montana,Blaine County,0,0,5,1,1,1,1
+050,30,005,Montana,Blaine County,0,0,6,117,117,117,127
+050,30,005,Montana,Blaine County,0,1,1,3109,3109,3111,3137
+050,30,005,Montana,Blaine County,0,1,2,7,7,7,18
+050,30,005,Montana,Blaine County,0,1,3,3139,3139,3141,3130
+050,30,005,Montana,Blaine County,0,1,4,6,6,6,9
+050,30,005,Montana,Blaine County,0,1,5,1,1,1,1
+050,30,005,Montana,Blaine County,0,1,6,114,114,114,125
+050,30,005,Montana,Blaine County,0,2,1,34,34,34,62
+050,30,005,Montana,Blaine County,0,2,2,0,0,0,1
+050,30,005,Montana,Blaine County,0,2,3,78,78,78,80
+050,30,005,Montana,Blaine County,0,2,4,0,0,0,0
+050,30,005,Montana,Blaine County,0,2,5,0,0,0,0
+050,30,005,Montana,Blaine County,0,2,6,3,3,3,2
+050,30,005,Montana,Blaine County,1,0,1,1574,1574,1575,1604
+050,30,005,Montana,Blaine County,1,0,2,4,4,4,8
+050,30,005,Montana,Blaine County,1,0,3,1610,1610,1611,1596
+050,30,005,Montana,Blaine County,1,0,4,3,3,3,5
+050,30,005,Montana,Blaine County,1,0,5,0,0,0,0
+050,30,005,Montana,Blaine County,1,0,6,57,57,57,58
+050,30,005,Montana,Blaine County,1,1,1,1557,1557,1558,1571
+050,30,005,Montana,Blaine County,1,1,2,4,4,4,8
+050,30,005,Montana,Blaine County,1,1,3,1572,1572,1573,1554
+050,30,005,Montana,Blaine County,1,1,4,3,3,3,5
+050,30,005,Montana,Blaine County,1,1,5,0,0,0,0
+050,30,005,Montana,Blaine County,1,1,6,56,56,56,57
+050,30,005,Montana,Blaine County,1,2,1,17,17,17,33
+050,30,005,Montana,Blaine County,1,2,2,0,0,0,0
+050,30,005,Montana,Blaine County,1,2,3,38,38,38,42
+050,30,005,Montana,Blaine County,1,2,4,0,0,0,0
+050,30,005,Montana,Blaine County,1,2,5,0,0,0,0
+050,30,005,Montana,Blaine County,1,2,6,1,1,1,1
+050,30,005,Montana,Blaine County,2,0,1,1569,1569,1570,1595
+050,30,005,Montana,Blaine County,2,0,2,3,3,3,11
+050,30,005,Montana,Blaine County,2,0,3,1607,1607,1608,1614
+050,30,005,Montana,Blaine County,2,0,4,3,3,3,4
+050,30,005,Montana,Blaine County,2,0,5,1,1,1,1
+050,30,005,Montana,Blaine County,2,0,6,60,60,60,69
+050,30,005,Montana,Blaine County,2,1,1,1552,1552,1553,1566
+050,30,005,Montana,Blaine County,2,1,2,3,3,3,10
+050,30,005,Montana,Blaine County,2,1,3,1567,1567,1568,1576
+050,30,005,Montana,Blaine County,2,1,4,3,3,3,4
+050,30,005,Montana,Blaine County,2,1,5,1,1,1,1
+050,30,005,Montana,Blaine County,2,1,6,58,58,58,68
+050,30,005,Montana,Blaine County,2,2,1,17,17,17,29
+050,30,005,Montana,Blaine County,2,2,2,0,0,0,1
+050,30,005,Montana,Blaine County,2,2,3,40,40,40,38
+050,30,005,Montana,Blaine County,2,2,4,0,0,0,0
+050,30,005,Montana,Blaine County,2,2,5,0,0,0,0
+050,30,005,Montana,Blaine County,2,2,6,2,2,2,1
+050,30,007,Montana,Broadwater County,0,0,1,5424,5424,5448,5546
+050,30,007,Montana,Broadwater County,0,0,2,17,17,17,22
+050,30,007,Montana,Broadwater County,0,0,3,73,73,73,76
+050,30,007,Montana,Broadwater County,0,0,4,9,9,9,11
+050,30,007,Montana,Broadwater County,0,0,5,11,11,11,12
+050,30,007,Montana,Broadwater County,0,0,6,78,78,78,85
+050,30,007,Montana,Broadwater County,0,1,1,5310,5310,5334,5431
+050,30,007,Montana,Broadwater County,0,1,2,17,17,17,22
+050,30,007,Montana,Broadwater County,0,1,3,68,68,68,70
+050,30,007,Montana,Broadwater County,0,1,4,9,9,9,11
+050,30,007,Montana,Broadwater County,0,1,5,11,11,11,12
+050,30,007,Montana,Broadwater County,0,1,6,71,71,71,75
+050,30,007,Montana,Broadwater County,0,2,1,114,114,114,115
+050,30,007,Montana,Broadwater County,0,2,2,0,0,0,0
+050,30,007,Montana,Broadwater County,0,2,3,5,5,5,6
+050,30,007,Montana,Broadwater County,0,2,4,0,0,0,0
+050,30,007,Montana,Broadwater County,0,2,5,0,0,0,0
+050,30,007,Montana,Broadwater County,0,2,6,7,7,7,10
+050,30,007,Montana,Broadwater County,1,0,1,2771,2771,2785,2827
+050,30,007,Montana,Broadwater County,1,0,2,14,14,14,15
+050,30,007,Montana,Broadwater County,1,0,3,40,40,40,40
+050,30,007,Montana,Broadwater County,1,0,4,3,3,3,4
+050,30,007,Montana,Broadwater County,1,0,5,5,5,5,5
+050,30,007,Montana,Broadwater County,1,0,6,38,38,38,44
+050,30,007,Montana,Broadwater County,1,1,1,2722,2722,2736,2781
+050,30,007,Montana,Broadwater County,1,1,2,14,14,14,15
+050,30,007,Montana,Broadwater County,1,1,3,37,37,37,37
+050,30,007,Montana,Broadwater County,1,1,4,3,3,3,4
+050,30,007,Montana,Broadwater County,1,1,5,5,5,5,5
+050,30,007,Montana,Broadwater County,1,1,6,31,31,31,34
+050,30,007,Montana,Broadwater County,1,2,1,49,49,49,46
+050,30,007,Montana,Broadwater County,1,2,2,0,0,0,0
+050,30,007,Montana,Broadwater County,1,2,3,3,3,3,3
+050,30,007,Montana,Broadwater County,1,2,4,0,0,0,0
+050,30,007,Montana,Broadwater County,1,2,5,0,0,0,0
+050,30,007,Montana,Broadwater County,1,2,6,7,7,7,10
+050,30,007,Montana,Broadwater County,2,0,1,2653,2653,2663,2719
+050,30,007,Montana,Broadwater County,2,0,2,3,3,3,7
+050,30,007,Montana,Broadwater County,2,0,3,33,33,33,36
+050,30,007,Montana,Broadwater County,2,0,4,6,6,6,7
+050,30,007,Montana,Broadwater County,2,0,5,6,6,6,7
+050,30,007,Montana,Broadwater County,2,0,6,40,40,40,41
+050,30,007,Montana,Broadwater County,2,1,1,2588,2588,2598,2650
+050,30,007,Montana,Broadwater County,2,1,2,3,3,3,7
+050,30,007,Montana,Broadwater County,2,1,3,31,31,31,33
+050,30,007,Montana,Broadwater County,2,1,4,6,6,6,7
+050,30,007,Montana,Broadwater County,2,1,5,6,6,6,7
+050,30,007,Montana,Broadwater County,2,1,6,40,40,40,41
+050,30,007,Montana,Broadwater County,2,2,1,65,65,65,69
+050,30,007,Montana,Broadwater County,2,2,2,0,0,0,0
+050,30,007,Montana,Broadwater County,2,2,3,2,2,2,3
+050,30,007,Montana,Broadwater County,2,2,4,0,0,0,0
+050,30,007,Montana,Broadwater County,2,2,5,0,0,0,0
+050,30,007,Montana,Broadwater County,2,2,6,0,0,0,0
+050,30,009,Montana,Carbon County,0,0,1,9838,9838,9839,9753
+050,30,009,Montana,Carbon County,0,0,2,35,35,35,39
+050,30,009,Montana,Carbon County,0,0,3,87,87,87,99
+050,30,009,Montana,Carbon County,0,0,4,22,22,22,29
+050,30,009,Montana,Carbon County,0,0,5,3,3,3,4
+050,30,009,Montana,Carbon County,0,0,6,93,93,93,104
+050,30,009,Montana,Carbon County,0,1,1,9672,9672,9673,9564
+050,30,009,Montana,Carbon County,0,1,2,31,31,31,36
+050,30,009,Montana,Carbon County,0,1,3,76,76,76,88
+050,30,009,Montana,Carbon County,0,1,4,22,22,22,29
+050,30,009,Montana,Carbon County,0,1,5,3,3,3,4
+050,30,009,Montana,Carbon County,0,1,6,86,86,86,94
+050,30,009,Montana,Carbon County,0,2,1,166,166,166,189
+050,30,009,Montana,Carbon County,0,2,2,4,4,4,3
+050,30,009,Montana,Carbon County,0,2,3,11,11,11,11
+050,30,009,Montana,Carbon County,0,2,4,0,0,0,0
+050,30,009,Montana,Carbon County,0,2,5,0,0,0,0
+050,30,009,Montana,Carbon County,0,2,6,7,7,7,10
+050,30,009,Montana,Carbon County,1,0,1,4981,4981,4982,4937
+050,30,009,Montana,Carbon County,1,0,2,16,16,16,16
+050,30,009,Montana,Carbon County,1,0,3,56,56,56,66
+050,30,009,Montana,Carbon County,1,0,4,6,6,6,8
+050,30,009,Montana,Carbon County,1,0,5,2,2,2,3
+050,30,009,Montana,Carbon County,1,0,6,44,44,44,48
+050,30,009,Montana,Carbon County,1,1,1,4892,4892,4893,4838
+050,30,009,Montana,Carbon County,1,1,2,15,15,15,15
+050,30,009,Montana,Carbon County,1,1,3,51,51,51,61
+050,30,009,Montana,Carbon County,1,1,4,6,6,6,8
+050,30,009,Montana,Carbon County,1,1,5,2,2,2,3
+050,30,009,Montana,Carbon County,1,1,6,42,42,42,46
+050,30,009,Montana,Carbon County,1,2,1,89,89,89,99
+050,30,009,Montana,Carbon County,1,2,2,1,1,1,1
+050,30,009,Montana,Carbon County,1,2,3,5,5,5,5
+050,30,009,Montana,Carbon County,1,2,4,0,0,0,0
+050,30,009,Montana,Carbon County,1,2,5,0,0,0,0
+050,30,009,Montana,Carbon County,1,2,6,2,2,2,2
+050,30,009,Montana,Carbon County,2,0,1,4857,4857,4857,4816
+050,30,009,Montana,Carbon County,2,0,2,19,19,19,23
+050,30,009,Montana,Carbon County,2,0,3,31,31,31,33
+050,30,009,Montana,Carbon County,2,0,4,16,16,16,21
+050,30,009,Montana,Carbon County,2,0,5,1,1,1,1
+050,30,009,Montana,Carbon County,2,0,6,49,49,49,56
+050,30,009,Montana,Carbon County,2,1,1,4780,4780,4780,4726
+050,30,009,Montana,Carbon County,2,1,2,16,16,16,21
+050,30,009,Montana,Carbon County,2,1,3,25,25,25,27
+050,30,009,Montana,Carbon County,2,1,4,16,16,16,21
+050,30,009,Montana,Carbon County,2,1,5,1,1,1,1
+050,30,009,Montana,Carbon County,2,1,6,44,44,44,48
+050,30,009,Montana,Carbon County,2,2,1,77,77,77,90
+050,30,009,Montana,Carbon County,2,2,2,3,3,3,2
+050,30,009,Montana,Carbon County,2,2,3,6,6,6,6
+050,30,009,Montana,Carbon County,2,2,4,0,0,0,0
+050,30,009,Montana,Carbon County,2,2,5,0,0,0,0
+050,30,009,Montana,Carbon County,2,2,6,5,5,5,8
+050,30,011,Montana,Carter County,0,0,1,1140,1140,1138,1132
+050,30,011,Montana,Carter County,0,0,2,1,1,1,1
+050,30,011,Montana,Carter County,0,0,3,12,12,12,12
+050,30,011,Montana,Carter County,0,0,4,1,1,1,1
+050,30,011,Montana,Carter County,0,0,5,0,0,0,0
+050,30,011,Montana,Carter County,0,0,6,6,6,6,6
+050,30,011,Montana,Carter County,0,1,1,1133,1133,1131,1126
+050,30,011,Montana,Carter County,0,1,2,1,1,1,1
+050,30,011,Montana,Carter County,0,1,3,11,11,11,11
+050,30,011,Montana,Carter County,0,1,4,1,1,1,1
+050,30,011,Montana,Carter County,0,1,5,0,0,0,0
+050,30,011,Montana,Carter County,0,1,6,6,6,6,6
+050,30,011,Montana,Carter County,0,2,1,7,7,7,6
+050,30,011,Montana,Carter County,0,2,2,0,0,0,0
+050,30,011,Montana,Carter County,0,2,3,1,1,1,1
+050,30,011,Montana,Carter County,0,2,4,0,0,0,0
+050,30,011,Montana,Carter County,0,2,5,0,0,0,0
+050,30,011,Montana,Carter County,0,2,6,0,0,0,0
+050,30,011,Montana,Carter County,1,0,1,578,578,576,578
+050,30,011,Montana,Carter County,1,0,2,0,0,0,0
+050,30,011,Montana,Carter County,1,0,3,7,7,7,7
+050,30,011,Montana,Carter County,1,0,4,0,0,0,0
+050,30,011,Montana,Carter County,1,0,5,0,0,0,0
+050,30,011,Montana,Carter County,1,0,6,1,1,1,1
+050,30,011,Montana,Carter County,1,1,1,576,576,574,576
+050,30,011,Montana,Carter County,1,1,2,0,0,0,0
+050,30,011,Montana,Carter County,1,1,3,7,7,7,7
+050,30,011,Montana,Carter County,1,1,4,0,0,0,0
+050,30,011,Montana,Carter County,1,1,5,0,0,0,0
+050,30,011,Montana,Carter County,1,1,6,1,1,1,1
+050,30,011,Montana,Carter County,1,2,1,2,2,2,2
+050,30,011,Montana,Carter County,1,2,2,0,0,0,0
+050,30,011,Montana,Carter County,1,2,3,0,0,0,0
+050,30,011,Montana,Carter County,1,2,4,0,0,0,0
+050,30,011,Montana,Carter County,1,2,5,0,0,0,0
+050,30,011,Montana,Carter County,1,2,6,0,0,0,0
+050,30,011,Montana,Carter County,2,0,1,562,562,562,554
+050,30,011,Montana,Carter County,2,0,2,1,1,1,1
+050,30,011,Montana,Carter County,2,0,3,5,5,5,5
+050,30,011,Montana,Carter County,2,0,4,1,1,1,1
+050,30,011,Montana,Carter County,2,0,5,0,0,0,0
+050,30,011,Montana,Carter County,2,0,6,5,5,5,5
+050,30,011,Montana,Carter County,2,1,1,557,557,557,550
+050,30,011,Montana,Carter County,2,1,2,1,1,1,1
+050,30,011,Montana,Carter County,2,1,3,4,4,4,4
+050,30,011,Montana,Carter County,2,1,4,1,1,1,1
+050,30,011,Montana,Carter County,2,1,5,0,0,0,0
+050,30,011,Montana,Carter County,2,1,6,5,5,5,5
+050,30,011,Montana,Carter County,2,2,1,5,5,5,4
+050,30,011,Montana,Carter County,2,2,2,0,0,0,0
+050,30,011,Montana,Carter County,2,2,3,1,1,1,1
+050,30,011,Montana,Carter County,2,2,4,0,0,0,0
+050,30,011,Montana,Carter County,2,2,5,0,0,0,0
+050,30,011,Montana,Carter County,2,2,6,0,0,0,0
+050,30,013,Montana,Cascade County,0,0,1,73147,73147,73324,73540
+050,30,013,Montana,Cascade County,0,0,2,1045,1045,1049,1164
+050,30,013,Montana,Cascade County,0,0,3,3572,3572,3576,3650
+050,30,013,Montana,Cascade County,0,0,4,699,699,688,665
+050,30,013,Montana,Cascade County,0,0,5,95,95,95,97
+050,30,013,Montana,Cascade County,0,0,6,2769,2769,2777,2721
+050,30,013,Montana,Cascade County,0,1,1,71168,71168,71339,71363
+050,30,013,Montana,Cascade County,0,1,2,963,963,967,1066
+050,30,013,Montana,Cascade County,0,1,3,3284,3284,3288,3371
+050,30,013,Montana,Cascade County,0,1,4,670,670,660,636
+050,30,013,Montana,Cascade County,0,1,5,80,80,80,77
+050,30,013,Montana,Cascade County,0,1,6,2451,2451,2459,2415
+050,30,013,Montana,Cascade County,0,2,1,1979,1979,1985,2177
+050,30,013,Montana,Cascade County,0,2,2,82,82,82,98
+050,30,013,Montana,Cascade County,0,2,3,288,288,288,279
+050,30,013,Montana,Cascade County,0,2,4,29,29,28,29
+050,30,013,Montana,Cascade County,0,2,5,15,15,15,20
+050,30,013,Montana,Cascade County,0,2,6,318,318,318,306
+050,30,013,Montana,Cascade County,1,0,1,36513,36513,36611,36762
+050,30,013,Montana,Cascade County,1,0,2,654,654,658,715
+050,30,013,Montana,Cascade County,1,0,3,1739,1739,1741,1768
+050,30,013,Montana,Cascade County,1,0,4,274,274,271,265
+050,30,013,Montana,Cascade County,1,0,5,47,47,47,46
+050,30,013,Montana,Cascade County,1,0,6,1341,1341,1345,1295
+050,30,013,Montana,Cascade County,1,1,1,35485,35485,35580,35633
+050,30,013,Montana,Cascade County,1,1,2,615,615,619,664
+050,30,013,Montana,Cascade County,1,1,3,1603,1603,1605,1635
+050,30,013,Montana,Cascade County,1,1,4,255,255,252,247
+050,30,013,Montana,Cascade County,1,1,5,41,41,41,40
+050,30,013,Montana,Cascade County,1,1,6,1184,1184,1188,1146
+050,30,013,Montana,Cascade County,1,2,1,1028,1028,1031,1129
+050,30,013,Montana,Cascade County,1,2,2,39,39,39,51
+050,30,013,Montana,Cascade County,1,2,3,136,136,136,133
+050,30,013,Montana,Cascade County,1,2,4,19,19,19,18
+050,30,013,Montana,Cascade County,1,2,5,6,6,6,6
+050,30,013,Montana,Cascade County,1,2,6,157,157,157,149
+050,30,013,Montana,Cascade County,2,0,1,36634,36634,36713,36778
+050,30,013,Montana,Cascade County,2,0,2,391,391,391,449
+050,30,013,Montana,Cascade County,2,0,3,1833,1833,1835,1882
+050,30,013,Montana,Cascade County,2,0,4,425,425,417,400
+050,30,013,Montana,Cascade County,2,0,5,48,48,48,51
+050,30,013,Montana,Cascade County,2,0,6,1428,1428,1432,1426
+050,30,013,Montana,Cascade County,2,1,1,35683,35683,35759,35730
+050,30,013,Montana,Cascade County,2,1,2,348,348,348,402
+050,30,013,Montana,Cascade County,2,1,3,1681,1681,1683,1736
+050,30,013,Montana,Cascade County,2,1,4,415,415,408,389
+050,30,013,Montana,Cascade County,2,1,5,39,39,39,37
+050,30,013,Montana,Cascade County,2,1,6,1267,1267,1271,1269
+050,30,013,Montana,Cascade County,2,2,1,951,951,954,1048
+050,30,013,Montana,Cascade County,2,2,2,43,43,43,47
+050,30,013,Montana,Cascade County,2,2,3,152,152,152,146
+050,30,013,Montana,Cascade County,2,2,4,10,10,9,11
+050,30,013,Montana,Cascade County,2,2,5,9,9,9,14
+050,30,013,Montana,Cascade County,2,2,6,161,161,161,157
+050,30,015,Montana,Chouteau County,0,0,1,4423,4423,4424,4426
+050,30,015,Montana,Chouteau County,0,0,2,3,3,3,14
+050,30,015,Montana,Chouteau County,0,0,3,1270,1270,1269,1235
+050,30,015,Montana,Chouteau County,0,0,4,21,21,21,21
+050,30,015,Montana,Chouteau County,0,0,5,6,6,6,6
+050,30,015,Montana,Chouteau County,0,0,6,90,90,90,91
+050,30,015,Montana,Chouteau County,0,1,1,4391,4391,4392,4384
+050,30,015,Montana,Chouteau County,0,1,2,1,1,1,12
+050,30,015,Montana,Chouteau County,0,1,3,1213,1213,1212,1178
+050,30,015,Montana,Chouteau County,0,1,4,21,21,21,21
+050,30,015,Montana,Chouteau County,0,1,5,6,6,6,6
+050,30,015,Montana,Chouteau County,0,1,6,87,87,87,88
+050,30,015,Montana,Chouteau County,0,2,1,32,32,32,42
+050,30,015,Montana,Chouteau County,0,2,2,2,2,2,2
+050,30,015,Montana,Chouteau County,0,2,3,57,57,57,57
+050,30,015,Montana,Chouteau County,0,2,4,0,0,0,0
+050,30,015,Montana,Chouteau County,0,2,5,0,0,0,0
+050,30,015,Montana,Chouteau County,0,2,6,3,3,3,3
+050,30,015,Montana,Chouteau County,1,0,1,2216,2216,2217,2219
+050,30,015,Montana,Chouteau County,1,0,2,2,2,2,5
+050,30,015,Montana,Chouteau County,1,0,3,590,590,590,590
+050,30,015,Montana,Chouteau County,1,0,4,9,9,9,9
+050,30,015,Montana,Chouteau County,1,0,5,3,3,3,3
+050,30,015,Montana,Chouteau County,1,0,6,41,41,41,40
+050,30,015,Montana,Chouteau County,1,1,1,2201,2201,2202,2197
+050,30,015,Montana,Chouteau County,1,1,2,1,1,1,4
+050,30,015,Montana,Chouteau County,1,1,3,559,559,559,559
+050,30,015,Montana,Chouteau County,1,1,4,9,9,9,9
+050,30,015,Montana,Chouteau County,1,1,5,3,3,3,3
+050,30,015,Montana,Chouteau County,1,1,6,40,40,40,39
+050,30,015,Montana,Chouteau County,1,2,1,15,15,15,22
+050,30,015,Montana,Chouteau County,1,2,2,1,1,1,1
+050,30,015,Montana,Chouteau County,1,2,3,31,31,31,31
+050,30,015,Montana,Chouteau County,1,2,4,0,0,0,0
+050,30,015,Montana,Chouteau County,1,2,5,0,0,0,0
+050,30,015,Montana,Chouteau County,1,2,6,1,1,1,1
+050,30,015,Montana,Chouteau County,2,0,1,2207,2207,2207,2207
+050,30,015,Montana,Chouteau County,2,0,2,1,1,1,9
+050,30,015,Montana,Chouteau County,2,0,3,680,680,679,645
+050,30,015,Montana,Chouteau County,2,0,4,12,12,12,12
+050,30,015,Montana,Chouteau County,2,0,5,3,3,3,3
+050,30,015,Montana,Chouteau County,2,0,6,49,49,49,51
+050,30,015,Montana,Chouteau County,2,1,1,2190,2190,2190,2187
+050,30,015,Montana,Chouteau County,2,1,2,0,0,0,8
+050,30,015,Montana,Chouteau County,2,1,3,654,654,653,619
+050,30,015,Montana,Chouteau County,2,1,4,12,12,12,12
+050,30,015,Montana,Chouteau County,2,1,5,3,3,3,3
+050,30,015,Montana,Chouteau County,2,1,6,47,47,47,49
+050,30,015,Montana,Chouteau County,2,2,1,17,17,17,20
+050,30,015,Montana,Chouteau County,2,2,2,1,1,1,1
+050,30,015,Montana,Chouteau County,2,2,3,26,26,26,26
+050,30,015,Montana,Chouteau County,2,2,4,0,0,0,0
+050,30,015,Montana,Chouteau County,2,2,5,0,0,0,0
+050,30,015,Montana,Chouteau County,2,2,6,2,2,2,2
+050,30,017,Montana,Custer County,0,0,1,11231,11231,11242,11262
+050,30,017,Montana,Custer County,0,0,2,34,34,34,46
+050,30,017,Montana,Custer County,0,0,3,208,208,208,213
+050,30,017,Montana,Custer County,0,0,4,37,37,37,42
+050,30,017,Montana,Custer County,0,0,5,9,9,9,9
+050,30,017,Montana,Custer County,0,0,6,180,180,180,180
+050,30,017,Montana,Custer County,0,1,1,11016,11016,11027,11038
+050,30,017,Montana,Custer County,0,1,2,31,31,31,41
+050,30,017,Montana,Custer County,0,1,3,185,185,185,190
+050,30,017,Montana,Custer County,0,1,4,37,37,37,42
+050,30,017,Montana,Custer County,0,1,5,3,3,3,3
+050,30,017,Montana,Custer County,0,1,6,164,164,164,164
+050,30,017,Montana,Custer County,0,2,1,215,215,215,224
+050,30,017,Montana,Custer County,0,2,2,3,3,3,5
+050,30,017,Montana,Custer County,0,2,3,23,23,23,23
+050,30,017,Montana,Custer County,0,2,4,0,0,0,0
+050,30,017,Montana,Custer County,0,2,5,6,6,6,6
+050,30,017,Montana,Custer County,0,2,6,16,16,16,16
+050,30,017,Montana,Custer County,1,0,1,5576,5576,5586,5586
+050,30,017,Montana,Custer County,1,0,2,25,25,25,29
+050,30,017,Montana,Custer County,1,0,3,110,110,110,112
+050,30,017,Montana,Custer County,1,0,4,14,14,14,18
+050,30,017,Montana,Custer County,1,0,5,4,4,4,4
+050,30,017,Montana,Custer County,1,0,6,81,81,81,78
+050,30,017,Montana,Custer County,1,1,1,5467,5467,5477,5472
+050,30,017,Montana,Custer County,1,1,2,23,23,23,27
+050,30,017,Montana,Custer County,1,1,3,100,100,100,102
+050,30,017,Montana,Custer County,1,1,4,14,14,14,18
+050,30,017,Montana,Custer County,1,1,5,3,3,3,3
+050,30,017,Montana,Custer County,1,1,6,71,71,71,68
+050,30,017,Montana,Custer County,1,2,1,109,109,109,114
+050,30,017,Montana,Custer County,1,2,2,2,2,2,2
+050,30,017,Montana,Custer County,1,2,3,10,10,10,10
+050,30,017,Montana,Custer County,1,2,4,0,0,0,0
+050,30,017,Montana,Custer County,1,2,5,1,1,1,1
+050,30,017,Montana,Custer County,1,2,6,10,10,10,10
+050,30,017,Montana,Custer County,2,0,1,5655,5655,5656,5676
+050,30,017,Montana,Custer County,2,0,2,9,9,9,17
+050,30,017,Montana,Custer County,2,0,3,98,98,98,101
+050,30,017,Montana,Custer County,2,0,4,23,23,23,24
+050,30,017,Montana,Custer County,2,0,5,5,5,5,5
+050,30,017,Montana,Custer County,2,0,6,99,99,99,102
+050,30,017,Montana,Custer County,2,1,1,5549,5549,5550,5566
+050,30,017,Montana,Custer County,2,1,2,8,8,8,14
+050,30,017,Montana,Custer County,2,1,3,85,85,85,88
+050,30,017,Montana,Custer County,2,1,4,23,23,23,24
+050,30,017,Montana,Custer County,2,1,5,0,0,0,0
+050,30,017,Montana,Custer County,2,1,6,93,93,93,96
+050,30,017,Montana,Custer County,2,2,1,106,106,106,110
+050,30,017,Montana,Custer County,2,2,2,1,1,1,3
+050,30,017,Montana,Custer County,2,2,3,13,13,13,13
+050,30,017,Montana,Custer County,2,2,4,0,0,0,0
+050,30,017,Montana,Custer County,2,2,5,5,5,5,5
+050,30,017,Montana,Custer County,2,2,6,6,6,6,6
+050,30,019,Montana,Daniels County,0,0,1,1679,1679,1679,1690
+050,30,019,Montana,Daniels County,0,0,2,3,3,3,5
+050,30,019,Montana,Daniels County,0,0,3,37,37,37,37
+050,30,019,Montana,Daniels County,0,0,4,4,4,4,4
+050,30,019,Montana,Daniels County,0,0,5,0,0,0,0
+050,30,019,Montana,Daniels County,0,0,6,28,28,28,27
+050,30,019,Montana,Daniels County,0,1,1,1655,1655,1655,1662
+050,30,019,Montana,Daniels County,0,1,2,3,3,3,5
+050,30,019,Montana,Daniels County,0,1,3,36,36,36,36
+050,30,019,Montana,Daniels County,0,1,4,4,4,4,4
+050,30,019,Montana,Daniels County,0,1,5,0,0,0,0
+050,30,019,Montana,Daniels County,0,1,6,26,26,26,26
+050,30,019,Montana,Daniels County,0,2,1,24,24,24,28
+050,30,019,Montana,Daniels County,0,2,2,0,0,0,0
+050,30,019,Montana,Daniels County,0,2,3,1,1,1,1
+050,30,019,Montana,Daniels County,0,2,4,0,0,0,0
+050,30,019,Montana,Daniels County,0,2,5,0,0,0,0
+050,30,019,Montana,Daniels County,0,2,6,2,2,2,1
+050,30,019,Montana,Daniels County,1,0,1,850,850,850,866
+050,30,019,Montana,Daniels County,1,0,2,2,2,2,4
+050,30,019,Montana,Daniels County,1,0,3,16,16,16,16
+050,30,019,Montana,Daniels County,1,0,4,0,0,0,0
+050,30,019,Montana,Daniels County,1,0,5,0,0,0,0
+050,30,019,Montana,Daniels County,1,0,6,13,13,13,13
+050,30,019,Montana,Daniels County,1,1,1,840,840,840,854
+050,30,019,Montana,Daniels County,1,1,2,2,2,2,4
+050,30,019,Montana,Daniels County,1,1,3,16,16,16,16
+050,30,019,Montana,Daniels County,1,1,4,0,0,0,0
+050,30,019,Montana,Daniels County,1,1,5,0,0,0,0
+050,30,019,Montana,Daniels County,1,1,6,13,13,13,13
+050,30,019,Montana,Daniels County,1,2,1,10,10,10,12
+050,30,019,Montana,Daniels County,1,2,2,0,0,0,0
+050,30,019,Montana,Daniels County,1,2,3,0,0,0,0
+050,30,019,Montana,Daniels County,1,2,4,0,0,0,0
+050,30,019,Montana,Daniels County,1,2,5,0,0,0,0
+050,30,019,Montana,Daniels County,1,2,6,0,0,0,0
+050,30,019,Montana,Daniels County,2,0,1,829,829,829,824
+050,30,019,Montana,Daniels County,2,0,2,1,1,1,1
+050,30,019,Montana,Daniels County,2,0,3,21,21,21,21
+050,30,019,Montana,Daniels County,2,0,4,4,4,4,4
+050,30,019,Montana,Daniels County,2,0,5,0,0,0,0
+050,30,019,Montana,Daniels County,2,0,6,15,15,15,14
+050,30,019,Montana,Daniels County,2,1,1,815,815,815,808
+050,30,019,Montana,Daniels County,2,1,2,1,1,1,1
+050,30,019,Montana,Daniels County,2,1,3,20,20,20,20
+050,30,019,Montana,Daniels County,2,1,4,4,4,4,4
+050,30,019,Montana,Daniels County,2,1,5,0,0,0,0
+050,30,019,Montana,Daniels County,2,1,6,13,13,13,13
+050,30,019,Montana,Daniels County,2,2,1,14,14,14,16
+050,30,019,Montana,Daniels County,2,2,2,0,0,0,0
+050,30,019,Montana,Daniels County,2,2,3,1,1,1,1
+050,30,019,Montana,Daniels County,2,2,4,0,0,0,0
+050,30,019,Montana,Daniels County,2,2,5,0,0,0,0
+050,30,019,Montana,Daniels County,2,2,6,2,2,2,1
+050,30,021,Montana,Dawson County,0,0,1,8615,8615,8589,8585
+050,30,021,Montana,Dawson County,0,0,2,27,27,27,40
+050,30,021,Montana,Dawson County,0,0,3,161,161,161,181
+050,30,021,Montana,Dawson County,0,0,4,27,27,26,25
+050,30,021,Montana,Dawson County,0,0,5,4,4,4,8
+050,30,021,Montana,Dawson County,0,0,6,132,132,132,150
+050,30,021,Montana,Dawson County,0,1,1,8486,8486,8460,8423
+050,30,021,Montana,Dawson County,0,1,2,25,25,25,37
+050,30,021,Montana,Dawson County,0,1,3,141,141,141,160
+050,30,021,Montana,Dawson County,0,1,4,26,26,25,24
+050,30,021,Montana,Dawson County,0,1,5,3,3,3,7
+050,30,021,Montana,Dawson County,0,1,6,107,107,107,123
+050,30,021,Montana,Dawson County,0,2,1,129,129,129,162
+050,30,021,Montana,Dawson County,0,2,2,2,2,2,3
+050,30,021,Montana,Dawson County,0,2,3,20,20,20,21
+050,30,021,Montana,Dawson County,0,2,4,1,1,1,1
+050,30,021,Montana,Dawson County,0,2,5,1,1,1,1
+050,30,021,Montana,Dawson County,0,2,6,25,25,25,27
+050,30,021,Montana,Dawson County,1,0,1,4328,4328,4318,4322
+050,30,021,Montana,Dawson County,1,0,2,24,24,24,31
+050,30,021,Montana,Dawson County,1,0,3,99,99,99,109
+050,30,021,Montana,Dawson County,1,0,4,10,10,9,7
+050,30,021,Montana,Dawson County,1,0,5,3,3,3,6
+050,30,021,Montana,Dawson County,1,0,6,68,68,68,79
+050,30,021,Montana,Dawson County,1,1,1,4264,4264,4254,4238
+050,30,021,Montana,Dawson County,1,1,2,22,22,22,29
+050,30,021,Montana,Dawson County,1,1,3,92,92,92,102
+050,30,021,Montana,Dawson County,1,1,4,9,9,8,6
+050,30,021,Montana,Dawson County,1,1,5,2,2,2,5
+050,30,021,Montana,Dawson County,1,1,6,57,57,57,67
+050,30,021,Montana,Dawson County,1,2,1,64,64,64,84
+050,30,021,Montana,Dawson County,1,2,2,2,2,2,2
+050,30,021,Montana,Dawson County,1,2,3,7,7,7,7
+050,30,021,Montana,Dawson County,1,2,4,1,1,1,1
+050,30,021,Montana,Dawson County,1,2,5,1,1,1,1
+050,30,021,Montana,Dawson County,1,2,6,11,11,11,12
+050,30,021,Montana,Dawson County,2,0,1,4287,4287,4271,4263
+050,30,021,Montana,Dawson County,2,0,2,3,3,3,9
+050,30,021,Montana,Dawson County,2,0,3,62,62,62,72
+050,30,021,Montana,Dawson County,2,0,4,17,17,17,18
+050,30,021,Montana,Dawson County,2,0,5,1,1,1,2
+050,30,021,Montana,Dawson County,2,0,6,64,64,64,71
+050,30,021,Montana,Dawson County,2,1,1,4222,4222,4206,4185
+050,30,021,Montana,Dawson County,2,1,2,3,3,3,8
+050,30,021,Montana,Dawson County,2,1,3,49,49,49,58
+050,30,021,Montana,Dawson County,2,1,4,17,17,17,18
+050,30,021,Montana,Dawson County,2,1,5,1,1,1,2
+050,30,021,Montana,Dawson County,2,1,6,50,50,50,56
+050,30,021,Montana,Dawson County,2,2,1,65,65,65,78
+050,30,021,Montana,Dawson County,2,2,2,0,0,0,1
+050,30,021,Montana,Dawson County,2,2,3,13,13,13,14
+050,30,021,Montana,Dawson County,2,2,4,0,0,0,0
+050,30,021,Montana,Dawson County,2,2,5,0,0,0,0
+050,30,021,Montana,Dawson County,2,2,6,14,14,14,15
+050,30,023,Montana,Deer Lodge County,0,0,1,8710,8710,8709,8679
+050,30,023,Montana,Deer Lodge County,0,0,2,39,39,39,50
+050,30,023,Montana,Deer Lodge County,0,0,3,297,297,297,307
+050,30,023,Montana,Deer Lodge County,0,0,4,32,32,32,32
+050,30,023,Montana,Deer Lodge County,0,0,5,4,4,4,4
+050,30,023,Montana,Deer Lodge County,0,0,6,216,216,216,227
+050,30,023,Montana,Deer Lodge County,0,1,1,8521,8521,8520,8485
+050,30,023,Montana,Deer Lodge County,0,1,2,36,36,36,46
+050,30,023,Montana,Deer Lodge County,0,1,3,242,242,242,250
+050,30,023,Montana,Deer Lodge County,0,1,4,28,28,28,28
+050,30,023,Montana,Deer Lodge County,0,1,5,2,2,2,2
+050,30,023,Montana,Deer Lodge County,0,1,6,198,198,198,207
+050,30,023,Montana,Deer Lodge County,0,2,1,189,189,189,194
+050,30,023,Montana,Deer Lodge County,0,2,2,3,3,3,4
+050,30,023,Montana,Deer Lodge County,0,2,3,55,55,55,57
+050,30,023,Montana,Deer Lodge County,0,2,4,4,4,4,4
+050,30,023,Montana,Deer Lodge County,0,2,5,2,2,2,2
+050,30,023,Montana,Deer Lodge County,0,2,6,18,18,18,20
+050,30,023,Montana,Deer Lodge County,1,0,1,4559,4559,4558,4529
+050,30,023,Montana,Deer Lodge County,1,0,2,27,27,27,30
+050,30,023,Montana,Deer Lodge County,1,0,3,201,201,201,205
+050,30,023,Montana,Deer Lodge County,1,0,4,16,16,16,17
+050,30,023,Montana,Deer Lodge County,1,0,5,3,3,3,3
+050,30,023,Montana,Deer Lodge County,1,0,6,115,115,115,110
+050,30,023,Montana,Deer Lodge County,1,1,1,4446,4446,4445,4409
+050,30,023,Montana,Deer Lodge County,1,1,2,25,25,25,28
+050,30,023,Montana,Deer Lodge County,1,1,3,166,166,166,169
+050,30,023,Montana,Deer Lodge County,1,1,4,13,13,13,14
+050,30,023,Montana,Deer Lodge County,1,1,5,1,1,1,1
+050,30,023,Montana,Deer Lodge County,1,1,6,104,104,104,99
+050,30,023,Montana,Deer Lodge County,1,2,1,113,113,113,120
+050,30,023,Montana,Deer Lodge County,1,2,2,2,2,2,2
+050,30,023,Montana,Deer Lodge County,1,2,3,35,35,35,36
+050,30,023,Montana,Deer Lodge County,1,2,4,3,3,3,3
+050,30,023,Montana,Deer Lodge County,1,2,5,2,2,2,2
+050,30,023,Montana,Deer Lodge County,1,2,6,11,11,11,11
+050,30,023,Montana,Deer Lodge County,2,0,1,4151,4151,4151,4150
+050,30,023,Montana,Deer Lodge County,2,0,2,12,12,12,20
+050,30,023,Montana,Deer Lodge County,2,0,3,96,96,96,102
+050,30,023,Montana,Deer Lodge County,2,0,4,16,16,16,15
+050,30,023,Montana,Deer Lodge County,2,0,5,1,1,1,1
+050,30,023,Montana,Deer Lodge County,2,0,6,101,101,101,117
+050,30,023,Montana,Deer Lodge County,2,1,1,4075,4075,4075,4076
+050,30,023,Montana,Deer Lodge County,2,1,2,11,11,11,18
+050,30,023,Montana,Deer Lodge County,2,1,3,76,76,76,81
+050,30,023,Montana,Deer Lodge County,2,1,4,15,15,15,14
+050,30,023,Montana,Deer Lodge County,2,1,5,1,1,1,1
+050,30,023,Montana,Deer Lodge County,2,1,6,94,94,94,108
+050,30,023,Montana,Deer Lodge County,2,2,1,76,76,76,74
+050,30,023,Montana,Deer Lodge County,2,2,2,1,1,1,2
+050,30,023,Montana,Deer Lodge County,2,2,3,20,20,20,21
+050,30,023,Montana,Deer Lodge County,2,2,4,1,1,1,1
+050,30,023,Montana,Deer Lodge County,2,2,5,0,0,0,0
+050,30,023,Montana,Deer Lodge County,2,2,6,7,7,7,9
+050,30,025,Montana,Fallon County,0,0,1,2823,2823,2826,2873
+050,30,025,Montana,Fallon County,0,0,2,2,2,2,2
+050,30,025,Montana,Fallon County,0,0,3,12,12,12,19
+050,30,025,Montana,Fallon County,0,0,4,17,17,17,18
+050,30,025,Montana,Fallon County,0,0,5,2,2,2,2
+050,30,025,Montana,Fallon County,0,0,6,34,34,34,42
+050,30,025,Montana,Fallon County,0,1,1,2794,2794,2797,2833
+050,30,025,Montana,Fallon County,0,1,2,2,2,2,2
+050,30,025,Montana,Fallon County,0,1,3,9,9,9,16
+050,30,025,Montana,Fallon County,0,1,4,17,17,17,18
+050,30,025,Montana,Fallon County,0,1,5,2,2,2,2
+050,30,025,Montana,Fallon County,0,1,6,32,32,32,40
+050,30,025,Montana,Fallon County,0,2,1,29,29,29,40
+050,30,025,Montana,Fallon County,0,2,2,0,0,0,0
+050,30,025,Montana,Fallon County,0,2,3,3,3,3,3
+050,30,025,Montana,Fallon County,0,2,4,0,0,0,0
+050,30,025,Montana,Fallon County,0,2,5,0,0,0,0
+050,30,025,Montana,Fallon County,0,2,6,2,2,2,2
+050,30,025,Montana,Fallon County,1,0,1,1429,1429,1431,1436
+050,30,025,Montana,Fallon County,1,0,2,2,2,2,2
+050,30,025,Montana,Fallon County,1,0,3,6,6,6,7
+050,30,025,Montana,Fallon County,1,0,4,9,9,9,10
+050,30,025,Montana,Fallon County,1,0,5,1,1,1,1
+050,30,025,Montana,Fallon County,1,0,6,19,19,19,27
+050,30,025,Montana,Fallon County,1,1,1,1414,1414,1416,1415
+050,30,025,Montana,Fallon County,1,1,2,2,2,2,2
+050,30,025,Montana,Fallon County,1,1,3,4,4,4,5
+050,30,025,Montana,Fallon County,1,1,4,9,9,9,10
+050,30,025,Montana,Fallon County,1,1,5,1,1,1,1
+050,30,025,Montana,Fallon County,1,1,6,17,17,17,25
+050,30,025,Montana,Fallon County,1,2,1,15,15,15,21
+050,30,025,Montana,Fallon County,1,2,2,0,0,0,0
+050,30,025,Montana,Fallon County,1,2,3,2,2,2,2
+050,30,025,Montana,Fallon County,1,2,4,0,0,0,0
+050,30,025,Montana,Fallon County,1,2,5,0,0,0,0
+050,30,025,Montana,Fallon County,1,2,6,2,2,2,2
+050,30,025,Montana,Fallon County,2,0,1,1394,1394,1395,1437
+050,30,025,Montana,Fallon County,2,0,2,0,0,0,0
+050,30,025,Montana,Fallon County,2,0,3,6,6,6,12
+050,30,025,Montana,Fallon County,2,0,4,8,8,8,8
+050,30,025,Montana,Fallon County,2,0,5,1,1,1,1
+050,30,025,Montana,Fallon County,2,0,6,15,15,15,15
+050,30,025,Montana,Fallon County,2,1,1,1380,1380,1381,1418
+050,30,025,Montana,Fallon County,2,1,2,0,0,0,0
+050,30,025,Montana,Fallon County,2,1,3,5,5,5,11
+050,30,025,Montana,Fallon County,2,1,4,8,8,8,8
+050,30,025,Montana,Fallon County,2,1,5,1,1,1,1
+050,30,025,Montana,Fallon County,2,1,6,15,15,15,15
+050,30,025,Montana,Fallon County,2,2,1,14,14,14,19
+050,30,025,Montana,Fallon County,2,2,2,0,0,0,0
+050,30,025,Montana,Fallon County,2,2,3,1,1,1,1
+050,30,025,Montana,Fallon County,2,2,4,0,0,0,0
+050,30,025,Montana,Fallon County,2,2,5,0,0,0,0
+050,30,025,Montana,Fallon County,2,2,6,0,0,0,0
+050,30,027,Montana,Fergus County,0,0,1,11231,11231,11239,11103
+050,30,027,Montana,Fergus County,0,0,2,25,25,25,43
+050,30,027,Montana,Fergus County,0,0,3,144,144,144,155
+050,30,027,Montana,Fergus County,0,0,4,27,27,27,31
+050,30,027,Montana,Fergus County,0,0,5,0,0,0,2
+050,30,027,Montana,Fergus County,0,0,6,159,159,159,172
+050,30,027,Montana,Fergus County,0,1,1,11086,11086,11094,10945
+050,30,027,Montana,Fergus County,0,1,2,18,18,18,33
+050,30,027,Montana,Fergus County,0,1,3,135,135,135,144
+050,30,027,Montana,Fergus County,0,1,4,27,27,27,30
+050,30,027,Montana,Fergus County,0,1,5,0,0,0,0
+050,30,027,Montana,Fergus County,0,1,6,149,149,149,160
+050,30,027,Montana,Fergus County,0,2,1,145,145,145,158
+050,30,027,Montana,Fergus County,0,2,2,7,7,7,10
+050,30,027,Montana,Fergus County,0,2,3,9,9,9,11
+050,30,027,Montana,Fergus County,0,2,4,0,0,0,1
+050,30,027,Montana,Fergus County,0,2,5,0,0,0,2
+050,30,027,Montana,Fergus County,0,2,6,10,10,10,12
+050,30,027,Montana,Fergus County,1,0,1,5639,5639,5643,5573
+050,30,027,Montana,Fergus County,1,0,2,12,12,12,20
+050,30,027,Montana,Fergus County,1,0,3,87,87,87,91
+050,30,027,Montana,Fergus County,1,0,4,10,10,10,13
+050,30,027,Montana,Fergus County,1,0,5,0,0,0,0
+050,30,027,Montana,Fergus County,1,0,6,73,73,73,82
+050,30,027,Montana,Fergus County,1,1,1,5569,5569,5573,5496
+050,30,027,Montana,Fergus County,1,1,2,10,10,10,18
+050,30,027,Montana,Fergus County,1,1,3,84,84,84,87
+050,30,027,Montana,Fergus County,1,1,4,10,10,10,13
+050,30,027,Montana,Fergus County,1,1,5,0,0,0,0
+050,30,027,Montana,Fergus County,1,1,6,71,71,71,79
+050,30,027,Montana,Fergus County,1,2,1,70,70,70,77
+050,30,027,Montana,Fergus County,1,2,2,2,2,2,2
+050,30,027,Montana,Fergus County,1,2,3,3,3,3,4
+050,30,027,Montana,Fergus County,1,2,4,0,0,0,0
+050,30,027,Montana,Fergus County,1,2,5,0,0,0,0
+050,30,027,Montana,Fergus County,1,2,6,2,2,2,3
+050,30,027,Montana,Fergus County,2,0,1,5592,5592,5596,5530
+050,30,027,Montana,Fergus County,2,0,2,13,13,13,23
+050,30,027,Montana,Fergus County,2,0,3,57,57,57,64
+050,30,027,Montana,Fergus County,2,0,4,17,17,17,18
+050,30,027,Montana,Fergus County,2,0,5,0,0,0,2
+050,30,027,Montana,Fergus County,2,0,6,86,86,86,90
+050,30,027,Montana,Fergus County,2,1,1,5517,5517,5521,5449
+050,30,027,Montana,Fergus County,2,1,2,8,8,8,15
+050,30,027,Montana,Fergus County,2,1,3,51,51,51,57
+050,30,027,Montana,Fergus County,2,1,4,17,17,17,17
+050,30,027,Montana,Fergus County,2,1,5,0,0,0,0
+050,30,027,Montana,Fergus County,2,1,6,78,78,78,81
+050,30,027,Montana,Fergus County,2,2,1,75,75,75,81
+050,30,027,Montana,Fergus County,2,2,2,5,5,5,8
+050,30,027,Montana,Fergus County,2,2,3,6,6,6,7
+050,30,027,Montana,Fergus County,2,2,4,0,0,0,1
+050,30,027,Montana,Fergus County,2,2,5,0,0,0,2
+050,30,027,Montana,Fergus County,2,2,6,8,8,8,9
+050,30,029,Montana,Flathead County,0,0,1,87233,87233,87180,87394
+050,30,029,Montana,Flathead County,0,0,2,214,214,214,288
+050,30,029,Montana,Flathead County,0,0,3,1068,1068,1073,1142
+050,30,029,Montana,Flathead County,0,0,4,535,535,525,544
+050,30,029,Montana,Flathead County,0,0,5,62,62,62,69
+050,30,029,Montana,Flathead County,0,0,6,1816,1816,1817,1864
+050,30,029,Montana,Flathead County,0,1,1,85518,85518,85462,85602
+050,30,029,Montana,Flathead County,0,1,2,185,185,185,260
+050,30,029,Montana,Flathead County,0,1,3,936,936,941,1009
+050,30,029,Montana,Flathead County,0,1,4,523,523,514,528
+050,30,029,Montana,Flathead County,0,1,5,53,53,53,59
+050,30,029,Montana,Flathead County,0,1,6,1643,1643,1644,1680
+050,30,029,Montana,Flathead County,0,2,1,1715,1715,1718,1792
+050,30,029,Montana,Flathead County,0,2,2,29,29,29,28
+050,30,029,Montana,Flathead County,0,2,3,132,132,132,133
+050,30,029,Montana,Flathead County,0,2,4,12,12,11,16
+050,30,029,Montana,Flathead County,0,2,5,9,9,9,10
+050,30,029,Montana,Flathead County,0,2,6,173,173,173,184
+050,30,029,Montana,Flathead County,1,0,1,43485,43485,43466,43606
+050,30,029,Montana,Flathead County,1,0,2,127,127,127,167
+050,30,029,Montana,Flathead County,1,0,3,532,532,534,560
+050,30,029,Montana,Flathead County,1,0,4,208,208,203,210
+050,30,029,Montana,Flathead County,1,0,5,30,30,30,34
+050,30,029,Montana,Flathead County,1,0,6,894,894,894,902
+050,30,029,Montana,Flathead County,1,1,1,42641,42641,42619,42723
+050,30,029,Montana,Flathead County,1,1,2,112,112,112,150
+050,30,029,Montana,Flathead County,1,1,3,467,467,469,495
+050,30,029,Montana,Flathead County,1,1,4,204,204,199,204
+050,30,029,Montana,Flathead County,1,1,5,25,25,25,28
+050,30,029,Montana,Flathead County,1,1,6,804,804,804,805
+050,30,029,Montana,Flathead County,1,2,1,844,844,847,883
+050,30,029,Montana,Flathead County,1,2,2,15,15,15,17
+050,30,029,Montana,Flathead County,1,2,3,65,65,65,65
+050,30,029,Montana,Flathead County,1,2,4,4,4,4,6
+050,30,029,Montana,Flathead County,1,2,5,5,5,5,6
+050,30,029,Montana,Flathead County,1,2,6,90,90,90,97
+050,30,029,Montana,Flathead County,2,0,1,43748,43748,43714,43788
+050,30,029,Montana,Flathead County,2,0,2,87,87,87,121
+050,30,029,Montana,Flathead County,2,0,3,536,536,539,582
+050,30,029,Montana,Flathead County,2,0,4,327,327,322,334
+050,30,029,Montana,Flathead County,2,0,5,32,32,32,35
+050,30,029,Montana,Flathead County,2,0,6,922,922,923,962
+050,30,029,Montana,Flathead County,2,1,1,42877,42877,42843,42879
+050,30,029,Montana,Flathead County,2,1,2,73,73,73,110
+050,30,029,Montana,Flathead County,2,1,3,469,469,472,514
+050,30,029,Montana,Flathead County,2,1,4,319,319,315,324
+050,30,029,Montana,Flathead County,2,1,5,28,28,28,31
+050,30,029,Montana,Flathead County,2,1,6,839,839,840,875
+050,30,029,Montana,Flathead County,2,2,1,871,871,871,909
+050,30,029,Montana,Flathead County,2,2,2,14,14,14,11
+050,30,029,Montana,Flathead County,2,2,3,67,67,67,68
+050,30,029,Montana,Flathead County,2,2,4,8,8,7,10
+050,30,029,Montana,Flathead County,2,2,5,4,4,4,4
+050,30,029,Montana,Flathead County,2,2,6,83,83,83,87
+050,30,031,Montana,Gallatin County,0,0,1,85776,85776,85758,87188
+050,30,031,Montana,Gallatin County,0,0,2,312,312,314,455
+050,30,031,Montana,Gallatin County,0,0,3,807,807,815,927
+050,30,031,Montana,Gallatin County,0,0,4,1055,1055,1152,1166
+050,30,031,Montana,Gallatin County,0,0,5,84,84,84,89
+050,30,031,Montana,Gallatin County,0,0,6,1479,1479,1493,1552
+050,30,031,Montana,Gallatin County,0,1,1,83619,83619,83592,84876
+050,30,031,Montana,Gallatin County,0,1,2,284,284,286,423
+050,30,031,Montana,Gallatin County,0,1,3,719,719,727,822
+050,30,031,Montana,Gallatin County,0,1,4,1030,1030,1127,1140
+050,30,031,Montana,Gallatin County,0,1,5,56,56,56,57
+050,30,031,Montana,Gallatin County,0,1,6,1335,1335,1349,1395
+050,30,031,Montana,Gallatin County,0,2,1,2157,2157,2166,2312
+050,30,031,Montana,Gallatin County,0,2,2,28,28,28,32
+050,30,031,Montana,Gallatin County,0,2,3,88,88,88,105
+050,30,031,Montana,Gallatin County,0,2,4,25,25,25,26
+050,30,031,Montana,Gallatin County,0,2,5,28,28,28,32
+050,30,031,Montana,Gallatin County,0,2,6,144,144,144,157
+050,30,031,Montana,Gallatin County,1,0,1,44537,44537,44558,45145
+050,30,031,Montana,Gallatin County,1,0,2,192,192,194,265
+050,30,031,Montana,Gallatin County,1,0,3,396,396,401,467
+050,30,031,Montana,Gallatin County,1,0,4,503,503,563,552
+050,30,031,Montana,Gallatin County,1,0,5,45,45,45,45
+050,30,031,Montana,Gallatin County,1,0,6,789,789,803,811
+050,30,031,Montana,Gallatin County,1,1,1,43402,43402,43421,43932
+050,30,031,Montana,Gallatin County,1,1,2,179,179,181,247
+050,30,031,Montana,Gallatin County,1,1,3,352,352,357,411
+050,30,031,Montana,Gallatin County,1,1,4,490,490,550,538
+050,30,031,Montana,Gallatin County,1,1,5,33,33,33,31
+050,30,031,Montana,Gallatin County,1,1,6,706,706,720,721
+050,30,031,Montana,Gallatin County,1,2,1,1135,1135,1137,1213
+050,30,031,Montana,Gallatin County,1,2,2,13,13,13,18
+050,30,031,Montana,Gallatin County,1,2,3,44,44,44,56
+050,30,031,Montana,Gallatin County,1,2,4,13,13,13,14
+050,30,031,Montana,Gallatin County,1,2,5,12,12,12,14
+050,30,031,Montana,Gallatin County,1,2,6,83,83,83,90
+050,30,031,Montana,Gallatin County,2,0,1,41239,41239,41200,42043
+050,30,031,Montana,Gallatin County,2,0,2,120,120,120,190
+050,30,031,Montana,Gallatin County,2,0,3,411,411,414,460
+050,30,031,Montana,Gallatin County,2,0,4,552,552,589,614
+050,30,031,Montana,Gallatin County,2,0,5,39,39,39,44
+050,30,031,Montana,Gallatin County,2,0,6,690,690,690,741
+050,30,031,Montana,Gallatin County,2,1,1,40217,40217,40171,40944
+050,30,031,Montana,Gallatin County,2,1,2,105,105,105,176
+050,30,031,Montana,Gallatin County,2,1,3,367,367,370,411
+050,30,031,Montana,Gallatin County,2,1,4,540,540,577,602
+050,30,031,Montana,Gallatin County,2,1,5,23,23,23,26
+050,30,031,Montana,Gallatin County,2,1,6,629,629,629,674
+050,30,031,Montana,Gallatin County,2,2,1,1022,1022,1029,1099
+050,30,031,Montana,Gallatin County,2,2,2,15,15,15,14
+050,30,031,Montana,Gallatin County,2,2,3,44,44,44,49
+050,30,031,Montana,Gallatin County,2,2,4,12,12,12,12
+050,30,031,Montana,Gallatin County,2,2,5,16,16,16,18
+050,30,031,Montana,Gallatin County,2,2,6,61,61,61,67
+050,30,033,Montana,Garfield County,0,0,1,1191,1191,1178,1233
+050,30,033,Montana,Garfield County,0,0,2,3,3,3,3
+050,30,033,Montana,Garfield County,0,0,3,5,5,5,6
+050,30,033,Montana,Garfield County,0,0,4,1,1,1,3
+050,30,033,Montana,Garfield County,0,0,5,0,0,0,0
+050,30,033,Montana,Garfield County,0,0,6,6,6,6,6
+050,30,033,Montana,Garfield County,0,1,1,1188,1188,1175,1226
+050,30,033,Montana,Garfield County,0,1,2,3,3,3,3
+050,30,033,Montana,Garfield County,0,1,3,5,5,5,6
+050,30,033,Montana,Garfield County,0,1,4,1,1,1,3
+050,30,033,Montana,Garfield County,0,1,5,0,0,0,0
+050,30,033,Montana,Garfield County,0,1,6,6,6,6,6
+050,30,033,Montana,Garfield County,0,2,1,3,3,3,7
+050,30,033,Montana,Garfield County,0,2,2,0,0,0,0
+050,30,033,Montana,Garfield County,0,2,3,0,0,0,0
+050,30,033,Montana,Garfield County,0,2,4,0,0,0,0
+050,30,033,Montana,Garfield County,0,2,5,0,0,0,0
+050,30,033,Montana,Garfield County,0,2,6,0,0,0,0
+050,30,033,Montana,Garfield County,1,0,1,610,610,602,629
+050,30,033,Montana,Garfield County,1,0,2,2,2,2,2
+050,30,033,Montana,Garfield County,1,0,3,1,1,1,2
+050,30,033,Montana,Garfield County,1,0,4,0,0,0,0
+050,30,033,Montana,Garfield County,1,0,5,0,0,0,0
+050,30,033,Montana,Garfield County,1,0,6,4,4,4,4
+050,30,033,Montana,Garfield County,1,1,1,609,609,601,628
+050,30,033,Montana,Garfield County,1,1,2,2,2,2,2
+050,30,033,Montana,Garfield County,1,1,3,1,1,1,2
+050,30,033,Montana,Garfield County,1,1,4,0,0,0,0
+050,30,033,Montana,Garfield County,1,1,5,0,0,0,0
+050,30,033,Montana,Garfield County,1,1,6,4,4,4,4
+050,30,033,Montana,Garfield County,1,2,1,1,1,1,1
+050,30,033,Montana,Garfield County,1,2,2,0,0,0,0
+050,30,033,Montana,Garfield County,1,2,3,0,0,0,0
+050,30,033,Montana,Garfield County,1,2,4,0,0,0,0
+050,30,033,Montana,Garfield County,1,2,5,0,0,0,0
+050,30,033,Montana,Garfield County,1,2,6,0,0,0,0
+050,30,033,Montana,Garfield County,2,0,1,581,581,576,604
+050,30,033,Montana,Garfield County,2,0,2,1,1,1,1
+050,30,033,Montana,Garfield County,2,0,3,4,4,4,4
+050,30,033,Montana,Garfield County,2,0,4,1,1,1,3
+050,30,033,Montana,Garfield County,2,0,5,0,0,0,0
+050,30,033,Montana,Garfield County,2,0,6,2,2,2,2
+050,30,033,Montana,Garfield County,2,1,1,579,579,574,598
+050,30,033,Montana,Garfield County,2,1,2,1,1,1,1
+050,30,033,Montana,Garfield County,2,1,3,4,4,4,4
+050,30,033,Montana,Garfield County,2,1,4,1,1,1,3
+050,30,033,Montana,Garfield County,2,1,5,0,0,0,0
+050,30,033,Montana,Garfield County,2,1,6,2,2,2,2
+050,30,033,Montana,Garfield County,2,2,1,2,2,2,6
+050,30,033,Montana,Garfield County,2,2,2,0,0,0,0
+050,30,033,Montana,Garfield County,2,2,3,0,0,0,0
+050,30,033,Montana,Garfield County,2,2,4,0,0,0,0
+050,30,033,Montana,Garfield County,2,2,5,0,0,0,0
+050,30,033,Montana,Garfield County,2,2,6,0,0,0,0
+050,30,035,Montana,Glacier County,0,0,1,4182,4182,4235,4482
+050,30,035,Montana,Glacier County,0,0,2,17,17,18,31
+050,30,035,Montana,Glacier County,0,0,3,8807,8807,8800,8636
+050,30,035,Montana,Glacier County,0,0,4,26,26,29,45
+050,30,035,Montana,Glacier County,0,0,5,2,2,2,3
+050,30,035,Montana,Glacier County,0,0,6,365,365,383,427
+050,30,035,Montana,Glacier County,0,1,1,4118,4118,4155,4377
+050,30,035,Montana,Glacier County,0,1,2,17,17,18,29
+050,30,035,Montana,Glacier County,0,1,3,8648,8648,8640,8472
+050,30,035,Montana,Glacier County,0,1,4,26,26,29,45
+050,30,035,Montana,Glacier County,0,1,5,1,1,1,1
+050,30,035,Montana,Glacier County,0,1,6,348,348,365,402
+050,30,035,Montana,Glacier County,0,2,1,64,64,80,105
+050,30,035,Montana,Glacier County,0,2,2,0,0,0,2
+050,30,035,Montana,Glacier County,0,2,3,159,159,160,164
+050,30,035,Montana,Glacier County,0,2,4,0,0,0,0
+050,30,035,Montana,Glacier County,0,2,5,1,1,1,2
+050,30,035,Montana,Glacier County,0,2,6,17,17,18,25
+050,30,035,Montana,Glacier County,1,0,1,2027,2027,2056,2189
+050,30,035,Montana,Glacier County,1,0,2,15,15,16,18
+050,30,035,Montana,Glacier County,1,0,3,4313,4313,4311,4245
+050,30,035,Montana,Glacier County,1,0,4,9,9,10,16
+050,30,035,Montana,Glacier County,1,0,5,2,2,2,3
+050,30,035,Montana,Glacier County,1,0,6,189,189,202,232
+050,30,035,Montana,Glacier County,1,1,1,1993,1993,2015,2130
+050,30,035,Montana,Glacier County,1,1,2,15,15,16,18
+050,30,035,Montana,Glacier County,1,1,3,4235,4235,4233,4164
+050,30,035,Montana,Glacier County,1,1,4,9,9,10,16
+050,30,035,Montana,Glacier County,1,1,5,1,1,1,1
+050,30,035,Montana,Glacier County,1,1,6,182,182,194,222
+050,30,035,Montana,Glacier County,1,2,1,34,34,41,59
+050,30,035,Montana,Glacier County,1,2,2,0,0,0,0
+050,30,035,Montana,Glacier County,1,2,3,78,78,78,81
+050,30,035,Montana,Glacier County,1,2,4,0,0,0,0
+050,30,035,Montana,Glacier County,1,2,5,1,1,1,2
+050,30,035,Montana,Glacier County,1,2,6,7,7,8,10
+050,30,035,Montana,Glacier County,2,0,1,2155,2155,2179,2293
+050,30,035,Montana,Glacier County,2,0,2,2,2,2,13
+050,30,035,Montana,Glacier County,2,0,3,4494,4494,4489,4391
+050,30,035,Montana,Glacier County,2,0,4,17,17,19,29
+050,30,035,Montana,Glacier County,2,0,5,0,0,0,0
+050,30,035,Montana,Glacier County,2,0,6,176,176,181,195
+050,30,035,Montana,Glacier County,2,1,1,2125,2125,2140,2247
+050,30,035,Montana,Glacier County,2,1,2,2,2,2,11
+050,30,035,Montana,Glacier County,2,1,3,4413,4413,4407,4308
+050,30,035,Montana,Glacier County,2,1,4,17,17,19,29
+050,30,035,Montana,Glacier County,2,1,5,0,0,0,0
+050,30,035,Montana,Glacier County,2,1,6,166,166,171,180
+050,30,035,Montana,Glacier County,2,2,1,30,30,39,46
+050,30,035,Montana,Glacier County,2,2,2,0,0,0,2
+050,30,035,Montana,Glacier County,2,2,3,81,81,82,83
+050,30,035,Montana,Glacier County,2,2,4,0,0,0,0
+050,30,035,Montana,Glacier County,2,2,5,0,0,0,0
+050,30,035,Montana,Glacier County,2,2,6,10,10,10,15
+050,30,037,Montana,Golden Valley County,0,0,1,851,851,853,829
+050,30,037,Montana,Golden Valley County,0,0,2,4,4,4,6
+050,30,037,Montana,Golden Valley County,0,0,3,9,9,9,8
+050,30,037,Montana,Golden Valley County,0,0,4,6,6,6,6
+050,30,037,Montana,Golden Valley County,0,0,5,0,0,0,0
+050,30,037,Montana,Golden Valley County,0,0,6,14,14,14,16
+050,30,037,Montana,Golden Valley County,0,1,1,828,828,830,806
+050,30,037,Montana,Golden Valley County,0,1,2,0,0,0,2
+050,30,037,Montana,Golden Valley County,0,1,3,9,9,9,8
+050,30,037,Montana,Golden Valley County,0,1,4,6,6,6,6
+050,30,037,Montana,Golden Valley County,0,1,5,0,0,0,0
+050,30,037,Montana,Golden Valley County,0,1,6,10,10,10,12
+050,30,037,Montana,Golden Valley County,0,2,1,23,23,23,23
+050,30,037,Montana,Golden Valley County,0,2,2,4,4,4,4
+050,30,037,Montana,Golden Valley County,0,2,3,0,0,0,0
+050,30,037,Montana,Golden Valley County,0,2,4,0,0,0,0
+050,30,037,Montana,Golden Valley County,0,2,5,0,0,0,0
+050,30,037,Montana,Golden Valley County,0,2,6,4,4,4,4
+050,30,037,Montana,Golden Valley County,1,0,1,448,448,450,436
+050,30,037,Montana,Golden Valley County,1,0,2,2,2,2,2
+050,30,037,Montana,Golden Valley County,1,0,3,4,4,4,4
+050,30,037,Montana,Golden Valley County,1,0,4,4,4,4,4
+050,30,037,Montana,Golden Valley County,1,0,5,0,0,0,0
+050,30,037,Montana,Golden Valley County,1,0,6,5,5,5,5
+050,30,037,Montana,Golden Valley County,1,1,1,433,433,435,419
+050,30,037,Montana,Golden Valley County,1,1,2,0,0,0,0
+050,30,037,Montana,Golden Valley County,1,1,3,4,4,4,4
+050,30,037,Montana,Golden Valley County,1,1,4,4,4,4,4
+050,30,037,Montana,Golden Valley County,1,1,5,0,0,0,0
+050,30,037,Montana,Golden Valley County,1,1,6,3,3,3,3
+050,30,037,Montana,Golden Valley County,1,2,1,15,15,15,17
+050,30,037,Montana,Golden Valley County,1,2,2,2,2,2,2
+050,30,037,Montana,Golden Valley County,1,2,3,0,0,0,0
+050,30,037,Montana,Golden Valley County,1,2,4,0,0,0,0
+050,30,037,Montana,Golden Valley County,1,2,5,0,0,0,0
+050,30,037,Montana,Golden Valley County,1,2,6,2,2,2,2
+050,30,037,Montana,Golden Valley County,2,0,1,403,403,403,393
+050,30,037,Montana,Golden Valley County,2,0,2,2,2,2,4
+050,30,037,Montana,Golden Valley County,2,0,3,5,5,5,4
+050,30,037,Montana,Golden Valley County,2,0,4,2,2,2,2
+050,30,037,Montana,Golden Valley County,2,0,5,0,0,0,0
+050,30,037,Montana,Golden Valley County,2,0,6,9,9,9,11
+050,30,037,Montana,Golden Valley County,2,1,1,395,395,395,387
+050,30,037,Montana,Golden Valley County,2,1,2,0,0,0,2
+050,30,037,Montana,Golden Valley County,2,1,3,5,5,5,4
+050,30,037,Montana,Golden Valley County,2,1,4,2,2,2,2
+050,30,037,Montana,Golden Valley County,2,1,5,0,0,0,0
+050,30,037,Montana,Golden Valley County,2,1,6,7,7,7,9
+050,30,037,Montana,Golden Valley County,2,2,1,8,8,8,6
+050,30,037,Montana,Golden Valley County,2,2,2,2,2,2,2
+050,30,037,Montana,Golden Valley County,2,2,3,0,0,0,0
+050,30,037,Montana,Golden Valley County,2,2,4,0,0,0,0
+050,30,037,Montana,Golden Valley County,2,2,5,0,0,0,0
+050,30,037,Montana,Golden Valley County,2,2,6,2,2,2,2
+050,30,039,Montana,Granite County,0,0,1,3011,3011,3011,2991
+050,30,039,Montana,Granite County,0,0,2,3,3,3,3
+050,30,039,Montana,Granite County,0,0,3,13,13,13,13
+050,30,039,Montana,Granite County,0,0,4,3,3,3,4
+050,30,039,Montana,Granite County,0,0,5,1,1,1,1
+050,30,039,Montana,Granite County,0,0,6,48,48,48,56
+050,30,039,Montana,Granite County,0,1,1,2973,2973,2973,2952
+050,30,039,Montana,Granite County,0,1,2,3,3,3,3
+050,30,039,Montana,Granite County,0,1,3,13,13,13,13
+050,30,039,Montana,Granite County,0,1,4,2,2,2,3
+050,30,039,Montana,Granite County,0,1,5,1,1,1,1
+050,30,039,Montana,Granite County,0,1,6,43,43,43,51
+050,30,039,Montana,Granite County,0,2,1,38,38,38,39
+050,30,039,Montana,Granite County,0,2,2,0,0,0,0
+050,30,039,Montana,Granite County,0,2,3,0,0,0,0
+050,30,039,Montana,Granite County,0,2,4,1,1,1,1
+050,30,039,Montana,Granite County,0,2,5,0,0,0,0
+050,30,039,Montana,Granite County,0,2,6,5,5,5,5
+050,30,039,Montana,Granite County,1,0,1,1536,1536,1536,1523
+050,30,039,Montana,Granite County,1,0,2,1,1,1,1
+050,30,039,Montana,Granite County,1,0,3,5,5,5,5
+050,30,039,Montana,Granite County,1,0,4,1,1,1,1
+050,30,039,Montana,Granite County,1,0,5,0,0,0,0
+050,30,039,Montana,Granite County,1,0,6,24,24,24,28
+050,30,039,Montana,Granite County,1,1,1,1522,1522,1522,1509
+050,30,039,Montana,Granite County,1,1,2,1,1,1,1
+050,30,039,Montana,Granite County,1,1,3,5,5,5,5
+050,30,039,Montana,Granite County,1,1,4,0,0,0,0
+050,30,039,Montana,Granite County,1,1,5,0,0,0,0
+050,30,039,Montana,Granite County,1,1,6,20,20,20,24
+050,30,039,Montana,Granite County,1,2,1,14,14,14,14
+050,30,039,Montana,Granite County,1,2,2,0,0,0,0
+050,30,039,Montana,Granite County,1,2,3,0,0,0,0
+050,30,039,Montana,Granite County,1,2,4,1,1,1,1
+050,30,039,Montana,Granite County,1,2,5,0,0,0,0
+050,30,039,Montana,Granite County,1,2,6,4,4,4,4
+050,30,039,Montana,Granite County,2,0,1,1475,1475,1475,1468
+050,30,039,Montana,Granite County,2,0,2,2,2,2,2
+050,30,039,Montana,Granite County,2,0,3,8,8,8,8
+050,30,039,Montana,Granite County,2,0,4,2,2,2,3
+050,30,039,Montana,Granite County,2,0,5,1,1,1,1
+050,30,039,Montana,Granite County,2,0,6,24,24,24,28
+050,30,039,Montana,Granite County,2,1,1,1451,1451,1451,1443
+050,30,039,Montana,Granite County,2,1,2,2,2,2,2
+050,30,039,Montana,Granite County,2,1,3,8,8,8,8
+050,30,039,Montana,Granite County,2,1,4,2,2,2,3
+050,30,039,Montana,Granite County,2,1,5,1,1,1,1
+050,30,039,Montana,Granite County,2,1,6,23,23,23,27
+050,30,039,Montana,Granite County,2,2,1,24,24,24,25
+050,30,039,Montana,Granite County,2,2,2,0,0,0,0
+050,30,039,Montana,Granite County,2,2,3,0,0,0,0
+050,30,039,Montana,Granite County,2,2,4,0,0,0,0
+050,30,039,Montana,Granite County,2,2,5,0,0,0,0
+050,30,039,Montana,Granite County,2,2,6,1,1,1,1
+050,30,041,Montana,Hill County,0,0,1,11951,11951,12009,12162
+050,30,041,Montana,Hill County,0,0,2,50,50,50,77
+050,30,041,Montana,Hill County,0,0,3,3511,3511,3518,3545
+050,30,041,Montana,Hill County,0,0,4,68,68,68,86
+050,30,041,Montana,Hill County,0,0,5,10,10,10,12
+050,30,041,Montana,Hill County,0,0,6,506,506,506,515
+050,30,041,Montana,Hill County,0,1,1,11745,11745,11803,11915
+050,30,041,Montana,Hill County,0,1,2,47,47,47,73
+050,30,041,Montana,Hill County,0,1,3,3402,3402,3409,3433
+050,30,041,Montana,Hill County,0,1,4,66,66,66,84
+050,30,041,Montana,Hill County,0,1,5,6,6,6,8
+050,30,041,Montana,Hill County,0,1,6,457,457,457,464
+050,30,041,Montana,Hill County,0,2,1,206,206,206,247
+050,30,041,Montana,Hill County,0,2,2,3,3,3,4
+050,30,041,Montana,Hill County,0,2,3,109,109,109,112
+050,30,041,Montana,Hill County,0,2,4,2,2,2,2
+050,30,041,Montana,Hill County,0,2,5,4,4,4,4
+050,30,041,Montana,Hill County,0,2,6,49,49,49,51
+050,30,041,Montana,Hill County,1,0,1,6114,6114,6145,6241
+050,30,041,Montana,Hill County,1,0,2,34,34,34,42
+050,30,041,Montana,Hill County,1,0,3,1695,1695,1700,1730
+050,30,041,Montana,Hill County,1,0,4,31,31,31,42
+050,30,041,Montana,Hill County,1,0,5,2,2,2,3
+050,30,041,Montana,Hill County,1,0,6,246,246,246,254
+050,30,041,Montana,Hill County,1,1,1,6017,6017,6048,6130
+050,30,041,Montana,Hill County,1,1,2,33,33,33,41
+050,30,041,Montana,Hill County,1,1,3,1642,1642,1647,1672
+050,30,041,Montana,Hill County,1,1,4,29,29,29,40
+050,30,041,Montana,Hill County,1,1,5,0,0,0,1
+050,30,041,Montana,Hill County,1,1,6,229,229,229,235
+050,30,041,Montana,Hill County,1,2,1,97,97,97,111
+050,30,041,Montana,Hill County,1,2,2,1,1,1,1
+050,30,041,Montana,Hill County,1,2,3,53,53,53,58
+050,30,041,Montana,Hill County,1,2,4,2,2,2,2
+050,30,041,Montana,Hill County,1,2,5,2,2,2,2
+050,30,041,Montana,Hill County,1,2,6,17,17,17,19
+050,30,041,Montana,Hill County,2,0,1,5837,5837,5864,5921
+050,30,041,Montana,Hill County,2,0,2,16,16,16,35
+050,30,041,Montana,Hill County,2,0,3,1816,1816,1818,1815
+050,30,041,Montana,Hill County,2,0,4,37,37,37,44
+050,30,041,Montana,Hill County,2,0,5,8,8,8,9
+050,30,041,Montana,Hill County,2,0,6,260,260,260,261
+050,30,041,Montana,Hill County,2,1,1,5728,5728,5755,5785
+050,30,041,Montana,Hill County,2,1,2,14,14,14,32
+050,30,041,Montana,Hill County,2,1,3,1760,1760,1762,1761
+050,30,041,Montana,Hill County,2,1,4,37,37,37,44
+050,30,041,Montana,Hill County,2,1,5,6,6,6,7
+050,30,041,Montana,Hill County,2,1,6,228,228,228,229
+050,30,041,Montana,Hill County,2,2,1,109,109,109,136
+050,30,041,Montana,Hill County,2,2,2,2,2,2,3
+050,30,041,Montana,Hill County,2,2,3,56,56,56,54
+050,30,041,Montana,Hill County,2,2,4,0,0,0,0
+050,30,041,Montana,Hill County,2,2,5,2,2,2,2
+050,30,041,Montana,Hill County,2,2,6,32,32,32,32
+050,30,043,Montana,Jefferson County,0,0,1,10941,10941,10956,10889
+050,30,043,Montana,Jefferson County,0,0,2,16,16,16,24
+050,30,043,Montana,Jefferson County,0,0,3,165,165,165,177
+050,30,043,Montana,Jefferson County,0,0,4,40,40,38,42
+050,30,043,Montana,Jefferson County,0,0,5,2,2,2,2
+050,30,043,Montana,Jefferson County,0,0,6,242,242,242,247
+050,30,043,Montana,Jefferson County,0,1,1,10734,10734,10749,10669
+050,30,043,Montana,Jefferson County,0,1,2,16,16,16,23
+050,30,043,Montana,Jefferson County,0,1,3,159,159,159,171
+050,30,043,Montana,Jefferson County,0,1,4,39,39,37,41
+050,30,043,Montana,Jefferson County,0,1,5,2,2,2,2
+050,30,043,Montana,Jefferson County,0,1,6,232,232,232,232
+050,30,043,Montana,Jefferson County,0,2,1,207,207,207,220
+050,30,043,Montana,Jefferson County,0,2,2,0,0,0,1
+050,30,043,Montana,Jefferson County,0,2,3,6,6,6,6
+050,30,043,Montana,Jefferson County,0,2,4,1,1,1,1
+050,30,043,Montana,Jefferson County,0,2,5,0,0,0,0
+050,30,043,Montana,Jefferson County,0,2,6,10,10,10,15
+050,30,043,Montana,Jefferson County,1,0,1,5601,5601,5612,5573
+050,30,043,Montana,Jefferson County,1,0,2,11,11,11,15
+050,30,043,Montana,Jefferson County,1,0,3,76,76,76,82
+050,30,043,Montana,Jefferson County,1,0,4,9,9,8,9
+050,30,043,Montana,Jefferson County,1,0,5,0,0,0,0
+050,30,043,Montana,Jefferson County,1,0,6,117,117,117,113
+050,30,043,Montana,Jefferson County,1,1,1,5501,5501,5512,5465
+050,30,043,Montana,Jefferson County,1,1,2,11,11,11,15
+050,30,043,Montana,Jefferson County,1,1,3,73,73,73,79
+050,30,043,Montana,Jefferson County,1,1,4,9,9,8,9
+050,30,043,Montana,Jefferson County,1,1,5,0,0,0,0
+050,30,043,Montana,Jefferson County,1,1,6,112,112,112,103
+050,30,043,Montana,Jefferson County,1,2,1,100,100,100,108
+050,30,043,Montana,Jefferson County,1,2,2,0,0,0,0
+050,30,043,Montana,Jefferson County,1,2,3,3,3,3,3
+050,30,043,Montana,Jefferson County,1,2,4,0,0,0,0
+050,30,043,Montana,Jefferson County,1,2,5,0,0,0,0
+050,30,043,Montana,Jefferson County,1,2,6,5,5,5,10
+050,30,043,Montana,Jefferson County,2,0,1,5340,5340,5344,5316
+050,30,043,Montana,Jefferson County,2,0,2,5,5,5,9
+050,30,043,Montana,Jefferson County,2,0,3,89,89,89,95
+050,30,043,Montana,Jefferson County,2,0,4,31,31,30,33
+050,30,043,Montana,Jefferson County,2,0,5,2,2,2,2
+050,30,043,Montana,Jefferson County,2,0,6,125,125,125,134
+050,30,043,Montana,Jefferson County,2,1,1,5233,5233,5237,5204
+050,30,043,Montana,Jefferson County,2,1,2,5,5,5,8
+050,30,043,Montana,Jefferson County,2,1,3,86,86,86,92
+050,30,043,Montana,Jefferson County,2,1,4,30,30,29,32
+050,30,043,Montana,Jefferson County,2,1,5,2,2,2,2
+050,30,043,Montana,Jefferson County,2,1,6,120,120,120,129
+050,30,043,Montana,Jefferson County,2,2,1,107,107,107,112
+050,30,043,Montana,Jefferson County,2,2,2,0,0,0,1
+050,30,043,Montana,Jefferson County,2,2,3,3,3,3,3
+050,30,043,Montana,Jefferson County,2,2,4,1,1,1,1
+050,30,043,Montana,Jefferson County,2,2,5,0,0,0,0
+050,30,043,Montana,Jefferson County,2,2,6,5,5,5,5
+050,30,045,Montana,Judith Basin County,0,0,1,2038,2038,2036,1966
+050,30,045,Montana,Judith Basin County,0,0,2,1,1,1,4
+050,30,045,Montana,Judith Basin County,0,0,3,17,17,17,17
+050,30,045,Montana,Judith Basin County,0,0,4,2,2,2,2
+050,30,045,Montana,Judith Basin County,0,0,5,0,0,0,1
+050,30,045,Montana,Judith Basin County,0,0,6,14,14,14,14
+050,30,045,Montana,Judith Basin County,0,1,1,2014,2014,2012,1942
+050,30,045,Montana,Judith Basin County,0,1,2,1,1,1,4
+050,30,045,Montana,Judith Basin County,0,1,3,17,17,17,17
+050,30,045,Montana,Judith Basin County,0,1,4,2,2,2,2
+050,30,045,Montana,Judith Basin County,0,1,5,0,0,0,1
+050,30,045,Montana,Judith Basin County,0,1,6,14,14,14,14
+050,30,045,Montana,Judith Basin County,0,2,1,24,24,24,24
+050,30,045,Montana,Judith Basin County,0,2,2,0,0,0,0
+050,30,045,Montana,Judith Basin County,0,2,3,0,0,0,0
+050,30,045,Montana,Judith Basin County,0,2,4,0,0,0,0
+050,30,045,Montana,Judith Basin County,0,2,5,0,0,0,0
+050,30,045,Montana,Judith Basin County,0,2,6,0,0,0,0
+050,30,045,Montana,Judith Basin County,1,0,1,1058,1058,1059,1027
+050,30,045,Montana,Judith Basin County,1,0,2,0,0,0,0
+050,30,045,Montana,Judith Basin County,1,0,3,9,9,9,9
+050,30,045,Montana,Judith Basin County,1,0,4,1,1,1,1
+050,30,045,Montana,Judith Basin County,1,0,5,0,0,0,0
+050,30,045,Montana,Judith Basin County,1,0,6,7,7,7,7
+050,30,045,Montana,Judith Basin County,1,1,1,1048,1048,1049,1017
+050,30,045,Montana,Judith Basin County,1,1,2,0,0,0,0
+050,30,045,Montana,Judith Basin County,1,1,3,9,9,9,9
+050,30,045,Montana,Judith Basin County,1,1,4,1,1,1,1
+050,30,045,Montana,Judith Basin County,1,1,5,0,0,0,0
+050,30,045,Montana,Judith Basin County,1,1,6,7,7,7,7
+050,30,045,Montana,Judith Basin County,1,2,1,10,10,10,10
+050,30,045,Montana,Judith Basin County,1,2,2,0,0,0,0
+050,30,045,Montana,Judith Basin County,1,2,3,0,0,0,0
+050,30,045,Montana,Judith Basin County,1,2,4,0,0,0,0
+050,30,045,Montana,Judith Basin County,1,2,5,0,0,0,0
+050,30,045,Montana,Judith Basin County,1,2,6,0,0,0,0
+050,30,045,Montana,Judith Basin County,2,0,1,980,980,977,939
+050,30,045,Montana,Judith Basin County,2,0,2,1,1,1,4
+050,30,045,Montana,Judith Basin County,2,0,3,8,8,8,8
+050,30,045,Montana,Judith Basin County,2,0,4,1,1,1,1
+050,30,045,Montana,Judith Basin County,2,0,5,0,0,0,1
+050,30,045,Montana,Judith Basin County,2,0,6,7,7,7,7
+050,30,045,Montana,Judith Basin County,2,1,1,966,966,963,925
+050,30,045,Montana,Judith Basin County,2,1,2,1,1,1,4
+050,30,045,Montana,Judith Basin County,2,1,3,8,8,8,8
+050,30,045,Montana,Judith Basin County,2,1,4,1,1,1,1
+050,30,045,Montana,Judith Basin County,2,1,5,0,0,0,1
+050,30,045,Montana,Judith Basin County,2,1,6,7,7,7,7
+050,30,045,Montana,Judith Basin County,2,2,1,14,14,14,14
+050,30,045,Montana,Judith Basin County,2,2,2,0,0,0,0
+050,30,045,Montana,Judith Basin County,2,2,3,0,0,0,0
+050,30,045,Montana,Judith Basin County,2,2,4,0,0,0,0
+050,30,045,Montana,Judith Basin County,2,2,5,0,0,0,0
+050,30,045,Montana,Judith Basin County,2,2,6,0,0,0,0
+050,30,047,Montana,Lake County,0,0,1,20087,20087,20126,20174
+050,30,047,Montana,Lake County,0,0,2,101,101,101,132
+050,30,047,Montana,Lake County,0,0,3,6395,6395,6388,6472
+050,30,047,Montana,Lake County,0,0,4,120,120,119,126
+050,30,047,Montana,Lake County,0,0,5,18,18,18,20
+050,30,047,Montana,Lake County,0,0,6,2025,2025,2023,2023
+050,30,047,Montana,Lake County,0,1,1,19587,19587,19623,19552
+050,30,047,Montana,Lake County,0,1,2,88,88,88,119
+050,30,047,Montana,Lake County,0,1,3,6031,6031,6024,6124
+050,30,047,Montana,Lake County,0,1,4,114,114,113,121
+050,30,047,Montana,Lake County,0,1,5,16,16,16,17
+050,30,047,Montana,Lake County,0,1,6,1912,1912,1910,1910
+050,30,047,Montana,Lake County,0,2,1,500,500,503,622
+050,30,047,Montana,Lake County,0,2,2,13,13,13,13
+050,30,047,Montana,Lake County,0,2,3,364,364,364,348
+050,30,047,Montana,Lake County,0,2,4,6,6,6,5
+050,30,047,Montana,Lake County,0,2,5,2,2,2,3
+050,30,047,Montana,Lake County,0,2,6,113,113,113,113
+050,30,047,Montana,Lake County,1,0,1,9945,9945,9969,9980
+050,30,047,Montana,Lake County,1,0,2,63,63,63,77
+050,30,047,Montana,Lake County,1,0,3,3169,3169,3162,3197
+050,30,047,Montana,Lake County,1,0,4,43,43,42,43
+050,30,047,Montana,Lake County,1,0,5,10,10,10,11
+050,30,047,Montana,Lake County,1,0,6,993,993,992,997
+050,30,047,Montana,Lake County,1,1,1,9698,9698,9720,9661
+050,30,047,Montana,Lake County,1,1,2,57,57,57,71
+050,30,047,Montana,Lake County,1,1,3,2994,2994,2987,3025
+050,30,047,Montana,Lake County,1,1,4,40,40,39,41
+050,30,047,Montana,Lake County,1,1,5,9,9,9,10
+050,30,047,Montana,Lake County,1,1,6,926,926,925,934
+050,30,047,Montana,Lake County,1,2,1,247,247,249,319
+050,30,047,Montana,Lake County,1,2,2,6,6,6,6
+050,30,047,Montana,Lake County,1,2,3,175,175,175,172
+050,30,047,Montana,Lake County,1,2,4,3,3,3,2
+050,30,047,Montana,Lake County,1,2,5,1,1,1,1
+050,30,047,Montana,Lake County,1,2,6,67,67,67,63
+050,30,047,Montana,Lake County,2,0,1,10142,10142,10157,10194
+050,30,047,Montana,Lake County,2,0,2,38,38,38,55
+050,30,047,Montana,Lake County,2,0,3,3226,3226,3226,3275
+050,30,047,Montana,Lake County,2,0,4,77,77,77,83
+050,30,047,Montana,Lake County,2,0,5,8,8,8,9
+050,30,047,Montana,Lake County,2,0,6,1032,1032,1031,1026
+050,30,047,Montana,Lake County,2,1,1,9889,9889,9903,9891
+050,30,047,Montana,Lake County,2,1,2,31,31,31,48
+050,30,047,Montana,Lake County,2,1,3,3037,3037,3037,3099
+050,30,047,Montana,Lake County,2,1,4,74,74,74,80
+050,30,047,Montana,Lake County,2,1,5,7,7,7,7
+050,30,047,Montana,Lake County,2,1,6,986,986,985,976
+050,30,047,Montana,Lake County,2,2,1,253,253,254,303
+050,30,047,Montana,Lake County,2,2,2,7,7,7,7
+050,30,047,Montana,Lake County,2,2,3,189,189,189,176
+050,30,047,Montana,Lake County,2,2,4,3,3,3,3
+050,30,047,Montana,Lake County,2,2,5,1,1,1,2
+050,30,047,Montana,Lake County,2,2,6,46,46,46,50
+050,30,049,Montana,Lewis and Clark County,0,0,1,59982,59982,60198,60684
+050,30,049,Montana,Lewis and Clark County,0,0,2,223,223,223,329
+050,30,049,Montana,Lewis and Clark County,0,0,3,1360,1360,1360,1396
+050,30,049,Montana,Lewis and Clark County,0,0,4,359,359,352,365
+050,30,049,Montana,Lewis and Clark County,0,0,5,48,48,48,46
+050,30,049,Montana,Lewis and Clark County,0,0,6,1423,1423,1423,1498
+050,30,049,Montana,Lewis and Clark County,0,1,1,58654,58654,58869,59308
+050,30,049,Montana,Lewis and Clark County,0,1,2,207,207,207,315
+050,30,049,Montana,Lewis and Clark County,0,1,3,1261,1261,1261,1280
+050,30,049,Montana,Lewis and Clark County,0,1,4,353,353,346,358
+050,30,049,Montana,Lewis and Clark County,0,1,5,44,44,44,42
+050,30,049,Montana,Lewis and Clark County,0,1,6,1294,1294,1294,1364
+050,30,049,Montana,Lewis and Clark County,0,2,1,1328,1328,1329,1376
+050,30,049,Montana,Lewis and Clark County,0,2,2,16,16,16,14
+050,30,049,Montana,Lewis and Clark County,0,2,3,99,99,99,116
+050,30,049,Montana,Lewis and Clark County,0,2,4,6,6,6,7
+050,30,049,Montana,Lewis and Clark County,0,2,5,4,4,4,4
+050,30,049,Montana,Lewis and Clark County,0,2,6,129,129,129,134
+050,30,049,Montana,Lewis and Clark County,1,0,1,29572,29572,29689,29889
+050,30,049,Montana,Lewis and Clark County,1,0,2,137,137,137,200
+050,30,049,Montana,Lewis and Clark County,1,0,3,679,679,679,695
+050,30,049,Montana,Lewis and Clark County,1,0,4,139,139,136,142
+050,30,049,Montana,Lewis and Clark County,1,0,5,25,25,25,23
+050,30,049,Montana,Lewis and Clark County,1,0,6,748,748,749,787
+050,30,049,Montana,Lewis and Clark County,1,1,1,28939,28939,29055,29234
+050,30,049,Montana,Lewis and Clark County,1,1,2,131,131,131,193
+050,30,049,Montana,Lewis and Clark County,1,1,3,630,630,630,637
+050,30,049,Montana,Lewis and Clark County,1,1,4,136,136,133,139
+050,30,049,Montana,Lewis and Clark County,1,1,5,23,23,23,21
+050,30,049,Montana,Lewis and Clark County,1,1,6,674,674,675,715
+050,30,049,Montana,Lewis and Clark County,1,2,1,633,633,634,655
+050,30,049,Montana,Lewis and Clark County,1,2,2,6,6,6,7
+050,30,049,Montana,Lewis and Clark County,1,2,3,49,49,49,58
+050,30,049,Montana,Lewis and Clark County,1,2,4,3,3,3,3
+050,30,049,Montana,Lewis and Clark County,1,2,5,2,2,2,2
+050,30,049,Montana,Lewis and Clark County,1,2,6,74,74,74,72
+050,30,049,Montana,Lewis and Clark County,2,0,1,30410,30410,30509,30795
+050,30,049,Montana,Lewis and Clark County,2,0,2,86,86,86,129
+050,30,049,Montana,Lewis and Clark County,2,0,3,681,681,681,701
+050,30,049,Montana,Lewis and Clark County,2,0,4,220,220,216,223
+050,30,049,Montana,Lewis and Clark County,2,0,5,23,23,23,23
+050,30,049,Montana,Lewis and Clark County,2,0,6,675,675,674,711
+050,30,049,Montana,Lewis and Clark County,2,1,1,29715,29715,29814,30074
+050,30,049,Montana,Lewis and Clark County,2,1,2,76,76,76,122
+050,30,049,Montana,Lewis and Clark County,2,1,3,631,631,631,643
+050,30,049,Montana,Lewis and Clark County,2,1,4,217,217,213,219
+050,30,049,Montana,Lewis and Clark County,2,1,5,21,21,21,21
+050,30,049,Montana,Lewis and Clark County,2,1,6,620,620,619,649
+050,30,049,Montana,Lewis and Clark County,2,2,1,695,695,695,721
+050,30,049,Montana,Lewis and Clark County,2,2,2,10,10,10,7
+050,30,049,Montana,Lewis and Clark County,2,2,3,50,50,50,58
+050,30,049,Montana,Lewis and Clark County,2,2,4,3,3,3,4
+050,30,049,Montana,Lewis and Clark County,2,2,5,2,2,2,2
+050,30,049,Montana,Lewis and Clark County,2,2,6,55,55,55,62
+050,30,051,Montana,Liberty County,0,0,1,2301,2301,2317,2363
+050,30,051,Montana,Liberty County,0,0,2,2,2,2,3
+050,30,051,Montana,Liberty County,0,0,3,5,5,5,6
+050,30,051,Montana,Liberty County,0,0,4,3,3,3,3
+050,30,051,Montana,Liberty County,0,0,5,1,1,1,0
+050,30,051,Montana,Liberty County,0,0,6,27,27,27,27
+050,30,051,Montana,Liberty County,0,1,1,2293,2293,2309,2352
+050,30,051,Montana,Liberty County,0,1,2,2,2,2,3
+050,30,051,Montana,Liberty County,0,1,3,5,5,5,6
+050,30,051,Montana,Liberty County,0,1,4,3,3,3,3
+050,30,051,Montana,Liberty County,0,1,5,1,1,1,0
+050,30,051,Montana,Liberty County,0,1,6,27,27,27,27
+050,30,051,Montana,Liberty County,0,2,1,8,8,8,11
+050,30,051,Montana,Liberty County,0,2,2,0,0,0,0
+050,30,051,Montana,Liberty County,0,2,3,0,0,0,0
+050,30,051,Montana,Liberty County,0,2,4,0,0,0,0
+050,30,051,Montana,Liberty County,0,2,5,0,0,0,0
+050,30,051,Montana,Liberty County,0,2,6,0,0,0,0
+050,30,051,Montana,Liberty County,1,0,1,1111,1111,1121,1136
+050,30,051,Montana,Liberty County,1,0,2,0,0,0,1
+050,30,051,Montana,Liberty County,1,0,3,2,2,2,2
+050,30,051,Montana,Liberty County,1,0,4,1,1,1,1
+050,30,051,Montana,Liberty County,1,0,5,0,0,0,0
+050,30,051,Montana,Liberty County,1,0,6,11,11,11,11
+050,30,051,Montana,Liberty County,1,1,1,1105,1105,1115,1129
+050,30,051,Montana,Liberty County,1,1,2,0,0,0,1
+050,30,051,Montana,Liberty County,1,1,3,2,2,2,2
+050,30,051,Montana,Liberty County,1,1,4,1,1,1,1
+050,30,051,Montana,Liberty County,1,1,5,0,0,0,0
+050,30,051,Montana,Liberty County,1,1,6,11,11,11,11
+050,30,051,Montana,Liberty County,1,2,1,6,6,6,7
+050,30,051,Montana,Liberty County,1,2,2,0,0,0,0
+050,30,051,Montana,Liberty County,1,2,3,0,0,0,0
+050,30,051,Montana,Liberty County,1,2,4,0,0,0,0
+050,30,051,Montana,Liberty County,1,2,5,0,0,0,0
+050,30,051,Montana,Liberty County,1,2,6,0,0,0,0
+050,30,051,Montana,Liberty County,2,0,1,1190,1190,1196,1227
+050,30,051,Montana,Liberty County,2,0,2,2,2,2,2
+050,30,051,Montana,Liberty County,2,0,3,3,3,3,4
+050,30,051,Montana,Liberty County,2,0,4,2,2,2,2
+050,30,051,Montana,Liberty County,2,0,5,1,1,1,0
+050,30,051,Montana,Liberty County,2,0,6,16,16,16,16
+050,30,051,Montana,Liberty County,2,1,1,1188,1188,1194,1223
+050,30,051,Montana,Liberty County,2,1,2,2,2,2,2
+050,30,051,Montana,Liberty County,2,1,3,3,3,3,4
+050,30,051,Montana,Liberty County,2,1,4,2,2,2,2
+050,30,051,Montana,Liberty County,2,1,5,1,1,1,0
+050,30,051,Montana,Liberty County,2,1,6,16,16,16,16
+050,30,051,Montana,Liberty County,2,2,1,2,2,2,4
+050,30,051,Montana,Liberty County,2,2,2,0,0,0,0
+050,30,051,Montana,Liberty County,2,2,3,0,0,0,0
+050,30,051,Montana,Liberty County,2,2,4,0,0,0,0
+050,30,051,Montana,Liberty County,2,2,5,0,0,0,0
+050,30,051,Montana,Liberty County,2,2,6,0,0,0,0
+050,30,053,Montana,Lincoln County,0,0,1,18986,18986,18967,18788
+050,30,053,Montana,Lincoln County,0,0,2,32,32,32,50
+050,30,053,Montana,Lincoln County,0,0,3,183,183,183,204
+050,30,053,Montana,Lincoln County,0,0,4,60,60,60,67
+050,30,053,Montana,Lincoln County,0,0,5,9,9,9,10
+050,30,053,Montana,Lincoln County,0,0,6,417,417,417,447
+050,30,053,Montana,Lincoln County,0,1,1,18568,18568,18549,18365
+050,30,053,Montana,Lincoln County,0,1,2,24,24,24,41
+050,30,053,Montana,Lincoln County,0,1,3,174,174,174,195
+050,30,053,Montana,Lincoln County,0,1,4,58,58,58,65
+050,30,053,Montana,Lincoln County,0,1,5,9,9,9,10
+050,30,053,Montana,Lincoln County,0,1,6,392,392,392,419
+050,30,053,Montana,Lincoln County,0,2,1,418,418,418,423
+050,30,053,Montana,Lincoln County,0,2,2,8,8,8,9
+050,30,053,Montana,Lincoln County,0,2,3,9,9,9,9
+050,30,053,Montana,Lincoln County,0,2,4,2,2,2,2
+050,30,053,Montana,Lincoln County,0,2,5,0,0,0,0
+050,30,053,Montana,Lincoln County,0,2,6,25,25,25,28
+050,30,053,Montana,Lincoln County,1,0,1,9675,9675,9667,9571
+050,30,053,Montana,Lincoln County,1,0,2,20,20,20,30
+050,30,053,Montana,Lincoln County,1,0,3,91,91,91,101
+050,30,053,Montana,Lincoln County,1,0,4,7,7,7,11
+050,30,053,Montana,Lincoln County,1,0,5,4,4,4,4
+050,30,053,Montana,Lincoln County,1,0,6,201,201,201,201
+050,30,053,Montana,Lincoln County,1,1,1,9458,9458,9450,9350
+050,30,053,Montana,Lincoln County,1,1,2,16,16,16,25
+050,30,053,Montana,Lincoln County,1,1,3,86,86,86,96
+050,30,053,Montana,Lincoln County,1,1,4,5,5,5,9
+050,30,053,Montana,Lincoln County,1,1,5,4,4,4,4
+050,30,053,Montana,Lincoln County,1,1,6,190,190,190,190
+050,30,053,Montana,Lincoln County,1,2,1,217,217,217,221
+050,30,053,Montana,Lincoln County,1,2,2,4,4,4,5
+050,30,053,Montana,Lincoln County,1,2,3,5,5,5,5
+050,30,053,Montana,Lincoln County,1,2,4,2,2,2,2
+050,30,053,Montana,Lincoln County,1,2,5,0,0,0,0
+050,30,053,Montana,Lincoln County,1,2,6,11,11,11,11
+050,30,053,Montana,Lincoln County,2,0,1,9311,9311,9300,9217
+050,30,053,Montana,Lincoln County,2,0,2,12,12,12,20
+050,30,053,Montana,Lincoln County,2,0,3,92,92,92,103
+050,30,053,Montana,Lincoln County,2,0,4,53,53,53,56
+050,30,053,Montana,Lincoln County,2,0,5,5,5,5,6
+050,30,053,Montana,Lincoln County,2,0,6,216,216,216,246
+050,30,053,Montana,Lincoln County,2,1,1,9110,9110,9099,9015
+050,30,053,Montana,Lincoln County,2,1,2,8,8,8,16
+050,30,053,Montana,Lincoln County,2,1,3,88,88,88,99
+050,30,053,Montana,Lincoln County,2,1,4,53,53,53,56
+050,30,053,Montana,Lincoln County,2,1,5,5,5,5,6
+050,30,053,Montana,Lincoln County,2,1,6,202,202,202,229
+050,30,053,Montana,Lincoln County,2,2,1,201,201,201,202
+050,30,053,Montana,Lincoln County,2,2,2,4,4,4,4
+050,30,053,Montana,Lincoln County,2,2,3,4,4,4,4
+050,30,053,Montana,Lincoln County,2,2,4,0,0,0,0
+050,30,053,Montana,Lincoln County,2,2,5,0,0,0,0
+050,30,053,Montana,Lincoln County,2,2,6,14,14,14,17
+050,30,055,Montana,McCone County,0,0,1,1701,1701,1705,1674
+050,30,055,Montana,McCone County,0,0,2,4,4,4,5
+050,30,055,Montana,McCone County,0,0,3,7,7,7,8
+050,30,055,Montana,McCone County,0,0,4,2,2,2,2
+050,30,055,Montana,McCone County,0,0,5,0,0,0,0
+050,30,055,Montana,McCone County,0,0,6,20,20,20,22
+050,30,055,Montana,McCone County,0,1,1,1689,1689,1693,1662
+050,30,055,Montana,McCone County,0,1,2,3,3,3,4
+050,30,055,Montana,McCone County,0,1,3,7,7,7,8
+050,30,055,Montana,McCone County,0,1,4,2,2,2,2
+050,30,055,Montana,McCone County,0,1,5,0,0,0,0
+050,30,055,Montana,McCone County,0,1,6,20,20,20,22
+050,30,055,Montana,McCone County,0,2,1,12,12,12,12
+050,30,055,Montana,McCone County,0,2,2,1,1,1,1
+050,30,055,Montana,McCone County,0,2,3,0,0,0,0
+050,30,055,Montana,McCone County,0,2,4,0,0,0,0
+050,30,055,Montana,McCone County,0,2,5,0,0,0,0
+050,30,055,Montana,McCone County,0,2,6,0,0,0,0
+050,30,055,Montana,McCone County,1,0,1,876,876,877,847
+050,30,055,Montana,McCone County,1,0,2,3,3,3,4
+050,30,055,Montana,McCone County,1,0,3,4,4,4,5
+050,30,055,Montana,McCone County,1,0,4,0,0,0,0
+050,30,055,Montana,McCone County,1,0,5,0,0,0,0
+050,30,055,Montana,McCone County,1,0,6,6,6,6,8
+050,30,055,Montana,McCone County,1,1,1,872,872,873,843
+050,30,055,Montana,McCone County,1,1,2,2,2,2,3
+050,30,055,Montana,McCone County,1,1,3,4,4,4,5
+050,30,055,Montana,McCone County,1,1,4,0,0,0,0
+050,30,055,Montana,McCone County,1,1,5,0,0,0,0
+050,30,055,Montana,McCone County,1,1,6,6,6,6,8
+050,30,055,Montana,McCone County,1,2,1,4,4,4,4
+050,30,055,Montana,McCone County,1,2,2,1,1,1,1
+050,30,055,Montana,McCone County,1,2,3,0,0,0,0
+050,30,055,Montana,McCone County,1,2,4,0,0,0,0
+050,30,055,Montana,McCone County,1,2,5,0,0,0,0
+050,30,055,Montana,McCone County,1,2,6,0,0,0,0
+050,30,055,Montana,McCone County,2,0,1,825,825,828,827
+050,30,055,Montana,McCone County,2,0,2,1,1,1,1
+050,30,055,Montana,McCone County,2,0,3,3,3,3,3
+050,30,055,Montana,McCone County,2,0,4,2,2,2,2
+050,30,055,Montana,McCone County,2,0,5,0,0,0,0
+050,30,055,Montana,McCone County,2,0,6,14,14,14,14
+050,30,055,Montana,McCone County,2,1,1,817,817,820,819
+050,30,055,Montana,McCone County,2,1,2,1,1,1,1
+050,30,055,Montana,McCone County,2,1,3,3,3,3,3
+050,30,055,Montana,McCone County,2,1,4,2,2,2,2
+050,30,055,Montana,McCone County,2,1,5,0,0,0,0
+050,30,055,Montana,McCone County,2,1,6,14,14,14,14
+050,30,055,Montana,McCone County,2,2,1,8,8,8,8
+050,30,055,Montana,McCone County,2,2,2,0,0,0,0
+050,30,055,Montana,McCone County,2,2,3,0,0,0,0
+050,30,055,Montana,McCone County,2,2,4,0,0,0,0
+050,30,055,Montana,McCone County,2,2,5,0,0,0,0
+050,30,055,Montana,McCone County,2,2,6,0,0,0,0
+050,30,057,Montana,Madison County,0,0,1,7504,7504,7511,7446
+050,30,057,Montana,Madison County,0,0,2,15,15,15,28
+050,30,057,Montana,Madison County,0,0,3,39,39,39,43
+050,30,057,Montana,Madison County,0,0,4,26,26,26,28
+050,30,057,Montana,Madison County,0,0,5,1,1,1,2
+050,30,057,Montana,Madison County,0,0,6,106,106,106,113
+050,30,057,Montana,Madison County,0,1,1,7341,7341,7348,7271
+050,30,057,Montana,Madison County,0,1,2,15,15,15,28
+050,30,057,Montana,Madison County,0,1,3,36,36,36,40
+050,30,057,Montana,Madison County,0,1,4,26,26,26,28
+050,30,057,Montana,Madison County,0,1,5,0,0,0,1
+050,30,057,Montana,Madison County,0,1,6,87,87,87,92
+050,30,057,Montana,Madison County,0,2,1,163,163,163,175
+050,30,057,Montana,Madison County,0,2,2,0,0,0,0
+050,30,057,Montana,Madison County,0,2,3,3,3,3,3
+050,30,057,Montana,Madison County,0,2,4,0,0,0,0
+050,30,057,Montana,Madison County,0,2,5,1,1,1,1
+050,30,057,Montana,Madison County,0,2,6,19,19,19,21
+050,30,057,Montana,Madison County,1,0,1,3914,3914,3918,3872
+050,30,057,Montana,Madison County,1,0,2,5,5,5,9
+050,30,057,Montana,Madison County,1,0,3,19,19,19,22
+050,30,057,Montana,Madison County,1,0,4,10,10,10,10
+050,30,057,Montana,Madison County,1,0,5,1,1,1,2
+050,30,057,Montana,Madison County,1,0,6,48,48,48,51
+050,30,057,Montana,Madison County,1,1,1,3827,3827,3831,3777
+050,30,057,Montana,Madison County,1,1,2,5,5,5,9
+050,30,057,Montana,Madison County,1,1,3,18,18,18,21
+050,30,057,Montana,Madison County,1,1,4,10,10,10,10
+050,30,057,Montana,Madison County,1,1,5,0,0,0,1
+050,30,057,Montana,Madison County,1,1,6,39,39,39,41
+050,30,057,Montana,Madison County,1,2,1,87,87,87,95
+050,30,057,Montana,Madison County,1,2,2,0,0,0,0
+050,30,057,Montana,Madison County,1,2,3,1,1,1,1
+050,30,057,Montana,Madison County,1,2,4,0,0,0,0
+050,30,057,Montana,Madison County,1,2,5,1,1,1,1
+050,30,057,Montana,Madison County,1,2,6,9,9,9,10
+050,30,057,Montana,Madison County,2,0,1,3590,3590,3593,3574
+050,30,057,Montana,Madison County,2,0,2,10,10,10,19
+050,30,057,Montana,Madison County,2,0,3,20,20,20,21
+050,30,057,Montana,Madison County,2,0,4,16,16,16,18
+050,30,057,Montana,Madison County,2,0,5,0,0,0,0
+050,30,057,Montana,Madison County,2,0,6,58,58,58,62
+050,30,057,Montana,Madison County,2,1,1,3514,3514,3517,3494
+050,30,057,Montana,Madison County,2,1,2,10,10,10,19
+050,30,057,Montana,Madison County,2,1,3,18,18,18,19
+050,30,057,Montana,Madison County,2,1,4,16,16,16,18
+050,30,057,Montana,Madison County,2,1,5,0,0,0,0
+050,30,057,Montana,Madison County,2,1,6,48,48,48,51
+050,30,057,Montana,Madison County,2,2,1,76,76,76,80
+050,30,057,Montana,Madison County,2,2,2,0,0,0,0
+050,30,057,Montana,Madison County,2,2,3,2,2,2,2
+050,30,057,Montana,Madison County,2,2,4,0,0,0,0
+050,30,057,Montana,Madison County,2,2,5,0,0,0,0
+050,30,057,Montana,Madison County,2,2,6,10,10,10,11
+050,30,059,Montana,Meagher County,0,0,1,1854,1854,1855,1867
+050,30,059,Montana,Meagher County,0,0,2,2,2,2,2
+050,30,059,Montana,Meagher County,0,0,3,6,6,6,9
+050,30,059,Montana,Meagher County,0,0,4,6,6,6,7
+050,30,059,Montana,Meagher County,0,0,5,0,0,0,0
+050,30,059,Montana,Meagher County,0,0,6,23,23,23,26
+050,30,059,Montana,Meagher County,0,1,1,1829,1829,1830,1839
+050,30,059,Montana,Meagher County,0,1,2,2,2,2,2
+050,30,059,Montana,Meagher County,0,1,3,4,4,4,7
+050,30,059,Montana,Meagher County,0,1,4,6,6,6,7
+050,30,059,Montana,Meagher County,0,1,5,0,0,0,0
+050,30,059,Montana,Meagher County,0,1,6,22,22,22,23
+050,30,059,Montana,Meagher County,0,2,1,25,25,25,28
+050,30,059,Montana,Meagher County,0,2,2,0,0,0,0
+050,30,059,Montana,Meagher County,0,2,3,2,2,2,2
+050,30,059,Montana,Meagher County,0,2,4,0,0,0,0
+050,30,059,Montana,Meagher County,0,2,5,0,0,0,0
+050,30,059,Montana,Meagher County,0,2,6,1,1,1,3
+050,30,059,Montana,Meagher County,1,0,1,941,941,941,955
+050,30,059,Montana,Meagher County,1,0,2,1,1,1,1
+050,30,059,Montana,Meagher County,1,0,3,2,2,2,3
+050,30,059,Montana,Meagher County,1,0,4,0,0,0,0
+050,30,059,Montana,Meagher County,1,0,5,0,0,0,0
+050,30,059,Montana,Meagher County,1,0,6,13,13,13,13
+050,30,059,Montana,Meagher County,1,1,1,927,927,927,941
+050,30,059,Montana,Meagher County,1,1,2,1,1,1,1
+050,30,059,Montana,Meagher County,1,1,3,1,1,1,2
+050,30,059,Montana,Meagher County,1,1,4,0,0,0,0
+050,30,059,Montana,Meagher County,1,1,5,0,0,0,0
+050,30,059,Montana,Meagher County,1,1,6,13,13,13,13
+050,30,059,Montana,Meagher County,1,2,1,14,14,14,14
+050,30,059,Montana,Meagher County,1,2,2,0,0,0,0
+050,30,059,Montana,Meagher County,1,2,3,1,1,1,1
+050,30,059,Montana,Meagher County,1,2,4,0,0,0,0
+050,30,059,Montana,Meagher County,1,2,5,0,0,0,0
+050,30,059,Montana,Meagher County,1,2,6,0,0,0,0
+050,30,059,Montana,Meagher County,2,0,1,913,913,914,912
+050,30,059,Montana,Meagher County,2,0,2,1,1,1,1
+050,30,059,Montana,Meagher County,2,0,3,4,4,4,6
+050,30,059,Montana,Meagher County,2,0,4,6,6,6,7
+050,30,059,Montana,Meagher County,2,0,5,0,0,0,0
+050,30,059,Montana,Meagher County,2,0,6,10,10,10,13
+050,30,059,Montana,Meagher County,2,1,1,902,902,903,898
+050,30,059,Montana,Meagher County,2,1,2,1,1,1,1
+050,30,059,Montana,Meagher County,2,1,3,3,3,3,5
+050,30,059,Montana,Meagher County,2,1,4,6,6,6,7
+050,30,059,Montana,Meagher County,2,1,5,0,0,0,0
+050,30,059,Montana,Meagher County,2,1,6,9,9,9,10
+050,30,059,Montana,Meagher County,2,2,1,11,11,11,14
+050,30,059,Montana,Meagher County,2,2,2,0,0,0,0
+050,30,059,Montana,Meagher County,2,2,3,1,1,1,1
+050,30,059,Montana,Meagher County,2,2,4,0,0,0,0
+050,30,059,Montana,Meagher County,2,2,5,0,0,0,0
+050,30,059,Montana,Meagher County,2,2,6,1,1,1,3
+050,30,061,Montana,Mineral County,0,0,1,4025,4025,4027,3993
+050,30,061,Montana,Mineral County,0,0,2,11,11,11,17
+050,30,061,Montana,Mineral County,0,0,3,64,64,64,71
+050,30,061,Montana,Mineral County,0,0,4,30,30,28,29
+050,30,061,Montana,Mineral County,0,0,5,0,0,0,0
+050,30,061,Montana,Mineral County,0,0,6,93,93,93,98
+050,30,061,Montana,Mineral County,0,1,1,3953,3953,3955,3918
+050,30,061,Montana,Mineral County,0,1,2,9,9,9,14
+050,30,061,Montana,Mineral County,0,1,3,60,60,60,67
+050,30,061,Montana,Mineral County,0,1,4,30,30,28,29
+050,30,061,Montana,Mineral County,0,1,5,0,0,0,0
+050,30,061,Montana,Mineral County,0,1,6,91,91,91,96
+050,30,061,Montana,Mineral County,0,2,1,72,72,72,75
+050,30,061,Montana,Mineral County,0,2,2,2,2,2,3
+050,30,061,Montana,Mineral County,0,2,3,4,4,4,4
+050,30,061,Montana,Mineral County,0,2,4,0,0,0,0
+050,30,061,Montana,Mineral County,0,2,5,0,0,0,0
+050,30,061,Montana,Mineral County,0,2,6,2,2,2,2
+050,30,061,Montana,Mineral County,1,0,1,2089,2089,2089,2077
+050,30,061,Montana,Mineral County,1,0,2,8,8,8,8
+050,30,061,Montana,Mineral County,1,0,3,36,36,36,41
+050,30,061,Montana,Mineral County,1,0,4,9,9,8,9
+050,30,061,Montana,Mineral County,1,0,5,0,0,0,0
+050,30,061,Montana,Mineral County,1,0,6,47,47,47,52
+050,30,061,Montana,Mineral County,1,1,1,2047,2047,2047,2033
+050,30,061,Montana,Mineral County,1,1,2,7,7,7,7
+050,30,061,Montana,Mineral County,1,1,3,33,33,33,38
+050,30,061,Montana,Mineral County,1,1,4,9,9,8,9
+050,30,061,Montana,Mineral County,1,1,5,0,0,0,0
+050,30,061,Montana,Mineral County,1,1,6,45,45,45,50
+050,30,061,Montana,Mineral County,1,2,1,42,42,42,44
+050,30,061,Montana,Mineral County,1,2,2,1,1,1,1
+050,30,061,Montana,Mineral County,1,2,3,3,3,3,3
+050,30,061,Montana,Mineral County,1,2,4,0,0,0,0
+050,30,061,Montana,Mineral County,1,2,5,0,0,0,0
+050,30,061,Montana,Mineral County,1,2,6,2,2,2,2
+050,30,061,Montana,Mineral County,2,0,1,1936,1936,1938,1916
+050,30,061,Montana,Mineral County,2,0,2,3,3,3,9
+050,30,061,Montana,Mineral County,2,0,3,28,28,28,30
+050,30,061,Montana,Mineral County,2,0,4,21,21,20,20
+050,30,061,Montana,Mineral County,2,0,5,0,0,0,0
+050,30,061,Montana,Mineral County,2,0,6,46,46,46,46
+050,30,061,Montana,Mineral County,2,1,1,1906,1906,1908,1885
+050,30,061,Montana,Mineral County,2,1,2,2,2,2,7
+050,30,061,Montana,Mineral County,2,1,3,27,27,27,29
+050,30,061,Montana,Mineral County,2,1,4,21,21,20,20
+050,30,061,Montana,Mineral County,2,1,5,0,0,0,0
+050,30,061,Montana,Mineral County,2,1,6,46,46,46,46
+050,30,061,Montana,Mineral County,2,2,1,30,30,30,31
+050,30,061,Montana,Mineral County,2,2,2,1,1,1,2
+050,30,061,Montana,Mineral County,2,2,3,1,1,1,1
+050,30,061,Montana,Mineral County,2,2,4,0,0,0,0
+050,30,061,Montana,Mineral County,2,2,5,0,0,0,0
+050,30,061,Montana,Mineral County,2,2,6,0,0,0,0
+050,30,063,Montana,Missoula County,0,0,1,101861,101861,101813,102208
+050,30,063,Montana,Missoula County,0,0,2,462,462,475,588
+050,30,063,Montana,Missoula County,0,0,3,2952,2952,2956,3012
+050,30,063,Montana,Missoula County,0,0,4,1253,1253,1334,1382
+050,30,063,Montana,Missoula County,0,0,5,111,111,111,110
+050,30,063,Montana,Missoula County,0,0,6,2660,2660,2754,2838
+050,30,063,Montana,Missoula County,0,1,1,99612,99612,99548,99801
+050,30,063,Montana,Missoula County,0,1,2,415,415,419,528
+050,30,063,Montana,Missoula County,0,1,3,2645,2645,2649,2695
+050,30,063,Montana,Missoula County,0,1,4,1232,1232,1295,1338
+050,30,063,Montana,Missoula County,0,1,5,103,103,103,99
+050,30,063,Montana,Missoula County,0,1,6,2431,2431,2525,2605
+050,30,063,Montana,Missoula County,0,2,1,2249,2249,2265,2407
+050,30,063,Montana,Missoula County,0,2,2,47,47,56,60
+050,30,063,Montana,Missoula County,0,2,3,307,307,307,317
+050,30,063,Montana,Missoula County,0,2,4,21,21,39,44
+050,30,063,Montana,Missoula County,0,2,5,8,8,8,11
+050,30,063,Montana,Missoula County,0,2,6,229,229,229,233
+050,30,063,Montana,Missoula County,1,0,1,51242,51242,51245,51593
+050,30,063,Montana,Missoula County,1,0,2,331,331,344,414
+050,30,063,Montana,Missoula County,1,0,3,1479,1479,1482,1488
+050,30,063,Montana,Missoula County,1,0,4,507,507,532,539
+050,30,063,Montana,Missoula County,1,0,5,53,53,53,53
+050,30,063,Montana,Missoula County,1,0,6,1362,1362,1400,1409
+050,30,063,Montana,Missoula County,1,1,1,50150,50150,50143,50392
+050,30,063,Montana,Missoula County,1,1,2,299,299,303,369
+050,30,063,Montana,Missoula County,1,1,3,1322,1322,1325,1329
+050,30,063,Montana,Missoula County,1,1,4,498,498,523,527
+050,30,063,Montana,Missoula County,1,1,5,50,50,50,48
+050,30,063,Montana,Missoula County,1,1,6,1251,1251,1289,1293
+050,30,063,Montana,Missoula County,1,2,1,1092,1092,1102,1201
+050,30,063,Montana,Missoula County,1,2,2,32,32,41,45
+050,30,063,Montana,Missoula County,1,2,3,157,157,157,159
+050,30,063,Montana,Missoula County,1,2,4,9,9,9,12
+050,30,063,Montana,Missoula County,1,2,5,3,3,3,5
+050,30,063,Montana,Missoula County,1,2,6,111,111,111,116
+050,30,063,Montana,Missoula County,2,0,1,50619,50619,50568,50615
+050,30,063,Montana,Missoula County,2,0,2,131,131,131,174
+050,30,063,Montana,Missoula County,2,0,3,1473,1473,1474,1524
+050,30,063,Montana,Missoula County,2,0,4,746,746,802,843
+050,30,063,Montana,Missoula County,2,0,5,58,58,58,57
+050,30,063,Montana,Missoula County,2,0,6,1298,1298,1354,1429
+050,30,063,Montana,Missoula County,2,1,1,49462,49462,49405,49409
+050,30,063,Montana,Missoula County,2,1,2,116,116,116,159
+050,30,063,Montana,Missoula County,2,1,3,1323,1323,1324,1366
+050,30,063,Montana,Missoula County,2,1,4,734,734,772,811
+050,30,063,Montana,Missoula County,2,1,5,53,53,53,51
+050,30,063,Montana,Missoula County,2,1,6,1180,1180,1236,1312
+050,30,063,Montana,Missoula County,2,2,1,1157,1157,1163,1206
+050,30,063,Montana,Missoula County,2,2,2,15,15,15,15
+050,30,063,Montana,Missoula County,2,2,3,150,150,150,158
+050,30,063,Montana,Missoula County,2,2,4,12,12,30,32
+050,30,063,Montana,Missoula County,2,2,5,5,5,5,6
+050,30,063,Montana,Missoula County,2,2,6,118,118,118,117
+050,30,065,Montana,Musselshell County,0,0,1,4387,4387,4399,4527
+050,30,065,Montana,Musselshell County,0,0,2,11,11,11,19
+050,30,065,Montana,Musselshell County,0,0,3,61,61,61,68
+050,30,065,Montana,Musselshell County,0,0,4,10,10,10,12
+050,30,065,Montana,Musselshell County,0,0,5,2,2,2,2
+050,30,065,Montana,Musselshell County,0,0,6,67,67,67,73
+050,30,065,Montana,Musselshell County,0,1,1,4284,4284,4296,4416
+050,30,065,Montana,Musselshell County,0,1,2,10,10,10,18
+050,30,065,Montana,Musselshell County,0,1,3,58,58,58,65
+050,30,065,Montana,Musselshell County,0,1,4,10,10,10,12
+050,30,065,Montana,Musselshell County,0,1,5,2,2,2,2
+050,30,065,Montana,Musselshell County,0,1,6,56,56,56,62
+050,30,065,Montana,Musselshell County,0,2,1,103,103,103,111
+050,30,065,Montana,Musselshell County,0,2,2,1,1,1,1
+050,30,065,Montana,Musselshell County,0,2,3,3,3,3,3
+050,30,065,Montana,Musselshell County,0,2,4,0,0,0,0
+050,30,065,Montana,Musselshell County,0,2,5,0,0,0,0
+050,30,065,Montana,Musselshell County,0,2,6,11,11,11,11
+050,30,065,Montana,Musselshell County,1,0,1,2187,2187,2194,2250
+050,30,065,Montana,Musselshell County,1,0,2,6,6,6,12
+050,30,065,Montana,Musselshell County,1,0,3,29,29,29,33
+050,30,065,Montana,Musselshell County,1,0,4,2,2,2,2
+050,30,065,Montana,Musselshell County,1,0,5,1,1,1,1
+050,30,065,Montana,Musselshell County,1,0,6,37,37,37,38
+050,30,065,Montana,Musselshell County,1,1,1,2134,2134,2141,2189
+050,30,065,Montana,Musselshell County,1,1,2,6,6,6,12
+050,30,065,Montana,Musselshell County,1,1,3,28,28,28,32
+050,30,065,Montana,Musselshell County,1,1,4,2,2,2,2
+050,30,065,Montana,Musselshell County,1,1,5,1,1,1,1
+050,30,065,Montana,Musselshell County,1,1,6,33,33,33,34
+050,30,065,Montana,Musselshell County,1,2,1,53,53,53,61
+050,30,065,Montana,Musselshell County,1,2,2,0,0,0,0
+050,30,065,Montana,Musselshell County,1,2,3,1,1,1,1
+050,30,065,Montana,Musselshell County,1,2,4,0,0,0,0
+050,30,065,Montana,Musselshell County,1,2,5,0,0,0,0
+050,30,065,Montana,Musselshell County,1,2,6,4,4,4,4
+050,30,065,Montana,Musselshell County,2,0,1,2200,2200,2205,2277
+050,30,065,Montana,Musselshell County,2,0,2,5,5,5,7
+050,30,065,Montana,Musselshell County,2,0,3,32,32,32,35
+050,30,065,Montana,Musselshell County,2,0,4,8,8,8,10
+050,30,065,Montana,Musselshell County,2,0,5,1,1,1,1
+050,30,065,Montana,Musselshell County,2,0,6,30,30,30,35
+050,30,065,Montana,Musselshell County,2,1,1,2150,2150,2155,2227
+050,30,065,Montana,Musselshell County,2,1,2,4,4,4,6
+050,30,065,Montana,Musselshell County,2,1,3,30,30,30,33
+050,30,065,Montana,Musselshell County,2,1,4,8,8,8,10
+050,30,065,Montana,Musselshell County,2,1,5,1,1,1,1
+050,30,065,Montana,Musselshell County,2,1,6,23,23,23,28
+050,30,065,Montana,Musselshell County,2,2,1,50,50,50,50
+050,30,065,Montana,Musselshell County,2,2,2,1,1,1,1
+050,30,065,Montana,Musselshell County,2,2,3,2,2,2,2
+050,30,065,Montana,Musselshell County,2,2,4,0,0,0,0
+050,30,065,Montana,Musselshell County,2,2,5,0,0,0,0
+050,30,065,Montana,Musselshell County,2,2,6,7,7,7,7
+050,30,067,Montana,Park County,0,0,1,15187,15187,15138,14958
+050,30,067,Montana,Park County,0,0,2,22,22,22,37
+050,30,067,Montana,Park County,0,0,3,134,134,134,158
+050,30,067,Montana,Park County,0,0,4,59,59,59,64
+050,30,067,Montana,Park County,0,0,5,7,7,7,6
+050,30,067,Montana,Park County,0,0,6,227,227,227,246
+050,30,067,Montana,Park County,0,1,1,14911,14911,14862,14657
+050,30,067,Montana,Park County,0,1,2,19,19,19,34
+050,30,067,Montana,Park County,0,1,3,120,120,120,135
+050,30,067,Montana,Park County,0,1,4,52,52,52,56
+050,30,067,Montana,Park County,0,1,5,6,6,6,5
+050,30,067,Montana,Park County,0,1,6,203,203,203,220
+050,30,067,Montana,Park County,0,2,1,276,276,276,301
+050,30,067,Montana,Park County,0,2,2,3,3,3,3
+050,30,067,Montana,Park County,0,2,3,14,14,14,23
+050,30,067,Montana,Park County,0,2,4,7,7,7,8
+050,30,067,Montana,Park County,0,2,5,1,1,1,1
+050,30,067,Montana,Park County,0,2,6,24,24,24,26
+050,30,067,Montana,Park County,1,0,1,7587,7587,7561,7478
+050,30,067,Montana,Park County,1,0,2,9,9,9,16
+050,30,067,Montana,Park County,1,0,3,69,69,69,77
+050,30,067,Montana,Park County,1,0,4,14,14,14,15
+050,30,067,Montana,Park County,1,0,5,1,1,1,1
+050,30,067,Montana,Park County,1,0,6,113,113,113,122
+050,30,067,Montana,Park County,1,1,1,7444,7444,7418,7322
+050,30,067,Montana,Park County,1,1,2,8,8,8,15
+050,30,067,Montana,Park County,1,1,3,62,62,62,67
+050,30,067,Montana,Park County,1,1,4,13,13,13,14
+050,30,067,Montana,Park County,1,1,5,1,1,1,1
+050,30,067,Montana,Park County,1,1,6,102,102,102,110
+050,30,067,Montana,Park County,1,2,1,143,143,143,156
+050,30,067,Montana,Park County,1,2,2,1,1,1,1
+050,30,067,Montana,Park County,1,2,3,7,7,7,10
+050,30,067,Montana,Park County,1,2,4,1,1,1,1
+050,30,067,Montana,Park County,1,2,5,0,0,0,0
+050,30,067,Montana,Park County,1,2,6,11,11,11,12
+050,30,067,Montana,Park County,2,0,1,7600,7600,7577,7480
+050,30,067,Montana,Park County,2,0,2,13,13,13,21
+050,30,067,Montana,Park County,2,0,3,65,65,65,81
+050,30,067,Montana,Park County,2,0,4,45,45,45,49
+050,30,067,Montana,Park County,2,0,5,6,6,6,5
+050,30,067,Montana,Park County,2,0,6,114,114,114,124
+050,30,067,Montana,Park County,2,1,1,7467,7467,7444,7335
+050,30,067,Montana,Park County,2,1,2,11,11,11,19
+050,30,067,Montana,Park County,2,1,3,58,58,58,68
+050,30,067,Montana,Park County,2,1,4,39,39,39,42
+050,30,067,Montana,Park County,2,1,5,5,5,5,4
+050,30,067,Montana,Park County,2,1,6,101,101,101,110
+050,30,067,Montana,Park County,2,2,1,133,133,133,145
+050,30,067,Montana,Park County,2,2,2,2,2,2,2
+050,30,067,Montana,Park County,2,2,3,7,7,7,13
+050,30,067,Montana,Park County,2,2,4,6,6,6,7
+050,30,067,Montana,Park County,2,2,5,1,1,1,1
+050,30,067,Montana,Park County,2,2,6,13,13,13,14
+050,30,069,Montana,Petroleum County,0,0,1,491,491,490,488
+050,30,069,Montana,Petroleum County,0,0,2,0,0,0,0
+050,30,069,Montana,Petroleum County,0,0,3,0,0,0,0
+050,30,069,Montana,Petroleum County,0,0,4,0,0,0,0
+050,30,069,Montana,Petroleum County,0,0,5,0,0,0,0
+050,30,069,Montana,Petroleum County,0,0,6,3,3,3,3
+050,30,069,Montana,Petroleum County,0,1,1,486,486,485,481
+050,30,069,Montana,Petroleum County,0,1,2,0,0,0,0
+050,30,069,Montana,Petroleum County,0,1,3,0,0,0,0
+050,30,069,Montana,Petroleum County,0,1,4,0,0,0,0
+050,30,069,Montana,Petroleum County,0,1,5,0,0,0,0
+050,30,069,Montana,Petroleum County,0,1,6,3,3,3,3
+050,30,069,Montana,Petroleum County,0,2,1,5,5,5,7
+050,30,069,Montana,Petroleum County,0,2,2,0,0,0,0
+050,30,069,Montana,Petroleum County,0,2,3,0,0,0,0
+050,30,069,Montana,Petroleum County,0,2,4,0,0,0,0
+050,30,069,Montana,Petroleum County,0,2,5,0,0,0,0
+050,30,069,Montana,Petroleum County,0,2,6,0,0,0,0
+050,30,069,Montana,Petroleum County,1,0,1,266,266,266,261
+050,30,069,Montana,Petroleum County,1,0,2,0,0,0,0
+050,30,069,Montana,Petroleum County,1,0,3,0,0,0,0
+050,30,069,Montana,Petroleum County,1,0,4,0,0,0,0
+050,30,069,Montana,Petroleum County,1,0,5,0,0,0,0
+050,30,069,Montana,Petroleum County,1,0,6,1,1,1,1
+050,30,069,Montana,Petroleum County,1,1,1,263,263,263,258
+050,30,069,Montana,Petroleum County,1,1,2,0,0,0,0
+050,30,069,Montana,Petroleum County,1,1,3,0,0,0,0
+050,30,069,Montana,Petroleum County,1,1,4,0,0,0,0
+050,30,069,Montana,Petroleum County,1,1,5,0,0,0,0
+050,30,069,Montana,Petroleum County,1,1,6,1,1,1,1
+050,30,069,Montana,Petroleum County,1,2,1,3,3,3,3
+050,30,069,Montana,Petroleum County,1,2,2,0,0,0,0
+050,30,069,Montana,Petroleum County,1,2,3,0,0,0,0
+050,30,069,Montana,Petroleum County,1,2,4,0,0,0,0
+050,30,069,Montana,Petroleum County,1,2,5,0,0,0,0
+050,30,069,Montana,Petroleum County,1,2,6,0,0,0,0
+050,30,069,Montana,Petroleum County,2,0,1,225,225,224,227
+050,30,069,Montana,Petroleum County,2,0,2,0,0,0,0
+050,30,069,Montana,Petroleum County,2,0,3,0,0,0,0
+050,30,069,Montana,Petroleum County,2,0,4,0,0,0,0
+050,30,069,Montana,Petroleum County,2,0,5,0,0,0,0
+050,30,069,Montana,Petroleum County,2,0,6,2,2,2,2
+050,30,069,Montana,Petroleum County,2,1,1,223,223,222,223
+050,30,069,Montana,Petroleum County,2,1,2,0,0,0,0
+050,30,069,Montana,Petroleum County,2,1,3,0,0,0,0
+050,30,069,Montana,Petroleum County,2,1,4,0,0,0,0
+050,30,069,Montana,Petroleum County,2,1,5,0,0,0,0
+050,30,069,Montana,Petroleum County,2,1,6,2,2,2,2
+050,30,069,Montana,Petroleum County,2,2,1,2,2,2,4
+050,30,069,Montana,Petroleum County,2,2,2,0,0,0,0
+050,30,069,Montana,Petroleum County,2,2,3,0,0,0,0
+050,30,069,Montana,Petroleum County,2,2,4,0,0,0,0
+050,30,069,Montana,Petroleum County,2,2,5,0,0,0,0
+050,30,069,Montana,Petroleum County,2,2,6,0,0,0,0
+050,30,071,Montana,Phillips County,0,0,1,3729,3729,3743,3706
+050,30,071,Montana,Phillips County,0,0,2,1,1,1,4
+050,30,071,Montana,Phillips County,0,0,3,357,357,357,366
+050,30,071,Montana,Phillips County,0,0,4,11,11,11,13
+050,30,071,Montana,Phillips County,0,0,5,1,1,1,1
+050,30,071,Montana,Phillips County,0,0,6,154,154,154,160
+050,30,071,Montana,Phillips County,0,1,1,3668,3668,3682,3641
+050,30,071,Montana,Phillips County,0,1,2,1,1,1,4
+050,30,071,Montana,Phillips County,0,1,3,343,343,343,353
+050,30,071,Montana,Phillips County,0,1,4,10,10,10,11
+050,30,071,Montana,Phillips County,0,1,5,1,1,1,1
+050,30,071,Montana,Phillips County,0,1,6,149,149,149,155
+050,30,071,Montana,Phillips County,0,2,1,61,61,61,65
+050,30,071,Montana,Phillips County,0,2,2,0,0,0,0
+050,30,071,Montana,Phillips County,0,2,3,14,14,14,13
+050,30,071,Montana,Phillips County,0,2,4,1,1,1,2
+050,30,071,Montana,Phillips County,0,2,5,0,0,0,0
+050,30,071,Montana,Phillips County,0,2,6,5,5,5,5
+050,30,071,Montana,Phillips County,1,0,1,1848,1848,1853,1843
+050,30,071,Montana,Phillips County,1,0,2,1,1,1,3
+050,30,071,Montana,Phillips County,1,0,3,172,172,172,177
+050,30,071,Montana,Phillips County,1,0,4,3,3,3,3
+050,30,071,Montana,Phillips County,1,0,5,1,1,1,1
+050,30,071,Montana,Phillips County,1,0,6,72,72,72,74
+050,30,071,Montana,Phillips County,1,1,1,1818,1818,1823,1808
+050,30,071,Montana,Phillips County,1,1,2,1,1,1,3
+050,30,071,Montana,Phillips County,1,1,3,167,167,167,172
+050,30,071,Montana,Phillips County,1,1,4,2,2,2,2
+050,30,071,Montana,Phillips County,1,1,5,1,1,1,1
+050,30,071,Montana,Phillips County,1,1,6,69,69,69,71
+050,30,071,Montana,Phillips County,1,2,1,30,30,30,35
+050,30,071,Montana,Phillips County,1,2,2,0,0,0,0
+050,30,071,Montana,Phillips County,1,2,3,5,5,5,5
+050,30,071,Montana,Phillips County,1,2,4,1,1,1,1
+050,30,071,Montana,Phillips County,1,2,5,0,0,0,0
+050,30,071,Montana,Phillips County,1,2,6,3,3,3,3
+050,30,071,Montana,Phillips County,2,0,1,1881,1881,1890,1863
+050,30,071,Montana,Phillips County,2,0,2,0,0,0,1
+050,30,071,Montana,Phillips County,2,0,3,185,185,185,189
+050,30,071,Montana,Phillips County,2,0,4,8,8,8,10
+050,30,071,Montana,Phillips County,2,0,5,0,0,0,0
+050,30,071,Montana,Phillips County,2,0,6,82,82,82,86
+050,30,071,Montana,Phillips County,2,1,1,1850,1850,1859,1833
+050,30,071,Montana,Phillips County,2,1,2,0,0,0,1
+050,30,071,Montana,Phillips County,2,1,3,176,176,176,181
+050,30,071,Montana,Phillips County,2,1,4,8,8,8,9
+050,30,071,Montana,Phillips County,2,1,5,0,0,0,0
+050,30,071,Montana,Phillips County,2,1,6,80,80,80,84
+050,30,071,Montana,Phillips County,2,2,1,31,31,31,30
+050,30,071,Montana,Phillips County,2,2,2,0,0,0,0
+050,30,071,Montana,Phillips County,2,2,3,9,9,9,8
+050,30,071,Montana,Phillips County,2,2,4,0,0,0,1
+050,30,071,Montana,Phillips County,2,2,5,0,0,0,0
+050,30,071,Montana,Phillips County,2,2,6,2,2,2,2
+050,30,073,Montana,Pondera County,0,0,1,5102,5102,5122,5191
+050,30,073,Montana,Pondera County,0,0,2,7,7,7,14
+050,30,073,Montana,Pondera County,0,0,3,891,891,891,884
+050,30,073,Montana,Pondera County,0,0,4,13,13,13,17
+050,30,073,Montana,Pondera County,0,0,5,0,0,0,0
+050,30,073,Montana,Pondera County,0,0,6,140,140,140,151
+050,30,073,Montana,Pondera County,0,1,1,5063,5063,5083,5138
+050,30,073,Montana,Pondera County,0,1,2,7,7,7,14
+050,30,073,Montana,Pondera County,0,1,3,868,868,868,858
+050,30,073,Montana,Pondera County,0,1,4,13,13,13,17
+050,30,073,Montana,Pondera County,0,1,5,0,0,0,0
+050,30,073,Montana,Pondera County,0,1,6,115,115,115,126
+050,30,073,Montana,Pondera County,0,2,1,39,39,39,53
+050,30,073,Montana,Pondera County,0,2,2,0,0,0,0
+050,30,073,Montana,Pondera County,0,2,3,23,23,23,26
+050,30,073,Montana,Pondera County,0,2,4,0,0,0,0
+050,30,073,Montana,Pondera County,0,2,5,0,0,0,0
+050,30,073,Montana,Pondera County,0,2,6,25,25,25,25
+050,30,073,Montana,Pondera County,1,0,1,2481,2481,2489,2531
+050,30,073,Montana,Pondera County,1,0,2,3,3,3,6
+050,30,073,Montana,Pondera County,1,0,3,422,422,422,422
+050,30,073,Montana,Pondera County,1,0,4,1,1,1,2
+050,30,073,Montana,Pondera County,1,0,5,0,0,0,0
+050,30,073,Montana,Pondera County,1,0,6,65,65,65,68
+050,30,073,Montana,Pondera County,1,1,1,2461,2461,2469,2504
+050,30,073,Montana,Pondera County,1,1,2,3,3,3,6
+050,30,073,Montana,Pondera County,1,1,3,414,414,414,411
+050,30,073,Montana,Pondera County,1,1,4,1,1,1,2
+050,30,073,Montana,Pondera County,1,1,5,0,0,0,0
+050,30,073,Montana,Pondera County,1,1,6,56,56,56,58
+050,30,073,Montana,Pondera County,1,2,1,20,20,20,27
+050,30,073,Montana,Pondera County,1,2,2,0,0,0,0
+050,30,073,Montana,Pondera County,1,2,3,8,8,8,11
+050,30,073,Montana,Pondera County,1,2,4,0,0,0,0
+050,30,073,Montana,Pondera County,1,2,5,0,0,0,0
+050,30,073,Montana,Pondera County,1,2,6,9,9,9,10
+050,30,073,Montana,Pondera County,2,0,1,2621,2621,2633,2660
+050,30,073,Montana,Pondera County,2,0,2,4,4,4,8
+050,30,073,Montana,Pondera County,2,0,3,469,469,469,462
+050,30,073,Montana,Pondera County,2,0,4,12,12,12,15
+050,30,073,Montana,Pondera County,2,0,5,0,0,0,0
+050,30,073,Montana,Pondera County,2,0,6,75,75,75,83
+050,30,073,Montana,Pondera County,2,1,1,2602,2602,2614,2634
+050,30,073,Montana,Pondera County,2,1,2,4,4,4,8
+050,30,073,Montana,Pondera County,2,1,3,454,454,454,447
+050,30,073,Montana,Pondera County,2,1,4,12,12,12,15
+050,30,073,Montana,Pondera County,2,1,5,0,0,0,0
+050,30,073,Montana,Pondera County,2,1,6,59,59,59,68
+050,30,073,Montana,Pondera County,2,2,1,19,19,19,26
+050,30,073,Montana,Pondera County,2,2,2,0,0,0,0
+050,30,073,Montana,Pondera County,2,2,3,15,15,15,15
+050,30,073,Montana,Pondera County,2,2,4,0,0,0,0
+050,30,073,Montana,Pondera County,2,2,5,0,0,0,0
+050,30,073,Montana,Pondera County,2,2,6,16,16,16,15
+050,30,075,Montana,Powder River County,0,0,1,1677,1677,1671,1671
+050,30,075,Montana,Powder River County,0,0,2,1,1,1,2
+050,30,075,Montana,Powder River County,0,0,3,30,30,30,31
+050,30,075,Montana,Powder River County,0,0,4,3,3,3,4
+050,30,075,Montana,Powder River County,0,0,5,0,0,0,0
+050,30,075,Montana,Powder River County,0,0,6,32,32,32,30
+050,30,075,Montana,Powder River County,0,1,1,1656,1656,1650,1645
+050,30,075,Montana,Powder River County,0,1,2,1,1,1,2
+050,30,075,Montana,Powder River County,0,1,3,27,27,27,27
+050,30,075,Montana,Powder River County,0,1,4,3,3,3,4
+050,30,075,Montana,Powder River County,0,1,5,0,0,0,0
+050,30,075,Montana,Powder River County,0,1,6,32,32,32,30
+050,30,075,Montana,Powder River County,0,2,1,21,21,21,26
+050,30,075,Montana,Powder River County,0,2,2,0,0,0,0
+050,30,075,Montana,Powder River County,0,2,3,3,3,3,4
+050,30,075,Montana,Powder River County,0,2,4,0,0,0,0
+050,30,075,Montana,Powder River County,0,2,5,0,0,0,0
+050,30,075,Montana,Powder River County,0,2,6,0,0,0,0
+050,30,075,Montana,Powder River County,1,0,1,856,856,853,860
+050,30,075,Montana,Powder River County,1,0,2,0,0,0,1
+050,30,075,Montana,Powder River County,1,0,3,16,16,16,15
+050,30,075,Montana,Powder River County,1,0,4,1,1,1,2
+050,30,075,Montana,Powder River County,1,0,5,0,0,0,0
+050,30,075,Montana,Powder River County,1,0,6,12,12,12,12
+050,30,075,Montana,Powder River County,1,1,1,847,847,844,848
+050,30,075,Montana,Powder River County,1,1,2,0,0,0,1
+050,30,075,Montana,Powder River County,1,1,3,15,15,15,14
+050,30,075,Montana,Powder River County,1,1,4,1,1,1,2
+050,30,075,Montana,Powder River County,1,1,5,0,0,0,0
+050,30,075,Montana,Powder River County,1,1,6,12,12,12,12
+050,30,075,Montana,Powder River County,1,2,1,9,9,9,12
+050,30,075,Montana,Powder River County,1,2,2,0,0,0,0
+050,30,075,Montana,Powder River County,1,2,3,1,1,1,1
+050,30,075,Montana,Powder River County,1,2,4,0,0,0,0
+050,30,075,Montana,Powder River County,1,2,5,0,0,0,0
+050,30,075,Montana,Powder River County,1,2,6,0,0,0,0
+050,30,075,Montana,Powder River County,2,0,1,821,821,818,811
+050,30,075,Montana,Powder River County,2,0,2,1,1,1,1
+050,30,075,Montana,Powder River County,2,0,3,14,14,14,16
+050,30,075,Montana,Powder River County,2,0,4,2,2,2,2
+050,30,075,Montana,Powder River County,2,0,5,0,0,0,0
+050,30,075,Montana,Powder River County,2,0,6,20,20,20,18
+050,30,075,Montana,Powder River County,2,1,1,809,809,806,797
+050,30,075,Montana,Powder River County,2,1,2,1,1,1,1
+050,30,075,Montana,Powder River County,2,1,3,12,12,12,13
+050,30,075,Montana,Powder River County,2,1,4,2,2,2,2
+050,30,075,Montana,Powder River County,2,1,5,0,0,0,0
+050,30,075,Montana,Powder River County,2,1,6,20,20,20,18
+050,30,075,Montana,Powder River County,2,2,1,12,12,12,14
+050,30,075,Montana,Powder River County,2,2,2,0,0,0,0
+050,30,075,Montana,Powder River County,2,2,3,2,2,2,3
+050,30,075,Montana,Powder River County,2,2,4,0,0,0,0
+050,30,075,Montana,Powder River County,2,2,5,0,0,0,0
+050,30,075,Montana,Powder River County,2,2,6,0,0,0,0
+050,30,077,Montana,Powell County,0,0,1,6523,6523,6527,6521
+050,30,077,Montana,Powell County,0,0,2,69,69,69,81
+050,30,077,Montana,Powell County,0,0,3,312,312,312,318
+050,30,077,Montana,Powell County,0,0,4,33,33,33,36
+050,30,077,Montana,Powell County,0,0,5,2,2,2,2
+050,30,077,Montana,Powell County,0,0,6,88,88,88,105
+050,30,077,Montana,Powell County,0,1,1,6430,6430,6434,6414
+050,30,077,Montana,Powell County,0,1,2,65,65,65,75
+050,30,077,Montana,Powell County,0,1,3,302,302,302,308
+050,30,077,Montana,Powell County,0,1,4,31,31,31,34
+050,30,077,Montana,Powell County,0,1,5,2,2,2,2
+050,30,077,Montana,Powell County,0,1,6,80,80,80,97
+050,30,077,Montana,Powell County,0,2,1,93,93,93,107
+050,30,077,Montana,Powell County,0,2,2,4,4,4,6
+050,30,077,Montana,Powell County,0,2,3,10,10,10,10
+050,30,077,Montana,Powell County,0,2,4,2,2,2,2
+050,30,077,Montana,Powell County,0,2,5,0,0,0,0
+050,30,077,Montana,Powell County,0,2,6,8,8,8,8
+050,30,077,Montana,Powell County,1,0,1,3901,3901,3904,3908
+050,30,077,Montana,Powell County,1,0,2,58,58,58,65
+050,30,077,Montana,Powell County,1,0,3,279,279,279,280
+050,30,077,Montana,Powell County,1,0,4,13,13,13,15
+050,30,077,Montana,Powell County,1,0,5,1,1,1,1
+050,30,077,Montana,Powell County,1,0,6,42,42,42,51
+050,30,077,Montana,Powell County,1,1,1,3832,3832,3835,3833
+050,30,077,Montana,Powell County,1,1,2,56,56,56,62
+050,30,077,Montana,Powell County,1,1,3,272,272,272,273
+050,30,077,Montana,Powell County,1,1,4,13,13,13,15
+050,30,077,Montana,Powell County,1,1,5,1,1,1,1
+050,30,077,Montana,Powell County,1,1,6,36,36,36,45
+050,30,077,Montana,Powell County,1,2,1,69,69,69,75
+050,30,077,Montana,Powell County,1,2,2,2,2,2,3
+050,30,077,Montana,Powell County,1,2,3,7,7,7,7
+050,30,077,Montana,Powell County,1,2,4,0,0,0,0
+050,30,077,Montana,Powell County,1,2,5,0,0,0,0
+050,30,077,Montana,Powell County,1,2,6,6,6,6,6
+050,30,077,Montana,Powell County,2,0,1,2622,2622,2623,2613
+050,30,077,Montana,Powell County,2,0,2,11,11,11,16
+050,30,077,Montana,Powell County,2,0,3,33,33,33,38
+050,30,077,Montana,Powell County,2,0,4,20,20,20,21
+050,30,077,Montana,Powell County,2,0,5,1,1,1,1
+050,30,077,Montana,Powell County,2,0,6,46,46,46,54
+050,30,077,Montana,Powell County,2,1,1,2598,2598,2599,2581
+050,30,077,Montana,Powell County,2,1,2,9,9,9,13
+050,30,077,Montana,Powell County,2,1,3,30,30,30,35
+050,30,077,Montana,Powell County,2,1,4,18,18,18,19
+050,30,077,Montana,Powell County,2,1,5,1,1,1,1
+050,30,077,Montana,Powell County,2,1,6,44,44,44,52
+050,30,077,Montana,Powell County,2,2,1,24,24,24,32
+050,30,077,Montana,Powell County,2,2,2,2,2,2,3
+050,30,077,Montana,Powell County,2,2,3,3,3,3,3
+050,30,077,Montana,Powell County,2,2,4,2,2,2,2
+050,30,077,Montana,Powell County,2,2,5,0,0,0,0
+050,30,077,Montana,Powell County,2,2,6,2,2,2,2
+050,30,079,Montana,Prairie County,0,0,1,1141,1141,1152,1115
+050,30,079,Montana,Prairie County,0,0,2,0,0,0,0
+050,30,079,Montana,Prairie County,0,0,3,2,2,2,5
+050,30,079,Montana,Prairie County,0,0,4,6,6,6,6
+050,30,079,Montana,Prairie County,0,0,5,0,0,0,0
+050,30,079,Montana,Prairie County,0,0,6,30,30,30,33
+050,30,079,Montana,Prairie County,0,1,1,1125,1125,1136,1099
+050,30,079,Montana,Prairie County,0,1,2,0,0,0,0
+050,30,079,Montana,Prairie County,0,1,3,2,2,2,5
+050,30,079,Montana,Prairie County,0,1,4,6,6,6,6
+050,30,079,Montana,Prairie County,0,1,5,0,0,0,0
+050,30,079,Montana,Prairie County,0,1,6,30,30,30,33
+050,30,079,Montana,Prairie County,0,2,1,16,16,16,16
+050,30,079,Montana,Prairie County,0,2,2,0,0,0,0
+050,30,079,Montana,Prairie County,0,2,3,0,0,0,0
+050,30,079,Montana,Prairie County,0,2,4,0,0,0,0
+050,30,079,Montana,Prairie County,0,2,5,0,0,0,0
+050,30,079,Montana,Prairie County,0,2,6,0,0,0,0
+050,30,079,Montana,Prairie County,1,0,1,589,589,595,572
+050,30,079,Montana,Prairie County,1,0,2,0,0,0,0
+050,30,079,Montana,Prairie County,1,0,3,1,1,1,2
+050,30,079,Montana,Prairie County,1,0,4,1,1,1,1
+050,30,079,Montana,Prairie County,1,0,5,0,0,0,0
+050,30,079,Montana,Prairie County,1,0,6,10,10,10,11
+050,30,079,Montana,Prairie County,1,1,1,581,581,587,564
+050,30,079,Montana,Prairie County,1,1,2,0,0,0,0
+050,30,079,Montana,Prairie County,1,1,3,1,1,1,2
+050,30,079,Montana,Prairie County,1,1,4,1,1,1,1
+050,30,079,Montana,Prairie County,1,1,5,0,0,0,0
+050,30,079,Montana,Prairie County,1,1,6,10,10,10,11
+050,30,079,Montana,Prairie County,1,2,1,8,8,8,8
+050,30,079,Montana,Prairie County,1,2,2,0,0,0,0
+050,30,079,Montana,Prairie County,1,2,3,0,0,0,0
+050,30,079,Montana,Prairie County,1,2,4,0,0,0,0
+050,30,079,Montana,Prairie County,1,2,5,0,0,0,0
+050,30,079,Montana,Prairie County,1,2,6,0,0,0,0
+050,30,079,Montana,Prairie County,2,0,1,552,552,557,543
+050,30,079,Montana,Prairie County,2,0,2,0,0,0,0
+050,30,079,Montana,Prairie County,2,0,3,1,1,1,3
+050,30,079,Montana,Prairie County,2,0,4,5,5,5,5
+050,30,079,Montana,Prairie County,2,0,5,0,0,0,0
+050,30,079,Montana,Prairie County,2,0,6,20,20,20,22
+050,30,079,Montana,Prairie County,2,1,1,544,544,549,535
+050,30,079,Montana,Prairie County,2,1,2,0,0,0,0
+050,30,079,Montana,Prairie County,2,1,3,1,1,1,3
+050,30,079,Montana,Prairie County,2,1,4,5,5,5,5
+050,30,079,Montana,Prairie County,2,1,5,0,0,0,0
+050,30,079,Montana,Prairie County,2,1,6,20,20,20,22
+050,30,079,Montana,Prairie County,2,2,1,8,8,8,8
+050,30,079,Montana,Prairie County,2,2,2,0,0,0,0
+050,30,079,Montana,Prairie County,2,2,3,0,0,0,0
+050,30,079,Montana,Prairie County,2,2,4,0,0,0,0
+050,30,079,Montana,Prairie County,2,2,5,0,0,0,0
+050,30,079,Montana,Prairie County,2,2,6,0,0,0,0
+050,30,081,Montana,Ravalli County,0,0,1,38796,38796,38929,38909
+050,30,081,Montana,Ravalli County,0,0,2,79,79,79,128
+050,30,081,Montana,Ravalli County,0,0,3,384,384,384,413
+050,30,081,Montana,Ravalli County,0,0,4,211,211,209,228
+050,30,081,Montana,Ravalli County,0,0,5,25,25,25,25
+050,30,081,Montana,Ravalli County,0,0,6,717,717,717,747
+050,30,081,Montana,Ravalli County,0,1,1,37782,37782,37915,37868
+050,30,081,Montana,Ravalli County,0,1,2,72,72,72,118
+050,30,081,Montana,Ravalli County,0,1,3,307,307,307,325
+050,30,081,Montana,Ravalli County,0,1,4,208,208,206,226
+050,30,081,Montana,Ravalli County,0,1,5,22,22,22,22
+050,30,081,Montana,Ravalli County,0,1,6,626,626,626,635
+050,30,081,Montana,Ravalli County,0,2,1,1014,1014,1014,1041
+050,30,081,Montana,Ravalli County,0,2,2,7,7,7,10
+050,30,081,Montana,Ravalli County,0,2,3,77,77,77,88
+050,30,081,Montana,Ravalli County,0,2,4,3,3,3,2
+050,30,081,Montana,Ravalli County,0,2,5,3,3,3,3
+050,30,081,Montana,Ravalli County,0,2,6,91,91,91,112
+050,30,081,Montana,Ravalli County,1,0,1,19257,19257,19329,19308
+050,30,081,Montana,Ravalli County,1,0,2,43,43,43,72
+050,30,081,Montana,Ravalli County,1,0,3,208,208,208,221
+050,30,081,Montana,Ravalli County,1,0,4,72,72,72,82
+050,30,081,Montana,Ravalli County,1,0,5,15,15,15,15
+050,30,081,Montana,Ravalli County,1,0,6,369,369,369,389
+050,30,081,Montana,Ravalli County,1,1,1,18796,18796,18868,18831
+050,30,081,Montana,Ravalli County,1,1,2,40,40,40,66
+050,30,081,Montana,Ravalli County,1,1,3,169,169,169,179
+050,30,081,Montana,Ravalli County,1,1,4,69,69,69,80
+050,30,081,Montana,Ravalli County,1,1,5,12,12,12,12
+050,30,081,Montana,Ravalli County,1,1,6,319,319,319,326
+050,30,081,Montana,Ravalli County,1,2,1,461,461,461,477
+050,30,081,Montana,Ravalli County,1,2,2,3,3,3,6
+050,30,081,Montana,Ravalli County,1,2,3,39,39,39,42
+050,30,081,Montana,Ravalli County,1,2,4,3,3,3,2
+050,30,081,Montana,Ravalli County,1,2,5,3,3,3,3
+050,30,081,Montana,Ravalli County,1,2,6,50,50,50,63
+050,30,081,Montana,Ravalli County,2,0,1,19539,19539,19600,19601
+050,30,081,Montana,Ravalli County,2,0,2,36,36,36,56
+050,30,081,Montana,Ravalli County,2,0,3,176,176,176,192
+050,30,081,Montana,Ravalli County,2,0,4,139,139,137,146
+050,30,081,Montana,Ravalli County,2,0,5,10,10,10,10
+050,30,081,Montana,Ravalli County,2,0,6,348,348,348,358
+050,30,081,Montana,Ravalli County,2,1,1,18986,18986,19047,19037
+050,30,081,Montana,Ravalli County,2,1,2,32,32,32,52
+050,30,081,Montana,Ravalli County,2,1,3,138,138,138,146
+050,30,081,Montana,Ravalli County,2,1,4,139,139,137,146
+050,30,081,Montana,Ravalli County,2,1,5,10,10,10,10
+050,30,081,Montana,Ravalli County,2,1,6,307,307,307,309
+050,30,081,Montana,Ravalli County,2,2,1,553,553,553,564
+050,30,081,Montana,Ravalli County,2,2,2,4,4,4,4
+050,30,081,Montana,Ravalli County,2,2,3,38,38,38,46
+050,30,081,Montana,Ravalli County,2,2,4,0,0,0,0
+050,30,081,Montana,Ravalli County,2,2,5,0,0,0,0
+050,30,081,Montana,Ravalli County,2,2,6,41,41,41,49
+050,30,083,Montana,Richland County,0,0,1,9367,9367,9374,9693
+050,30,083,Montana,Richland County,0,0,2,13,13,13,27
+050,30,083,Montana,Richland County,0,0,3,167,167,167,182
+050,30,083,Montana,Richland County,0,0,4,27,27,27,34
+050,30,083,Montana,Richland County,0,0,5,1,1,1,1
+050,30,083,Montana,Richland County,0,0,6,171,171,171,191
+050,30,083,Montana,Richland County,0,1,1,9093,9093,9100,9369
+050,30,083,Montana,Richland County,0,1,2,12,12,12,26
+050,30,083,Montana,Richland County,0,1,3,156,156,156,169
+050,30,083,Montana,Richland County,0,1,4,25,25,25,31
+050,30,083,Montana,Richland County,0,1,5,1,1,1,1
+050,30,083,Montana,Richland County,0,1,6,162,162,162,183
+050,30,083,Montana,Richland County,0,2,1,274,274,274,324
+050,30,083,Montana,Richland County,0,2,2,1,1,1,1
+050,30,083,Montana,Richland County,0,2,3,11,11,11,13
+050,30,083,Montana,Richland County,0,2,4,2,2,2,3
+050,30,083,Montana,Richland County,0,2,5,0,0,0,0
+050,30,083,Montana,Richland County,0,2,6,9,9,9,8
+050,30,083,Montana,Richland County,1,0,1,4839,4839,4846,5042
+050,30,083,Montana,Richland County,1,0,2,8,8,8,14
+050,30,083,Montana,Richland County,1,0,3,81,81,81,85
+050,30,083,Montana,Richland County,1,0,4,11,11,11,15
+050,30,083,Montana,Richland County,1,0,5,1,1,1,1
+050,30,083,Montana,Richland County,1,0,6,77,77,77,88
+050,30,083,Montana,Richland County,1,1,1,4690,4690,4697,4865
+050,30,083,Montana,Richland County,1,1,2,8,8,8,14
+050,30,083,Montana,Richland County,1,1,3,77,77,77,80
+050,30,083,Montana,Richland County,1,1,4,9,9,9,13
+050,30,083,Montana,Richland County,1,1,5,1,1,1,1
+050,30,083,Montana,Richland County,1,1,6,71,71,71,82
+050,30,083,Montana,Richland County,1,2,1,149,149,149,177
+050,30,083,Montana,Richland County,1,2,2,0,0,0,0
+050,30,083,Montana,Richland County,1,2,3,4,4,4,5
+050,30,083,Montana,Richland County,1,2,4,2,2,2,2
+050,30,083,Montana,Richland County,1,2,5,0,0,0,0
+050,30,083,Montana,Richland County,1,2,6,6,6,6,6
+050,30,083,Montana,Richland County,2,0,1,4528,4528,4528,4651
+050,30,083,Montana,Richland County,2,0,2,5,5,5,13
+050,30,083,Montana,Richland County,2,0,3,86,86,86,97
+050,30,083,Montana,Richland County,2,0,4,16,16,16,19
+050,30,083,Montana,Richland County,2,0,5,0,0,0,0
+050,30,083,Montana,Richland County,2,0,6,94,94,94,103
+050,30,083,Montana,Richland County,2,1,1,4403,4403,4403,4504
+050,30,083,Montana,Richland County,2,1,2,4,4,4,12
+050,30,083,Montana,Richland County,2,1,3,79,79,79,89
+050,30,083,Montana,Richland County,2,1,4,16,16,16,18
+050,30,083,Montana,Richland County,2,1,5,0,0,0,0
+050,30,083,Montana,Richland County,2,1,6,91,91,91,101
+050,30,083,Montana,Richland County,2,2,1,125,125,125,147
+050,30,083,Montana,Richland County,2,2,2,1,1,1,1
+050,30,083,Montana,Richland County,2,2,3,7,7,7,8
+050,30,083,Montana,Richland County,2,2,4,0,0,0,1
+050,30,083,Montana,Richland County,2,2,5,0,0,0,0
+050,30,083,Montana,Richland County,2,2,6,3,3,3,2
+050,30,085,Montana,Roosevelt County,0,0,1,3748,3748,3761,3880
+050,30,085,Montana,Roosevelt County,0,0,2,13,13,13,28
+050,30,085,Montana,Roosevelt County,0,0,3,6316,6316,6335,6252
+050,30,085,Montana,Roosevelt County,0,0,4,45,45,45,51
+050,30,085,Montana,Roosevelt County,0,0,5,2,2,2,1
+050,30,085,Montana,Roosevelt County,0,0,6,301,301,302,315
+050,30,085,Montana,Roosevelt County,0,1,1,3711,3711,3724,3803
+050,30,085,Montana,Roosevelt County,0,1,2,12,12,12,26
+050,30,085,Montana,Roosevelt County,0,1,3,6228,6228,6247,6159
+050,30,085,Montana,Roosevelt County,0,1,4,45,45,45,51
+050,30,085,Montana,Roosevelt County,0,1,5,2,2,2,1
+050,30,085,Montana,Roosevelt County,0,1,6,295,295,296,306
+050,30,085,Montana,Roosevelt County,0,2,1,37,37,37,77
+050,30,085,Montana,Roosevelt County,0,2,2,1,1,1,2
+050,30,085,Montana,Roosevelt County,0,2,3,88,88,88,93
+050,30,085,Montana,Roosevelt County,0,2,4,0,0,0,0
+050,30,085,Montana,Roosevelt County,0,2,5,0,0,0,0
+050,30,085,Montana,Roosevelt County,0,2,6,6,6,6,9
+050,30,085,Montana,Roosevelt County,1,0,1,1858,1858,1864,1935
+050,30,085,Montana,Roosevelt County,1,0,2,10,10,10,19
+050,30,085,Montana,Roosevelt County,1,0,3,3108,3108,3120,3095
+050,30,085,Montana,Roosevelt County,1,0,4,24,24,24,28
+050,30,085,Montana,Roosevelt County,1,0,5,1,1,1,0
+050,30,085,Montana,Roosevelt County,1,0,6,143,143,144,144
+050,30,085,Montana,Roosevelt County,1,1,1,1838,1838,1844,1890
+050,30,085,Montana,Roosevelt County,1,1,2,9,9,9,18
+050,30,085,Montana,Roosevelt County,1,1,3,3070,3070,3082,3058
+050,30,085,Montana,Roosevelt County,1,1,4,24,24,24,28
+050,30,085,Montana,Roosevelt County,1,1,5,1,1,1,0
+050,30,085,Montana,Roosevelt County,1,1,6,140,140,141,142
+050,30,085,Montana,Roosevelt County,1,2,1,20,20,20,45
+050,30,085,Montana,Roosevelt County,1,2,2,1,1,1,1
+050,30,085,Montana,Roosevelt County,1,2,3,38,38,38,37
+050,30,085,Montana,Roosevelt County,1,2,4,0,0,0,0
+050,30,085,Montana,Roosevelt County,1,2,5,0,0,0,0
+050,30,085,Montana,Roosevelt County,1,2,6,3,3,3,2
+050,30,085,Montana,Roosevelt County,2,0,1,1890,1890,1897,1945
+050,30,085,Montana,Roosevelt County,2,0,2,3,3,3,9
+050,30,085,Montana,Roosevelt County,2,0,3,3208,3208,3215,3157
+050,30,085,Montana,Roosevelt County,2,0,4,21,21,21,23
+050,30,085,Montana,Roosevelt County,2,0,5,1,1,1,1
+050,30,085,Montana,Roosevelt County,2,0,6,158,158,158,171
+050,30,085,Montana,Roosevelt County,2,1,1,1873,1873,1880,1913
+050,30,085,Montana,Roosevelt County,2,1,2,3,3,3,8
+050,30,085,Montana,Roosevelt County,2,1,3,3158,3158,3165,3101
+050,30,085,Montana,Roosevelt County,2,1,4,21,21,21,23
+050,30,085,Montana,Roosevelt County,2,1,5,1,1,1,1
+050,30,085,Montana,Roosevelt County,2,1,6,155,155,155,164
+050,30,085,Montana,Roosevelt County,2,2,1,17,17,17,32
+050,30,085,Montana,Roosevelt County,2,2,2,0,0,0,1
+050,30,085,Montana,Roosevelt County,2,2,3,50,50,50,56
+050,30,085,Montana,Roosevelt County,2,2,4,0,0,0,0
+050,30,085,Montana,Roosevelt County,2,2,5,0,0,0,0
+050,30,085,Montana,Roosevelt County,2,2,6,3,3,3,7
+050,30,087,Montana,Rosebud County,0,0,1,5702,5702,5727,5810
+050,30,087,Montana,Rosebud County,0,0,2,25,25,25,39
+050,30,087,Montana,Rosebud County,0,0,3,3215,3215,3222,3195
+050,30,087,Montana,Rosebud County,0,0,4,42,42,41,53
+050,30,087,Montana,Rosebud County,0,0,5,3,3,3,3
+050,30,087,Montana,Rosebud County,0,0,6,246,246,246,279
+050,30,087,Montana,Rosebud County,0,1,1,5559,5559,5584,5620
+050,30,087,Montana,Rosebud County,0,1,2,23,23,23,35
+050,30,087,Montana,Rosebud County,0,1,3,3077,3077,3084,3047
+050,30,087,Montana,Rosebud County,0,1,4,42,42,41,53
+050,30,087,Montana,Rosebud County,0,1,5,3,3,3,3
+050,30,087,Montana,Rosebud County,0,1,6,216,216,216,246
+050,30,087,Montana,Rosebud County,0,2,1,143,143,143,190
+050,30,087,Montana,Rosebud County,0,2,2,2,2,2,4
+050,30,087,Montana,Rosebud County,0,2,3,138,138,138,148
+050,30,087,Montana,Rosebud County,0,2,4,0,0,0,0
+050,30,087,Montana,Rosebud County,0,2,5,0,0,0,0
+050,30,087,Montana,Rosebud County,0,2,6,30,30,30,33
+050,30,087,Montana,Rosebud County,1,0,1,2911,2911,2924,2966
+050,30,087,Montana,Rosebud County,1,0,2,15,15,15,25
+050,30,087,Montana,Rosebud County,1,0,3,1609,1609,1614,1582
+050,30,087,Montana,Rosebud County,1,0,4,15,15,14,18
+050,30,087,Montana,Rosebud County,1,0,5,1,1,1,1
+050,30,087,Montana,Rosebud County,1,0,6,120,120,120,136
+050,30,087,Montana,Rosebud County,1,1,1,2835,2835,2848,2863
+050,30,087,Montana,Rosebud County,1,1,2,14,14,14,22
+050,30,087,Montana,Rosebud County,1,1,3,1530,1530,1535,1500
+050,30,087,Montana,Rosebud County,1,1,4,15,15,14,18
+050,30,087,Montana,Rosebud County,1,1,5,1,1,1,1
+050,30,087,Montana,Rosebud County,1,1,6,105,105,105,120
+050,30,087,Montana,Rosebud County,1,2,1,76,76,76,103
+050,30,087,Montana,Rosebud County,1,2,2,1,1,1,3
+050,30,087,Montana,Rosebud County,1,2,3,79,79,79,82
+050,30,087,Montana,Rosebud County,1,2,4,0,0,0,0
+050,30,087,Montana,Rosebud County,1,2,5,0,0,0,0
+050,30,087,Montana,Rosebud County,1,2,6,15,15,15,16
+050,30,087,Montana,Rosebud County,2,0,1,2791,2791,2803,2844
+050,30,087,Montana,Rosebud County,2,0,2,10,10,10,14
+050,30,087,Montana,Rosebud County,2,0,3,1606,1606,1608,1613
+050,30,087,Montana,Rosebud County,2,0,4,27,27,27,35
+050,30,087,Montana,Rosebud County,2,0,5,2,2,2,2
+050,30,087,Montana,Rosebud County,2,0,6,126,126,126,143
+050,30,087,Montana,Rosebud County,2,1,1,2724,2724,2736,2757
+050,30,087,Montana,Rosebud County,2,1,2,9,9,9,13
+050,30,087,Montana,Rosebud County,2,1,3,1547,1547,1549,1547
+050,30,087,Montana,Rosebud County,2,1,4,27,27,27,35
+050,30,087,Montana,Rosebud County,2,1,5,2,2,2,2
+050,30,087,Montana,Rosebud County,2,1,6,111,111,111,126
+050,30,087,Montana,Rosebud County,2,2,1,67,67,67,87
+050,30,087,Montana,Rosebud County,2,2,2,1,1,1,1
+050,30,087,Montana,Rosebud County,2,2,3,59,59,59,66
+050,30,087,Montana,Rosebud County,2,2,4,0,0,0,0
+050,30,087,Montana,Rosebud County,2,2,5,0,0,0,0
+050,30,087,Montana,Rosebud County,2,2,6,15,15,15,17
+050,30,089,Montana,Sanders County,0,0,1,10515,10515,10500,10504
+050,30,089,Montana,Sanders County,0,0,2,17,17,17,24
+050,30,089,Montana,Sanders County,0,0,3,511,511,511,516
+050,30,089,Montana,Sanders County,0,0,4,34,34,33,37
+050,30,089,Montana,Sanders County,0,0,5,1,1,1,2
+050,30,089,Montana,Sanders County,0,0,6,335,335,335,357
+050,30,089,Montana,Sanders County,0,1,1,10334,10334,10319,10300
+050,30,089,Montana,Sanders County,0,1,2,17,17,17,24
+050,30,089,Montana,Sanders County,0,1,3,476,476,476,477
+050,30,089,Montana,Sanders County,0,1,4,32,32,31,33
+050,30,089,Montana,Sanders County,0,1,5,1,1,1,1
+050,30,089,Montana,Sanders County,0,1,6,320,320,320,336
+050,30,089,Montana,Sanders County,0,2,1,181,181,181,204
+050,30,089,Montana,Sanders County,0,2,2,0,0,0,0
+050,30,089,Montana,Sanders County,0,2,3,35,35,35,39
+050,30,089,Montana,Sanders County,0,2,4,2,2,2,4
+050,30,089,Montana,Sanders County,0,2,5,0,0,0,1
+050,30,089,Montana,Sanders County,0,2,6,15,15,15,21
+050,30,089,Montana,Sanders County,1,0,1,5376,5376,5373,5369
+050,30,089,Montana,Sanders County,1,0,2,14,14,14,20
+050,30,089,Montana,Sanders County,1,0,3,279,279,279,290
+050,30,089,Montana,Sanders County,1,0,4,8,8,8,8
+050,30,089,Montana,Sanders County,1,0,5,0,0,0,0
+050,30,089,Montana,Sanders County,1,0,6,175,175,175,182
+050,30,089,Montana,Sanders County,1,1,1,5282,5282,5279,5264
+050,30,089,Montana,Sanders County,1,1,2,14,14,14,20
+050,30,089,Montana,Sanders County,1,1,3,266,266,266,273
+050,30,089,Montana,Sanders County,1,1,4,8,8,8,8
+050,30,089,Montana,Sanders County,1,1,5,0,0,0,0
+050,30,089,Montana,Sanders County,1,1,6,167,167,167,170
+050,30,089,Montana,Sanders County,1,2,1,94,94,94,105
+050,30,089,Montana,Sanders County,1,2,2,0,0,0,0
+050,30,089,Montana,Sanders County,1,2,3,13,13,13,17
+050,30,089,Montana,Sanders County,1,2,4,0,0,0,0
+050,30,089,Montana,Sanders County,1,2,5,0,0,0,0
+050,30,089,Montana,Sanders County,1,2,6,8,8,8,12
+050,30,089,Montana,Sanders County,2,0,1,5139,5139,5127,5135
+050,30,089,Montana,Sanders County,2,0,2,3,3,3,4
+050,30,089,Montana,Sanders County,2,0,3,232,232,232,226
+050,30,089,Montana,Sanders County,2,0,4,26,26,25,29
+050,30,089,Montana,Sanders County,2,0,5,1,1,1,2
+050,30,089,Montana,Sanders County,2,0,6,160,160,160,175
+050,30,089,Montana,Sanders County,2,1,1,5052,5052,5040,5036
+050,30,089,Montana,Sanders County,2,1,2,3,3,3,4
+050,30,089,Montana,Sanders County,2,1,3,210,210,210,204
+050,30,089,Montana,Sanders County,2,1,4,24,24,23,25
+050,30,089,Montana,Sanders County,2,1,5,1,1,1,1
+050,30,089,Montana,Sanders County,2,1,6,153,153,153,166
+050,30,089,Montana,Sanders County,2,2,1,87,87,87,99
+050,30,089,Montana,Sanders County,2,2,2,0,0,0,0
+050,30,089,Montana,Sanders County,2,2,3,22,22,22,22
+050,30,089,Montana,Sanders County,2,2,4,2,2,2,4
+050,30,089,Montana,Sanders County,2,2,5,0,0,0,1
+050,30,089,Montana,Sanders County,2,2,6,7,7,7,9
+050,30,091,Montana,Sheridan County,0,0,1,3242,3242,3242,3297
+050,30,091,Montana,Sheridan County,0,0,2,7,7,7,11
+050,30,091,Montana,Sheridan County,0,0,3,57,57,57,66
+050,30,091,Montana,Sheridan County,0,0,4,14,14,14,15
+050,30,091,Montana,Sheridan County,0,0,5,0,0,0,0
+050,30,091,Montana,Sheridan County,0,0,6,64,64,64,71
+050,30,091,Montana,Sheridan County,0,1,1,3202,3202,3202,3249
+050,30,091,Montana,Sheridan County,0,1,2,7,7,7,11
+050,30,091,Montana,Sheridan County,0,1,3,54,54,54,62
+050,30,091,Montana,Sheridan County,0,1,4,14,14,14,15
+050,30,091,Montana,Sheridan County,0,1,5,0,0,0,0
+050,30,091,Montana,Sheridan County,0,1,6,56,56,56,63
+050,30,091,Montana,Sheridan County,0,2,1,40,40,40,48
+050,30,091,Montana,Sheridan County,0,2,2,0,0,0,0
+050,30,091,Montana,Sheridan County,0,2,3,3,3,3,4
+050,30,091,Montana,Sheridan County,0,2,4,0,0,0,0
+050,30,091,Montana,Sheridan County,0,2,5,0,0,0,0
+050,30,091,Montana,Sheridan County,0,2,6,8,8,8,8
+050,30,091,Montana,Sheridan County,1,0,1,1635,1635,1635,1681
+050,30,091,Montana,Sheridan County,1,0,2,6,6,6,7
+050,30,091,Montana,Sheridan County,1,0,3,17,17,17,23
+050,30,091,Montana,Sheridan County,1,0,4,4,4,4,5
+050,30,091,Montana,Sheridan County,1,0,5,0,0,0,0
+050,30,091,Montana,Sheridan County,1,0,6,36,36,36,42
+050,30,091,Montana,Sheridan County,1,1,1,1615,1615,1615,1658
+050,30,091,Montana,Sheridan County,1,1,2,6,6,6,7
+050,30,091,Montana,Sheridan County,1,1,3,16,16,16,22
+050,30,091,Montana,Sheridan County,1,1,4,4,4,4,5
+050,30,091,Montana,Sheridan County,1,1,5,0,0,0,0
+050,30,091,Montana,Sheridan County,1,1,6,33,33,33,39
+050,30,091,Montana,Sheridan County,1,2,1,20,20,20,23
+050,30,091,Montana,Sheridan County,1,2,2,0,0,0,0
+050,30,091,Montana,Sheridan County,1,2,3,1,1,1,1
+050,30,091,Montana,Sheridan County,1,2,4,0,0,0,0
+050,30,091,Montana,Sheridan County,1,2,5,0,0,0,0
+050,30,091,Montana,Sheridan County,1,2,6,3,3,3,3
+050,30,091,Montana,Sheridan County,2,0,1,1607,1607,1607,1616
+050,30,091,Montana,Sheridan County,2,0,2,1,1,1,4
+050,30,091,Montana,Sheridan County,2,0,3,40,40,40,43
+050,30,091,Montana,Sheridan County,2,0,4,10,10,10,10
+050,30,091,Montana,Sheridan County,2,0,5,0,0,0,0
+050,30,091,Montana,Sheridan County,2,0,6,28,28,28,29
+050,30,091,Montana,Sheridan County,2,1,1,1587,1587,1587,1591
+050,30,091,Montana,Sheridan County,2,1,2,1,1,1,4
+050,30,091,Montana,Sheridan County,2,1,3,38,38,38,40
+050,30,091,Montana,Sheridan County,2,1,4,10,10,10,10
+050,30,091,Montana,Sheridan County,2,1,5,0,0,0,0
+050,30,091,Montana,Sheridan County,2,1,6,23,23,23,24
+050,30,091,Montana,Sheridan County,2,2,1,20,20,20,25
+050,30,091,Montana,Sheridan County,2,2,2,0,0,0,0
+050,30,091,Montana,Sheridan County,2,2,3,2,2,2,3
+050,30,091,Montana,Sheridan County,2,2,4,0,0,0,0
+050,30,091,Montana,Sheridan County,2,2,5,0,0,0,0
+050,30,091,Montana,Sheridan County,2,2,6,5,5,5,5
+050,30,093,Montana,Silver Bow County,0,0,1,32543,32543,32578,32607
+050,30,093,Montana,Silver Bow County,0,0,2,117,117,117,160
+050,30,093,Montana,Silver Bow County,0,0,3,689,689,689,735
+050,30,093,Montana,Silver Bow County,0,0,4,169,169,167,168
+050,30,093,Montana,Silver Bow County,0,0,5,33,33,33,32
+050,30,093,Montana,Silver Bow County,0,0,6,649,649,649,681
+050,30,093,Montana,Silver Bow County,0,1,1,31541,31541,31576,31606
+050,30,093,Montana,Silver Bow County,0,1,2,104,104,104,144
+050,30,093,Montana,Silver Bow County,0,1,3,588,588,588,630
+050,30,093,Montana,Silver Bow County,0,1,4,161,161,159,160
+050,30,093,Montana,Silver Bow County,0,1,5,22,22,22,20
+050,30,093,Montana,Silver Bow County,0,1,6,531,531,531,563
+050,30,093,Montana,Silver Bow County,0,2,1,1002,1002,1002,1001
+050,30,093,Montana,Silver Bow County,0,2,2,13,13,13,16
+050,30,093,Montana,Silver Bow County,0,2,3,101,101,101,105
+050,30,093,Montana,Silver Bow County,0,2,4,8,8,8,8
+050,30,093,Montana,Silver Bow County,0,2,5,11,11,11,12
+050,30,093,Montana,Silver Bow County,0,2,6,118,118,118,118
+050,30,093,Montana,Silver Bow County,1,0,1,16405,16405,16434,16498
+050,30,093,Montana,Silver Bow County,1,0,2,79,79,79,107
+050,30,093,Montana,Silver Bow County,1,0,3,363,363,363,394
+050,30,093,Montana,Silver Bow County,1,0,4,71,71,70,65
+050,30,093,Montana,Silver Bow County,1,0,5,25,25,25,24
+050,30,093,Montana,Silver Bow County,1,0,6,328,328,328,352
+050,30,093,Montana,Silver Bow County,1,1,1,15900,15900,15929,16008
+050,30,093,Montana,Silver Bow County,1,1,2,69,69,69,95
+050,30,093,Montana,Silver Bow County,1,1,3,311,311,311,336
+050,30,093,Montana,Silver Bow County,1,1,4,68,68,67,62
+050,30,093,Montana,Silver Bow County,1,1,5,16,16,16,14
+050,30,093,Montana,Silver Bow County,1,1,6,272,272,272,295
+050,30,093,Montana,Silver Bow County,1,2,1,505,505,505,490
+050,30,093,Montana,Silver Bow County,1,2,2,10,10,10,12
+050,30,093,Montana,Silver Bow County,1,2,3,52,52,52,58
+050,30,093,Montana,Silver Bow County,1,2,4,3,3,3,3
+050,30,093,Montana,Silver Bow County,1,2,5,9,9,9,10
+050,30,093,Montana,Silver Bow County,1,2,6,56,56,56,57
+050,30,093,Montana,Silver Bow County,2,0,1,16138,16138,16144,16109
+050,30,093,Montana,Silver Bow County,2,0,2,38,38,38,53
+050,30,093,Montana,Silver Bow County,2,0,3,326,326,326,341
+050,30,093,Montana,Silver Bow County,2,0,4,98,98,97,103
+050,30,093,Montana,Silver Bow County,2,0,5,8,8,8,8
+050,30,093,Montana,Silver Bow County,2,0,6,321,321,321,329
+050,30,093,Montana,Silver Bow County,2,1,1,15641,15641,15647,15598
+050,30,093,Montana,Silver Bow County,2,1,2,35,35,35,49
+050,30,093,Montana,Silver Bow County,2,1,3,277,277,277,294
+050,30,093,Montana,Silver Bow County,2,1,4,93,93,92,98
+050,30,093,Montana,Silver Bow County,2,1,5,6,6,6,6
+050,30,093,Montana,Silver Bow County,2,1,6,259,259,259,268
+050,30,093,Montana,Silver Bow County,2,2,1,497,497,497,511
+050,30,093,Montana,Silver Bow County,2,2,2,3,3,3,4
+050,30,093,Montana,Silver Bow County,2,2,3,49,49,49,47
+050,30,093,Montana,Silver Bow County,2,2,4,5,5,5,5
+050,30,093,Montana,Silver Bow County,2,2,5,2,2,2,2
+050,30,093,Montana,Silver Bow County,2,2,6,62,62,62,61
+050,30,095,Montana,Stillwater County,0,0,1,8866,8866,8860,8856
+050,30,095,Montana,Stillwater County,0,0,2,15,15,15,22
+050,30,095,Montana,Stillwater County,0,0,3,73,73,73,76
+050,30,095,Montana,Stillwater County,0,0,4,29,29,28,30
+050,30,095,Montana,Stillwater County,0,0,5,2,2,2,2
+050,30,095,Montana,Stillwater County,0,0,6,132,132,132,145
+050,30,095,Montana,Stillwater County,0,1,1,8693,8693,8687,8680
+050,30,095,Montana,Stillwater County,0,1,2,9,9,9,14
+050,30,095,Montana,Stillwater County,0,1,3,54,54,54,58
+050,30,095,Montana,Stillwater County,0,1,4,28,28,27,29
+050,30,095,Montana,Stillwater County,0,1,5,1,1,1,1
+050,30,095,Montana,Stillwater County,0,1,6,118,118,118,132
+050,30,095,Montana,Stillwater County,0,2,1,173,173,173,176
+050,30,095,Montana,Stillwater County,0,2,2,6,6,6,8
+050,30,095,Montana,Stillwater County,0,2,3,19,19,19,18
+050,30,095,Montana,Stillwater County,0,2,4,1,1,1,1
+050,30,095,Montana,Stillwater County,0,2,5,1,1,1,1
+050,30,095,Montana,Stillwater County,0,2,6,14,14,14,13
+050,30,095,Montana,Stillwater County,1,0,1,4550,4550,4546,4552
+050,30,095,Montana,Stillwater County,1,0,2,9,9,9,14
+050,30,095,Montana,Stillwater County,1,0,3,38,38,38,40
+050,30,095,Montana,Stillwater County,1,0,4,10,10,9,11
+050,30,095,Montana,Stillwater County,1,0,5,1,1,1,1
+050,30,095,Montana,Stillwater County,1,0,6,66,66,66,74
+050,30,095,Montana,Stillwater County,1,1,1,4474,4474,4470,4477
+050,30,095,Montana,Stillwater County,1,1,2,6,6,6,10
+050,30,095,Montana,Stillwater County,1,1,3,25,25,25,28
+050,30,095,Montana,Stillwater County,1,1,4,10,10,9,11
+050,30,095,Montana,Stillwater County,1,1,5,1,1,1,1
+050,30,095,Montana,Stillwater County,1,1,6,57,57,57,66
+050,30,095,Montana,Stillwater County,1,2,1,76,76,76,75
+050,30,095,Montana,Stillwater County,1,2,2,3,3,3,4
+050,30,095,Montana,Stillwater County,1,2,3,13,13,13,12
+050,30,095,Montana,Stillwater County,1,2,4,0,0,0,0
+050,30,095,Montana,Stillwater County,1,2,5,0,0,0,0
+050,30,095,Montana,Stillwater County,1,2,6,9,9,9,8
+050,30,095,Montana,Stillwater County,2,0,1,4316,4316,4314,4304
+050,30,095,Montana,Stillwater County,2,0,2,6,6,6,8
+050,30,095,Montana,Stillwater County,2,0,3,35,35,35,36
+050,30,095,Montana,Stillwater County,2,0,4,19,19,19,19
+050,30,095,Montana,Stillwater County,2,0,5,1,1,1,1
+050,30,095,Montana,Stillwater County,2,0,6,66,66,66,71
+050,30,095,Montana,Stillwater County,2,1,1,4219,4219,4217,4203
+050,30,095,Montana,Stillwater County,2,1,2,3,3,3,4
+050,30,095,Montana,Stillwater County,2,1,3,29,29,29,30
+050,30,095,Montana,Stillwater County,2,1,4,18,18,18,18
+050,30,095,Montana,Stillwater County,2,1,5,0,0,0,0
+050,30,095,Montana,Stillwater County,2,1,6,61,61,61,66
+050,30,095,Montana,Stillwater County,2,2,1,97,97,97,101
+050,30,095,Montana,Stillwater County,2,2,2,3,3,3,4
+050,30,095,Montana,Stillwater County,2,2,3,6,6,6,6
+050,30,095,Montana,Stillwater County,2,2,4,1,1,1,1
+050,30,095,Montana,Stillwater County,2,2,5,1,1,1,1
+050,30,095,Montana,Stillwater County,2,2,6,5,5,5,5
+050,30,097,Montana,Sweet Grass County,0,0,1,3549,3549,3521,3498
+050,30,097,Montana,Sweet Grass County,0,0,2,4,4,4,8
+050,30,097,Montana,Sweet Grass County,0,0,3,17,17,17,24
+050,30,097,Montana,Sweet Grass County,0,0,4,24,24,24,26
+050,30,097,Montana,Sweet Grass County,0,0,5,1,1,1,1
+050,30,097,Montana,Sweet Grass County,0,0,6,56,56,56,66
+050,30,097,Montana,Sweet Grass County,0,1,1,3504,3504,3476,3439
+050,30,097,Montana,Sweet Grass County,0,1,2,4,4,4,8
+050,30,097,Montana,Sweet Grass County,0,1,3,15,15,15,16
+050,30,097,Montana,Sweet Grass County,0,1,4,22,22,22,24
+050,30,097,Montana,Sweet Grass County,0,1,5,1,1,1,1
+050,30,097,Montana,Sweet Grass County,0,1,6,54,54,54,64
+050,30,097,Montana,Sweet Grass County,0,2,1,45,45,45,59
+050,30,097,Montana,Sweet Grass County,0,2,2,0,0,0,0
+050,30,097,Montana,Sweet Grass County,0,2,3,2,2,2,8
+050,30,097,Montana,Sweet Grass County,0,2,4,2,2,2,2
+050,30,097,Montana,Sweet Grass County,0,2,5,0,0,0,0
+050,30,097,Montana,Sweet Grass County,0,2,6,2,2,2,2
+050,30,097,Montana,Sweet Grass County,1,0,1,1804,1804,1787,1762
+050,30,097,Montana,Sweet Grass County,1,0,2,3,3,3,4
+050,30,097,Montana,Sweet Grass County,1,0,3,6,6,6,9
+050,30,097,Montana,Sweet Grass County,1,0,4,11,11,11,12
+050,30,097,Montana,Sweet Grass County,1,0,5,0,0,0,0
+050,30,097,Montana,Sweet Grass County,1,0,6,22,22,22,26
+050,30,097,Montana,Sweet Grass County,1,1,1,1785,1785,1768,1736
+050,30,097,Montana,Sweet Grass County,1,1,2,3,3,3,4
+050,30,097,Montana,Sweet Grass County,1,1,3,5,5,5,5
+050,30,097,Montana,Sweet Grass County,1,1,4,11,11,11,12
+050,30,097,Montana,Sweet Grass County,1,1,5,0,0,0,0
+050,30,097,Montana,Sweet Grass County,1,1,6,21,21,21,25
+050,30,097,Montana,Sweet Grass County,1,2,1,19,19,19,26
+050,30,097,Montana,Sweet Grass County,1,2,2,0,0,0,0
+050,30,097,Montana,Sweet Grass County,1,2,3,1,1,1,4
+050,30,097,Montana,Sweet Grass County,1,2,4,0,0,0,0
+050,30,097,Montana,Sweet Grass County,1,2,5,0,0,0,0
+050,30,097,Montana,Sweet Grass County,1,2,6,1,1,1,1
+050,30,097,Montana,Sweet Grass County,2,0,1,1745,1745,1734,1736
+050,30,097,Montana,Sweet Grass County,2,0,2,1,1,1,4
+050,30,097,Montana,Sweet Grass County,2,0,3,11,11,11,15
+050,30,097,Montana,Sweet Grass County,2,0,4,13,13,13,14
+050,30,097,Montana,Sweet Grass County,2,0,5,1,1,1,1
+050,30,097,Montana,Sweet Grass County,2,0,6,34,34,34,40
+050,30,097,Montana,Sweet Grass County,2,1,1,1719,1719,1708,1703
+050,30,097,Montana,Sweet Grass County,2,1,2,1,1,1,4
+050,30,097,Montana,Sweet Grass County,2,1,3,10,10,10,11
+050,30,097,Montana,Sweet Grass County,2,1,4,11,11,11,12
+050,30,097,Montana,Sweet Grass County,2,1,5,1,1,1,1
+050,30,097,Montana,Sweet Grass County,2,1,6,33,33,33,39
+050,30,097,Montana,Sweet Grass County,2,2,1,26,26,26,33
+050,30,097,Montana,Sweet Grass County,2,2,2,0,0,0,0
+050,30,097,Montana,Sweet Grass County,2,2,3,1,1,1,4
+050,30,097,Montana,Sweet Grass County,2,2,4,2,2,2,2
+050,30,097,Montana,Sweet Grass County,2,2,5,0,0,0,0
+050,30,097,Montana,Sweet Grass County,2,2,6,1,1,1,1
+050,30,099,Montana,Teton County,0,0,1,5867,5867,5882,5872
+050,30,099,Montana,Teton County,0,0,2,3,3,3,6
+050,30,099,Montana,Teton County,0,0,3,88,88,88,90
+050,30,099,Montana,Teton County,0,0,4,8,8,8,10
+050,30,099,Montana,Teton County,0,0,5,1,1,1,1
+050,30,099,Montana,Teton County,0,0,6,106,106,106,112
+050,30,099,Montana,Teton County,0,1,1,5795,5795,5810,5794
+050,30,099,Montana,Teton County,0,1,2,3,3,3,6
+050,30,099,Montana,Teton County,0,1,3,86,86,86,88
+050,30,099,Montana,Teton County,0,1,4,8,8,8,10
+050,30,099,Montana,Teton County,0,1,5,1,1,1,1
+050,30,099,Montana,Teton County,0,1,6,104,104,104,109
+050,30,099,Montana,Teton County,0,2,1,72,72,72,78
+050,30,099,Montana,Teton County,0,2,2,0,0,0,0
+050,30,099,Montana,Teton County,0,2,3,2,2,2,2
+050,30,099,Montana,Teton County,0,2,4,0,0,0,0
+050,30,099,Montana,Teton County,0,2,5,0,0,0,0
+050,30,099,Montana,Teton County,0,2,6,2,2,2,3
+050,30,099,Montana,Teton County,1,0,1,2888,2888,2895,2904
+050,30,099,Montana,Teton County,1,0,2,2,2,2,2
+050,30,099,Montana,Teton County,1,0,3,44,44,44,44
+050,30,099,Montana,Teton County,1,0,4,4,4,4,5
+050,30,099,Montana,Teton County,1,0,5,0,0,0,0
+050,30,099,Montana,Teton County,1,0,6,57,57,57,62
+050,30,099,Montana,Teton County,1,1,1,2855,2855,2862,2867
+050,30,099,Montana,Teton County,1,1,2,2,2,2,2
+050,30,099,Montana,Teton County,1,1,3,44,44,44,44
+050,30,099,Montana,Teton County,1,1,4,4,4,4,5
+050,30,099,Montana,Teton County,1,1,5,0,0,0,0
+050,30,099,Montana,Teton County,1,1,6,56,56,56,60
+050,30,099,Montana,Teton County,1,2,1,33,33,33,37
+050,30,099,Montana,Teton County,1,2,2,0,0,0,0
+050,30,099,Montana,Teton County,1,2,3,0,0,0,0
+050,30,099,Montana,Teton County,1,2,4,0,0,0,0
+050,30,099,Montana,Teton County,1,2,5,0,0,0,0
+050,30,099,Montana,Teton County,1,2,6,1,1,1,2
+050,30,099,Montana,Teton County,2,0,1,2979,2979,2987,2968
+050,30,099,Montana,Teton County,2,0,2,1,1,1,4
+050,30,099,Montana,Teton County,2,0,3,44,44,44,46
+050,30,099,Montana,Teton County,2,0,4,4,4,4,5
+050,30,099,Montana,Teton County,2,0,5,1,1,1,1
+050,30,099,Montana,Teton County,2,0,6,49,49,49,50
+050,30,099,Montana,Teton County,2,1,1,2940,2940,2948,2927
+050,30,099,Montana,Teton County,2,1,2,1,1,1,4
+050,30,099,Montana,Teton County,2,1,3,42,42,42,44
+050,30,099,Montana,Teton County,2,1,4,4,4,4,5
+050,30,099,Montana,Teton County,2,1,5,1,1,1,1
+050,30,099,Montana,Teton County,2,1,6,48,48,48,49
+050,30,099,Montana,Teton County,2,2,1,39,39,39,41
+050,30,099,Montana,Teton County,2,2,2,0,0,0,0
+050,30,099,Montana,Teton County,2,2,3,2,2,2,2
+050,30,099,Montana,Teton County,2,2,4,0,0,0,0
+050,30,099,Montana,Teton County,2,2,5,0,0,0,0
+050,30,099,Montana,Teton County,2,2,6,1,1,1,1
+050,30,101,Montana,Toole County,0,0,1,4928,4928,4950,4807
+050,30,101,Montana,Toole County,0,0,2,30,30,30,32
+050,30,101,Montana,Toole County,0,0,3,245,245,245,265
+050,30,101,Montana,Toole County,0,0,4,23,23,23,30
+050,30,101,Montana,Toole County,0,0,5,2,2,2,3
+050,30,101,Montana,Toole County,0,0,6,96,96,96,102
+050,30,101,Montana,Toole County,0,1,1,4816,4816,4838,4686
+050,30,101,Montana,Toole County,0,1,2,28,28,28,30
+050,30,101,Montana,Toole County,0,1,3,233,233,233,248
+050,30,101,Montana,Toole County,0,1,4,23,23,23,30
+050,30,101,Montana,Toole County,0,1,5,1,1,1,2
+050,30,101,Montana,Toole County,0,1,6,94,94,94,100
+050,30,101,Montana,Toole County,0,2,1,112,112,112,121
+050,30,101,Montana,Toole County,0,2,2,2,2,2,2
+050,30,101,Montana,Toole County,0,2,3,12,12,12,17
+050,30,101,Montana,Toole County,0,2,4,0,0,0,0
+050,30,101,Montana,Toole County,0,2,5,1,1,1,1
+050,30,101,Montana,Toole County,0,2,6,2,2,2,2
+050,30,101,Montana,Toole County,1,0,1,2707,2707,2718,2652
+050,30,101,Montana,Toole County,1,0,2,25,25,25,26
+050,30,101,Montana,Toole County,1,0,3,174,174,174,179
+050,30,101,Montana,Toole County,1,0,4,13,13,13,14
+050,30,101,Montana,Toole County,1,0,5,2,2,2,3
+050,30,101,Montana,Toole County,1,0,6,45,45,45,50
+050,30,101,Montana,Toole County,1,1,1,2634,2634,2645,2576
+050,30,101,Montana,Toole County,1,1,2,23,23,23,24
+050,30,101,Montana,Toole County,1,1,3,166,166,166,168
+050,30,101,Montana,Toole County,1,1,4,13,13,13,14
+050,30,101,Montana,Toole County,1,1,5,1,1,1,2
+050,30,101,Montana,Toole County,1,1,6,44,44,44,49
+050,30,101,Montana,Toole County,1,2,1,73,73,73,76
+050,30,101,Montana,Toole County,1,2,2,2,2,2,2
+050,30,101,Montana,Toole County,1,2,3,8,8,8,11
+050,30,101,Montana,Toole County,1,2,4,0,0,0,0
+050,30,101,Montana,Toole County,1,2,5,1,1,1,1
+050,30,101,Montana,Toole County,1,2,6,1,1,1,1
+050,30,101,Montana,Toole County,2,0,1,2221,2221,2232,2155
+050,30,101,Montana,Toole County,2,0,2,5,5,5,6
+050,30,101,Montana,Toole County,2,0,3,71,71,71,86
+050,30,101,Montana,Toole County,2,0,4,10,10,10,16
+050,30,101,Montana,Toole County,2,0,5,0,0,0,0
+050,30,101,Montana,Toole County,2,0,6,51,51,51,52
+050,30,101,Montana,Toole County,2,1,1,2182,2182,2193,2110
+050,30,101,Montana,Toole County,2,1,2,5,5,5,6
+050,30,101,Montana,Toole County,2,1,3,67,67,67,80
+050,30,101,Montana,Toole County,2,1,4,10,10,10,16
+050,30,101,Montana,Toole County,2,1,5,0,0,0,0
+050,30,101,Montana,Toole County,2,1,6,50,50,50,51
+050,30,101,Montana,Toole County,2,2,1,39,39,39,45
+050,30,101,Montana,Toole County,2,2,2,0,0,0,0
+050,30,101,Montana,Toole County,2,2,3,4,4,4,6
+050,30,101,Montana,Toole County,2,2,4,0,0,0,0
+050,30,101,Montana,Toole County,2,2,5,0,0,0,0
+050,30,101,Montana,Toole County,2,2,6,1,1,1,1
+050,30,103,Montana,Treasure County,0,0,1,689,689,692,693
+050,30,103,Montana,Treasure County,0,0,2,0,0,0,0
+050,30,103,Montana,Treasure County,0,0,3,7,7,7,11
+050,30,103,Montana,Treasure County,0,0,4,3,3,3,4
+050,30,103,Montana,Treasure County,0,0,5,0,0,0,0
+050,30,103,Montana,Treasure County,0,0,6,19,19,19,19
+050,30,103,Montana,Treasure County,0,1,1,670,670,673,669
+050,30,103,Montana,Treasure County,0,1,2,0,0,0,0
+050,30,103,Montana,Treasure County,0,1,3,6,6,6,10
+050,30,103,Montana,Treasure County,0,1,4,3,3,3,4
+050,30,103,Montana,Treasure County,0,1,5,0,0,0,0
+050,30,103,Montana,Treasure County,0,1,6,14,14,14,14
+050,30,103,Montana,Treasure County,0,2,1,19,19,19,24
+050,30,103,Montana,Treasure County,0,2,2,0,0,0,0
+050,30,103,Montana,Treasure County,0,2,3,1,1,1,1
+050,30,103,Montana,Treasure County,0,2,4,0,0,0,0
+050,30,103,Montana,Treasure County,0,2,5,0,0,0,0
+050,30,103,Montana,Treasure County,0,2,6,5,5,5,5
+050,30,103,Montana,Treasure County,1,0,1,355,355,357,353
+050,30,103,Montana,Treasure County,1,0,2,0,0,0,0
+050,30,103,Montana,Treasure County,1,0,3,2,2,2,2
+050,30,103,Montana,Treasure County,1,0,4,0,0,0,0
+050,30,103,Montana,Treasure County,1,0,5,0,0,0,0
+050,30,103,Montana,Treasure County,1,0,6,12,12,12,12
+050,30,103,Montana,Treasure County,1,1,1,341,341,343,337
+050,30,103,Montana,Treasure County,1,1,2,0,0,0,0
+050,30,103,Montana,Treasure County,1,1,3,2,2,2,2
+050,30,103,Montana,Treasure County,1,1,4,0,0,0,0
+050,30,103,Montana,Treasure County,1,1,5,0,0,0,0
+050,30,103,Montana,Treasure County,1,1,6,9,9,9,9
+050,30,103,Montana,Treasure County,1,2,1,14,14,14,16
+050,30,103,Montana,Treasure County,1,2,2,0,0,0,0
+050,30,103,Montana,Treasure County,1,2,3,0,0,0,0
+050,30,103,Montana,Treasure County,1,2,4,0,0,0,0
+050,30,103,Montana,Treasure County,1,2,5,0,0,0,0
+050,30,103,Montana,Treasure County,1,2,6,3,3,3,3
+050,30,103,Montana,Treasure County,2,0,1,334,334,335,340
+050,30,103,Montana,Treasure County,2,0,2,0,0,0,0
+050,30,103,Montana,Treasure County,2,0,3,5,5,5,9
+050,30,103,Montana,Treasure County,2,0,4,3,3,3,4
+050,30,103,Montana,Treasure County,2,0,5,0,0,0,0
+050,30,103,Montana,Treasure County,2,0,6,7,7,7,7
+050,30,103,Montana,Treasure County,2,1,1,329,329,330,332
+050,30,103,Montana,Treasure County,2,1,2,0,0,0,0
+050,30,103,Montana,Treasure County,2,1,3,4,4,4,8
+050,30,103,Montana,Treasure County,2,1,4,3,3,3,4
+050,30,103,Montana,Treasure County,2,1,5,0,0,0,0
+050,30,103,Montana,Treasure County,2,1,6,5,5,5,5
+050,30,103,Montana,Treasure County,2,2,1,5,5,5,8
+050,30,103,Montana,Treasure County,2,2,2,0,0,0,0
+050,30,103,Montana,Treasure County,2,2,3,1,1,1,1
+050,30,103,Montana,Treasure County,2,2,4,0,0,0,0
+050,30,103,Montana,Treasure County,2,2,5,0,0,0,0
+050,30,103,Montana,Treasure County,2,2,6,2,2,2,2
+050,30,105,Montana,Valley County,0,0,1,6435,6435,6443,6511
+050,30,105,Montana,Valley County,0,0,2,17,17,17,28
+050,30,105,Montana,Valley County,0,0,3,730,730,730,746
+050,30,105,Montana,Valley County,0,0,4,37,37,36,39
+050,30,105,Montana,Valley County,0,0,5,3,3,3,3
+050,30,105,Montana,Valley County,0,0,6,147,147,147,160
+050,30,105,Montana,Valley County,0,1,1,6366,6366,6374,6427
+050,30,105,Montana,Valley County,0,1,2,17,17,17,28
+050,30,105,Montana,Valley County,0,1,3,717,717,717,724
+050,30,105,Montana,Valley County,0,1,4,36,36,35,38
+050,30,105,Montana,Valley County,0,1,5,3,3,3,3
+050,30,105,Montana,Valley County,0,1,6,139,139,139,148
+050,30,105,Montana,Valley County,0,2,1,69,69,69,84
+050,30,105,Montana,Valley County,0,2,2,0,0,0,0
+050,30,105,Montana,Valley County,0,2,3,13,13,13,22
+050,30,105,Montana,Valley County,0,2,4,1,1,1,1
+050,30,105,Montana,Valley County,0,2,5,0,0,0,0
+050,30,105,Montana,Valley County,0,2,6,8,8,8,12
+050,30,105,Montana,Valley County,1,0,1,3207,3207,3213,3267
+050,30,105,Montana,Valley County,1,0,2,14,14,14,20
+050,30,105,Montana,Valley County,1,0,3,355,355,355,364
+050,30,105,Montana,Valley County,1,0,4,11,11,11,12
+050,30,105,Montana,Valley County,1,0,5,3,3,3,3
+050,30,105,Montana,Valley County,1,0,6,74,74,74,80
+050,30,105,Montana,Valley County,1,1,1,3173,3173,3179,3222
+050,30,105,Montana,Valley County,1,1,2,14,14,14,20
+050,30,105,Montana,Valley County,1,1,3,349,349,349,355
+050,30,105,Montana,Valley County,1,1,4,11,11,11,12
+050,30,105,Montana,Valley County,1,1,5,3,3,3,3
+050,30,105,Montana,Valley County,1,1,6,71,71,71,77
+050,30,105,Montana,Valley County,1,2,1,34,34,34,45
+050,30,105,Montana,Valley County,1,2,2,0,0,0,0
+050,30,105,Montana,Valley County,1,2,3,6,6,6,9
+050,30,105,Montana,Valley County,1,2,4,0,0,0,0
+050,30,105,Montana,Valley County,1,2,5,0,0,0,0
+050,30,105,Montana,Valley County,1,2,6,3,3,3,3
+050,30,105,Montana,Valley County,2,0,1,3228,3228,3230,3244
+050,30,105,Montana,Valley County,2,0,2,3,3,3,8
+050,30,105,Montana,Valley County,2,0,3,375,375,375,382
+050,30,105,Montana,Valley County,2,0,4,26,26,25,27
+050,30,105,Montana,Valley County,2,0,5,0,0,0,0
+050,30,105,Montana,Valley County,2,0,6,73,73,73,80
+050,30,105,Montana,Valley County,2,1,1,3193,3193,3195,3205
+050,30,105,Montana,Valley County,2,1,2,3,3,3,8
+050,30,105,Montana,Valley County,2,1,3,368,368,368,369
+050,30,105,Montana,Valley County,2,1,4,25,25,24,26
+050,30,105,Montana,Valley County,2,1,5,0,0,0,0
+050,30,105,Montana,Valley County,2,1,6,68,68,68,71
+050,30,105,Montana,Valley County,2,2,1,35,35,35,39
+050,30,105,Montana,Valley County,2,2,2,0,0,0,0
+050,30,105,Montana,Valley County,2,2,3,7,7,7,13
+050,30,105,Montana,Valley County,2,2,4,1,1,1,1
+050,30,105,Montana,Valley County,2,2,5,0,0,0,0
+050,30,105,Montana,Valley County,2,2,6,5,5,5,9
+050,30,107,Montana,Wheatland County,0,0,1,2095,2095,2089,2062
+050,30,107,Montana,Wheatland County,0,0,2,7,7,7,6
+050,30,107,Montana,Wheatland County,0,0,3,10,10,10,11
+050,30,107,Montana,Wheatland County,0,0,4,12,12,12,12
+050,30,107,Montana,Wheatland County,0,0,5,0,0,0,0
+050,30,107,Montana,Wheatland County,0,0,6,44,44,44,49
+050,30,107,Montana,Wheatland County,0,1,1,2067,2067,2061,2029
+050,30,107,Montana,Wheatland County,0,1,2,7,7,7,6
+050,30,107,Montana,Wheatland County,0,1,3,9,9,9,10
+050,30,107,Montana,Wheatland County,0,1,4,11,11,11,11
+050,30,107,Montana,Wheatland County,0,1,5,0,0,0,0
+050,30,107,Montana,Wheatland County,0,1,6,42,42,42,47
+050,30,107,Montana,Wheatland County,0,2,1,28,28,28,33
+050,30,107,Montana,Wheatland County,0,2,2,0,0,0,0
+050,30,107,Montana,Wheatland County,0,2,3,1,1,1,1
+050,30,107,Montana,Wheatland County,0,2,4,1,1,1,1
+050,30,107,Montana,Wheatland County,0,2,5,0,0,0,0
+050,30,107,Montana,Wheatland County,0,2,6,2,2,2,2
+050,30,107,Montana,Wheatland County,1,0,1,1029,1029,1026,1012
+050,30,107,Montana,Wheatland County,1,0,2,4,4,4,4
+050,30,107,Montana,Wheatland County,1,0,3,2,2,2,3
+050,30,107,Montana,Wheatland County,1,0,4,5,5,5,5
+050,30,107,Montana,Wheatland County,1,0,5,0,0,0,0
+050,30,107,Montana,Wheatland County,1,0,6,29,29,29,33
+050,30,107,Montana,Wheatland County,1,1,1,1015,1015,1012,997
+050,30,107,Montana,Wheatland County,1,1,2,4,4,4,4
+050,30,107,Montana,Wheatland County,1,1,3,1,1,1,2
+050,30,107,Montana,Wheatland County,1,1,4,5,5,5,5
+050,30,107,Montana,Wheatland County,1,1,5,0,0,0,0
+050,30,107,Montana,Wheatland County,1,1,6,27,27,27,31
+050,30,107,Montana,Wheatland County,1,2,1,14,14,14,15
+050,30,107,Montana,Wheatland County,1,2,2,0,0,0,0
+050,30,107,Montana,Wheatland County,1,2,3,1,1,1,1
+050,30,107,Montana,Wheatland County,1,2,4,0,0,0,0
+050,30,107,Montana,Wheatland County,1,2,5,0,0,0,0
+050,30,107,Montana,Wheatland County,1,2,6,2,2,2,2
+050,30,107,Montana,Wheatland County,2,0,1,1066,1066,1063,1050
+050,30,107,Montana,Wheatland County,2,0,2,3,3,3,2
+050,30,107,Montana,Wheatland County,2,0,3,8,8,8,8
+050,30,107,Montana,Wheatland County,2,0,4,7,7,7,7
+050,30,107,Montana,Wheatland County,2,0,5,0,0,0,0
+050,30,107,Montana,Wheatland County,2,0,6,15,15,15,16
+050,30,107,Montana,Wheatland County,2,1,1,1052,1052,1049,1032
+050,30,107,Montana,Wheatland County,2,1,2,3,3,3,2
+050,30,107,Montana,Wheatland County,2,1,3,8,8,8,8
+050,30,107,Montana,Wheatland County,2,1,4,6,6,6,6
+050,30,107,Montana,Wheatland County,2,1,5,0,0,0,0
+050,30,107,Montana,Wheatland County,2,1,6,15,15,15,16
+050,30,107,Montana,Wheatland County,2,2,1,14,14,14,18
+050,30,107,Montana,Wheatland County,2,2,2,0,0,0,0
+050,30,107,Montana,Wheatland County,2,2,3,0,0,0,0
+050,30,107,Montana,Wheatland County,2,2,4,1,1,1,1
+050,30,107,Montana,Wheatland County,2,2,5,0,0,0,0
+050,30,107,Montana,Wheatland County,2,2,6,0,0,0,0
+050,30,109,Montana,Wibaux County,0,0,1,999,999,991,967
+050,30,109,Montana,Wibaux County,0,0,2,0,0,0,0
+050,30,109,Montana,Wibaux County,0,0,3,4,4,4,4
+050,30,109,Montana,Wibaux County,0,0,4,5,5,5,5
+050,30,109,Montana,Wibaux County,0,0,5,0,0,0,0
+050,30,109,Montana,Wibaux County,0,0,6,9,9,9,9
+050,30,109,Montana,Wibaux County,0,1,1,987,987,979,952
+050,30,109,Montana,Wibaux County,0,1,2,0,0,0,0
+050,30,109,Montana,Wibaux County,0,1,3,4,4,4,4
+050,30,109,Montana,Wibaux County,0,1,4,5,5,5,5
+050,30,109,Montana,Wibaux County,0,1,5,0,0,0,0
+050,30,109,Montana,Wibaux County,0,1,6,8,8,8,8
+050,30,109,Montana,Wibaux County,0,2,1,12,12,12,15
+050,30,109,Montana,Wibaux County,0,2,2,0,0,0,0
+050,30,109,Montana,Wibaux County,0,2,3,0,0,0,0
+050,30,109,Montana,Wibaux County,0,2,4,0,0,0,0
+050,30,109,Montana,Wibaux County,0,2,5,0,0,0,0
+050,30,109,Montana,Wibaux County,0,2,6,1,1,1,1
+050,30,109,Montana,Wibaux County,1,0,1,506,506,501,495
+050,30,109,Montana,Wibaux County,1,0,2,0,0,0,0
+050,30,109,Montana,Wibaux County,1,0,3,2,2,2,2
+050,30,109,Montana,Wibaux County,1,0,4,2,2,2,2
+050,30,109,Montana,Wibaux County,1,0,5,0,0,0,0
+050,30,109,Montana,Wibaux County,1,0,6,3,3,3,3
+050,30,109,Montana,Wibaux County,1,1,1,502,502,497,488
+050,30,109,Montana,Wibaux County,1,1,2,0,0,0,0
+050,30,109,Montana,Wibaux County,1,1,3,2,2,2,2
+050,30,109,Montana,Wibaux County,1,1,4,2,2,2,2
+050,30,109,Montana,Wibaux County,1,1,5,0,0,0,0
+050,30,109,Montana,Wibaux County,1,1,6,3,3,3,3
+050,30,109,Montana,Wibaux County,1,2,1,4,4,4,7
+050,30,109,Montana,Wibaux County,1,2,2,0,0,0,0
+050,30,109,Montana,Wibaux County,1,2,3,0,0,0,0
+050,30,109,Montana,Wibaux County,1,2,4,0,0,0,0
+050,30,109,Montana,Wibaux County,1,2,5,0,0,0,0
+050,30,109,Montana,Wibaux County,1,2,6,0,0,0,0
+050,30,109,Montana,Wibaux County,2,0,1,493,493,490,472
+050,30,109,Montana,Wibaux County,2,0,2,0,0,0,0
+050,30,109,Montana,Wibaux County,2,0,3,2,2,2,2
+050,30,109,Montana,Wibaux County,2,0,4,3,3,3,3
+050,30,109,Montana,Wibaux County,2,0,5,0,0,0,0
+050,30,109,Montana,Wibaux County,2,0,6,6,6,6,6
+050,30,109,Montana,Wibaux County,2,1,1,485,485,482,464
+050,30,109,Montana,Wibaux County,2,1,2,0,0,0,0
+050,30,109,Montana,Wibaux County,2,1,3,2,2,2,2
+050,30,109,Montana,Wibaux County,2,1,4,3,3,3,3
+050,30,109,Montana,Wibaux County,2,1,5,0,0,0,0
+050,30,109,Montana,Wibaux County,2,1,6,5,5,5,5
+050,30,109,Montana,Wibaux County,2,2,1,8,8,8,8
+050,30,109,Montana,Wibaux County,2,2,2,0,0,0,0
+050,30,109,Montana,Wibaux County,2,2,3,0,0,0,0
+050,30,109,Montana,Wibaux County,2,2,4,0,0,0,0
+050,30,109,Montana,Wibaux County,2,2,5,0,0,0,0
+050,30,109,Montana,Wibaux County,2,2,6,1,1,1,1
+050,30,111,Montana,Yellowstone County,0,0,1,136095,136095,136415,137523
+050,30,111,Montana,Yellowstone County,0,0,2,993,993,993,1148
+050,30,111,Montana,Yellowstone County,0,0,3,6188,6188,6255,6393
+050,30,111,Montana,Yellowstone County,0,0,4,969,969,973,1052
+050,30,111,Montana,Yellowstone County,0,0,5,123,123,123,142
+050,30,111,Montana,Yellowstone County,0,0,6,3604,3604,3691,3811
+050,30,111,Montana,Yellowstone County,0,1,1,130586,130586,130809,131816
+050,30,111,Montana,Yellowstone County,0,1,2,856,856,856,1012
+050,30,111,Montana,Yellowstone County,0,1,3,5388,5388,5451,5648
+050,30,111,Montana,Yellowstone County,0,1,4,919,919,924,996
+050,30,111,Montana,Yellowstone County,0,1,5,104,104,104,121
+050,30,111,Montana,Yellowstone County,0,1,6,3164,3164,3247,3345
+050,30,111,Montana,Yellowstone County,0,2,1,5509,5509,5606,5707
+050,30,111,Montana,Yellowstone County,0,2,2,137,137,137,136
+050,30,111,Montana,Yellowstone County,0,2,3,800,800,804,745
+050,30,111,Montana,Yellowstone County,0,2,4,50,50,49,56
+050,30,111,Montana,Yellowstone County,0,2,5,19,19,19,21
+050,30,111,Montana,Yellowstone County,0,2,6,440,440,444,466
+050,30,111,Montana,Yellowstone County,1,0,1,66524,66524,66704,67266
+050,30,111,Montana,Yellowstone County,1,0,2,646,646,646,713
+050,30,111,Montana,Yellowstone County,1,0,3,2923,2923,2959,3028
+050,30,111,Montana,Yellowstone County,1,0,4,381,381,376,390
+050,30,111,Montana,Yellowstone County,1,0,5,81,81,81,85
+050,30,111,Montana,Yellowstone County,1,0,6,1830,1830,1874,1949
+050,30,111,Montana,Yellowstone County,1,1,1,63692,63692,63818,64346
+050,30,111,Montana,Yellowstone County,1,1,2,573,573,573,642
+050,30,111,Montana,Yellowstone County,1,1,3,2531,2531,2563,2657
+050,30,111,Montana,Yellowstone County,1,1,4,357,357,352,362
+050,30,111,Montana,Yellowstone County,1,1,5,70,70,70,75
+050,30,111,Montana,Yellowstone County,1,1,6,1592,1592,1635,1713
+050,30,111,Montana,Yellowstone County,1,2,1,2832,2832,2886,2920
+050,30,111,Montana,Yellowstone County,1,2,2,73,73,73,71
+050,30,111,Montana,Yellowstone County,1,2,3,392,392,396,371
+050,30,111,Montana,Yellowstone County,1,2,4,24,24,24,28
+050,30,111,Montana,Yellowstone County,1,2,5,11,11,11,10
+050,30,111,Montana,Yellowstone County,1,2,6,238,238,239,236
+050,30,111,Montana,Yellowstone County,2,0,1,69571,69571,69711,70257
+050,30,111,Montana,Yellowstone County,2,0,2,347,347,347,435
+050,30,111,Montana,Yellowstone County,2,0,3,3265,3265,3296,3365
+050,30,111,Montana,Yellowstone County,2,0,4,588,588,597,662
+050,30,111,Montana,Yellowstone County,2,0,5,42,42,42,57
+050,30,111,Montana,Yellowstone County,2,0,6,1774,1774,1817,1862
+050,30,111,Montana,Yellowstone County,2,1,1,66894,66894,66991,67470
+050,30,111,Montana,Yellowstone County,2,1,2,283,283,283,370
+050,30,111,Montana,Yellowstone County,2,1,3,2857,2857,2888,2991
+050,30,111,Montana,Yellowstone County,2,1,4,562,562,572,634
+050,30,111,Montana,Yellowstone County,2,1,5,34,34,34,46
+050,30,111,Montana,Yellowstone County,2,1,6,1572,1572,1612,1632
+050,30,111,Montana,Yellowstone County,2,2,1,2677,2677,2720,2787
+050,30,111,Montana,Yellowstone County,2,2,2,64,64,64,65
+050,30,111,Montana,Yellowstone County,2,2,3,408,408,408,374
+050,30,111,Montana,Yellowstone County,2,2,4,26,26,25,28
+050,30,111,Montana,Yellowstone County,2,2,5,8,8,8,11
+050,30,111,Montana,Yellowstone County,2,2,6,202,202,205,230

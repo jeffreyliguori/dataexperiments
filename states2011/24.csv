@@ -1,0 +1,1297 @@
+SUMLEV,STATE,COUNTY,STNAME,CTYNAME,SEX,ORIGIN,RACE,CENSUS2010POP,ESTIMATESBASE2010,POPESTIMATE2010,POPESTIMATE2011
+050,24,001,Maryland,Allegany County,0,0,1,67173,67173,67069,66525
+050,24,001,Maryland,Allegany County,0,0,2,6061,6061,6080,6196
+050,24,001,Maryland,Allegany County,0,0,3,112,112,112,118
+050,24,001,Maryland,Allegany County,0,0,4,579,579,613,632
+050,24,001,Maryland,Allegany County,0,0,5,35,35,35,35
+050,24,001,Maryland,Allegany County,0,0,6,1127,1127,1150,1186
+050,24,001,Maryland,Allegany County,0,1,1,66262,66262,66153,65575
+050,24,001,Maryland,Allegany County,0,1,2,5975,5975,5994,6109
+050,24,001,Maryland,Allegany County,0,1,3,90,90,90,97
+050,24,001,Maryland,Allegany County,0,1,4,572,572,606,623
+050,24,001,Maryland,Allegany County,0,1,5,26,26,26,26
+050,24,001,Maryland,Allegany County,0,1,6,1077,1077,1100,1132
+050,24,001,Maryland,Allegany County,0,2,1,911,911,916,950
+050,24,001,Maryland,Allegany County,0,2,2,86,86,86,87
+050,24,001,Maryland,Allegany County,0,2,3,22,22,22,21
+050,24,001,Maryland,Allegany County,0,2,4,7,7,7,9
+050,24,001,Maryland,Allegany County,0,2,5,9,9,9,9
+050,24,001,Maryland,Allegany County,0,2,6,50,50,50,54
+050,24,001,Maryland,Allegany County,1,0,1,33210,33210,33160,32955
+050,24,001,Maryland,Allegany County,1,0,2,4734,4734,4746,4814
+050,24,001,Maryland,Allegany County,1,0,3,59,59,59,61
+050,24,001,Maryland,Allegany County,1,0,4,276,276,290,300
+050,24,001,Maryland,Allegany County,1,0,5,17,17,17,17
+050,24,001,Maryland,Allegany County,1,0,6,546,546,556,589
+050,24,001,Maryland,Allegany County,1,1,1,32588,32588,32538,32315
+050,24,001,Maryland,Allegany County,1,1,2,4676,4676,4688,4757
+050,24,001,Maryland,Allegany County,1,1,3,47,47,47,50
+050,24,001,Maryland,Allegany County,1,1,4,272,272,286,296
+050,24,001,Maryland,Allegany County,1,1,5,10,10,10,10
+050,24,001,Maryland,Allegany County,1,1,6,522,522,532,562
+050,24,001,Maryland,Allegany County,1,2,1,622,622,622,640
+050,24,001,Maryland,Allegany County,1,2,2,58,58,58,57
+050,24,001,Maryland,Allegany County,1,2,3,12,12,12,11
+050,24,001,Maryland,Allegany County,1,2,4,4,4,4,4
+050,24,001,Maryland,Allegany County,1,2,5,7,7,7,7
+050,24,001,Maryland,Allegany County,1,2,6,24,24,24,27
+050,24,001,Maryland,Allegany County,2,0,1,33963,33963,33909,33570
+050,24,001,Maryland,Allegany County,2,0,2,1327,1327,1334,1382
+050,24,001,Maryland,Allegany County,2,0,3,53,53,53,57
+050,24,001,Maryland,Allegany County,2,0,4,303,303,323,332
+050,24,001,Maryland,Allegany County,2,0,5,18,18,18,18
+050,24,001,Maryland,Allegany County,2,0,6,581,581,594,597
+050,24,001,Maryland,Allegany County,2,1,1,33674,33674,33615,33260
+050,24,001,Maryland,Allegany County,2,1,2,1299,1299,1306,1352
+050,24,001,Maryland,Allegany County,2,1,3,43,43,43,47
+050,24,001,Maryland,Allegany County,2,1,4,300,300,320,327
+050,24,001,Maryland,Allegany County,2,1,5,16,16,16,16
+050,24,001,Maryland,Allegany County,2,1,6,555,555,568,570
+050,24,001,Maryland,Allegany County,2,2,1,289,289,294,310
+050,24,001,Maryland,Allegany County,2,2,2,28,28,28,30
+050,24,001,Maryland,Allegany County,2,2,3,10,10,10,10
+050,24,001,Maryland,Allegany County,2,2,4,3,3,3,5
+050,24,001,Maryland,Allegany County,2,2,5,2,2,2,2
+050,24,001,Maryland,Allegany County,2,2,6,26,26,26,27
+050,24,003,Maryland,Anne Arundel County,0,0,1,417210,417210,418110,419874
+050,24,003,Maryland,Anne Arundel County,0,0,2,85068,85068,85504,87789
+050,24,003,Maryland,Anne Arundel County,0,0,3,2108,2108,2108,2185
+050,24,003,Maryland,Anne Arundel County,0,0,4,18701,18701,18840,19514
+050,24,003,Maryland,Anne Arundel County,0,0,5,606,606,605,611
+050,24,003,Maryland,Anne Arundel County,0,0,6,13963,13963,14074,14430
+050,24,003,Maryland,Anne Arundel County,0,1,1,390091,390091,390773,391328
+050,24,003,Maryland,Anne Arundel County,0,1,2,82209,82209,82628,84819
+050,24,003,Maryland,Anne Arundel County,0,1,3,1382,1382,1381,1428
+050,24,003,Maryland,Anne Arundel County,0,1,4,18359,18359,18498,19170
+050,24,003,Maryland,Anne Arundel County,0,1,5,404,404,403,407
+050,24,003,Maryland,Anne Arundel County,0,1,6,12309,12309,12413,12662
+050,24,003,Maryland,Anne Arundel County,0,2,1,27119,27119,27337,28546
+050,24,003,Maryland,Anne Arundel County,0,2,2,2859,2859,2876,2970
+050,24,003,Maryland,Anne Arundel County,0,2,3,726,726,727,757
+050,24,003,Maryland,Anne Arundel County,0,2,4,342,342,342,344
+050,24,003,Maryland,Anne Arundel County,0,2,5,202,202,202,204
+050,24,003,Maryland,Anne Arundel County,0,2,6,1654,1654,1661,1768
+050,24,003,Maryland,Anne Arundel County,1,0,1,207525,207525,208009,208768
+050,24,003,Maryland,Anne Arundel County,1,0,2,41390,41390,41605,42813
+050,24,003,Maryland,Anne Arundel County,1,0,3,1091,1091,1091,1129
+050,24,003,Maryland,Anne Arundel County,1,0,4,8595,8595,8660,8934
+050,24,003,Maryland,Anne Arundel County,1,0,5,302,302,301,312
+050,24,003,Maryland,Anne Arundel County,1,0,6,6860,6860,6918,7162
+050,24,003,Maryland,Anne Arundel County,1,1,1,193177,193177,193539,193672
+050,24,003,Maryland,Anne Arundel County,1,1,2,39963,39963,40169,41336
+050,24,003,Maryland,Anne Arundel County,1,1,3,697,697,697,715
+050,24,003,Maryland,Anne Arundel County,1,1,4,8417,8417,8482,8753
+050,24,003,Maryland,Anne Arundel County,1,1,5,189,189,188,196
+050,24,003,Maryland,Anne Arundel County,1,1,6,6008,6008,6063,6247
+050,24,003,Maryland,Anne Arundel County,1,2,1,14348,14348,14470,15096
+050,24,003,Maryland,Anne Arundel County,1,2,2,1427,1427,1436,1477
+050,24,003,Maryland,Anne Arundel County,1,2,3,394,394,394,414
+050,24,003,Maryland,Anne Arundel County,1,2,4,178,178,178,181
+050,24,003,Maryland,Anne Arundel County,1,2,5,113,113,113,116
+050,24,003,Maryland,Anne Arundel County,1,2,6,852,852,855,915
+050,24,003,Maryland,Anne Arundel County,2,0,1,209685,209685,210101,211106
+050,24,003,Maryland,Anne Arundel County,2,0,2,43678,43678,43899,44976
+050,24,003,Maryland,Anne Arundel County,2,0,3,1017,1017,1017,1056
+050,24,003,Maryland,Anne Arundel County,2,0,4,10106,10106,10180,10580
+050,24,003,Maryland,Anne Arundel County,2,0,5,304,304,304,299
+050,24,003,Maryland,Anne Arundel County,2,0,6,7103,7103,7156,7268
+050,24,003,Maryland,Anne Arundel County,2,1,1,196914,196914,197234,197656
+050,24,003,Maryland,Anne Arundel County,2,1,2,42246,42246,42459,43483
+050,24,003,Maryland,Anne Arundel County,2,1,3,685,685,684,713
+050,24,003,Maryland,Anne Arundel County,2,1,4,9942,9942,10016,10417
+050,24,003,Maryland,Anne Arundel County,2,1,5,215,215,215,211
+050,24,003,Maryland,Anne Arundel County,2,1,6,6301,6301,6350,6415
+050,24,003,Maryland,Anne Arundel County,2,2,1,12771,12771,12867,13450
+050,24,003,Maryland,Anne Arundel County,2,2,2,1432,1432,1440,1493
+050,24,003,Maryland,Anne Arundel County,2,2,3,332,332,333,343
+050,24,003,Maryland,Anne Arundel County,2,2,4,164,164,164,163
+050,24,003,Maryland,Anne Arundel County,2,2,5,89,89,89,88
+050,24,003,Maryland,Anne Arundel County,2,2,6,802,802,806,853
+050,24,005,Maryland,Baltimore County,0,0,1,531245,531245,531100,529578
+050,24,005,Maryland,Baltimore County,0,0,2,212415,212415,213138,216774
+050,24,005,Maryland,Baltimore County,0,0,3,3202,3202,3216,3225
+050,24,005,Maryland,Baltimore County,0,0,4,41011,41011,41199,42454
+050,24,005,Maryland,Baltimore County,0,0,5,506,506,514,548
+050,24,005,Maryland,Baltimore County,0,0,6,16650,16650,16797,17362
+050,24,005,Maryland,Baltimore County,0,1,1,505619,505619,505289,502440
+050,24,005,Maryland,Baltimore County,0,1,2,207718,207718,208398,211909
+050,24,005,Maryland,Baltimore County,0,1,3,2139,2139,2150,2115
+050,24,005,Maryland,Baltimore County,0,1,4,40546,40546,40732,41930
+050,24,005,Maryland,Baltimore County,0,1,5,277,277,280,309
+050,24,005,Maryland,Baltimore County,0,1,6,14995,14995,15124,15607
+050,24,005,Maryland,Baltimore County,0,2,1,25626,25626,25811,27138
+050,24,005,Maryland,Baltimore County,0,2,2,4697,4697,4740,4865
+050,24,005,Maryland,Baltimore County,0,2,3,1063,1063,1066,1110
+050,24,005,Maryland,Baltimore County,0,2,4,465,465,467,524
+050,24,005,Maryland,Baltimore County,0,2,5,229,229,234,239
+050,24,005,Maryland,Baltimore County,0,2,6,1655,1655,1673,1755
+050,24,005,Maryland,Baltimore County,1,0,1,254763,254763,254775,254382
+050,24,005,Maryland,Baltimore County,1,0,2,95716,95716,96076,97714
+050,24,005,Maryland,Baltimore County,1,0,3,1593,1593,1602,1624
+050,24,005,Maryland,Baltimore County,1,0,4,20089,20089,20182,20705
+050,24,005,Maryland,Baltimore County,1,0,5,261,261,264,281
+050,24,005,Maryland,Baltimore County,1,0,6,7987,7987,8067,8317
+050,24,005,Maryland,Baltimore County,1,1,1,241206,241206,241114,240041
+050,24,005,Maryland,Baltimore County,1,1,2,93417,93417,93756,95345
+050,24,005,Maryland,Baltimore County,1,1,3,1020,1020,1027,1001
+050,24,005,Maryland,Baltimore County,1,1,4,19850,19850,19941,20430
+050,24,005,Maryland,Baltimore County,1,1,5,143,143,144,164
+050,24,005,Maryland,Baltimore County,1,1,6,7178,7178,7250,7449
+050,24,005,Maryland,Baltimore County,1,2,1,13557,13557,13661,14341
+050,24,005,Maryland,Baltimore County,1,2,2,2299,2299,2320,2369
+050,24,005,Maryland,Baltimore County,1,2,3,573,573,575,623
+050,24,005,Maryland,Baltimore County,1,2,4,239,239,241,275
+050,24,005,Maryland,Baltimore County,1,2,5,118,118,120,117
+050,24,005,Maryland,Baltimore County,1,2,6,809,809,817,868
+050,24,005,Maryland,Baltimore County,2,0,1,276482,276482,276325,275196
+050,24,005,Maryland,Baltimore County,2,0,2,116699,116699,117062,119060
+050,24,005,Maryland,Baltimore County,2,0,3,1609,1609,1614,1601
+050,24,005,Maryland,Baltimore County,2,0,4,20922,20922,21017,21749
+050,24,005,Maryland,Baltimore County,2,0,5,245,245,250,267
+050,24,005,Maryland,Baltimore County,2,0,6,8663,8663,8730,9045
+050,24,005,Maryland,Baltimore County,2,1,1,264413,264413,264175,262399
+050,24,005,Maryland,Baltimore County,2,1,2,114301,114301,114642,116564
+050,24,005,Maryland,Baltimore County,2,1,3,1119,1119,1123,1114
+050,24,005,Maryland,Baltimore County,2,1,4,20696,20696,20791,21500
+050,24,005,Maryland,Baltimore County,2,1,5,134,134,136,145
+050,24,005,Maryland,Baltimore County,2,1,6,7817,7817,7874,8158
+050,24,005,Maryland,Baltimore County,2,2,1,12069,12069,12150,12797
+050,24,005,Maryland,Baltimore County,2,2,2,2398,2398,2420,2496
+050,24,005,Maryland,Baltimore County,2,2,3,490,490,491,487
+050,24,005,Maryland,Baltimore County,2,2,4,226,226,226,249
+050,24,005,Maryland,Baltimore County,2,2,5,111,111,114,122
+050,24,005,Maryland,Baltimore County,2,2,6,846,846,856,887
+050,24,009,Maryland,Calvert County,0,0,1,72777,72777,72866,72951
+050,24,009,Maryland,Calvert County,0,0,2,12033,12033,12111,12305
+050,24,009,Maryland,Calvert County,0,0,3,350,350,350,362
+050,24,009,Maryland,Calvert County,0,0,4,1287,1287,1288,1324
+050,24,009,Maryland,Calvert County,0,0,5,54,54,54,64
+050,24,009,Maryland,Calvert County,0,0,6,2236,2236,2243,2250
+050,24,009,Maryland,Calvert County,0,1,1,70769,70769,70854,70823
+050,24,009,Maryland,Calvert County,0,1,2,11864,11864,11942,12099
+050,24,009,Maryland,Calvert County,0,1,3,283,283,283,287
+050,24,009,Maryland,Calvert County,0,1,4,1263,1263,1264,1298
+050,24,009,Maryland,Calvert County,0,1,5,40,40,40,48
+050,24,009,Maryland,Calvert County,0,1,6,2081,2081,2088,2083
+050,24,009,Maryland,Calvert County,0,2,1,2008,2008,2012,2128
+050,24,009,Maryland,Calvert County,0,2,2,169,169,169,206
+050,24,009,Maryland,Calvert County,0,2,3,67,67,67,75
+050,24,009,Maryland,Calvert County,0,2,4,24,24,24,26
+050,24,009,Maryland,Calvert County,0,2,5,14,14,14,16
+050,24,009,Maryland,Calvert County,0,2,6,155,155,155,167
+050,24,009,Maryland,Calvert County,1,0,1,36132,36132,36182,36156
+050,24,009,Maryland,Calvert County,1,0,2,5783,5783,5822,5897
+050,24,009,Maryland,Calvert County,1,0,3,176,176,176,185
+050,24,009,Maryland,Calvert County,1,0,4,475,475,475,493
+050,24,009,Maryland,Calvert County,1,0,5,21,21,21,24
+050,24,009,Maryland,Calvert County,1,0,6,1126,1126,1130,1109
+050,24,009,Maryland,Calvert County,1,1,1,35166,35166,35214,35137
+050,24,009,Maryland,Calvert County,1,1,2,5700,5700,5739,5808
+050,24,009,Maryland,Calvert County,1,1,3,138,138,138,142
+050,24,009,Maryland,Calvert County,1,1,4,464,464,464,480
+050,24,009,Maryland,Calvert County,1,1,5,16,16,16,18
+050,24,009,Maryland,Calvert County,1,1,6,1046,1046,1050,1027
+050,24,009,Maryland,Calvert County,1,2,1,966,966,968,1019
+050,24,009,Maryland,Calvert County,1,2,2,83,83,83,89
+050,24,009,Maryland,Calvert County,1,2,3,38,38,38,43
+050,24,009,Maryland,Calvert County,1,2,4,11,11,11,13
+050,24,009,Maryland,Calvert County,1,2,5,5,5,5,6
+050,24,009,Maryland,Calvert County,1,2,6,80,80,80,82
+050,24,009,Maryland,Calvert County,2,0,1,36645,36645,36684,36795
+050,24,009,Maryland,Calvert County,2,0,2,6250,6250,6289,6408
+050,24,009,Maryland,Calvert County,2,0,3,174,174,174,177
+050,24,009,Maryland,Calvert County,2,0,4,812,812,813,831
+050,24,009,Maryland,Calvert County,2,0,5,33,33,33,40
+050,24,009,Maryland,Calvert County,2,0,6,1110,1110,1113,1141
+050,24,009,Maryland,Calvert County,2,1,1,35603,35603,35640,35686
+050,24,009,Maryland,Calvert County,2,1,2,6164,6164,6203,6291
+050,24,009,Maryland,Calvert County,2,1,3,145,145,145,145
+050,24,009,Maryland,Calvert County,2,1,4,799,799,800,818
+050,24,009,Maryland,Calvert County,2,1,5,24,24,24,30
+050,24,009,Maryland,Calvert County,2,1,6,1035,1035,1038,1056
+050,24,009,Maryland,Calvert County,2,2,1,1042,1042,1044,1109
+050,24,009,Maryland,Calvert County,2,2,2,86,86,86,117
+050,24,009,Maryland,Calvert County,2,2,3,29,29,29,32
+050,24,009,Maryland,Calvert County,2,2,4,13,13,13,13
+050,24,009,Maryland,Calvert County,2,2,5,9,9,9,10
+050,24,009,Maryland,Calvert County,2,2,6,75,75,75,85
+050,24,011,Maryland,Caroline County,0,0,1,27256,27256,27246,26965
+050,24,011,Maryland,Caroline County,0,0,2,4631,4631,4647,4765
+050,24,011,Maryland,Caroline County,0,0,3,250,250,250,259
+050,24,011,Maryland,Caroline County,0,0,4,202,202,202,232
+050,24,011,Maryland,Caroline County,0,0,5,108,108,108,121
+050,24,011,Maryland,Caroline County,0,0,6,619,619,619,643
+050,24,011,Maryland,Caroline County,0,1,1,25880,25880,25870,25588
+050,24,011,Maryland,Caroline County,0,1,2,4527,4527,4543,4654
+050,24,011,Maryland,Caroline County,0,1,3,96,96,96,94
+050,24,011,Maryland,Caroline County,0,1,4,196,196,196,225
+050,24,011,Maryland,Caroline County,0,1,5,9,9,9,18
+050,24,011,Maryland,Caroline County,0,1,6,542,542,542,559
+050,24,011,Maryland,Caroline County,0,2,1,1376,1376,1376,1377
+050,24,011,Maryland,Caroline County,0,2,2,104,104,104,111
+050,24,011,Maryland,Caroline County,0,2,3,154,154,154,165
+050,24,011,Maryland,Caroline County,0,2,4,6,6,6,7
+050,24,011,Maryland,Caroline County,0,2,5,99,99,99,103
+050,24,011,Maryland,Caroline County,0,2,6,77,77,77,84
+050,24,011,Maryland,Caroline County,1,0,1,13376,13376,13372,13202
+050,24,011,Maryland,Caroline County,1,0,2,2119,2119,2127,2164
+050,24,011,Maryland,Caroline County,1,0,3,156,156,156,161
+050,24,011,Maryland,Caroline County,1,0,4,89,89,89,103
+050,24,011,Maryland,Caroline County,1,0,5,71,71,71,73
+050,24,011,Maryland,Caroline County,1,0,6,312,312,312,321
+050,24,011,Maryland,Caroline County,1,1,1,12595,12595,12591,12427
+050,24,011,Maryland,Caroline County,1,1,2,2073,2073,2081,2117
+050,24,011,Maryland,Caroline County,1,1,3,50,50,50,47
+050,24,011,Maryland,Caroline County,1,1,4,84,84,84,98
+050,24,011,Maryland,Caroline County,1,1,5,6,6,6,6
+050,24,011,Maryland,Caroline County,1,1,6,276,276,276,281
+050,24,011,Maryland,Caroline County,1,2,1,781,781,781,775
+050,24,011,Maryland,Caroline County,1,2,2,46,46,46,47
+050,24,011,Maryland,Caroline County,1,2,3,106,106,106,114
+050,24,011,Maryland,Caroline County,1,2,4,5,5,5,5
+050,24,011,Maryland,Caroline County,1,2,5,65,65,65,67
+050,24,011,Maryland,Caroline County,1,2,6,36,36,36,40
+050,24,011,Maryland,Caroline County,2,0,1,13880,13880,13874,13763
+050,24,011,Maryland,Caroline County,2,0,2,2512,2512,2520,2601
+050,24,011,Maryland,Caroline County,2,0,3,94,94,94,98
+050,24,011,Maryland,Caroline County,2,0,4,113,113,113,129
+050,24,011,Maryland,Caroline County,2,0,5,37,37,37,48
+050,24,011,Maryland,Caroline County,2,0,6,307,307,307,322
+050,24,011,Maryland,Caroline County,2,1,1,13285,13285,13279,13161
+050,24,011,Maryland,Caroline County,2,1,2,2454,2454,2462,2537
+050,24,011,Maryland,Caroline County,2,1,3,46,46,46,47
+050,24,011,Maryland,Caroline County,2,1,4,112,112,112,127
+050,24,011,Maryland,Caroline County,2,1,5,3,3,3,12
+050,24,011,Maryland,Caroline County,2,1,6,266,266,266,278
+050,24,011,Maryland,Caroline County,2,2,1,595,595,595,602
+050,24,011,Maryland,Caroline County,2,2,2,58,58,58,64
+050,24,011,Maryland,Caroline County,2,2,3,48,48,48,51
+050,24,011,Maryland,Caroline County,2,2,4,1,1,1,2
+050,24,011,Maryland,Caroline County,2,2,5,34,34,34,36
+050,24,011,Maryland,Caroline County,2,2,6,41,41,41,44
+050,24,013,Maryland,Carroll County,0,0,1,156493,156493,156575,155978
+050,24,013,Maryland,Carroll County,0,0,2,5446,5446,5464,5838
+050,24,013,Maryland,Carroll County,0,0,3,355,355,355,386
+050,24,013,Maryland,Carroll County,0,0,4,2468,2468,2475,2572
+050,24,013,Maryland,Carroll County,0,0,5,61,61,61,63
+050,24,013,Maryland,Carroll County,0,0,6,2311,2311,2317,2451
+050,24,013,Maryland,Carroll County,0,1,1,152576,152576,152636,151826
+050,24,013,Maryland,Carroll County,0,1,2,5266,5266,5284,5626
+050,24,013,Maryland,Carroll County,0,1,3,289,289,289,306
+050,24,013,Maryland,Carroll County,0,1,4,2439,2439,2446,2539
+050,24,013,Maryland,Carroll County,0,1,5,48,48,48,50
+050,24,013,Maryland,Carroll County,0,1,6,2153,2153,2159,2287
+050,24,013,Maryland,Carroll County,0,2,1,3917,3917,3939,4152
+050,24,013,Maryland,Carroll County,0,2,2,180,180,180,212
+050,24,013,Maryland,Carroll County,0,2,3,66,66,66,80
+050,24,013,Maryland,Carroll County,0,2,4,29,29,29,33
+050,24,013,Maryland,Carroll County,0,2,5,13,13,13,13
+050,24,013,Maryland,Carroll County,0,2,6,158,158,158,164
+050,24,013,Maryland,Carroll County,1,0,1,77054,77054,77102,76809
+050,24,013,Maryland,Carroll County,1,0,2,3006,3006,3017,3198
+050,24,013,Maryland,Carroll County,1,0,3,193,193,193,206
+050,24,013,Maryland,Carroll County,1,0,4,1087,1087,1089,1116
+050,24,013,Maryland,Carroll County,1,0,5,26,26,26,27
+050,24,013,Maryland,Carroll County,1,0,6,1144,1144,1147,1208
+050,24,013,Maryland,Carroll County,1,1,1,74955,74955,74991,74585
+050,24,013,Maryland,Carroll County,1,1,2,2904,2904,2915,3076
+050,24,013,Maryland,Carroll County,1,1,3,159,159,159,163
+050,24,013,Maryland,Carroll County,1,1,4,1070,1070,1072,1099
+050,24,013,Maryland,Carroll County,1,1,5,21,21,21,22
+050,24,013,Maryland,Carroll County,1,1,6,1058,1058,1061,1120
+050,24,013,Maryland,Carroll County,1,2,1,2099,2099,2111,2224
+050,24,013,Maryland,Carroll County,1,2,2,102,102,102,122
+050,24,013,Maryland,Carroll County,1,2,3,34,34,34,43
+050,24,013,Maryland,Carroll County,1,2,4,17,17,17,17
+050,24,013,Maryland,Carroll County,1,2,5,5,5,5,5
+050,24,013,Maryland,Carroll County,1,2,6,86,86,86,88
+050,24,013,Maryland,Carroll County,2,0,1,79439,79439,79473,79169
+050,24,013,Maryland,Carroll County,2,0,2,2440,2440,2447,2640
+050,24,013,Maryland,Carroll County,2,0,3,162,162,162,180
+050,24,013,Maryland,Carroll County,2,0,4,1381,1381,1386,1456
+050,24,013,Maryland,Carroll County,2,0,5,35,35,35,36
+050,24,013,Maryland,Carroll County,2,0,6,1167,1167,1170,1243
+050,24,013,Maryland,Carroll County,2,1,1,77621,77621,77645,77241
+050,24,013,Maryland,Carroll County,2,1,2,2362,2362,2369,2550
+050,24,013,Maryland,Carroll County,2,1,3,130,130,130,143
+050,24,013,Maryland,Carroll County,2,1,4,1369,1369,1374,1440
+050,24,013,Maryland,Carroll County,2,1,5,27,27,27,28
+050,24,013,Maryland,Carroll County,2,1,6,1095,1095,1098,1167
+050,24,013,Maryland,Carroll County,2,2,1,1818,1818,1828,1928
+050,24,013,Maryland,Carroll County,2,2,2,78,78,78,90
+050,24,013,Maryland,Carroll County,2,2,3,32,32,32,37
+050,24,013,Maryland,Carroll County,2,2,4,12,12,12,16
+050,24,013,Maryland,Carroll County,2,2,5,8,8,8,8
+050,24,013,Maryland,Carroll County,2,2,6,72,72,72,76
+050,24,015,Maryland,Cecil County,0,0,1,91179,91179,91247,91229
+050,24,015,Maryland,Cecil County,0,0,2,6405,6405,6434,6794
+050,24,015,Maryland,Cecil County,0,0,3,366,366,366,387
+050,24,015,Maryland,Cecil County,0,0,4,1120,1120,1120,1195
+050,24,015,Maryland,Cecil County,0,0,5,61,61,61,71
+050,24,015,Maryland,Cecil County,0,0,6,1977,1977,1981,2018
+050,24,015,Maryland,Cecil County,0,1,1,88427,88427,88486,88284
+050,24,015,Maryland,Cecil County,0,1,2,6096,6096,6125,6452
+050,24,015,Maryland,Cecil County,0,1,3,247,247,247,255
+050,24,015,Maryland,Cecil County,0,1,4,1091,1091,1091,1160
+050,24,015,Maryland,Cecil County,0,1,5,50,50,50,57
+050,24,015,Maryland,Cecil County,0,1,6,1790,1790,1794,1815
+050,24,015,Maryland,Cecil County,0,2,1,2752,2752,2761,2945
+050,24,015,Maryland,Cecil County,0,2,2,309,309,309,342
+050,24,015,Maryland,Cecil County,0,2,3,119,119,119,132
+050,24,015,Maryland,Cecil County,0,2,4,29,29,29,35
+050,24,015,Maryland,Cecil County,0,2,5,11,11,11,14
+050,24,015,Maryland,Cecil County,0,2,6,187,187,187,203
+050,24,015,Maryland,Cecil County,1,0,1,45271,45271,45317,45291
+050,24,015,Maryland,Cecil County,1,0,2,3309,3309,3327,3471
+050,24,015,Maryland,Cecil County,1,0,3,188,188,188,198
+050,24,015,Maryland,Cecil County,1,0,4,506,506,506,554
+050,24,015,Maryland,Cecil County,1,0,5,35,35,35,35
+050,24,015,Maryland,Cecil County,1,0,6,992,992,995,1022
+050,24,015,Maryland,Cecil County,1,1,1,43744,43744,43782,43676
+050,24,015,Maryland,Cecil County,1,1,2,3143,3143,3161,3299
+050,24,015,Maryland,Cecil County,1,1,3,122,122,122,127
+050,24,015,Maryland,Cecil County,1,1,4,489,489,489,531
+050,24,015,Maryland,Cecil County,1,1,5,28,28,28,28
+050,24,015,Maryland,Cecil County,1,1,6,888,888,891,911
+050,24,015,Maryland,Cecil County,1,2,1,1527,1527,1535,1615
+050,24,015,Maryland,Cecil County,1,2,2,166,166,166,172
+050,24,015,Maryland,Cecil County,1,2,3,66,66,66,71
+050,24,015,Maryland,Cecil County,1,2,4,17,17,17,23
+050,24,015,Maryland,Cecil County,1,2,5,7,7,7,7
+050,24,015,Maryland,Cecil County,1,2,6,104,104,104,111
+050,24,015,Maryland,Cecil County,2,0,1,45908,45908,45930,45938
+050,24,015,Maryland,Cecil County,2,0,2,3096,3096,3107,3323
+050,24,015,Maryland,Cecil County,2,0,3,178,178,178,189
+050,24,015,Maryland,Cecil County,2,0,4,614,614,614,641
+050,24,015,Maryland,Cecil County,2,0,5,26,26,26,36
+050,24,015,Maryland,Cecil County,2,0,6,985,985,986,996
+050,24,015,Maryland,Cecil County,2,1,1,44683,44683,44704,44608
+050,24,015,Maryland,Cecil County,2,1,2,2953,2953,2964,3153
+050,24,015,Maryland,Cecil County,2,1,3,125,125,125,128
+050,24,015,Maryland,Cecil County,2,1,4,602,602,602,629
+050,24,015,Maryland,Cecil County,2,1,5,22,22,22,29
+050,24,015,Maryland,Cecil County,2,1,6,902,902,903,904
+050,24,015,Maryland,Cecil County,2,2,1,1225,1225,1226,1330
+050,24,015,Maryland,Cecil County,2,2,2,143,143,143,170
+050,24,015,Maryland,Cecil County,2,2,3,53,53,53,61
+050,24,015,Maryland,Cecil County,2,2,4,12,12,12,12
+050,24,015,Maryland,Cecil County,2,2,5,4,4,4,7
+050,24,015,Maryland,Cecil County,2,2,6,83,83,83,92
+050,24,017,Maryland,Charles County,0,0,1,75274,75274,75464,76097
+050,24,017,Maryland,Charles County,0,0,2,60619,60619,60907,62052
+050,24,017,Maryland,Charles County,0,0,3,1036,1036,1036,1021
+050,24,017,Maryland,Charles County,0,0,4,4466,4466,4498,4652
+050,24,017,Maryland,Charles County,0,0,5,131,131,131,152
+050,24,017,Maryland,Charles County,0,0,6,5025,5025,5067,5156
+050,24,017,Maryland,Charles County,0,1,1,71071,71071,71234,71451
+050,24,017,Maryland,Charles County,0,1,2,59354,59354,59642,60806
+050,24,017,Maryland,Charles County,0,1,3,882,882,882,849
+050,24,017,Maryland,Charles County,0,1,4,4341,4341,4373,4520
+050,24,017,Maryland,Charles County,0,1,5,91,91,91,108
+050,24,017,Maryland,Charles County,0,1,6,4553,4553,4595,4670
+050,24,017,Maryland,Charles County,0,2,1,4203,4203,4230,4646
+050,24,017,Maryland,Charles County,0,2,2,1265,1265,1265,1246
+050,24,017,Maryland,Charles County,0,2,3,154,154,154,172
+050,24,017,Maryland,Charles County,0,2,4,125,125,125,132
+050,24,017,Maryland,Charles County,0,2,5,40,40,40,44
+050,24,017,Maryland,Charles County,0,2,6,472,472,472,486
+050,24,017,Maryland,Charles County,1,0,1,37413,37413,37512,37815
+050,24,017,Maryland,Charles County,1,0,2,28526,28526,28667,29166
+050,24,017,Maryland,Charles County,1,0,3,497,497,497,491
+050,24,017,Maryland,Charles County,1,0,4,1906,1906,1919,1999
+050,24,017,Maryland,Charles County,1,0,5,63,63,63,75
+050,24,017,Maryland,Charles County,1,0,6,2405,2405,2426,2485
+050,24,017,Maryland,Charles County,1,1,1,35328,35328,35413,35472
+050,24,017,Maryland,Charles County,1,1,2,27928,27928,28069,28585
+050,24,017,Maryland,Charles County,1,1,3,418,418,418,403
+050,24,017,Maryland,Charles County,1,1,4,1846,1846,1859,1937
+050,24,017,Maryland,Charles County,1,1,5,44,44,44,52
+050,24,017,Maryland,Charles County,1,1,6,2151,2151,2172,2226
+050,24,017,Maryland,Charles County,1,2,1,2085,2085,2099,2343
+050,24,017,Maryland,Charles County,1,2,2,598,598,598,581
+050,24,017,Maryland,Charles County,1,2,3,79,79,79,88
+050,24,017,Maryland,Charles County,1,2,4,60,60,60,62
+050,24,017,Maryland,Charles County,1,2,5,19,19,19,23
+050,24,017,Maryland,Charles County,1,2,6,254,254,254,259
+050,24,017,Maryland,Charles County,2,0,1,37861,37861,37952,38282
+050,24,017,Maryland,Charles County,2,0,2,32093,32093,32240,32886
+050,24,017,Maryland,Charles County,2,0,3,539,539,539,530
+050,24,017,Maryland,Charles County,2,0,4,2560,2560,2579,2653
+050,24,017,Maryland,Charles County,2,0,5,68,68,68,77
+050,24,017,Maryland,Charles County,2,0,6,2620,2620,2641,2671
+050,24,017,Maryland,Charles County,2,1,1,35743,35743,35821,35979
+050,24,017,Maryland,Charles County,2,1,2,31426,31426,31573,32221
+050,24,017,Maryland,Charles County,2,1,3,464,464,464,446
+050,24,017,Maryland,Charles County,2,1,4,2495,2495,2514,2583
+050,24,017,Maryland,Charles County,2,1,5,47,47,47,56
+050,24,017,Maryland,Charles County,2,1,6,2402,2402,2423,2444
+050,24,017,Maryland,Charles County,2,2,1,2118,2118,2131,2303
+050,24,017,Maryland,Charles County,2,2,2,667,667,667,665
+050,24,017,Maryland,Charles County,2,2,3,75,75,75,84
+050,24,017,Maryland,Charles County,2,2,4,65,65,65,70
+050,24,017,Maryland,Charles County,2,2,5,21,21,21,21
+050,24,017,Maryland,Charles County,2,2,6,218,218,218,227
+050,24,019,Maryland,Dorchester County,0,0,1,22458,22458,22464,22408
+050,24,019,Maryland,Dorchester County,0,0,2,9132,9132,9160,9144
+050,24,019,Maryland,Dorchester County,0,0,3,130,130,130,144
+050,24,019,Maryland,Dorchester County,0,0,4,304,304,304,326
+050,24,019,Maryland,Dorchester County,0,0,5,9,9,9,9
+050,24,019,Maryland,Dorchester County,0,0,6,585,585,585,609
+050,24,019,Maryland,Dorchester County,0,1,1,21603,21603,21609,21463
+050,24,019,Maryland,Dorchester County,0,1,2,8954,8954,8982,8964
+050,24,019,Maryland,Dorchester County,0,1,3,99,99,99,109
+050,24,019,Maryland,Dorchester County,0,1,4,302,302,302,323
+050,24,019,Maryland,Dorchester County,0,1,5,8,8,8,8
+050,24,019,Maryland,Dorchester County,0,1,6,522,522,522,542
+050,24,019,Maryland,Dorchester County,0,2,1,855,855,855,945
+050,24,019,Maryland,Dorchester County,0,2,2,178,178,178,180
+050,24,019,Maryland,Dorchester County,0,2,3,31,31,31,35
+050,24,019,Maryland,Dorchester County,0,2,4,2,2,2,3
+050,24,019,Maryland,Dorchester County,0,2,5,1,1,1,1
+050,24,019,Maryland,Dorchester County,0,2,6,63,63,63,67
+050,24,019,Maryland,Dorchester County,1,0,1,10888,10888,10894,10896
+050,24,019,Maryland,Dorchester County,1,0,2,4201,4201,4214,4237
+050,24,019,Maryland,Dorchester County,1,0,3,52,52,52,57
+050,24,019,Maryland,Dorchester County,1,0,4,137,137,137,149
+050,24,019,Maryland,Dorchester County,1,0,5,7,7,7,7
+050,24,019,Maryland,Dorchester County,1,0,6,286,286,286,301
+050,24,019,Maryland,Dorchester County,1,1,1,10432,10432,10438,10390
+050,24,019,Maryland,Dorchester County,1,1,2,4119,4119,4132,4149
+050,24,019,Maryland,Dorchester County,1,1,3,41,41,41,46
+050,24,019,Maryland,Dorchester County,1,1,4,136,136,136,148
+050,24,019,Maryland,Dorchester County,1,1,5,6,6,6,6
+050,24,019,Maryland,Dorchester County,1,1,6,257,257,257,270
+050,24,019,Maryland,Dorchester County,1,2,1,456,456,456,506
+050,24,019,Maryland,Dorchester County,1,2,2,82,82,82,88
+050,24,019,Maryland,Dorchester County,1,2,3,11,11,11,11
+050,24,019,Maryland,Dorchester County,1,2,4,1,1,1,1
+050,24,019,Maryland,Dorchester County,1,2,5,1,1,1,1
+050,24,019,Maryland,Dorchester County,1,2,6,29,29,29,31
+050,24,019,Maryland,Dorchester County,2,0,1,11570,11570,11570,11512
+050,24,019,Maryland,Dorchester County,2,0,2,4931,4931,4946,4907
+050,24,019,Maryland,Dorchester County,2,0,3,78,78,78,87
+050,24,019,Maryland,Dorchester County,2,0,4,167,167,167,177
+050,24,019,Maryland,Dorchester County,2,0,5,2,2,2,2
+050,24,019,Maryland,Dorchester County,2,0,6,299,299,299,308
+050,24,019,Maryland,Dorchester County,2,1,1,11171,11171,11171,11073
+050,24,019,Maryland,Dorchester County,2,1,2,4835,4835,4850,4815
+050,24,019,Maryland,Dorchester County,2,1,3,58,58,58,63
+050,24,019,Maryland,Dorchester County,2,1,4,166,166,166,175
+050,24,019,Maryland,Dorchester County,2,1,5,2,2,2,2
+050,24,019,Maryland,Dorchester County,2,1,6,265,265,265,272
+050,24,019,Maryland,Dorchester County,2,2,1,399,399,399,439
+050,24,019,Maryland,Dorchester County,2,2,2,96,96,96,92
+050,24,019,Maryland,Dorchester County,2,2,3,20,20,20,24
+050,24,019,Maryland,Dorchester County,2,2,4,1,1,1,2
+050,24,019,Maryland,Dorchester County,2,2,5,0,0,0,0
+050,24,019,Maryland,Dorchester County,2,2,6,34,34,34,36
+050,24,021,Maryland,Frederick County,0,0,1,196704,196704,197266,198409
+050,24,021,Maryland,Frederick County,0,0,2,20729,20729,20858,21723
+050,24,021,Maryland,Frederick County,0,0,3,1053,1053,1053,1099
+050,24,021,Maryland,Frederick County,0,0,4,9219,9219,9289,9653
+050,24,021,Maryland,Frederick County,0,0,5,158,158,158,169
+050,24,021,Maryland,Frederick County,0,0,6,5522,5522,5564,5692
+050,24,021,Maryland,Frederick County,0,1,1,181994,181994,182422,183041
+050,24,021,Maryland,Frederick County,0,1,2,19718,19718,19846,20669
+050,24,021,Maryland,Frederick County,0,1,3,519,519,519,530
+050,24,021,Maryland,Frederick County,0,1,4,9048,9048,9118,9473
+050,24,021,Maryland,Frederick County,0,1,5,95,95,95,102
+050,24,021,Maryland,Frederick County,0,1,6,4876,4876,4918,5013
+050,24,021,Maryland,Frederick County,0,2,1,14710,14710,14844,15368
+050,24,021,Maryland,Frederick County,0,2,2,1011,1011,1012,1054
+050,24,021,Maryland,Frederick County,0,2,3,534,534,534,569
+050,24,021,Maryland,Frederick County,0,2,4,171,171,171,180
+050,24,021,Maryland,Frederick County,0,2,5,63,63,63,67
+050,24,021,Maryland,Frederick County,0,2,6,646,646,646,679
+050,24,021,Maryland,Frederick County,1,0,1,96867,96867,97159,97745
+050,24,021,Maryland,Frederick County,1,0,2,10246,10246,10312,10721
+050,24,021,Maryland,Frederick County,1,0,3,530,530,530,554
+050,24,021,Maryland,Frederick County,1,0,4,4389,4389,4421,4623
+050,24,021,Maryland,Frederick County,1,0,5,76,76,76,83
+050,24,021,Maryland,Frederick County,1,0,6,2698,2698,2719,2833
+050,24,021,Maryland,Frederick County,1,1,1,89268,89268,89489,89803
+050,24,021,Maryland,Frederick County,1,1,2,9756,9756,9822,10221
+050,24,021,Maryland,Frederick County,1,1,3,253,253,253,264
+050,24,021,Maryland,Frederick County,1,1,4,4303,4303,4335,4531
+050,24,021,Maryland,Frederick County,1,1,5,47,47,47,53
+050,24,021,Maryland,Frederick County,1,1,6,2368,2368,2389,2494
+050,24,021,Maryland,Frederick County,1,2,1,7599,7599,7670,7942
+050,24,021,Maryland,Frederick County,1,2,2,490,490,490,500
+050,24,021,Maryland,Frederick County,1,2,3,277,277,277,290
+050,24,021,Maryland,Frederick County,1,2,4,86,86,86,92
+050,24,021,Maryland,Frederick County,1,2,5,29,29,29,30
+050,24,021,Maryland,Frederick County,1,2,6,330,330,330,339
+050,24,021,Maryland,Frederick County,2,0,1,99837,99837,100107,100664
+050,24,021,Maryland,Frederick County,2,0,2,10483,10483,10546,11002
+050,24,021,Maryland,Frederick County,2,0,3,523,523,523,545
+050,24,021,Maryland,Frederick County,2,0,4,4830,4830,4868,5030
+050,24,021,Maryland,Frederick County,2,0,5,82,82,82,86
+050,24,021,Maryland,Frederick County,2,0,6,2824,2824,2845,2859
+050,24,021,Maryland,Frederick County,2,1,1,92726,92726,92933,93238
+050,24,021,Maryland,Frederick County,2,1,2,9962,9962,10024,10448
+050,24,021,Maryland,Frederick County,2,1,3,266,266,266,266
+050,24,021,Maryland,Frederick County,2,1,4,4745,4745,4783,4942
+050,24,021,Maryland,Frederick County,2,1,5,48,48,48,49
+050,24,021,Maryland,Frederick County,2,1,6,2508,2508,2529,2519
+050,24,021,Maryland,Frederick County,2,2,1,7111,7111,7174,7426
+050,24,021,Maryland,Frederick County,2,2,2,521,521,522,554
+050,24,021,Maryland,Frederick County,2,2,3,257,257,257,279
+050,24,021,Maryland,Frederick County,2,2,4,85,85,85,88
+050,24,021,Maryland,Frederick County,2,2,5,34,34,34,37
+050,24,021,Maryland,Frederick County,2,2,6,316,316,316,340
+050,24,023,Maryland,Garrett County,0,0,1,29491,29491,29469,29380
+050,24,023,Maryland,Garrett County,0,0,2,305,305,305,352
+050,24,023,Maryland,Garrett County,0,0,3,44,44,44,45
+050,24,023,Maryland,Garrett County,0,0,4,76,76,76,85
+050,24,023,Maryland,Garrett County,0,0,5,1,1,1,2
+050,24,023,Maryland,Garrett County,0,0,6,180,180,180,187
+050,24,023,Maryland,Garrett County,0,1,1,29287,29287,29265,29156
+050,24,023,Maryland,Garrett County,0,1,2,302,302,302,347
+050,24,023,Maryland,Garrett County,0,1,3,37,37,37,38
+050,24,023,Maryland,Garrett County,0,1,4,76,76,76,85
+050,24,023,Maryland,Garrett County,0,1,5,1,1,1,2
+050,24,023,Maryland,Garrett County,0,1,6,174,174,174,181
+050,24,023,Maryland,Garrett County,0,2,1,204,204,204,224
+050,24,023,Maryland,Garrett County,0,2,2,3,3,3,5
+050,24,023,Maryland,Garrett County,0,2,3,7,7,7,7
+050,24,023,Maryland,Garrett County,0,2,4,0,0,0,0
+050,24,023,Maryland,Garrett County,0,2,5,0,0,0,0
+050,24,023,Maryland,Garrett County,0,2,6,6,6,6,6
+050,24,023,Maryland,Garrett County,1,0,1,14607,14607,14598,14537
+050,24,023,Maryland,Garrett County,1,0,2,204,204,204,227
+050,24,023,Maryland,Garrett County,1,0,3,18,18,18,19
+050,24,023,Maryland,Garrett County,1,0,4,28,28,28,29
+050,24,023,Maryland,Garrett County,1,0,5,1,1,1,2
+050,24,023,Maryland,Garrett County,1,0,6,91,91,91,93
+050,24,023,Maryland,Garrett County,1,1,1,14500,14500,14491,14423
+050,24,023,Maryland,Garrett County,1,1,2,201,201,201,224
+050,24,023,Maryland,Garrett County,1,1,3,17,17,17,18
+050,24,023,Maryland,Garrett County,1,1,4,28,28,28,29
+050,24,023,Maryland,Garrett County,1,1,5,1,1,1,2
+050,24,023,Maryland,Garrett County,1,1,6,89,89,89,91
+050,24,023,Maryland,Garrett County,1,2,1,107,107,107,114
+050,24,023,Maryland,Garrett County,1,2,2,3,3,3,3
+050,24,023,Maryland,Garrett County,1,2,3,1,1,1,1
+050,24,023,Maryland,Garrett County,1,2,4,0,0,0,0
+050,24,023,Maryland,Garrett County,1,2,5,0,0,0,0
+050,24,023,Maryland,Garrett County,1,2,6,2,2,2,2
+050,24,023,Maryland,Garrett County,2,0,1,14884,14884,14871,14843
+050,24,023,Maryland,Garrett County,2,0,2,101,101,101,125
+050,24,023,Maryland,Garrett County,2,0,3,26,26,26,26
+050,24,023,Maryland,Garrett County,2,0,4,48,48,48,56
+050,24,023,Maryland,Garrett County,2,0,5,0,0,0,0
+050,24,023,Maryland,Garrett County,2,0,6,89,89,89,94
+050,24,023,Maryland,Garrett County,2,1,1,14787,14787,14774,14733
+050,24,023,Maryland,Garrett County,2,1,2,101,101,101,123
+050,24,023,Maryland,Garrett County,2,1,3,20,20,20,20
+050,24,023,Maryland,Garrett County,2,1,4,48,48,48,56
+050,24,023,Maryland,Garrett County,2,1,5,0,0,0,0
+050,24,023,Maryland,Garrett County,2,1,6,85,85,85,90
+050,24,023,Maryland,Garrett County,2,2,1,97,97,97,110
+050,24,023,Maryland,Garrett County,2,2,2,0,0,0,2
+050,24,023,Maryland,Garrett County,2,2,3,6,6,6,6
+050,24,023,Maryland,Garrett County,2,2,4,0,0,0,0
+050,24,023,Maryland,Garrett County,2,2,5,0,0,0,0
+050,24,023,Maryland,Garrett County,2,2,6,4,4,4,4
+050,24,025,Maryland,Harford County,0,0,1,200906,200906,201070,201051
+050,24,025,Maryland,Harford County,0,0,2,31553,31553,31682,32469
+050,24,025,Maryland,Harford County,0,0,3,686,686,686,722
+050,24,025,Maryland,Harford County,0,0,4,5950,5950,5986,6384
+050,24,025,Maryland,Harford County,0,0,5,242,242,242,237
+050,24,025,Maryland,Harford County,0,0,6,5489,5489,5524,5626
+050,24,025,Maryland,Harford County,0,1,1,194244,194244,194363,194023
+050,24,025,Maryland,Harford County,0,1,2,30434,30434,30563,31331
+050,24,025,Maryland,Harford County,0,1,3,512,512,512,534
+050,24,025,Maryland,Harford County,0,1,4,5855,5855,5891,6276
+050,24,025,Maryland,Harford County,0,1,5,176,176,176,172
+050,24,025,Maryland,Harford County,0,1,6,4992,4992,5027,5104
+050,24,025,Maryland,Harford County,0,2,1,6662,6662,6707,7028
+050,24,025,Maryland,Harford County,0,2,2,1119,1119,1119,1138
+050,24,025,Maryland,Harford County,0,2,3,174,174,174,188
+050,24,025,Maryland,Harford County,0,2,4,95,95,95,108
+050,24,025,Maryland,Harford County,0,2,5,66,66,66,65
+050,24,025,Maryland,Harford County,0,2,6,497,497,497,522
+050,24,025,Maryland,Harford County,1,0,1,98638,98638,98732,98624
+050,24,025,Maryland,Harford County,1,0,2,15159,15159,15226,15645
+050,24,025,Maryland,Harford County,1,0,3,347,347,347,369
+050,24,025,Maryland,Harford County,1,0,4,2674,2674,2692,2862
+050,24,025,Maryland,Harford County,1,0,5,134,134,134,125
+050,24,025,Maryland,Harford County,1,0,6,2741,2741,2759,2797
+050,24,025,Maryland,Harford County,1,1,1,95095,95095,95161,94933
+050,24,025,Maryland,Harford County,1,1,2,14606,14606,14673,15057
+050,24,025,Maryland,Harford County,1,1,3,259,259,259,274
+050,24,025,Maryland,Harford County,1,1,4,2631,2631,2649,2811
+050,24,025,Maryland,Harford County,1,1,5,96,96,96,89
+050,24,025,Maryland,Harford County,1,1,6,2497,2497,2515,2535
+050,24,025,Maryland,Harford County,1,2,1,3543,3543,3571,3691
+050,24,025,Maryland,Harford County,1,2,2,553,553,553,588
+050,24,025,Maryland,Harford County,1,2,3,88,88,88,95
+050,24,025,Maryland,Harford County,1,2,4,43,43,43,51
+050,24,025,Maryland,Harford County,1,2,5,38,38,38,36
+050,24,025,Maryland,Harford County,1,2,6,244,244,244,262
+050,24,025,Maryland,Harford County,2,0,1,102268,102268,102338,102427
+050,24,025,Maryland,Harford County,2,0,2,16394,16394,16456,16824
+050,24,025,Maryland,Harford County,2,0,3,339,339,339,353
+050,24,025,Maryland,Harford County,2,0,4,3276,3276,3294,3522
+050,24,025,Maryland,Harford County,2,0,5,108,108,108,112
+050,24,025,Maryland,Harford County,2,0,6,2748,2748,2765,2829
+050,24,025,Maryland,Harford County,2,1,1,99149,99149,99202,99090
+050,24,025,Maryland,Harford County,2,1,2,15828,15828,15890,16274
+050,24,025,Maryland,Harford County,2,1,3,253,253,253,260
+050,24,025,Maryland,Harford County,2,1,4,3224,3224,3242,3465
+050,24,025,Maryland,Harford County,2,1,5,80,80,80,83
+050,24,025,Maryland,Harford County,2,1,6,2495,2495,2512,2569
+050,24,025,Maryland,Harford County,2,2,1,3119,3119,3136,3337
+050,24,025,Maryland,Harford County,2,2,2,566,566,566,550
+050,24,025,Maryland,Harford County,2,2,3,86,86,86,93
+050,24,025,Maryland,Harford County,2,2,4,52,52,52,57
+050,24,025,Maryland,Harford County,2,2,5,28,28,28,29
+050,24,025,Maryland,Harford County,2,2,6,253,253,253,260
+050,24,027,Maryland,Howard County,0,0,1,183310,183310,183966,185211
+050,24,027,Maryland,Howard County,0,0,2,51160,51160,51474,53278
+050,24,027,Maryland,Howard County,0,0,3,1234,1234,1235,1274
+050,24,027,Maryland,Howard County,0,0,4,41871,41871,42208,43582
+050,24,027,Maryland,Howard County,0,0,5,153,153,153,164
+050,24,027,Maryland,Howard County,0,0,6,9357,9357,9436,9633
+050,24,027,Maryland,Howard County,0,1,1,170466,170466,171002,171611
+050,24,027,Maryland,Howard County,0,1,2,49452,49452,49764,51492
+050,24,027,Maryland,Howard County,0,1,3,526,526,527,559
+050,24,027,Maryland,Howard County,0,1,4,41622,41622,41959,43299
+050,24,027,Maryland,Howard County,0,1,5,107,107,107,113
+050,24,027,Maryland,Howard County,0,1,6,8183,8183,8258,8436
+050,24,027,Maryland,Howard County,0,2,1,12844,12844,12964,13600
+050,24,027,Maryland,Howard County,0,2,2,1708,1708,1710,1786
+050,24,027,Maryland,Howard County,0,2,3,708,708,708,715
+050,24,027,Maryland,Howard County,0,2,4,249,249,249,283
+050,24,027,Maryland,Howard County,0,2,5,46,46,46,51
+050,24,027,Maryland,Howard County,0,2,6,1174,1174,1178,1197
+050,24,027,Maryland,Howard County,1,0,1,90929,90929,91263,92014
+050,24,027,Maryland,Howard County,1,0,2,23976,23976,24124,24974
+050,24,027,Maryland,Howard County,1,0,3,640,640,640,664
+050,24,027,Maryland,Howard County,1,0,4,20371,20371,20533,21205
+050,24,027,Maryland,Howard County,1,0,5,71,71,71,78
+050,24,027,Maryland,Howard County,1,0,6,4606,4606,4648,4702
+050,24,027,Maryland,Howard County,1,1,1,84297,84297,84566,85015
+050,24,027,Maryland,Howard County,1,1,2,23145,23145,23292,24109
+050,24,027,Maryland,Howard County,1,1,3,261,261,261,278
+050,24,027,Maryland,Howard County,1,1,4,20259,20259,20421,21070
+050,24,027,Maryland,Howard County,1,1,5,49,49,49,52
+050,24,027,Maryland,Howard County,1,1,6,4024,4024,4064,4128
+050,24,027,Maryland,Howard County,1,2,1,6632,6632,6697,6999
+050,24,027,Maryland,Howard County,1,2,2,831,831,832,865
+050,24,027,Maryland,Howard County,1,2,3,379,379,379,386
+050,24,027,Maryland,Howard County,1,2,4,112,112,112,135
+050,24,027,Maryland,Howard County,1,2,5,22,22,22,26
+050,24,027,Maryland,Howard County,1,2,6,582,582,584,574
+050,24,027,Maryland,Howard County,2,0,1,92381,92381,92703,93197
+050,24,027,Maryland,Howard County,2,0,2,27184,27184,27350,28304
+050,24,027,Maryland,Howard County,2,0,3,594,594,595,610
+050,24,027,Maryland,Howard County,2,0,4,21500,21500,21675,22377
+050,24,027,Maryland,Howard County,2,0,5,82,82,82,86
+050,24,027,Maryland,Howard County,2,0,6,4751,4751,4788,4931
+050,24,027,Maryland,Howard County,2,1,1,86169,86169,86436,86596
+050,24,027,Maryland,Howard County,2,1,2,26307,26307,26472,27383
+050,24,027,Maryland,Howard County,2,1,3,265,265,266,281
+050,24,027,Maryland,Howard County,2,1,4,21363,21363,21538,22229
+050,24,027,Maryland,Howard County,2,1,5,58,58,58,61
+050,24,027,Maryland,Howard County,2,1,6,4159,4159,4194,4308
+050,24,027,Maryland,Howard County,2,2,1,6212,6212,6267,6601
+050,24,027,Maryland,Howard County,2,2,2,877,877,878,921
+050,24,027,Maryland,Howard County,2,2,3,329,329,329,329
+050,24,027,Maryland,Howard County,2,2,4,137,137,137,148
+050,24,027,Maryland,Howard County,2,2,5,24,24,24,25
+050,24,027,Maryland,Howard County,2,2,6,592,592,594,623
+050,24,029,Maryland,Kent County,0,0,1,16540,16540,16544,16481
+050,24,029,Maryland,Kent County,0,0,2,3099,3099,3102,3131
+050,24,029,Maryland,Kent County,0,0,3,46,46,46,46
+050,24,029,Maryland,Kent County,0,0,4,180,180,180,199
+050,24,029,Maryland,Kent County,0,0,5,8,8,8,8
+050,24,029,Maryland,Kent County,0,0,6,324,324,324,339
+050,24,029,Maryland,Kent County,0,1,1,15796,15796,15800,15742
+050,24,029,Maryland,Kent County,0,1,2,3013,3013,3016,3036
+050,24,029,Maryland,Kent County,0,1,3,23,23,23,23
+050,24,029,Maryland,Kent County,0,1,4,158,158,158,177
+050,24,029,Maryland,Kent County,0,1,5,4,4,4,4
+050,24,029,Maryland,Kent County,0,1,6,296,296,296,307
+050,24,029,Maryland,Kent County,0,2,1,744,744,744,739
+050,24,029,Maryland,Kent County,0,2,2,86,86,86,95
+050,24,029,Maryland,Kent County,0,2,3,23,23,23,23
+050,24,029,Maryland,Kent County,0,2,4,22,22,22,22
+050,24,029,Maryland,Kent County,0,2,5,4,4,4,4
+050,24,029,Maryland,Kent County,0,2,6,28,28,28,32
+050,24,029,Maryland,Kent County,1,0,1,7962,7962,7965,7927
+050,24,029,Maryland,Kent County,1,0,2,1426,1426,1427,1438
+050,24,029,Maryland,Kent County,1,0,3,25,25,25,25
+050,24,029,Maryland,Kent County,1,0,4,69,69,69,79
+050,24,029,Maryland,Kent County,1,0,5,4,4,4,4
+050,24,029,Maryland,Kent County,1,0,6,154,154,154,158
+050,24,029,Maryland,Kent County,1,1,1,7508,7508,7511,7477
+050,24,029,Maryland,Kent County,1,1,2,1382,1382,1383,1390
+050,24,029,Maryland,Kent County,1,1,3,12,12,12,12
+050,24,029,Maryland,Kent County,1,1,4,61,61,61,71
+050,24,029,Maryland,Kent County,1,1,5,3,3,3,3
+050,24,029,Maryland,Kent County,1,1,6,138,138,138,143
+050,24,029,Maryland,Kent County,1,2,1,454,454,454,450
+050,24,029,Maryland,Kent County,1,2,2,44,44,44,48
+050,24,029,Maryland,Kent County,1,2,3,13,13,13,13
+050,24,029,Maryland,Kent County,1,2,4,8,8,8,8
+050,24,029,Maryland,Kent County,1,2,5,1,1,1,1
+050,24,029,Maryland,Kent County,1,2,6,16,16,16,15
+050,24,029,Maryland,Kent County,2,0,1,8578,8578,8579,8554
+050,24,029,Maryland,Kent County,2,0,2,1673,1673,1675,1693
+050,24,029,Maryland,Kent County,2,0,3,21,21,21,21
+050,24,029,Maryland,Kent County,2,0,4,111,111,111,120
+050,24,029,Maryland,Kent County,2,0,5,4,4,4,4
+050,24,029,Maryland,Kent County,2,0,6,170,170,170,181
+050,24,029,Maryland,Kent County,2,1,1,8288,8288,8289,8265
+050,24,029,Maryland,Kent County,2,1,2,1631,1631,1633,1646
+050,24,029,Maryland,Kent County,2,1,3,11,11,11,11
+050,24,029,Maryland,Kent County,2,1,4,97,97,97,106
+050,24,029,Maryland,Kent County,2,1,5,1,1,1,1
+050,24,029,Maryland,Kent County,2,1,6,158,158,158,164
+050,24,029,Maryland,Kent County,2,2,1,290,290,290,289
+050,24,029,Maryland,Kent County,2,2,2,42,42,42,47
+050,24,029,Maryland,Kent County,2,2,3,10,10,10,10
+050,24,029,Maryland,Kent County,2,2,4,14,14,14,14
+050,24,029,Maryland,Kent County,2,2,5,3,3,3,3
+050,24,029,Maryland,Kent County,2,2,6,12,12,12,17
+050,24,031,Maryland,Montgomery County,0,0,1,622660,622660,624181,629182
+050,24,031,Maryland,Montgomery County,0,0,2,174500,174500,175408,180367
+050,24,031,Maryland,Montgomery County,0,0,3,6554,6554,6645,6905
+050,24,031,Maryland,Montgomery County,0,0,4,138484,138484,139301,142325
+050,24,031,Maryland,Montgomery County,0,0,5,949,949,965,1045
+050,24,031,Maryland,Montgomery County,0,0,6,28630,28630,28939,29970
+050,24,031,Maryland,Montgomery County,0,1,1,481391,481391,481825,481885
+050,24,031,Maryland,Montgomery County,0,1,2,163151,163151,163905,168159
+050,24,031,Maryland,Montgomery County,0,1,3,1617,1617,1648,1766
+050,24,031,Maryland,Montgomery County,0,1,4,136510,136510,137305,140304
+050,24,031,Maryland,Montgomery County,0,1,5,469,469,473,521
+050,24,031,Maryland,Montgomery County,0,1,6,23241,23241,23444,24245
+050,24,031,Maryland,Montgomery County,0,2,1,141269,141269,142356,147297
+050,24,031,Maryland,Montgomery County,0,2,2,11349,11349,11503,12208
+050,24,031,Maryland,Montgomery County,0,2,3,4937,4937,4997,5139
+050,24,031,Maryland,Montgomery County,0,2,4,1974,1974,1996,2021
+050,24,031,Maryland,Montgomery County,0,2,5,480,480,492,524
+050,24,031,Maryland,Montgomery County,0,2,6,5389,5389,5495,5725
+050,24,031,Maryland,Montgomery County,1,0,1,303513,303513,304305,307126
+050,24,031,Maryland,Montgomery County,1,0,2,80036,80036,80472,83288
+050,24,031,Maryland,Montgomery County,1,0,3,3356,3356,3408,3549
+050,24,031,Maryland,Montgomery County,1,0,4,65214,65214,65594,67013
+050,24,031,Maryland,Montgomery County,1,0,5,470,470,480,505
+050,24,031,Maryland,Montgomery County,1,0,6,13813,13813,13966,14556
+050,24,031,Maryland,Montgomery County,1,1,1,232260,232260,232481,232788
+050,24,031,Maryland,Montgomery County,1,1,2,74509,74509,74870,77320
+050,24,031,Maryland,Montgomery County,1,1,3,762,762,777,837
+050,24,031,Maryland,Montgomery County,1,1,4,64279,64279,64646,66042
+050,24,031,Maryland,Montgomery County,1,1,5,211,211,213,234
+050,24,031,Maryland,Montgomery County,1,1,6,11192,11192,11294,11744
+050,24,031,Maryland,Montgomery County,1,2,1,71253,71253,71824,74338
+050,24,031,Maryland,Montgomery County,1,2,2,5527,5527,5602,5968
+050,24,031,Maryland,Montgomery County,1,2,3,2594,2594,2631,2712
+050,24,031,Maryland,Montgomery County,1,2,4,935,935,948,971
+050,24,031,Maryland,Montgomery County,1,2,5,259,259,267,271
+050,24,031,Maryland,Montgomery County,1,2,6,2621,2621,2672,2812
+050,24,031,Maryland,Montgomery County,2,0,1,319147,319147,319876,322056
+050,24,031,Maryland,Montgomery County,2,0,2,94464,94464,94936,97079
+050,24,031,Maryland,Montgomery County,2,0,3,3198,3198,3237,3356
+050,24,031,Maryland,Montgomery County,2,0,4,73270,73270,73707,75312
+050,24,031,Maryland,Montgomery County,2,0,5,479,479,485,540
+050,24,031,Maryland,Montgomery County,2,0,6,14817,14817,14973,15414
+050,24,031,Maryland,Montgomery County,2,1,1,249131,249131,249344,249097
+050,24,031,Maryland,Montgomery County,2,1,2,88642,88642,89035,90839
+050,24,031,Maryland,Montgomery County,2,1,3,855,855,871,929
+050,24,031,Maryland,Montgomery County,2,1,4,72231,72231,72659,74262
+050,24,031,Maryland,Montgomery County,2,1,5,258,258,260,287
+050,24,031,Maryland,Montgomery County,2,1,6,12049,12049,12150,12501
+050,24,031,Maryland,Montgomery County,2,2,1,70016,70016,70532,72959
+050,24,031,Maryland,Montgomery County,2,2,2,5822,5822,5901,6240
+050,24,031,Maryland,Montgomery County,2,2,3,2343,2343,2366,2427
+050,24,031,Maryland,Montgomery County,2,2,4,1039,1039,1048,1050
+050,24,031,Maryland,Montgomery County,2,2,5,221,221,225,253
+050,24,031,Maryland,Montgomery County,2,2,6,2768,2768,2823,2913
+050,24,033,Maryland,Prince George's County,0,0,1,225493,225493,225876,231475
+050,24,033,Maryland,Prince George's County,0,0,2,569689,569689,570799,569843
+050,24,033,Maryland,Prince George's County,0,0,3,8944,8944,8982,8798
+050,24,033,Maryland,Prince George's County,0,0,4,36742,36742,36860,37610
+050,24,033,Maryland,Prince George's County,0,0,5,1495,1495,1499,1477
+050,24,033,Maryland,Prince George's County,0,0,6,21057,21057,21203,22030
+050,24,033,Maryland,Prince George's County,0,1,1,129668,129668,129627,132748
+050,24,033,Maryland,Prince George's County,0,1,2,550453,550453,551401,550021
+050,24,033,Maryland,Prince George's County,0,1,3,2228,2228,2232,2264
+050,24,033,Maryland,Prince George's County,0,1,4,35461,35461,35572,36297
+050,24,033,Maryland,Prince George's County,0,1,5,379,379,383,421
+050,24,033,Maryland,Prince George's County,0,1,6,16259,16259,16359,16986
+050,24,033,Maryland,Prince George's County,0,2,1,95825,95825,96249,98727
+050,24,033,Maryland,Prince George's County,0,2,2,19236,19236,19398,19822
+050,24,033,Maryland,Prince George's County,0,2,3,6716,6716,6750,6534
+050,24,033,Maryland,Prince George's County,0,2,4,1281,1281,1288,1313
+050,24,033,Maryland,Prince George's County,0,2,5,1116,1116,1116,1056
+050,24,033,Maryland,Prince George's County,0,2,6,4798,4798,4844,5044
+050,24,033,Maryland,Prince George's County,1,0,1,117945,117945,118183,121292
+050,24,033,Maryland,Prince George's County,1,0,2,262755,262755,263341,262620
+050,24,033,Maryland,Prince George's County,1,0,3,4912,4912,4934,4786
+050,24,033,Maryland,Prince George's County,1,0,4,17825,17825,17877,18149
+050,24,033,Maryland,Prince George's County,1,0,5,809,809,812,795
+050,24,033,Maryland,Prince George's County,1,0,6,9915,9915,9991,10471
+050,24,033,Maryland,Prince George's County,1,1,1,65084,65084,65069,66816
+050,24,033,Maryland,Prince George's County,1,1,2,253053,253053,253543,252622
+050,24,033,Maryland,Prince George's County,1,1,3,1036,1036,1040,1058
+050,24,033,Maryland,Prince George's County,1,1,4,17142,17142,17191,17452
+050,24,033,Maryland,Prince George's County,1,1,5,169,169,170,195
+050,24,033,Maryland,Prince George's County,1,1,6,7430,7430,7478,7826
+050,24,033,Maryland,Prince George's County,1,2,1,52861,52861,53114,54476
+050,24,033,Maryland,Prince George's County,1,2,2,9702,9702,9798,9998
+050,24,033,Maryland,Prince George's County,1,2,3,3876,3876,3894,3728
+050,24,033,Maryland,Prince George's County,1,2,4,683,683,686,697
+050,24,033,Maryland,Prince George's County,1,2,5,640,640,642,600
+050,24,033,Maryland,Prince George's County,1,2,6,2485,2485,2513,2645
+050,24,033,Maryland,Prince George's County,2,0,1,107548,107548,107693,110183
+050,24,033,Maryland,Prince George's County,2,0,2,306934,306934,307458,307223
+050,24,033,Maryland,Prince George's County,2,0,3,4032,4032,4048,4012
+050,24,033,Maryland,Prince George's County,2,0,4,18917,18917,18983,19461
+050,24,033,Maryland,Prince George's County,2,0,5,686,686,687,682
+050,24,033,Maryland,Prince George's County,2,0,6,11142,11142,11212,11559
+050,24,033,Maryland,Prince George's County,2,1,1,64584,64584,64558,65932
+050,24,033,Maryland,Prince George's County,2,1,2,297400,297400,297858,297399
+050,24,033,Maryland,Prince George's County,2,1,3,1192,1192,1192,1206
+050,24,033,Maryland,Prince George's County,2,1,4,18319,18319,18381,18845
+050,24,033,Maryland,Prince George's County,2,1,5,210,210,213,226
+050,24,033,Maryland,Prince George's County,2,1,6,8829,8829,8881,9160
+050,24,033,Maryland,Prince George's County,2,2,1,42964,42964,43135,44251
+050,24,033,Maryland,Prince George's County,2,2,2,9534,9534,9600,9824
+050,24,033,Maryland,Prince George's County,2,2,3,2840,2840,2856,2806
+050,24,033,Maryland,Prince George's County,2,2,4,598,598,602,616
+050,24,033,Maryland,Prince George's County,2,2,5,476,476,474,456
+050,24,033,Maryland,Prince George's County,2,2,6,2313,2313,2331,2399
+050,24,035,Maryland,Queen Anne's County,0,0,1,43046,43046,43105,43405
+050,24,035,Maryland,Queen Anne's County,0,0,2,3331,3331,3345,3450
+050,24,035,Maryland,Queen Anne's County,0,0,3,187,187,187,208
+050,24,035,Maryland,Queen Anne's County,0,0,4,492,492,492,512
+050,24,035,Maryland,Queen Anne's County,0,0,5,19,19,19,20
+050,24,035,Maryland,Queen Anne's County,0,0,6,723,723,724,759
+050,24,035,Maryland,Queen Anne's County,0,1,1,41772,41772,41829,42080
+050,24,035,Maryland,Queen Anne's County,0,1,2,3265,3265,3279,3372
+050,24,035,Maryland,Queen Anne's County,0,1,3,127,127,127,141
+050,24,035,Maryland,Queen Anne's County,0,1,4,470,470,470,489
+050,24,035,Maryland,Queen Anne's County,0,1,5,12,12,12,13
+050,24,035,Maryland,Queen Anne's County,0,1,6,700,700,701,731
+050,24,035,Maryland,Queen Anne's County,0,2,1,1274,1274,1276,1325
+050,24,035,Maryland,Queen Anne's County,0,2,2,66,66,66,78
+050,24,035,Maryland,Queen Anne's County,0,2,3,60,60,60,67
+050,24,035,Maryland,Queen Anne's County,0,2,4,22,22,22,23
+050,24,035,Maryland,Queen Anne's County,0,2,5,7,7,7,7
+050,24,035,Maryland,Queen Anne's County,0,2,6,23,23,23,28
+050,24,035,Maryland,Queen Anne's County,1,0,1,21412,21412,21443,21567
+050,24,035,Maryland,Queen Anne's County,1,0,2,1631,1631,1638,1689
+050,24,035,Maryland,Queen Anne's County,1,0,3,98,98,98,110
+050,24,035,Maryland,Queen Anne's County,1,0,4,203,203,203,222
+050,24,035,Maryland,Queen Anne's County,1,0,5,12,12,12,13
+050,24,035,Maryland,Queen Anne's County,1,0,6,387,387,388,411
+050,24,035,Maryland,Queen Anne's County,1,1,1,20733,20733,20763,20854
+050,24,035,Maryland,Queen Anne's County,1,1,2,1600,1600,1607,1652
+050,24,035,Maryland,Queen Anne's County,1,1,3,63,63,63,70
+050,24,035,Maryland,Queen Anne's County,1,1,4,188,188,188,206
+050,24,035,Maryland,Queen Anne's County,1,1,5,6,6,6,7
+050,24,035,Maryland,Queen Anne's County,1,1,6,376,376,377,395
+050,24,035,Maryland,Queen Anne's County,1,2,1,679,679,680,713
+050,24,035,Maryland,Queen Anne's County,1,2,2,31,31,31,37
+050,24,035,Maryland,Queen Anne's County,1,2,3,35,35,35,40
+050,24,035,Maryland,Queen Anne's County,1,2,4,15,15,15,16
+050,24,035,Maryland,Queen Anne's County,1,2,5,6,6,6,6
+050,24,035,Maryland,Queen Anne's County,1,2,6,11,11,11,16
+050,24,035,Maryland,Queen Anne's County,2,0,1,21634,21634,21662,21838
+050,24,035,Maryland,Queen Anne's County,2,0,2,1700,1700,1707,1761
+050,24,035,Maryland,Queen Anne's County,2,0,3,89,89,89,98
+050,24,035,Maryland,Queen Anne's County,2,0,4,289,289,289,290
+050,24,035,Maryland,Queen Anne's County,2,0,5,7,7,7,7
+050,24,035,Maryland,Queen Anne's County,2,0,6,336,336,336,348
+050,24,035,Maryland,Queen Anne's County,2,1,1,21039,21039,21066,21226
+050,24,035,Maryland,Queen Anne's County,2,1,2,1665,1665,1672,1720
+050,24,035,Maryland,Queen Anne's County,2,1,3,64,64,64,71
+050,24,035,Maryland,Queen Anne's County,2,1,4,282,282,282,283
+050,24,035,Maryland,Queen Anne's County,2,1,5,6,6,6,6
+050,24,035,Maryland,Queen Anne's County,2,1,6,324,324,324,336
+050,24,035,Maryland,Queen Anne's County,2,2,1,595,595,596,612
+050,24,035,Maryland,Queen Anne's County,2,2,2,35,35,35,41
+050,24,035,Maryland,Queen Anne's County,2,2,3,25,25,25,27
+050,24,035,Maryland,Queen Anne's County,2,2,4,7,7,7,7
+050,24,035,Maryland,Queen Anne's County,2,2,5,1,1,1,1
+050,24,035,Maryland,Queen Anne's County,2,2,6,12,12,12,12
+050,24,037,Maryland,St. Mary's County,0,0,1,83676,83676,84079,85146
+050,24,037,Maryland,St. Mary's County,0,0,2,15192,15192,15333,15646
+050,24,037,Maryland,St. Mary's County,0,0,3,465,465,465,511
+050,24,037,Maryland,St. Mary's County,0,0,4,2658,2658,2677,2874
+050,24,037,Maryland,St. Mary's County,0,0,5,92,92,92,100
+050,24,037,Maryland,St. Mary's County,0,0,6,3068,3068,3103,3207
+050,24,037,Maryland,St. Mary's County,0,1,1,80514,80514,80894,81739
+050,24,037,Maryland,St. Mary's County,0,1,2,14877,14877,15018,15319
+050,24,037,Maryland,St. Mary's County,0,1,3,343,343,343,369
+050,24,037,Maryland,St. Mary's County,0,1,4,2585,2585,2604,2790
+050,24,037,Maryland,St. Mary's County,0,1,5,65,65,65,71
+050,24,037,Maryland,St. Mary's County,0,1,6,2795,2795,2830,2919
+050,24,037,Maryland,St. Mary's County,0,2,1,3162,3162,3185,3407
+050,24,037,Maryland,St. Mary's County,0,2,2,315,315,315,327
+050,24,037,Maryland,St. Mary's County,0,2,3,122,122,122,142
+050,24,037,Maryland,St. Mary's County,0,2,4,73,73,73,84
+050,24,037,Maryland,St. Mary's County,0,2,5,27,27,27,29
+050,24,037,Maryland,St. Mary's County,0,2,6,273,273,273,288
+050,24,037,Maryland,St. Mary's County,1,0,1,42039,42039,42254,42904
+050,24,037,Maryland,St. Mary's County,1,0,2,7401,7401,7473,7616
+050,24,037,Maryland,St. Mary's County,1,0,3,236,236,236,258
+050,24,037,Maryland,St. Mary's County,1,0,4,1128,1128,1133,1202
+050,24,037,Maryland,St. Mary's County,1,0,5,44,44,44,48
+050,24,037,Maryland,St. Mary's County,1,0,6,1473,1473,1490,1576
+050,24,037,Maryland,St. Mary's County,1,1,1,40416,40416,40617,41151
+050,24,037,Maryland,St. Mary's County,1,1,2,7244,7244,7316,7445
+050,24,037,Maryland,St. Mary's County,1,1,3,182,182,182,189
+050,24,037,Maryland,St. Mary's County,1,1,4,1085,1085,1090,1157
+050,24,037,Maryland,St. Mary's County,1,1,5,28,28,28,31
+050,24,037,Maryland,St. Mary's County,1,1,6,1342,1342,1359,1433
+050,24,037,Maryland,St. Mary's County,1,2,1,1623,1623,1637,1753
+050,24,037,Maryland,St. Mary's County,1,2,2,157,157,157,171
+050,24,037,Maryland,St. Mary's County,1,2,3,54,54,54,69
+050,24,037,Maryland,St. Mary's County,1,2,4,43,43,43,45
+050,24,037,Maryland,St. Mary's County,1,2,5,16,16,16,17
+050,24,037,Maryland,St. Mary's County,1,2,6,131,131,131,143
+050,24,037,Maryland,St. Mary's County,2,0,1,41637,41637,41825,42242
+050,24,037,Maryland,St. Mary's County,2,0,2,7791,7791,7860,8030
+050,24,037,Maryland,St. Mary's County,2,0,3,229,229,229,253
+050,24,037,Maryland,St. Mary's County,2,0,4,1530,1530,1544,1672
+050,24,037,Maryland,St. Mary's County,2,0,5,48,48,48,52
+050,24,037,Maryland,St. Mary's County,2,0,6,1595,1595,1613,1631
+050,24,037,Maryland,St. Mary's County,2,1,1,40098,40098,40277,40588
+050,24,037,Maryland,St. Mary's County,2,1,2,7633,7633,7702,7874
+050,24,037,Maryland,St. Mary's County,2,1,3,161,161,161,180
+050,24,037,Maryland,St. Mary's County,2,1,4,1500,1500,1514,1633
+050,24,037,Maryland,St. Mary's County,2,1,5,37,37,37,40
+050,24,037,Maryland,St. Mary's County,2,1,6,1453,1453,1471,1486
+050,24,037,Maryland,St. Mary's County,2,2,1,1539,1539,1548,1654
+050,24,037,Maryland,St. Mary's County,2,2,2,158,158,158,156
+050,24,037,Maryland,St. Mary's County,2,2,3,68,68,68,73
+050,24,037,Maryland,St. Mary's County,2,2,4,30,30,30,39
+050,24,037,Maryland,St. Mary's County,2,2,5,11,11,11,12
+050,24,037,Maryland,St. Mary's County,2,2,6,142,142,142,145
+050,24,039,Maryland,Somerset County,0,0,1,14473,14473,14474,14399
+050,24,039,Maryland,Somerset County,0,0,2,11283,11283,11307,11181
+050,24,039,Maryland,Somerset County,0,0,3,86,86,86,87
+050,24,039,Maryland,Somerset County,0,0,4,187,187,187,215
+050,24,039,Maryland,Somerset County,0,0,5,10,10,10,10
+050,24,039,Maryland,Somerset County,0,0,6,431,431,431,447
+050,24,039,Maryland,Somerset County,0,1,1,13819,13819,13820,13746
+050,24,039,Maryland,Somerset County,0,1,2,11122,11122,11146,11011
+050,24,039,Maryland,Somerset County,0,1,3,83,83,83,84
+050,24,039,Maryland,Somerset County,0,1,4,186,186,186,214
+050,24,039,Maryland,Somerset County,0,1,5,4,4,4,4
+050,24,039,Maryland,Somerset County,0,1,6,393,393,393,403
+050,24,039,Maryland,Somerset County,0,2,1,654,654,654,653
+050,24,039,Maryland,Somerset County,0,2,2,161,161,161,170
+050,24,039,Maryland,Somerset County,0,2,3,3,3,3,3
+050,24,039,Maryland,Somerset County,0,2,4,1,1,1,1
+050,24,039,Maryland,Somerset County,0,2,5,6,6,6,6
+050,24,039,Maryland,Somerset County,0,2,6,38,38,38,44
+050,24,039,Maryland,Somerset County,1,0,1,7478,7478,7479,7480
+050,24,039,Maryland,Somerset County,1,0,2,6296,6296,6308,6289
+050,24,039,Maryland,Somerset County,1,0,3,46,46,46,46
+050,24,039,Maryland,Somerset County,1,0,4,99,99,99,112
+050,24,039,Maryland,Somerset County,1,0,5,5,5,5,5
+050,24,039,Maryland,Somerset County,1,0,6,212,212,212,214
+050,24,039,Maryland,Somerset County,1,1,1,7152,7152,7153,7131
+050,24,039,Maryland,Somerset County,1,1,2,6235,6235,6247,6225
+050,24,039,Maryland,Somerset County,1,1,3,45,45,45,45
+050,24,039,Maryland,Somerset County,1,1,4,99,99,99,112
+050,24,039,Maryland,Somerset County,1,1,5,2,2,2,2
+050,24,039,Maryland,Somerset County,1,1,6,190,190,190,189
+050,24,039,Maryland,Somerset County,1,2,1,326,326,326,349
+050,24,039,Maryland,Somerset County,1,2,2,61,61,61,64
+050,24,039,Maryland,Somerset County,1,2,3,1,1,1,1
+050,24,039,Maryland,Somerset County,1,2,4,0,0,0,0
+050,24,039,Maryland,Somerset County,1,2,5,3,3,3,3
+050,24,039,Maryland,Somerset County,1,2,6,22,22,22,25
+050,24,039,Maryland,Somerset County,2,0,1,6995,6995,6995,6919
+050,24,039,Maryland,Somerset County,2,0,2,4987,4987,4999,4892
+050,24,039,Maryland,Somerset County,2,0,3,40,40,40,41
+050,24,039,Maryland,Somerset County,2,0,4,88,88,88,103
+050,24,039,Maryland,Somerset County,2,0,5,5,5,5,5
+050,24,039,Maryland,Somerset County,2,0,6,219,219,219,233
+050,24,039,Maryland,Somerset County,2,1,1,6667,6667,6667,6615
+050,24,039,Maryland,Somerset County,2,1,2,4887,4887,4899,4786
+050,24,039,Maryland,Somerset County,2,1,3,38,38,38,39
+050,24,039,Maryland,Somerset County,2,1,4,87,87,87,102
+050,24,039,Maryland,Somerset County,2,1,5,2,2,2,2
+050,24,039,Maryland,Somerset County,2,1,6,203,203,203,214
+050,24,039,Maryland,Somerset County,2,2,1,328,328,328,304
+050,24,039,Maryland,Somerset County,2,2,2,100,100,100,106
+050,24,039,Maryland,Somerset County,2,2,3,2,2,2,2
+050,24,039,Maryland,Somerset County,2,2,4,1,1,1,1
+050,24,039,Maryland,Somerset County,2,2,5,3,3,3,3
+050,24,039,Maryland,Somerset County,2,2,6,16,16,16,19
+050,24,041,Maryland,Talbot County,0,0,1,31700,31700,31769,31720
+050,24,041,Maryland,Talbot County,0,0,2,4937,4937,4965,5091
+050,24,041,Maryland,Talbot County,0,0,3,91,91,91,97
+050,24,041,Maryland,Talbot County,0,0,4,495,495,495,519
+050,24,041,Maryland,Talbot County,0,0,5,33,33,33,44
+050,24,041,Maryland,Talbot County,0,0,6,526,526,526,554
+050,24,041,Maryland,Talbot County,0,1,1,29898,29898,29964,29860
+050,24,041,Maryland,Talbot County,0,1,2,4795,4795,4823,4930
+050,24,041,Maryland,Talbot County,0,1,3,48,48,48,51
+050,24,041,Maryland,Talbot County,0,1,4,472,472,472,490
+050,24,041,Maryland,Talbot County,0,1,5,17,17,17,19
+050,24,041,Maryland,Talbot County,0,1,6,479,479,479,483
+050,24,041,Maryland,Talbot County,0,2,1,1802,1802,1805,1860
+050,24,041,Maryland,Talbot County,0,2,2,142,142,142,161
+050,24,041,Maryland,Talbot County,0,2,3,43,43,43,46
+050,24,041,Maryland,Talbot County,0,2,4,23,23,23,29
+050,24,041,Maryland,Talbot County,0,2,5,16,16,16,25
+050,24,041,Maryland,Talbot County,0,2,6,47,47,47,71
+050,24,041,Maryland,Talbot County,1,0,1,15180,15180,15217,15157
+050,24,041,Maryland,Talbot County,1,0,2,2289,2289,2300,2392
+050,24,041,Maryland,Talbot County,1,0,3,45,45,45,46
+050,24,041,Maryland,Talbot County,1,0,4,219,219,219,231
+050,24,041,Maryland,Talbot County,1,0,5,14,14,14,15
+050,24,041,Maryland,Talbot County,1,0,6,272,272,272,282
+050,24,041,Maryland,Talbot County,1,1,1,14184,14184,14218,14124
+050,24,041,Maryland,Talbot County,1,1,2,2211,2211,2222,2307
+050,24,041,Maryland,Talbot County,1,1,3,26,26,26,26
+050,24,041,Maryland,Talbot County,1,1,4,208,208,208,218
+050,24,041,Maryland,Talbot County,1,1,5,6,6,6,7
+050,24,041,Maryland,Talbot County,1,1,6,253,253,253,244
+050,24,041,Maryland,Talbot County,1,2,1,996,996,999,1033
+050,24,041,Maryland,Talbot County,1,2,2,78,78,78,85
+050,24,041,Maryland,Talbot County,1,2,3,19,19,19,20
+050,24,041,Maryland,Talbot County,1,2,4,11,11,11,13
+050,24,041,Maryland,Talbot County,1,2,5,8,8,8,8
+050,24,041,Maryland,Talbot County,1,2,6,19,19,19,38
+050,24,041,Maryland,Talbot County,2,0,1,16520,16520,16552,16563
+050,24,041,Maryland,Talbot County,2,0,2,2648,2648,2665,2699
+050,24,041,Maryland,Talbot County,2,0,3,46,46,46,51
+050,24,041,Maryland,Talbot County,2,0,4,276,276,276,288
+050,24,041,Maryland,Talbot County,2,0,5,19,19,19,29
+050,24,041,Maryland,Talbot County,2,0,6,254,254,254,272
+050,24,041,Maryland,Talbot County,2,1,1,15714,15714,15746,15736
+050,24,041,Maryland,Talbot County,2,1,2,2584,2584,2601,2623
+050,24,041,Maryland,Talbot County,2,1,3,22,22,22,25
+050,24,041,Maryland,Talbot County,2,1,4,264,264,264,272
+050,24,041,Maryland,Talbot County,2,1,5,11,11,11,12
+050,24,041,Maryland,Talbot County,2,1,6,226,226,226,239
+050,24,041,Maryland,Talbot County,2,2,1,806,806,806,827
+050,24,041,Maryland,Talbot County,2,2,2,64,64,64,76
+050,24,041,Maryland,Talbot County,2,2,3,24,24,24,26
+050,24,041,Maryland,Talbot County,2,2,4,12,12,12,16
+050,24,041,Maryland,Talbot County,2,2,5,8,8,8,17
+050,24,041,Maryland,Talbot County,2,2,6,28,28,28,33
+050,24,043,Maryland,Washington County,0,0,1,127016,127016,127102,126861
+050,24,043,Maryland,Washington County,0,0,2,14414,14414,14455,15081
+050,24,043,Maryland,Washington County,0,0,3,400,400,400,431
+050,24,043,Maryland,Washington County,0,0,4,2109,2109,2118,2217
+050,24,043,Maryland,Washington County,0,0,5,78,78,78,97
+050,24,043,Maryland,Washington County,0,0,6,3413,3413,3433,3516
+050,24,043,Maryland,Washington County,0,1,1,122932,122932,122999,122575
+050,24,043,Maryland,Washington County,0,1,2,13910,13910,13951,14549
+050,24,043,Maryland,Washington County,0,1,3,251,251,251,267
+050,24,043,Maryland,Washington County,0,1,4,2076,2076,2085,2177
+050,24,043,Maryland,Washington County,0,1,5,65,65,65,81
+050,24,043,Maryland,Washington County,0,1,6,3092,3092,3112,3186
+050,24,043,Maryland,Washington County,0,2,1,4084,4084,4103,4286
+050,24,043,Maryland,Washington County,0,2,2,504,504,504,532
+050,24,043,Maryland,Washington County,0,2,3,149,149,149,164
+050,24,043,Maryland,Washington County,0,2,4,33,33,33,40
+050,24,043,Maryland,Washington County,0,2,5,13,13,13,16
+050,24,043,Maryland,Washington County,0,2,6,321,321,321,330
+050,24,043,Maryland,Washington County,1,0,1,62526,62526,62583,62567
+050,24,043,Maryland,Washington County,1,0,2,9435,9435,9454,9772
+050,24,043,Maryland,Washington County,1,0,3,216,216,216,222
+050,24,043,Maryland,Washington County,1,0,4,1001,1001,1003,1054
+050,24,043,Maryland,Washington County,1,0,5,36,36,36,43
+050,24,043,Maryland,Washington County,1,0,6,1663,1663,1673,1671
+050,24,043,Maryland,Washington County,1,1,1,60373,60373,60419,60262
+050,24,043,Maryland,Washington County,1,1,2,9191,9191,9210,9514
+050,24,043,Maryland,Washington County,1,1,3,133,133,133,132
+050,24,043,Maryland,Washington County,1,1,4,986,986,988,1038
+050,24,043,Maryland,Washington County,1,1,5,28,28,28,34
+050,24,043,Maryland,Washington County,1,1,6,1505,1505,1515,1513
+050,24,043,Maryland,Washington County,1,2,1,2153,2153,2164,2305
+050,24,043,Maryland,Washington County,1,2,2,244,244,244,258
+050,24,043,Maryland,Washington County,1,2,3,83,83,83,90
+050,24,043,Maryland,Washington County,1,2,4,15,15,15,16
+050,24,043,Maryland,Washington County,1,2,5,8,8,8,9
+050,24,043,Maryland,Washington County,1,2,6,158,158,158,158
+050,24,043,Maryland,Washington County,2,0,1,64490,64490,64519,64294
+050,24,043,Maryland,Washington County,2,0,2,4979,4979,5001,5309
+050,24,043,Maryland,Washington County,2,0,3,184,184,184,209
+050,24,043,Maryland,Washington County,2,0,4,1108,1108,1115,1163
+050,24,043,Maryland,Washington County,2,0,5,42,42,42,54
+050,24,043,Maryland,Washington County,2,0,6,1750,1750,1760,1845
+050,24,043,Maryland,Washington County,2,1,1,62559,62559,62580,62313
+050,24,043,Maryland,Washington County,2,1,2,4719,4719,4741,5035
+050,24,043,Maryland,Washington County,2,1,3,118,118,118,135
+050,24,043,Maryland,Washington County,2,1,4,1090,1090,1097,1139
+050,24,043,Maryland,Washington County,2,1,5,37,37,37,47
+050,24,043,Maryland,Washington County,2,1,6,1587,1587,1597,1673
+050,24,043,Maryland,Washington County,2,2,1,1931,1931,1939,1981
+050,24,043,Maryland,Washington County,2,2,2,260,260,260,274
+050,24,043,Maryland,Washington County,2,2,3,66,66,66,74
+050,24,043,Maryland,Washington County,2,2,4,18,18,18,24
+050,24,043,Maryland,Washington County,2,2,5,5,5,5,7
+050,24,043,Maryland,Washington County,2,2,6,163,163,163,172
+050,24,045,Maryland,Wicomico County,0,0,1,69428,69428,69428,69152
+050,24,045,Maryland,Wicomico County,0,0,2,24173,24173,24258,24684
+050,24,045,Maryland,Wicomico County,0,0,3,285,285,285,303
+050,24,045,Maryland,Wicomico County,0,0,4,2555,2555,2562,2712
+050,24,045,Maryland,Wicomico County,0,0,5,111,111,111,118
+050,24,045,Maryland,Wicomico County,0,0,6,2181,2181,2186,2221
+050,24,045,Maryland,Wicomico County,0,1,1,65916,65916,65906,65513
+050,24,045,Maryland,Wicomico County,0,1,2,23633,23633,23718,24105
+050,24,045,Maryland,Wicomico County,0,1,3,198,198,198,206
+050,24,045,Maryland,Wicomico County,0,1,4,2519,2519,2526,2667
+050,24,045,Maryland,Wicomico County,0,1,5,21,21,21,24
+050,24,045,Maryland,Wicomico County,0,1,6,1968,1968,1973,1998
+050,24,045,Maryland,Wicomico County,0,2,1,3512,3512,3522,3639
+050,24,045,Maryland,Wicomico County,0,2,2,540,540,540,579
+050,24,045,Maryland,Wicomico County,0,2,3,87,87,87,97
+050,24,045,Maryland,Wicomico County,0,2,4,36,36,36,45
+050,24,045,Maryland,Wicomico County,0,2,5,90,90,90,94
+050,24,045,Maryland,Wicomico County,0,2,6,213,213,213,223
+050,24,045,Maryland,Wicomico County,1,0,1,33299,33299,33308,33193
+050,24,045,Maryland,Wicomico County,1,0,2,11334,11334,11377,11595
+050,24,045,Maryland,Wicomico County,1,0,3,141,141,141,153
+050,24,045,Maryland,Wicomico County,1,0,4,1232,1232,1233,1328
+050,24,045,Maryland,Wicomico County,1,0,5,72,72,72,76
+050,24,045,Maryland,Wicomico County,1,0,6,1009,1009,1012,1041
+050,24,045,Maryland,Wicomico County,1,1,1,31362,31362,31363,31224
+050,24,045,Maryland,Wicomico County,1,1,2,11037,11037,11080,11275
+050,24,045,Maryland,Wicomico County,1,1,3,88,88,88,92
+050,24,045,Maryland,Wicomico County,1,1,4,1211,1211,1212,1300
+050,24,045,Maryland,Wicomico County,1,1,5,10,10,10,13
+050,24,045,Maryland,Wicomico County,1,1,6,892,892,895,916
+050,24,045,Maryland,Wicomico County,1,2,1,1937,1937,1945,1969
+050,24,045,Maryland,Wicomico County,1,2,2,297,297,297,320
+050,24,045,Maryland,Wicomico County,1,2,3,53,53,53,61
+050,24,045,Maryland,Wicomico County,1,2,4,21,21,21,28
+050,24,045,Maryland,Wicomico County,1,2,5,62,62,62,63
+050,24,045,Maryland,Wicomico County,1,2,6,117,117,117,125
+050,24,045,Maryland,Wicomico County,2,0,1,36129,36129,36120,35959
+050,24,045,Maryland,Wicomico County,2,0,2,12839,12839,12881,13089
+050,24,045,Maryland,Wicomico County,2,0,3,144,144,144,150
+050,24,045,Maryland,Wicomico County,2,0,4,1323,1323,1329,1384
+050,24,045,Maryland,Wicomico County,2,0,5,39,39,39,42
+050,24,045,Maryland,Wicomico County,2,0,6,1172,1172,1174,1180
+050,24,045,Maryland,Wicomico County,2,1,1,34554,34554,34543,34289
+050,24,045,Maryland,Wicomico County,2,1,2,12596,12596,12638,12830
+050,24,045,Maryland,Wicomico County,2,1,3,110,110,110,114
+050,24,045,Maryland,Wicomico County,2,1,4,1308,1308,1314,1367
+050,24,045,Maryland,Wicomico County,2,1,5,11,11,11,11
+050,24,045,Maryland,Wicomico County,2,1,6,1076,1076,1078,1082
+050,24,045,Maryland,Wicomico County,2,2,1,1575,1575,1577,1670
+050,24,045,Maryland,Wicomico County,2,2,2,243,243,243,259
+050,24,045,Maryland,Wicomico County,2,2,3,34,34,34,36
+050,24,045,Maryland,Wicomico County,2,2,4,15,15,15,17
+050,24,045,Maryland,Wicomico County,2,2,5,28,28,28,31
+050,24,045,Maryland,Wicomico County,2,2,6,96,96,96,98
+050,24,047,Maryland,Worcester County,0,0,1,42849,42849,42835,42764
+050,24,047,Maryland,Worcester County,0,0,2,7064,7064,7088,7154
+050,24,047,Maryland,Worcester County,0,0,3,156,156,156,161
+050,24,047,Maryland,Worcester County,0,0,4,577,577,577,619
+050,24,047,Maryland,Worcester County,0,0,5,17,17,17,18
+050,24,047,Maryland,Worcester County,0,0,6,791,791,791,798
+050,24,047,Maryland,Worcester County,0,1,1,41416,41416,41402,41282
+050,24,047,Maryland,Worcester County,0,1,2,6987,6987,7011,7066
+050,24,047,Maryland,Worcester County,0,1,3,126,126,126,125
+050,24,047,Maryland,Worcester County,0,1,4,569,569,569,611
+050,24,047,Maryland,Worcester County,0,1,5,11,11,11,12
+050,24,047,Maryland,Worcester County,0,1,6,723,723,723,721
+050,24,047,Maryland,Worcester County,0,2,1,1433,1433,1433,1482
+050,24,047,Maryland,Worcester County,0,2,2,77,77,77,88
+050,24,047,Maryland,Worcester County,0,2,3,30,30,30,36
+050,24,047,Maryland,Worcester County,0,2,4,8,8,8,8
+050,24,047,Maryland,Worcester County,0,2,5,6,6,6,6
+050,24,047,Maryland,Worcester County,0,2,6,68,68,68,77
+050,24,047,Maryland,Worcester County,1,0,1,20997,20997,20995,20953
+050,24,047,Maryland,Worcester County,1,0,2,3271,3271,3282,3342
+050,24,047,Maryland,Worcester County,1,0,3,74,74,74,76
+050,24,047,Maryland,Worcester County,1,0,4,281,281,281,307
+050,24,047,Maryland,Worcester County,1,0,5,10,10,10,9
+050,24,047,Maryland,Worcester County,1,0,6,411,411,411,413
+050,24,047,Maryland,Worcester County,1,1,1,20211,20211,20209,20142
+050,24,047,Maryland,Worcester County,1,1,2,3228,3228,3239,3297
+050,24,047,Maryland,Worcester County,1,1,3,59,59,59,58
+050,24,047,Maryland,Worcester County,1,1,4,277,277,277,303
+050,24,047,Maryland,Worcester County,1,1,5,8,8,8,7
+050,24,047,Maryland,Worcester County,1,1,6,377,377,377,377
+050,24,047,Maryland,Worcester County,1,2,1,786,786,786,811
+050,24,047,Maryland,Worcester County,1,2,2,43,43,43,45
+050,24,047,Maryland,Worcester County,1,2,3,15,15,15,18
+050,24,047,Maryland,Worcester County,1,2,4,4,4,4,4
+050,24,047,Maryland,Worcester County,1,2,5,2,2,2,2
+050,24,047,Maryland,Worcester County,1,2,6,34,34,34,36
+050,24,047,Maryland,Worcester County,2,0,1,21852,21852,21840,21811
+050,24,047,Maryland,Worcester County,2,0,2,3793,3793,3806,3812
+050,24,047,Maryland,Worcester County,2,0,3,82,82,82,85
+050,24,047,Maryland,Worcester County,2,0,4,296,296,296,312
+050,24,047,Maryland,Worcester County,2,0,5,7,7,7,9
+050,24,047,Maryland,Worcester County,2,0,6,380,380,380,385
+050,24,047,Maryland,Worcester County,2,1,1,21205,21205,21193,21140
+050,24,047,Maryland,Worcester County,2,1,2,3759,3759,3772,3769
+050,24,047,Maryland,Worcester County,2,1,3,67,67,67,67
+050,24,047,Maryland,Worcester County,2,1,4,292,292,292,308
+050,24,047,Maryland,Worcester County,2,1,5,3,3,3,5
+050,24,047,Maryland,Worcester County,2,1,6,346,346,346,344
+050,24,047,Maryland,Worcester County,2,2,1,647,647,647,671
+050,24,047,Maryland,Worcester County,2,2,2,34,34,34,43
+050,24,047,Maryland,Worcester County,2,2,3,15,15,15,18
+050,24,047,Maryland,Worcester County,2,2,4,4,4,4,4
+050,24,047,Maryland,Worcester County,2,2,5,4,4,4,4
+050,24,047,Maryland,Worcester County,2,2,6,34,34,34,41
+050,24,510,Maryland,Baltimore city,0,0,1,193022,193022,192508,195142
+050,24,510,Maryland,Baltimore city,0,0,2,398274,398274,398361,394036
+050,24,510,Maryland,Baltimore city,0,0,3,2745,2745,2744,2680
+050,24,510,Maryland,Baltimore city,0,0,4,14922,14922,14909,15179
+050,24,510,Maryland,Baltimore city,0,0,5,454,454,456,477
+050,24,510,Maryland,Baltimore city,0,0,6,11544,11544,11582,11979
+050,24,510,Maryland,Baltimore city,0,1,1,174639,174639,174064,176055
+050,24,510,Maryland,Baltimore city,0,1,2,393764,393764,393838,389387
+050,24,510,Maryland,Baltimore city,0,1,3,1910,1910,1906,1813
+050,24,510,Maryland,Baltimore city,0,1,4,14608,14608,14595,14845
+050,24,510,Maryland,Baltimore city,0,1,5,202,202,203,215
+050,24,510,Maryland,Baltimore city,0,1,6,9878,9878,9909,10340
+050,24,510,Maryland,Baltimore city,0,2,1,18383,18383,18444,19087
+050,24,510,Maryland,Baltimore city,0,2,2,4510,4510,4523,4649
+050,24,510,Maryland,Baltimore city,0,2,3,835,835,838,867
+050,24,510,Maryland,Baltimore city,0,2,4,314,314,314,334
+050,24,510,Maryland,Baltimore city,0,2,5,252,252,253,262
+050,24,510,Maryland,Baltimore city,0,2,6,1666,1666,1673,1639
+050,24,510,Maryland,Baltimore city,1,0,1,95809,95809,95585,97032
+050,24,510,Maryland,Baltimore city,1,0,2,182229,182229,182340,180274
+050,24,510,Maryland,Baltimore city,1,0,3,1406,1406,1406,1394
+050,24,510,Maryland,Baltimore city,1,0,4,7214,7214,7208,7409
+050,24,510,Maryland,Baltimore city,1,0,5,248,248,249,264
+050,24,510,Maryland,Baltimore city,1,0,6,5343,5343,5363,5617
+050,24,510,Maryland,Baltimore city,1,1,1,85388,85388,85121,86327
+050,24,510,Maryland,Baltimore city,1,1,2,179989,179989,180092,177943
+050,24,510,Maryland,Baltimore city,1,1,3,910,910,907,880
+050,24,510,Maryland,Baltimore city,1,1,4,7046,7046,7040,7221
+050,24,510,Maryland,Baltimore city,1,1,5,102,102,102,111
+050,24,510,Maryland,Baltimore city,1,1,6,4428,4428,4443,4740
+050,24,510,Maryland,Baltimore city,1,2,1,10421,10421,10464,10705
+050,24,510,Maryland,Baltimore city,1,2,2,2240,2240,2248,2331
+050,24,510,Maryland,Baltimore city,1,2,3,496,496,499,514
+050,24,510,Maryland,Baltimore city,1,2,4,168,168,168,188
+050,24,510,Maryland,Baltimore city,1,2,5,146,146,147,153
+050,24,510,Maryland,Baltimore city,1,2,6,915,915,920,877
+050,24,510,Maryland,Baltimore city,2,0,1,97213,97213,96923,98110
+050,24,510,Maryland,Baltimore city,2,0,2,216045,216045,216021,213762
+050,24,510,Maryland,Baltimore city,2,0,3,1339,1339,1338,1286
+050,24,510,Maryland,Baltimore city,2,0,4,7708,7708,7701,7770
+050,24,510,Maryland,Baltimore city,2,0,5,206,206,207,213
+050,24,510,Maryland,Baltimore city,2,0,6,6201,6201,6219,6362
+050,24,510,Maryland,Baltimore city,2,1,1,89251,89251,88943,89728
+050,24,510,Maryland,Baltimore city,2,1,2,213775,213775,213746,211444
+050,24,510,Maryland,Baltimore city,2,1,3,1000,1000,999,933
+050,24,510,Maryland,Baltimore city,2,1,4,7562,7562,7555,7624
+050,24,510,Maryland,Baltimore city,2,1,5,100,100,101,104
+050,24,510,Maryland,Baltimore city,2,1,6,5450,5450,5466,5600
+050,24,510,Maryland,Baltimore city,2,2,1,7962,7962,7980,8382
+050,24,510,Maryland,Baltimore city,2,2,2,2270,2270,2275,2318
+050,24,510,Maryland,Baltimore city,2,2,3,339,339,339,353
+050,24,510,Maryland,Baltimore city,2,2,4,146,146,146,146
+050,24,510,Maryland,Baltimore city,2,2,5,106,106,106,109
+050,24,510,Maryland,Baltimore city,2,2,6,751,751,753,762
