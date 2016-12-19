@@ -86,7 +86,7 @@ func ParseRow(row string) County {
 func main() {
 	file, err := os.Open("US_County_Level_Presidential_Results_08-16.csv")
 	if err != nil {
-		log.Fatal("ono! %v", err)
+		log.Fatalf("ono! %v", err)
 	}
 	defer file.Close()
 
