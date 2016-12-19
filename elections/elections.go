@@ -84,7 +84,7 @@ func ParseRow(row string) County {
 }
 
 func main() {
-	file, err := os.Open("US_County_Level_Presidential_Results_08-16.csv")
+	file, err := os.Open("data/elections/US_County_Level_Presidential_Results_08-16.csv")
 	if err != nil {
 		log.Fatalf("ono! %v", err)
 	}
